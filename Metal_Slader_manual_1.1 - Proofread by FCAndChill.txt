@@ -189,7 +189,7 @@ Elina: ......
 
 忠：いーかもしんない…
 		はは…
-Above Tadashi's head: It don't mind... Haha...
+Above Tadashi's head: I don't mind... Haha...
 
 ---PAGE 11---
 あずさの足元：クシュー
@@ -751,7 +751,7 @@ SFX: *PSSHH*
 
 エリナ：……ちょっとー
 				何よコレー…
-Elina: Hey, what's happpening?
+Elina: Hey, what's happening?
 
 脚注：こればっか…（汗）
 //Lit: This happens every time... [Sweat]
@@ -817,7 +817,7 @@ Title: Characters
 謎の人物、信頼できる仲間、裏切者……。新しい人物に出会ったら、
 どういう人なのか、よーく監察しよう！まずはこの５人を紹介！！
 
-Message: Metal Slader Glory features a varied cast: Shady characters, trustworthy people, enemies, etc. Everytime you meet someone new, make sure to get a good idea of who they are!
+Message: Metal Slader Glory features a varied cast: Shady characters, trustworthy people, enemies, etc. Every time you meet someone new, make sure to get a good idea of who they are!
 Let's take a look at a handful of characters now!			   
 
 ゲンのプロフィール：
@@ -931,7 +931,7 @@ Title: Game tips!
 Message:
 What to do if the screen flickers?
 Sometimes the screen flickers during cutscenes, however, this should not happen during random moments.
-Have no fear, a "timing tweak screen" is here to eleviate this issue.
+Have no fear, a "timing tweak screen" is here to alleviate this issue.
 
 When you power on the console, access this screen by pressing the 'Select' button at the copyright screen.
 
