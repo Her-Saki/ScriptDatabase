@@ -1042,7 +1042,7 @@ Star: Yo.
 メッセジー：このたびはH A L研究所のファミリーコンピュータ用ゲーム「メタルスレイダーグローリー」をお買い求めいただきありがとうございます。 ところで平和な地球に住んでいる皆さん。「メタルスレイダーグローリー」は、あなたを未来の世界へとお連れするため、発売されました。ここには大きな夢と、いつの時代ても変わらぬ人間のきずなが描がかれています。ときには困難もあるでしよう。けど、この説明書を参考に必ず“最後まで’プレイしてください。あなたの感動はこのベージを開いた時から始まっています。
 
 //Lit: Thank you very much for buying (the latest) HAL Laboratories game for the Family Computer, Metal Slader Glory.
-Message: Thank you very much for purchasing Metal Slader Glory. We created this game to let you experience a journey in the distant future. Here you'll find make countless friends and see humanity's aspirations.
+Message: Thank you very much for purchasing Metal Slader Glory. We created this game to let you experience a journey in the distant future. Here you'll make countless friends and see humanity's aspirations.
 You'll probably get stuck at numerous places in the game, however, we ask you to beat the game without the help of a guide. You'll get excited the moment you turn the page.
 
 アロー：ゲームスタート以前の物語
