@@ -1,0 +1,1064 @@
+//Translated by NijigenBoukensha/Saki
+---PAGE 1---
+"HAL-4J"
+"Nintendo"
+"Family Computer TM"
+
+---PAGE 2---
+//Original says "Cassette". Replacing it with "Cartridge" (sounds cooler IMO).
+"ファミリコンピュター用カセット"
+"This cartridge is designed for the Family Computer."
+
+"メタルスレイダーグローリーご使用上の注意。"
+""Metal Slader Glory" usage precautions."
+
+"カセットを交換する時は、必ず電源を切って下さい。"
+"Please power off the console before changing games."
+
+"ご使用後ACアダプタをコンセントから必ず抜いておいて下さい"
+"Please make sure to unplug the AC adapter from the power outlet after you power off the console."
+
+"精密機器ですので、極端な温度条件下での使用や保管、強いショックなどは避けて下さい。また絶対に分解はしないで下さい。"
+"This cartridge is highly sensitive. Please avoid using it or storing it in extreme temperatures. Never hit or drop it. Do not take it apart.
+
+//Almost verbatim from the Kirby's Adventure NES manual
+"端子部に触れたり、水にぬらしたりしないようにご注意下さい。"
+"Avoid touching the connectors. Do not get them wet or dirty. Doing so may damage the cartridge and/or the Control Deck"
+
+//Verbatim from the Kirby's Adventure NES manual, spare for oxford comma
+"ベンジン、アルコールなどの揮発油でふかないで下さい。"
+"Do not clean with benzene, paint thinner, alcohol, or other solvents."
+
+"長時間ゲームをする時、健康のため、約１時間ごとに１０ー１５分の小休止をして下さい。また、画面からできるだけ離れてゲームをして下さい。"
+"For your health, please take 10 to 15 minutes breaks for every hour of gaming. Also, don't forget to play as far away from the screen as possible."
+
+ファミリコンピュターにプロジェクションテレビ（スクリーン投影方式のテレビ）、を接続すると、残像現象（画面焼け）、が生じるため、接続しないで下さい。
+//Here's a little translation of "projection-type TV" in Japanese. I'll omit it.
+"If you connect the Family Computer to a projection-type TV, there's a risk of screen burn, so please avoid doing this."
+
+＊シャープのＣ１ではご使用にないません。
+//https://en.wikipedia.org/wiki/Sharp_Nintendo_Television
+"This game is incompatible with Sharp Nintendo Television."
+
+"ゲームの攻略ヒントに関するお電話でのお問い合わせはご遠慮下さい。"
+"Please refrain from making calls for hints about the game."
+
+"原作、グラフィックデサイン"
+"＊よしみる"
+"Original work/Graphic design:"
+"*Yoshimiru"
+
+"音楽"
+"京田誠一"
+"Music:"
+"Seiichi Kyouda"
+
+"製作"
+"Manufactured by:"
+"HAL LABORATORY INC."
+"METAL SLADER GLORY PROJECT TEAM"
+
+
+"C) HAL LABORATORY INC. 1991, C) YOSHIMIRU 1991, C) LIVE PLANNING"
+
+"このゲームに登場する団体名、人物名は実際のものとは一切関係がありません。"
+//I'm copy-pasting this bit as it's a mere legal notice
+"All characters and events depicted in this game are entirely fictitious.
+Any similarity to actual events or persons is purely coincidental."
+
+---PAGE 3---
+忠："お"
+Tadashi: Woah!
+
+---PAGE 4---
+SFX: パアアーン
+Literal SFX: Paaaam!
+SFX: *Slam!*
+
+ビートル：゛ギクッ！゛
+Literal SFX: Giku! 
+Beetle: *Shock!*
+
+SFX crossing the panel: ボンッ
+Literal SFX: BOM
+SFX: *FOOM*
+
+エリナ：きゃあーっ！！
+Elina: Eeeek!
+
+---PAGE 5---
+//This sounds... girly
+エリナ：ちょっとー　何よコレー　どーしたのー
+Elina: Hey! What's going on? What happened?
+
+忠：………わからん………
+Tadashi: Beats me...
+
+エリナ：………
+Elina: ...
+
+---PAGE 6---
+ビートル：しゅん…
+Beatle dialogue bubble: "*Down...*" (http://thejadednetwork.com/sfx/browse/shun/)
+
+プロログ：Ａ　ＰＥＡＣＥＦＵＬ　ＤＡＹ　ＢＥＦＯＲＥ
+PROLOGUE: A peaceful day before (I'd rewrite it as "Before departure" or something)
+
+＊よしみる
+"*Yoshimiru"
+
+車：しんえつ？
+Car: Shinetsu = 親閲 = personal inspection (probably)
+
+---PAGE 7---
+忠：なぁんだよ　ったくぅー
+Tadashi: Tch, what the heck, man?
+
+---PAGE 8---
+忠：買う時は゛こいつぁ長く使える゛とか言ってたくせに
+Tadashi: You said it'd last a lifetime when we bought it!
+
+ゲン：そー言うなって
+Gen: C'mon, don't be like that...
+
+エリナ：ゲンてば　肝腎な時いっつも留守なのよね…
+Elina: Gen's never around when you need him...
+
+下：ＴＯＳＨＩＢＡ（スピカー？）
+Below "TOSHIBA"
+
+ゲン：まあ、ビートルはそのまま引き取ってやるよ…な！
+			それよりよ…
+Gen: Okay okay, I'll pick it up, alright? Anyway...
+
+---PAGE 9---
+ゲン：居住区（こっち）に独製（ドイツせい）のが一台入ってたんだよ…
+Gen: A German mech just came into the colony...
+
+バッブル：５３年式
+Bubble: Model '53
+
+ゲン：ビートルの８ガケでどうだ？
+Gen: 80% of the Beetle's price. Whaddaya say?
+
+エリナ：おーボリ！……って何？
+//I have honestly no idea what おーボリ is, aside from "Big catch". Localizing it as something fitting.
+Elina's sign : No way!
+
+忠：９年前のシロモノだろー？
+Tadashi: But it's a nine year-old model...
+
+ゲン：じゃ７０ガケ…
+Gen: Fine, 70%...
+
+エリナ：とーぜん
+Elina's sign : We have a deal
+
+ゲン：とりあえず明日の朝そっちもってくからよ…
+Gen: Anyway, I'm bring it to ya tomorrow morning.
+
+---PAGE 10---
+ゲン：チャーミー
+			できるだけサービスしてやって
+			じゃな！
+Gen: Charmy, make sure to take care of them. See ya!
+
+チャーミーの上に：サービス？
+Above Charmy's head: Take care?
+
+電話：ガチャ！
+Above the phone: *Click!*
+
+ゲン：よしっと……任務完了！
+Gen: Alright, mission accomplished!
+
+ゲン：あとは知らんもんね…
+//This kind of proves Gen was involved in taking Glory to Tadashi
+Gen: Whatever happens afterwards is none of my business...
+
+チャーミ：ほ〈３
+Charmy: Hey!
+
+袋：サービス
+Bag: "Customer Service"
+
+エリナの側に：ど、どーゆーサービス？……
+エリナ：……
+Elina's side: W-What kinda service is this?
+Elina: ...
+
+忠：いーかもしんない…
+		はは…
+Above Tadashi's head: I don't mind... Haha...
+
+---PAGE 11---
+あずさの足元：クシュー
+//The sound of the bus door opening
+Azusa's feet: *Kssshhh*
+
+エリナ：あずさー
+Elina: Azusa!
+
+エリナの側に：こっちよ
+Elina's side: Over here!
+
+バス：ういーん
+//I guess it's the sound of the bus wheels
+Bus: *Screech*
+
+エリナ：どーしたの？ずいぶん早いじゃない
+Elina: What happened? You got out early.
+
+あずさ：うん…終業式…
+Azusa: Yeah, it was the last day of school.
+
+---PAGE 12---
+あずさ：ごめんなさい、お兄ちゃん！
+あずさの側に：ぺこり
+Azusa: I'm sorry, Tadashi!
+Azusa's side: *Bows*
+
+忠：？
+Tadashi: Huh?
+
+---PAGE 13---
+あずさ：成績……下がちゃったの……
+Azusa: I've been slacking off at school.
+
+エリナ：そーだ
+Elina: I have an idea!
+
+エリナ：ちょっと早いけご
+				あずさ、おフロ入ろ？ね！
+Elina: Since you're here early, how about we have a bath together?
+
+あずさ：……
+Azusa: ...
+
+エリナ：もう今日仕事ないんでしょ？
+Elina: We're done with work, right, Tadashi?
+
+忠：うん…
+忠：ビートルも壊れちゃったし…
+Tadashi: Yeah...
+Tadashi's side: The Beetle IS busted after all...
+
+---PAGE 14---
+忠：なーんだ…
+		上出来上出来
+Tadashi: Heh, her grades are still excellent, though.
+
+成績用紙：
+６年Ｃ組（１２）　日向　あずさ（ＡＺＵＳＡ　ＨＩＭＵＫＡＩ）
+日本語２　英語	算数	理学	社会	体育	音楽
+Ａ＃			Ａ＃	Ａｂ	Ａ		Ｂｂ	Ａ		Ａ
+Ａ				Ａ＃	Ａｂ	Ｂ＃	Ｂ		Ａｂ	Ｂ
+
+Grade sheet:
+6th Year - Class C (12) Azusa Himukai (Azusa Himukai)
+Japanese 2	English		Math			 Science	Social Studies	P.E.	  Music
+	A#			A#			A b				A			B b		     A			A
+	A			A#			A b				B#			B		    A b			B
+
+チャーミ：わー
+					あずさちゃんて成績いいのねー……
+Charmy: Wow, Azusa's grades are great.
+
+チャーミ：ね
+Charmy side: Right?
+
+袋：サービス
+Bag: "Service"
+
+忠：いいかげん出たら？
+Tadashi: Can you get out of that thing?
+
+---PAGE 15---
+SFX: ザーパッ
+SFX: *Shhh* (Sound of water running) *Splash!*
+
+エリナ：はい、こーたい
+Elina: You're next. Go ahead.
+
+付記：入浴中に失礼します。ここでちょっと説明をしまーす！
+エリナが忠のウチのおフロに入るなんて、不自然と思いに
+なる方もいらっしゃるでしょう。けど理由は単純。エリナは
+作業所でアルバイ卜をしていて、汗を流してから家に帰るのが習
+慣なのでした。ちゃんと着換えも持ってきていて、帰り道では
+きれいな服を着て帰るヱリナです。そーいうわけ。
+
+//I don't find it jarring to be honest.
+Note: "Excuse me for a moment. I have a little detail to explain!
+Some of you may be thinking how jarring is for Elina to take a bath in Tadashi's
+house, right? However, the reason for it is really simple. As Elina works part-time
+in Tadashi's workshop, and thus sweats a lot, she's used to take a bath before going
+home. She always carries cloth changes with her, and this way she can go home beautifully
+dressed. That's it."		
+
+あずさの側に：ちゃぷ
+あずさ：……
+Azusa's side: *Splash*
+Azusa:......
+
+付記：サービスのつもりが…倫！
+Bottom note: I just wanted to draw some fanservice...
+
+---PAGE 16---
+あずさ：ねー、エリナ…
+Azusa: Hey, Elina...
+
+エリナ：ん？
+Elina: Hm?
+
+エリナの側にバブル：ザーッ
+Bubble next to Elina: *Shhhh*
+
+あずさ：どーやったらエリナみたいにおっきくなれんの？
+Azusa: What should I do to grow up just like you?
+
+エリナ：どーやったらって…
+Elina: What you should do...?
+
+エリナ：だれだってなるわよ
+Elina: Well, every girl grows up someday.
+
+エリナの側に：ねじねじ
+Elina's side: *Twist* *Twist*
+
+あずさ：……
+				ふーん…
+Azusa: ...
+Azusa: Hmm...
+
+---PAGE 17---
+あずさ：あずさもおっきくなれるかなあ…
+あずさの側に：ちゃぷ
+Azusa: Do you really think I'll grow as big as you?
+Azusa's side: *Splash!*
+
+エリナ：なれるなれる
+				私よりもずっと大きくなるかも…
+Elina: Yeah. Maybe even bigger than me.
+
+エリナの上に：くるりん 
+Above Elina's head: *Twist* 
+
+あずさ：ほんとー？！
+あずさの側に：ざっ
+Azusa: Really?
+Azusa's side: *Shh*
+
+エリナ：えっ
+Elina: Yeah.
+
+あずさ：あずさ先上がるねー
+Azusa: I'm all done.
+
+エリナ：う、うん
+Elina: O-Okay...
+
+---PAGE 18---
+あずさの可愛い歌：ルンルンルン
+									ルルルー
+									ルン
+Azusa's singing bubble: Dum de dum dum dum
+
+エリナの側にバブル：ちゃぷ
+Bubble next to Elina: *Splash*
+
+エリナ：…よかった
+				あんなことで喜ぶなんて…
+Elina: Wow, I can't believe she's happy about something like that.
+
+あずさの可愛い歌：はっやく
+									おっきく
+									なっりたいな
+Azusa: I WANT to GROW up! NOW!
+
+エリナ：フフ
+Elina: Hehe...
+
+あずさのイヤラシイ歌：おっぱいと
+											おっしりっ
+Azusa: My BUTT and BREASTS are gonna get HUGE!
+
+エリナ：ばしゃ！
+Elina: *SPLASH*
+
+エリナ：ちょっとちょっとちょっとおー
+				背の事じゃないのー？
+エリナの側に：があーっ…
+Elina: Wait, that's what she was talking about?
+Elina's side: Oh, dear...
+
+エリナ：わ、私、変なコト言ってなかったかしら…
+				どーしよー
+				ぼごぼごぼ…
+Elina: D-Did I say anything wrong? What should I do? *Burbling*
+
+---PAGE 19---
+車：うおん、うおん
+Car: *Vroom* *Vroom*
+
+忠：あえ？チャーミーに送ってもらうんだ…
+Tadashi: Huh? Is Charmy gonna drive you home?
+
+チャーミー：私も帰る時間だったから。
+Charmy: I'm heading out anyway, so I don't mind.
+
+あずさ：にっこり
+Azusa: Cheerful
+
+エリナ：ははっ…
+Elina: Haha...
+
+忠：なに…？
+Tadashi: What is it?
+
+エリナ：いいからちょっと！
+Elina: Just come over here!
+
+エリナと忠の間：じいっ
+Between Elina and Tadashi: *Drag*
+
+---PAGE 20---
+エリナ：あずさ、何か変なコト言ってなかった？
+Elina: Did Azusa say anything weird?
+
+忠：変なって？
+Tadashi: What do you mean?
+
+エリナ：だから、その…
+				……こう……
+Elina: Um, you know... About these...
+
+忠：？
+Tadashi: Huh?
+
+あずさ：あんね…あずさエリナよりもおっきくなれるってー
+Azusa: Hey, I'm gonna get bigger than Elina someday!
+
+あずさ：おっぱいとおしり
+Azusa: My breasts and butt will--
+
+エリナ：わーわーわー
+Lit: Wawawa...
+Elina: HAHAHA!
+
+エリナ：わはははー
+Elina: HAHAHA!
+
+SFX: ぴゃーっ
+SFX: *Drags out!*
+
+---PAGE 21---
+エリナ：さっきの事は内緒よ！いいわね？
+Elina: Our talk earlier is just between you and me, okay?
+
+あずさ：うん…
+Azusa: Okay...
+
+エリナ：じゃねー
+				またあしたねー
+Elina: Bye! See you tomorrow!
+
+車：ウオン！
+Car: Vroom!
+
+車のクラクション：キキーッ
+Klaxon: *Beep* *Beep*
+
+エリナ：きゃあーっ
+Elina: N-No!
+
+忠：……エリナどーしたんだ？
+Tadashi: You okay, Elina?
+
+エリナ：まってー
+Elina: Wait for me...
+
+あずさ: あずさしーらない！
+Azusa: I'm outta here!
+
+---PAGE 22---
+忠：遅くまで本読んでないで寝んだぞ…
+Tadashi: Don't stay up late reading books. Go to bed.
+
+あずさ：お兄ちゃん
+Azusa: Tadashi.
+
+忠：ん？
+Tadashi: Yeah?
+
+あずさ：あんね…あずさ、お父さんとお母さんいないけど…平気だよ…
+				だってねーお兄ちゃんやーエリナやー…
+				みんなみんないるんだもん！
+Azusa: Um, I know Mommy and Daddy are gone. But I'm not lonely because I have you, Elina, and everyone else.
+
+---PAGE 23---
+忠：お休み…
+Tadashi: Good night...
+
+SFX: どさっ
+SFX: *Poof!*
+
+忠：平気だよ…か……
+Tadashi: She's not lonely, huh?
+
+---PAGE 24---
+SFX: たんっ！
+SFX: *Thunk!*
+
+SFX: パッハーンッ！
+SFX: *Crash!*
+
+忠：父ーさーん？！
+Tadashi: Dad?!
+
+---PAGE 25---
+忠：あーあ…
+		僕がやるって言ったんだよー
+Tadashi: Oh no...
+				I said I'd do it...
+
+SFX: うわー
+SFX: Waaah!
+
+マサタダ：忠…
+					そこで後父さん片付けるから先にご飯にしよう。
+//Here Masatada talks in third person, in the same way any father uses
+//third person like "Now, now, Dad is here for you". I'm keeping it in first
+//person for the time being.
+Masatada: Tadashi...
+					I'll clean that up later. Just come to the table.
+
+忠：うん…
+//Fun fact: Moët: https://www.lexico.com/definition/moet
+Tadashi: Okay...					
+
+皆：いただきまーす
+Everyone: Alright, let's eat.
+
+---PAGE 26---
+あずさの側に：もぐもぐ…
+あずさ：そぐ？（何のそぐって分からん）
+Azusa's side: *Nom* *Nom*
+//No idea what "そぐ" means *in this context*. Replacing it with baby nonsense.
+Azusa: Ba ba?
+
+マサタダ：なあ忠……
+Masatada: Hey, Tadashi...
+
+あずさの側に：もぐもぐ…
+Azusa's side: *Nom* *Nom*
+
+マサタダ：父さん……夏休み中に…
+					一か月くらい月に行ってくる…
+Masatada: I'm going...
+
+to the Moon this summer...
+
+for a month or so...
+
+---PAGE 27---
+忠：えーっまたー？！
+		せっかく父さんと遊び行けると思ってたのに…
+Tadashi: Huh? Again?!
+I thought we were going to spend time together this summer...
+
+マサタダ：そーいうなって…
+Masatada: Don't be like that...
+
+忠：なーあずさ？！
+Tadashi: Right, Azusa?!
+
+忠：……寝てるし…
+Tadashi: She's dozing off...
+
+あずさ：くーすー
+Azusa: *Zzz...*
+
+マサタダの側に：よかった…
+Masatada's side: Thank goodness...
+
+マサタダ：泣き疲れたな…
+//Original says "She got tired from crying..."
+//because she was crying earlier on page 25.
+//N: But she's eating happily right after.
+Masatada: Looks like she tired herself out from all that crying.
+
+---PAGE 28---
+忠：あずさのベッドおろしたよ
+Tadashi: I put Azusa to bed.
+
+忠：？
+Tadashi: Huh?
+
+マサタダ：忠も９才だ…
+					父さんにもしもの事があったら
+					あずさを頼むな…
+Masatada: You're already nine years old...
+
+If something happens to me, take care of Azusa, okay?
+
+---PAGE 29---
+マサタダ：あずさは……
+					エイミアの生命（いのち）かもしれない…
+//who's Amia?
+//N: Amia is Azusa's mother
+Masatada: Azusa... She's the spirit and image of Amia.
+
+あずさの寝言：くーすー
+Azusa: Zzz...
+
+---PAGE 30---
+外の音：ピンポーン
+Sound from outside: *Ding-Dong*
+
+外の音：ピンポン
+				ピンポーン
+Sound from outside: *Ding-Dong* *Ding-Dong*
+
+忠：んー
+Tadashi: Ugh...
+
+うるさい音：ピンポンピンポンピンポン
+Background:  *Ding-Dong* *Ding-Dong* *Ding-Dong* *Ding-Dong*
+
+忠：……
+Tadashi: ...
+
+SFX: ガラッ
+SFX: *Clatter*
+
+ゲン：おう！おきたか…
+Gen: Hey! You're up!
+
+---PAGE 31---
+ゲン：例のＢＭＷ裏に回してあっからよ
+			カードキーはとりあえずお前のでも
+			動くようにしておいた
+Gen: I left your mech behind that BMW.
+Your keycard will start her right up.
+
+あずさ：きがえ、きがえ
+Azusa: I better get dressed...
+
+ゲン：トレーラは戻すのいつでもいいぞ……
+Gen: Feel free to return the trailer anytime...
+
+SFX: ガラッ
+SFX: *Clatter*
+
+ゲン：じゃな
+Gen: See ya later!
+
+---PAGE 32---
+あずさ：ねーお兄ちゃーん
+				新しいロボット買ったのー？
+				あずさもさあ
+				お休みの間読む本買ってもいーい？
+あずさの側に：ねーねー
+Azusa: Hey, Tadashi, you got a new robot?
+Can you get some books for me to read over break?
+
+Azusa's side: Hey! Hey!
+
+忠：くー
+Tadashi: Zzz...
+
+あずさ：……寝てる
+Azusa: He's dozing off...
+
+---PAGE 33---
+エリナ：あら、店長来てるわ…
+Elina: Wow, my boss is here already...
+
+エリナ：珍しいわね……
+				じゃ、ありがと…
+Elina: That's unusual of him...
+			Anyway, thanks for the ride.
+
+忠：おっはよー…
+		チャーミーん家泊まったの？
+Tadashi: Morning.
+				Did you stay at Charmy's place last night?
+
+SFX: カンコンカン
+SFX: *Tap-Tap-Tap*
+
+エリナ：ううん、駅前でたまたま……
+				あずさは？
+//Original says "by chance". It should be implied here.
+Elina: No, I just bumped into her at the train station.
+			Where's Azusa?
+
+忠：朝メシの片付け…
+		用？
+//用 is used when you have businesses with someone else.
+Tadashi: She's doing the dishes.
+				You need her?
+
+エリナ：う、ううん別に…
+Elina: N-Not really...
+
+---PAGE 34---
+//Game dialogue starts here.
+//本番はこれからです。
+
+エリナ：へー
+				これがゲンとこから買ったやすー？
+				何か面白いわね…
+//Pretty much verbatim from the game.
+Elina: Heh, so this is what you bought from Gen's place?
+			It looks kinda cute...
+
+//Verbatim from the game.
+忠：じゃちょっと試運転してみよっか…
+Tadashi: I'm gonna test her out.
+
+---PAGE 35---
+忠：なんか大層な運転席だな…
+Tadashi: This cockpit is something else...
+
+//Four panels
+忠：おっ
+		おーっ
+		お？
+		何だ？
+Tadashi: 	Oh!
+				Whoa!
+				Huh?
+				What's going on?
+
+---PAGE 36---
+//Verbatim from the game. The omitted part is in parentheses.
+コックピットの文：（創）造主を捜せ　地球は危機に瀕し（ている）
+Cockpit: (Search) for the creator Earth is in grave (danger)
+
+忠：！！
+		ええっ？！
+		何だよ！！
+Tadashi: 
+		Huh?!
+		What's going on here?!
+
+SFX: パーンッ
+SFX: *BOOM!*
+
+SFX: ピシッ
+SFX: *PSSHH*
+
+エリナ：……ちょっとー
+				何よコレー…
+Elina: Hey, what's happening?
+
+脚注：こればっか…（汗）
+//Lit: This happens every time... [Sweat]
+Footnote: Déjà vu? [Sweat]
+
+---PAGE 37---
+エリナ：ただしー？！
+Elina: Tadashi?!
+
+---PAGE 38---
+タイトル：これからが本当の冒険の始まり
+Title: The real adventure starts here!
+
+I made a rough draft for the controller overview. Go check it out.
+
+下のメッセジー：早送りを多用しないで、じっくり体験しよう。
+メタルスレイーダグロリの素晴らしき世界！
+Message below: Please don't abuse the throttle button. Take your time to experience the game's vast world!
+
+脚注：ＩＩコントローラは使用しません。
+Footnote: The second controller isn't used.
+
+---PAGE 39---
+メッセジー：メタルスレイダーグローリーは、プレイヤーが主人公、日向忠となり、ゲームを進行させるアドベンチャーゲームです。
+他の登場人物などから、情報収集をするうちに物語は次から次へと進んでいきます。
+//The last part is literally "who makes advance the story".
+Message: Metal Slader Glory is an adventure game where you assume the role of the main character, Tadashi Himukai.
+
+The plot advances from one stage to the next when you learn information from the various characters you meet along the way.
+
+左のパネル：
+ゲームの始め方
+まずデモ画面が表示されますので、初めてゲームをする人は見て下さい。
+デモが終るか、デモ中に、ＡはまたＢボタンを押すとタイトル画面が
+表示され、本編が始まります。
+^ ＳＴＡＲＴボタンでゲームスタート。
+
+Left panel:
+Starting the game
+When you start the game, a cutscene will play. If this is your first time playing, please watch it.
+Once it ends (or if you exit out of it with 'A' or 'B'), the title screen will appear.
+^ Start the game pressing 'Start' button.
+
+右のパネル：
+二人のパートナーと冒険！
+日向忠には、妹の゛あずさ゛と、ガールフレンドの゛エリナ゛と言う二人のパートナーがいます。
+協力してゲームを進めて下さい。けど、いつも３人一緒とは限りませんよ。
+^ エリナは有効な助言をしてくれる
+
+Right panel:
+You have two companions on your journey!
+Tadashi Himukai has two people accompanying him.
+His sister, Azusa, and his girlfriend, Elina.
+Sometimes you'll have to talk to them to advance the plot.
+Sometimes they won't always be with you though.
+^ Elina giving you some good advice.
+
+---PAGE 40-41---
+タイトル：おもな登場人物のプロフィール
+Title: Characters
+
+メッセジー：メタルスレイダーグロリーには沢山の人物が登場します。
+謎の人物、信頼できる仲間、裏切者……。新しい人物に出会ったら、
+どういう人なのか、よーく監察しよう！まずはこの５人を紹介！！
+
+Message: Metal Slader Glory features a varied cast: Shady characters, trustworthy people, enemies, etc. Every time you meet someone new, make sure to get a good idea of who they are!
+Let's take a look at a handful of characters now!			   
+
+ゲンのプロフィール：
+ゲンランクル、２８才
+GEN LUNCLE
+忠の作業所の隣で、自動車からメタルスレイダーまで、
+手広く売買する、ＧＥＮＳ　ＡＵＴＯの経営者。
+
+Gen's profile:
+Gen Luncle, age 28.
+GEN LUNCLE
+He owns Gen's Auto, which is next to Tadashi's workshop.
+He buys and sells everything from vehicles to Sladers.
+
+チャーミのプロフィール：
+チャーミの側に：え？
+チャーミーグリント、２１才
+CHARMY GLINT
+ゲンの店に勤める女店員。木目細かで奇麗好き。
+だが、ぼーっとしている事も多い。
+
+Charmy's profile:
+Charmy Glint, age 21.
+CHARMY GLINT
+A woman who works at Gen's shop. She's a perfectionist and likes keeping things clean.
+She's often absent-minded though.
+
+//Typo here: it should say まだまだ not またまだ. Of course, I won't transcript it/translate it with the typo.
+右のメッセジー：登場人物はまだまだいっぱい！
+人間関係が分かれば分かるほどゲームがぐんぐん
+楽しくなる！
+
+Right message: There's a lot more characters!
+The game gets better the more you understand them!
+
+//Fun fact: 重機 also means "Heavy machinegun"
+忠のプロフィル：
+日向忠、１７才
+TADASHI HIMUKAI
+職業は重機、メタルスレイダーなど
+のオペレーター。超一級の腕前を
+発揮する。抜群の行動力を持ち、
+小さな事にはこだわらない主義。
+妹のあずさには神経質。ちょっと
+女好き。
+
+Tadashi's profile: 
+Tadashi Himukai, age 17.
+TADASHI HIMUKAI
+His business deals with heavy machinery like Sladers.
+He's a first class pilot.
+He's a man of action and doesn't sweat the small stuff.
+He's always worried about his sister Azusa.
+He's a bit girl crazy.
+
+あずさのプロフィル：
+日向あずさ、１２才
+AZUSA HIMUKAI
+忠の妹。明るい性格で、
+学校の成績も良い。
+年齢の割には幼いところも
+残ろのが、兄の忠にたいしては
+とても素直。エリナからも
+かわいがれている。
+
+Azusa's profile:
+Azusa Himukai, age 12.
+AZUSA HIMUKAI
+Tadashi's little sister.
+She's always happy and has good grades.
+She's still immature for her age, so she's really reliant on her brother, Tadashi.
+Elina loves her.					  
+
+エリナのプロフィル：
+エリナファーファ、１７才
+ELINA FURFA
+忠のガールフレンド。判断力にすぐれ、
+それでいて優しい性格。いわゆる
+世話女房タイプ（？！）。メカの
+オペレーション技術はなかなか。
+
+Elina's profile:
+Elina Furfa, age 17.
+ELINA FURFA:
+Tadashi's girlfriend. She has great intuition and a gentle personality. Would probably make a good wife(?!).
+Her mech skills are second to none.
+
+---PAGE 42-43---
+タイトル：ゲームの上手な進め方を解説！
+Title: Game tips!
+
+メッセジー：
+画面がチラついた時には？
+メタルスレイダーグロリーは、高度なアニメーション
+処理を実現しているため、まれに画面がチラつく事が
+ありますが、故障ではありません。
+そのため、ゲーム前にチラつき調整用画面を用意してあります。
+（写真）この画面は、本体の電源を入れた直後、Ｃ）表示中に
+セレクトボタンを押すと表示されます。
+調整用画面の左右が赤くがチラつく場合は、あらかじめ調整
+が必要です。セレクトボタンで点滅が消えるよう調整して下さい。
+調整は４階段あり、セレクトボタンを押すことに背景の色が
+変ります。
+セレクトボタンを何度押しても点滅が消えない場合は、電源を
+切って調整し直して下さいと言うメッセジーが表示されます。
+調整が終りＡボタンを押すと、ゲーム中の調整についてのメッセジー
+が出ます。もう一度ボタンを押すとゲームが始まります。
+ゲーム中に画面がチラついた時にはセレクトボタンを押しながら
+スタートボタンを押して、画面が安定するよう調整して下さい。
+
+Message:
+What to do if the screen flickers?
+Sometimes the screen flickers during cutscenes, however, this should not happen during random moments.
+Have no fear, a "timing tweak screen" is here to alleviate this issue.
+
+When you power on the console, access this screen by pressing the 'Select' button at the copyright screen.
+
+If you notice flickering red marks, some adjustments will have to be made.
+Press the 'Select' button until the red marks disappear
+
+There's four levels of adjustment, so the screen's color will change every time you press 'Select'.
+
+If the red marks don't disappear after pressing 'Select' after so many times, you'll be prompted with a message to restart the console.
+
+If you press the 'A' button after finishing with the adjustments, a message informing you about in-game adjustment feature will appear. If you then press 'A' again, the game will start.
+
+If the screen flickers in-game, press 'Start' while holding 'Select' until the screen stabilizes.
+
+メッセジー：
+セーブは分かり安い言葉のパスワード式
+メタルスレイダグローリは、シナリオ上
+の特定のポイントに限り、パスワードが
+聞ける、セーブ＆コンティニューの方式
+を採用しています。
+ある程度物語が進んだ場合、ゲーム中、
+休むと言う選択コマンドが表示される
+事や、エリナが休む？とたずねる事が
+あります。
+この時に休むを選択すると、今まで
+進んできたところまでの、パスワード
+を聞く事が出来ます。ゲームを途中で
+止める時には、エリナを起こす言葉
+（パスワード）をメモしてから電源
+スイッチを切って下さい。
+再開する時はタイトル画面でＣＯＮＴＩＮＵＥ
+を選択し、そのパスワードを入力すれば、ゲーム
+が始まります。
+写真：文字と文字のアキも１文字として入力
+
+Message:
+Metal Slader Glory has a straightforward password system to save your progress.
+At various points in the game, Elina will give you the choice to rest.
+Doing so will give you a password, so you can resume progress at that point in the game.
+If you want to take a break, write down the password Elina gives you and then turn off the console.
+When you want to continue playing, choose the "CONTINUE" option at the title screen, and after inputting the password, you'll start where you left off.
+
+Photo: You can input spaces in the space between letters fields.
+
+---PAGE 44-45--
+タイトル：メタルスレイダーグローリー予備知識
+Title: Metal Slader Glory's background
+
+メッセジー：
+いつの話？
+メタルスレイダーグロリーは、皆さんが住んでいる時代から数えて約７０年後、西暦２０６２年の物語である。あの忌まわしき、長期にわたる戦争も８年前に終り、地球は平和そのもの。そんな時代背景だ。しかし、忠は知ってしまった。なんでも、地球は危機に瀕していると言う事を…。ところで、この物語の季節は、夏。というわけで、小学生のあずさは夏休み。だから学校に行かないで、宇宙への冒険に動向したのでした。
+人々は宇宙へ
+この頃になると、人々が宇宙に行くのは当然の事になっていた。（もっとも小学生のあずさは、宇宙に行くの、初めてぇと無邪気に喜んでいたが…）月には数数の娯楽、観光施設が広がり、宇宙空間にも人々が生活できる円筒形の居住区があちらこちらにあった。こちらと地球と結ぶ、民間航空のシャトル便も、かなりの数が運航されている。メタルスレイダーグロリーでの宇宙は、皆さんが住んでいる時代の宇宙よりも、ずっとずっと身近いな存在なのである。
+当時のエネルギー事情
+西暦２０４０年代初頭から、環境保護のため、ディセルエンジン、ガスタービンエンジンなどの、油種類を燃料とする機械は、地球規模での、ターブー（使
+ってはいけないもの）とされてきた。その変わりに、太陽エネルギーを利用したソーラーモーターや水素エンジンにたよる事になったが、パワー不足はまぬがれなかった。さらに、重機にメーカー各社は厳しい経営難におちいる。その結果、あらたに月にＩＳＤＣと呼ぶ研究機関を設置。新しい技術開発に取り組んでいた。
+メタルスレイダー誕生
+そのＩＳＤＣは、ついに新技術の作業機械の開発に成功した。工作ロボットを応用した人間並の腕。２本脚歩行が可能なオペレーションシステム。また衝撃にも強い樹脂加工を施した外板をそなえ、ソーラーパーワーでも十分な運動性能が得られるよう超軽量化した、メタルギアームの登場である。………１０年後………その作業機械は戦闘用となり、さらに進化し、呼び名を変えた。そのなをメタルスレイダーと言う。すなわちメタルスレイダーは、当時の困難なエネルギー事情を科学が克服した好例と言えるだろう。
+メタルスレイダーは、それぞれ機重番号やニックネームを持っている。“グローリー”とは、その名の通り、高性能メタルスレイダーの、栄誉ある称号である。
+
+//I'm not sure how to romanize メタルギアーム. メタルギア is definitely "Metal Gear", though, so combining it with アーム (arm) = Metal Gearm.
+Message:
+Time of the Story:
+--------------------
+Metal Slader Glory's story takes place in 2062, roughly 70 years in the future. After a long war eight years ago, Earth is at peace. However, Tadashi accidentally discovered Earth is now in grave danger. By the way, the story takes place in the summer, which means, Azusa is on summer vacation. That's why she can travel to space instead of going to school.
+
+People go to space:
+------------------
+In the future, it's normal for people to go to space -- even Azusa innocently rejoices it's her first time going to space. On the Moon, there's several touristic attractions. In fact, people live in space thanks to cylinder-like structures called "colonies". They're built everywhere in space. Various spaceships connect these colonies to Earth. Metal Slader Glory's universe isn't that much different from yours once you think about it.
+
+Energy situation:
+-----------------
+Since the 2040s, fossil fuels were banned on Earth to help save the environment, and hydraulic and solar power became commonplace. However, these fuels couldn't meet humanity's energy demands. Even worse, various heavy machinery companies fell into serious financial difficulties. As a result, a new research facility called "I.S.D.C." was established on the Moon to develop new technologies.
+
+Metal Slader's creation:
+-----------------------
+I.S.D.C. successfully developed new and modern work machinery, one being construction robots. They have two human-like arms and can walk on two legs. Additionally, they're equipped with a shock-resistant resin-coated armor. They're also extremely light which allows them to be solar powered.
+
+Birth of the Metal Slader:
+--------------------------
+Ten years later, the military developed their own type of robot: the Metal Slader. In other words, the Metal Sladers are a shining example of humanity overcoming the energy crisis. Every Metal Slader received a code number as well as a nickname. Glory, as the name implies, means its most powerful Metal Slader.
+
+---PAGE 46---
+チャーミー：メタルスレイダーグローリは何度でも遊べるアドベンチャーゲームなのよ〈３
+タイトル：サイドストリーをめいっぱい楽しんじゃおう
+では、最後に大切なお話。そう、「メタルスレイダーグローリ 」のシナリオは一本道ではないのです。このゲームにはたく さんのサイドストーリーが用意されています。つまり、同じ目的を達成するのでも、その途中にあらわれるメ ッセージや、グラフィックは何通りもあるのです。いろいろと試してみてください。また、思わぬパートナーを得たり、手助けを借りずに冒険したり……と、いろんなメンパー構成でゲームをすることも可能です。
+さあ、主人公はあなた。君自身の物語をたくさんつくってください。そして、素敵な思い出を、どうぞ。
+
+Charmy: "Metal Slader Glory" is an adventure game that you can play again and again <3
+Title: Enjoy the side stories to your heart's content
+Message: So, last but not least: Metal Slader Glory's story is not linear. This game features a lot of branching paths.
+
+In other words, aside from completing the main objective, there's a lot of different scenes and messages you can get along the way. So make sure to try a lot of different options.
+
+You can also have different people tag along with you. Maybe you'll discover you can team up with someone or maybe you'll discover you can travel alone without any help. 
+
+So, what are you waiting for? You're the hero of the story. Feel free to make your own story, and create your own experience.
+
+---PAGE 47---
+忠：いちおー
+		主役……
+Lit: Temporary leading role...
+Tadashi: I'm the main character, you know.
+
+星：よ。
+Star: Yo.
+
+メッセジー：このたびはH A L研究所のファミリーコンピュータ用ゲーム「メタルスレイダーグローリー」をお買い求めいただきありがとうございます。 ところで平和な地球に住んでいる皆さん。「メタルスレイダーグローリー」は、あなたを未来の世界へとお連れするため、発売されました。ここには大きな夢と、いつの時代ても変わらぬ人間のきずなが描がかれています。ときには困難もあるでしよう。けど、この説明書を参考に必ず“最後まで’プレイしてください。あなたの感動はこのベージを開いた時から始まっています。
+
+//Lit: Thank you very much for buying (the latest) HAL Laboratories game for the Family Computer, Metal Slader Glory.
+Message: Thank you very much for purchasing Metal Slader Glory. We created this game to let you experience a journey in the distant future. Here you'll make countless friends and see humanity's aspirations.
+You'll probably get stuck at numerous places in the game, however, we ask you to beat the game without the help of a guide. You'll get excited the moment you turn the page.
+
+アロー：ゲームスタート以前の物語
+				まずはこのマンガから見てね！
+
+Arrow: To the prologue of the story
+			Start reading this manga!
+
+---PAGE 48---
+中：株式会社ＨＡＬ研究所
+		〒１０１東京部干代田区神田須田町２ー６ー５ＯＳ’８５ビル５Ｆ （０３ー３２５２ー６３４４)
+Middle: Stock company HAL Laboratories
+//https://www.japan-guide.com/ee2224.html#:~:text=Japanese%20addresses&text=If%20addresses%20are%20written%20in,the%20prefecture%20and%20postal%20code.
+			〒101 Tokyo city, Chiyoda district, Kanda Sunda town. 2-6-5 OS' 85 Building 5F (03-3252-6344)
+
+No need to translate the bottom letterbox
+
+ファミリコンピューター／ファミコンは、任天堂の商標です。
+Family Computer/Famicom is a registered trademark of Nintendo.
