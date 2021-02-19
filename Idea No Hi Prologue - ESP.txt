@@ -1,0 +1,147 @@
+Script obtained from: https://www.romhacking.net/forum/index.php?topic=31399.0
+Translated by NJ
+
+博士「さあ 今日こそ オマエの能力を見せてみろ！早くやるのだ！」
+Profesor: Vamos, ¡hoy me mostrarás tu poder de una vez por todas! ¡¿Qué esperas?! ¡Apresúrate!
+
+博士「わかったか！こういう目に あいたくなかったら 早くやるのだ。目の前のマネキンを コナゴナにフキとばしてみろ！さあ早く超能力を使え！」
+Profesor: ¡¿Ahora entiendes?! Si no quieres sufrir más, ¡destroza este maniquí ahora mismo! ¡Vamos, apresúrate y usa tus poderes!
+
+博士「まだまだ！なんだ それは！もっと パワーを全開するのだ！ええいまだるっこしい！ならばもういちど おみまいしてやる！こうだ！」
+Profesor: ¡¿Qué crees que haces?! ¡Eso no es suficiente! ¡Debes liberar toda tu energía! ¡Maldición! ¡Me haces perder el tiempo! En ese caso, ¡te torturaré una vez más! ¡Así!
+
+博士「このガキ！真剣にやれ！おまえの力はまだまだまだまだこんなものじゃないだろう！ナガサキの家でおまえの両親を我々が殺した時のあのすさまじいまでのパワーあの時おまえはまだたったの4さい・ ・ ・
+明日はDr.ポーもしさつにお見えになるのだ！！それまでに何としても成果をあげんと。
+さ早く！今度こそ 真剣にやれ！！」
+Profesor: ¡Estúpido mocoso! ¡Ponte serio! ¡Esto no es una mínima fracción de tu fuerza! ¡Tu verdadero poder es aquella devastadora energía que liberaste cuando matamos a tus padres en Nagasaki! Y pensar que sólo tenías cuatro años en ese entonces...
+¡El Dr. Poh vendrá mañana a inspeccionar el laboratorio! Hasta entonces debo obtener resultados a cualquier costo...
+Vamos, ¡apresúrate y hazlo seriamente!
+
+博士「こ、このクソガキがあ! ならば こうだぞ! どうだ! どうだ どうだ~! ! フハハハ」
+Profesor: ¡M-Maldito mocoso! ¡¿Qué tal esto?! ¡¿Y esto?! ¡Toma, toma! ¡Jajajaja!
+
+助手「はっ 博士おやめください! 死んでしまいます! 」
+Asistente: ¡P-Por favor deténgase, profesor! ¡El chico morirá!
+
+博土「ハッ ! しまった! ついコーフンして・・・」
+Profesor: Oh, ¡es cierto! Creo que me emocioné demasiado...
+
+博土「フン！カメキチ、今日は このぐらいに しといてやる！だが 明日こそは ぜったいに実験を成功させるからな。かくご しておけ！」
+Profesor: En fin, ¡lo dejaremos aquí por hoy, Kamekichi! Sin embargo, mañana me ASEGURARÉ de que el experimento sea un éxito, ¡así que prepárate!
+
+カメキチ「いったい いつまで こんな事をやらされるんだ・ ・ ・
+4さいの時ナガサキの家から ここに さらわれて きていらい
+毎曰毎曰こんな実験を くりかえされて・ ・ ・
+もうやだ ウチにかえりたい
+おとうさん・ ・ ・
+おかあさん・ ・ ・うっ うう・ ・ ・
+ああ 外の世界に出てみたい・ ・」
+
+Kamekichi: ¿Cuánto más tendré que soportar esto...?
+Desde que me secuestraron de mi casa en Nagasaki a los cuatro años he sido sometido a estos experimentos cada día...
+¡Ya no aguanto más! ¡Quiero volver a casa!
+Papá... Mamá...
+Ah... Quisiera salir al mundo exterior...
+
+カメキチ「ああ ぺス！ぺス！
+なっ おまえも 外の世界に出たいだろ?」
+
+Kamekichi: Oh, ¡Pes!
+Tú también quieres visitar el mundo exterior, ¿verdad?
+
+カメキチ「ぺス おまえだけだよ
+心の ささえは・ ・ ・
+おまえが いなくなったら・ ・ ・」
+
+Kamekichi: Tú eres mi único consuelo, Pes...
+Si tú no estuvieras conmigo...
+
+博土「Dr. ポー、 コイツが 例の 超能力少年で ございます」
+Profesor: Este es el chico esper, Dr. Poh.
+
+Dr. ポー「ほう じゃが ごうもんで 力を ひきだそうなんて ちと やり方が 原始的じゃのう ヒヒ」
+Dr. Poh: Ya veo... Aunque extraer su poder mediante tortura es un método algo primitivo, ¿no crees? ¡Jiji!
+
+博士「ハ・ ・ ・し しかし 大丈天で ございます ! 今日こそ 実験は大成功を おさめます! 必ずや
+この少年の超能力の 秘密を解明してごらんに いれましょ う ! 」
+Profesor: Eh, claro... ¡P-Pero le aseguró que funcionará! ¡Hoy haré que el experimento sea un éxito sin lugar a dudas!
+¡Finalmente revelaremos los secretos de su poder!
+
+Dr. ポー「ヒヒ 楽しみじゃな」
+Dr. Poh: ¡Jiji! ¡No puedo esperar!
+
+博土「フフッ・ ・ ・hero 面白い物を見せてやろう」
+Profesor: Jeje... Tengo algo interesante que mostrarte, Kamekichi.
+
+カメキチ「ぺッ 、ぺス！ぺスをいったい どうする気だ！！」
+Kamekichi: ¡P-Pes! ¡¿Qué van hacer con él?!
+
+Dr. ポー「なんじゃ あのイヌは?」
+Dr. Poh: ¿Y este perro?
+
+博士「あれはカメキチをさらう時しがみっいてはなれないもんでいっしょにつれてきたイヌです。
+今まではショックで自殺でもされてはと生かしておいたのですが…
+ぎゃくにあのイヌへの愛惰がカメキチのパワーのネック！ごなってたのかもしれません…
+だから今日は…」
+
+Profesor: Es un perro que no quería separarse de Kamekichi cuando lo secuestramos.
+Lo dejamos con vida para evitar que se suicidara por el impacto emocional que su muerte ocasionaría...
+Al contrario, es posible que el afecto de Kamekichi hacia el perro esté impidiendo el flujo de su poder...
+Es por eso que hoy...
+
+Dr. ポー「ヒー ヒー ヒー なるほど オモシロイ。」
+Dr. Poh: ¡Jijiji! Ya veo. Una interesante observación.
+
+カメキチ「やっ ゃめろ~っ ! ぺスに なにをする気だ! やめろ~っ ! 」
+Kamekichi: ¡Alto! ¡¿Qué van a hacer con Pes?! ¡Deténganse...!
+
+博士「やれ!」
+Profesor: ¡Ahora!
+
+ペスは死んだ。
+Pes murió.
+
+博士「ほお おおっ おおおっ! スゴイ スゴイぞ! これは ! この数値はっ!? わかった! わかったぞっ! 超能力の秘密が ついに わかった~っ ! フハハハハ」
+Profesor: ¡Vaya! ¡Esto es impresionante! ¡¿Qué son estos valores?! ¡Oh! ¡Ya lo comprendo! ¡He descubierto el secreto de su poder! ¡Jajajaja!
+ 
+Dr.ポー「ムッ ! ? み 見ろ! 数値は さらに どんどん 上昇しているぞ! 」
+Dr. Poh: ¿Qué? ¡M-Mira esto! ¡Los valores no dejan de subir!
+
+博土「なっ ? そ そんなバカな! おお・ ・ ・ ヒッ ! 」
+Profesor: ¿Cómo? ¡E-Esto no es posible...!
+
+博士「や やめろカメキチ! もういい! おちつけ! ぺスを 殺すつもりは なかったんだ! 」
+Profesor: ¡D-Detente, Kamekichi! ¡Ya fue suficiente! ¡Cálmate! ¡No queríamos matar a Pes!
+
+Dr.ポー「マズイ!」
+Dr. Poh: ¡Está fuera de control!
+
+博士「ヒイイイ やっやめ・・・
+Profesor: ¡D-Deten---!
+
+カメキチ「ぺス・・・ 」
+Kamekichi: Pes...
+
+
+カメキチ「ぺス・ ・ ・ ぺス・ ・ ・ ゴメンょ 肋け られなくて。
+・ ・ ・ ・ ・ ・ ぺス ・ ・ ・ ・ ・ ・」
+
+Kamekichi: Pes... Pes... Lamento no haber podido salvarte.
+Pes...
+
+博土「うっ ううっ そんなパ力な? 超能力の秘密が 解明できたと 思ったのに・・・うっ ・・・そっ
+そんなに あまいものでは なかった こんなに とてつもい パワー だったとは・ ・ ・うぐっ うっ
+うぐっ ! イ・ ・ ・ イデア様・ ・ ・」
+
+Profesor: Esto no tiene sentido... Justo cuando creí haber encontrado la explicación a su poder...
+N-No era algo tan sencillo... Jamás creí que tuviera un poder semejante... *¡COF-COF...!*
+I-Idea...
+
+カメキチ「イデア?・・・」
+Kamekichi: ¿Idea...?
+
+カメキチ「これが 外の世界か・・・」
+Kamekichi: Así que este es el mundo exterior...
+
+カメキチは 10年ぶりに 夕日を 見た・・・そして 心のそこから うつくしいと 思った・ ・ ・
+Por primera vez en 10 años, Kamekichi vio el atardecer, pensando desde el fondo de su corazón que era hermoso...
