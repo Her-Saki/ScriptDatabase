@@ -1,0 +1,348 @@
+Mario Bros: The Return
+C) 1988 Nintendo
+In collaboration with Nagatanien
+
+|From the title screen to the menu|
+After inserting the disk properly,
+please push the START button once
+the title screen appears. It will
+lead you to the menu screen.
+
+|Choosing a name|
+|Controller usage|
+Controller I
+(Every box has the name of the button it points to.)
+Controller II
+(Every box has the name of the button it points to.)
+Controller I controls Mario's register screen.
+Controller II controls Luigi's register screen.
+|Directional pad|
+(Pointing to every direction)
+Moves the cursor up
+Moves the cursor down
+Moves the cursor left
+Moves the cursor right
+///////////////////////////////
+-After highlighting "Register" with the directional pad,
+and pressing the A button, you will enter Mario's
+register screen.
+-Move the cursor with the directional pad to select the
+letter you want. Once you decide, press A to input it.
+-Push the directional pad while holding down B to
+move between the letters of every slot.
+-Once you're done inputting the data, move the cursor
+to "Save", and press A to finish the register. In case
+there's two players, go to Luigi's position and push A,
+then input the data with the Controller II. After registering,
+move the cursor to "Save", then press A button to save both.
+-Push SELECT in the input screen to switch between Mario
+and Luigi.
+-If you press START in this screen, you'll return to the
+main menu. This will erase previously input data, so be
+careful.
+-Overlapped input will be erased (and so will do inputting
+whitespaces).
+
+|Check out this info on "News"|
+-Choose the "News" option and push A.
+-There's four news in total. Every time
+a new screen appears, push A to see
+the next one.
+
+|Choose your game type|
+-"Mario Bros: The Return" contains two games:
+"Original Mario Bros" and "Nagatanien World".
+-"Original Mario Bros" is the same game sold
+in cartridges.
+-"Nagatanien World" contains encouragement
+messages, resurrection slots, and codes you
+can use to apply for prizes.
+-Feel free to choose your favorite mode.
+*In this game, you can either play as Mario
+alone or join with Luigi at the same time.
+Please select "One" or "Two" players at the
+title screen.
+
+|Let the game begin!|
+|Controls overview and game's objective|
+Once you set "B" side, the screen will change.
+|Controls overview|
+-You control Mario with the controller I.
+-You control Luigi with the controller II.
+-Pushing A will make your character jump,
+allowing you to punch enemies from below,
+leap over enemies, and cross over platforms.
+-Press START to make the game begin.
+-If you want to take a break mid-game,
+push START to stop playing. Press START
+again to resume.
+-Objective:
+Punch the turtles, crabs and fighterflies
+coming out from the pipes to knock them
+down, and kick them to exterminate them.
+
+|Characters and clearing tips|
+Turtle: Down with a single punch.
+Fighterfly: Aim where it's going to land. Down with a single punch.
+Freeze: Cools the floor. It's very difficult to stop once you slip
+on the ice, so beat them as soon as possible.
+Crab: It gets angrier and faster at the first punch. Down with two punches.
+*Knocking these three characters again while they're down will make them
+getting up, and leaving them for a while will increase their speed. The
+latter also applies for the last character.
+Icicle: It falls if it gets big, and if it drops on you, you lose a life.
+Knock it down while it's still a drop.
+
+PAGE 2:
+|Characters and clearing tips II|
+Coin: They come out from the pipes. Pick them up for points.
+POW box: Punching this box will knock down all enemies on
+screen, as well as elminating fireballs. However, be
+specially careful since the enemies may get up (the box
+will disappear after 3 punches).
+Fireball: Punching them from below will grant you many
+points. The red ones are more powerful. Be careful because
+they respawn.
+Test your skill: Picking up all the coins on time will
+give you a perfect score.
+
+|Game over|
+|When playing "Original Mario Bros"|
+-If you lose all your lives, you will be redirected
+to an option select screen. Make your choice and
+then push A.
+-If you select "High scores", the best five scores
+will be displayed. If your score at the end of
+the game is inside these, you will get the option
+to save it.
+*In case there's two players, you will have to use
+the Controller II to operate Luigi's screen after
+Mario's one.
+|When playing "Nagatanien World"|
+-When you lose all your lives, the screen will
+change to a "Revival Slot Machine". (It's possible
+to increase the number of revolutions through
+secret conditions).
+-Please operate the slot machine with
+Controller I. Push A to make the three
+slots move at once, and push it three
+times to make the machine stop. If you
+gather lives, you'll start from the
+same screen and the same score you had
+when you lost.
+2 Mario aligned - 1 life
+2 Luigi aligned - 1 life
+3 Mario			- 2 lives
+3 Luigi			- 2 lives
+Nagatanien		- 4 lives
+In case there's two players,
+both players will have these
+lives assigned to them.
+If you didn't collect any lives, you will
+be redirected to the game over screen.
+
+Nintendo Corporation
+HQ: 605 - Kyoto - Higashiyama City - Fukuinekamitakamatsu District - #60
+075(541)6113
+Unauthorized reproductions are prohibited.
+
+|Codes exclusives to Nagatanien World|
+-If you obtain more than 100.000 or
+200.000 points, you'll receive a
+"Congratulations!" message.
+-Pressing A will show you a code that you can use
+to apply for prizes. Make sure to write
+it down in a note, and then press A
+once again.
+-If there's two players, only the first
+player in clearing the points will receive
+the "Congratulations!" message.
+(Below the picture)
+Code screen!
+
+|Exciting Mario goods to be given away to 3000 people!|
+The prize?
+-200.000 points (50 participants X 3 times):
+A "Super Mario Bros. 3" cartridge, or any new
+Nintendo cartridge. (Expires the 31/5/89).
+-100.000 points (150 participants X 3 times):
+"Super Mario Bros 3" trading cards.
+-Also, 2400 (800 participants x 3 times)
+"Super Mario Bros. 3 keyholders" will be
+distributed through lottery to people
+who applied.
+
+|How's the application process?|
+Write your code, address, full name, age, sex,
+and phone number in a postal card, cut one
+of the stamps at the bottom, paste it, and
+send it to the following address:
+105 - Tokyo Metropolitan Area - Minato City - Nishishinbashi - 2-36-1
+(Limited) Nagatanien Headquarters: "Mario Bros: The Return".
+|Deadline?|
+1st time - 31/1/89 (Until it arrives)
+2nd time - 31/3/89 (Until it arrives)
+3rd time - 31/5/89 (Until the day the postmark expires)
+*Also, be aware that a single person can apply until 6
+times, but it's not possible to get the same prize more
+than once.
+*If you're applying for the 200.000 points prize, please
+write which game you want.
+*We won't send products outside Nintendo's ownership.
+*The winners will receive the prizes without prior announcements.
+*Postal cards without stamps will be rendered invalid.
+
+|When the game doesn't work properly|
+Please read this information to troubleshoot any of the following error codes:
+Error code:				Description:
+DISK SET ERR. 01		The disk isn't properly inserted
+BATTERY ERR. 02			Voltage too weak. Change the batteries / Insert the AC adapter again.
+ERR. 03					The "nails" of the disk are broken. Fix them with tape.
+ERR. 04					A disk from another manufacturer was inserted.
+ERR. 05					Another's game disk was inserted.
+ERR. 06					A disk with a wrong version was inserted.
+A, B, SIDE ERR. 07		A and B sides of the disk are inverted.
+ERR. 08					The disk was inserted in the wrong order.
+ERR. 20+				Can't read consent data.
+*For codes 20-40, please consult with your nearest Nintendo office.
+
+|Usage cautions|
+Please read carefully these recommendations before and after using the game:
+-When the red ramp of the disk drive is inserted, please use the EJECT button,
+or the RESET button of the Famicom taking care of not touching the power switch.
+Don't forget to read the Disk System manual thoroughly.
+-After playing, remember to ALWAYS unplug the AC adapter.
+-Keep a safe distance from the screen while playing.
+-For health reasons, please take 10-15 minute breaks for every 2 hours
+every time you play videogames.
+((MARIO STAMP TEXT:)) Application stamp number X
+
+帰ってきたマリオブラーザズ
+協賛永谷園
+タイタル画面からメニュー画面に
+ディスクカードを正しくセットしてゲームタイトル画面がでたらSTARTボタンを押して下さい。メニュー画面が出てきます。
+まず名前を登録します。
+コントローラーの使い方
+１コントローラー
+なになに
+２コントローラー
+なになに
+１コントローラーはマリオの登録画面を操作します。
+２コントローラーはルイージの登録画面を操作します。
+ボタン
+カーソルを上へ移動します
+カーソルを右へ移動します
+カーソルを下へ移動します
+カーソルを左へ移動します
+プラスボタンで｛名前登録｝を選び、Aボタンを押すと、マリオプレイヤーの名前登録画面になります。
+プラスボタンを押し、文字を囲んだカーソル（赤）を移動させ、入力したい文字を選びます。文字の決定はAボタンで行ってください。濁点、半濁点は一文字です。
+入力面でカーソル（青）を動かすときはBボタンを押しながらプラスボタンで操作してください。
+すべての項目を登録し終ったら｛セーブ｝の位置にカーソルを移動し、Aボタンを押せば登録終了です。２プレイヤーの場合はルイージの位置にカーソルを移動し、Aボタンを押しいてください。ルイージはIIコントローラーで入力してください。登録後｛セーブ｝にカーソルを合わせ、Aボタンを押すと、マリオ。ルイージともセーブされます。
+
+入力中SELECTボタンを押すと、メニュー画面に戻ります。
+この場合、これまで登録してきた内容が消えてしまいますのでご注意ください。
+すでに登録済みの内容の上から新しいデータを登録すると、前のデータは消えます（前のデータのうちの余った文字は空白の部分にカーソルを合わせ、Aボタンを押して消してください）。
+お知らせの内容を確認します。
+プラスボタンで｛おしらせ｝を選び、Aボタンを押します。
+おしらせ画面は全部４面あります。次の画面を出すときにはAボタンを押してください。
+ゲームの種類を選びます。
+帰ってきたマリオブラザーズには｛オリジナルマリオブラザーズ｝と｛ながたにえんワールド｝という二つのゲームがあります。
+｛オリジナルマリオブラザーズ｝はこれまでのROMカッセトと同様のゲームです。
+｛ながたにえんワールド｝には、｛はげましメッセジー｝や｛復活スロット｝、またプレゼントに応募するための暗号が入っています。
+どちらがお好きなコースをお選びください。
+このゲームには、マリオだけでプレイする１人用と、同一画面にルイージも登場する二人用があります。メニュー画面で１プレイヤーか２プレイヤーかを選んでください。
+
+いよいよゲームの開始です。
+コントローラーの使い方とゲームの目的
+B面をセットするとゲーム画面に変わります。
+｛コントローラーの使い方｝
+１コントローラーはマリオを操作します。
+２コントローラーはルイージを操作します。
+Aボタンを押すとマリオ（ルイージ）	はジャンプし、上にいる敵をパンチしてひっくり返したり、敵を飛び越えたり、床から床へ飛び移ったりします。
+STARTボタンを押すと、ゲームが始まります。
+ゲームと途中でプレイを一時中断したい時にSTARTボタンを押すと、チャイムがなり、ゲームがストップします。もう一度STARTボタンを押すと再びスタートします。
+｛目的｝
+パイプから飛ぶ出すカメさんん、カニさん、ファイターフライなどいろいろなキャラクターを下からパンチして、ひっくり返ったところを蹴り落して退治してください。
+
+登場キャラクターと退治のテクニック（１）
+カメさん：パンチで一回でダウン
+ファイターフライ：着地したところを狙ってパンチ。一回でダウン
+フリーズ：床を凍らそうとします。凍るとスリップしいてなかなか止まりませんので、早くスリープをたたき倒してください。
+カニさん：パンチ一回で怒って走り、２回目のパンチでダウン
+これら３つのキャラクターはひっくり返っているところをパンチすると起き上がり、自分で起きるとスピードアップ、最後の一匹もスピードアップします。
+つらら
+大きくなると落下し、当たるとミスになってしまいます。水滴のうちにパンチしてください。
+
+登場キャラクターと退治のテクニック（２）
+コイン：パイプから出てくるコインを取るとポイントアップ。
+パワー床：パワー床をパンチすると、全部の床のうえの敵をひっくり返し、ファイアボールなどを消すことができます。ただし、ひっくり返っているのは引き上るので要注意（パワー床は３回パンチすると消えます）。
+ファイアボール：床についたときにパンチするとハイスコア（赤いファイアボールは強力。復活するのでご用心）。
+TEST YOUR SKILL:時間内に全てのコインを取ると、パーフェクトスコアも。
+
+ゲームオーバー
+｛オリジナルマリオブラザーズ｝の場合
+ゲームオーバーになると終了選択画面になります。希望のコースを選んでAボタンを押してください。
+｛スコアをみる｝を選ぶと、現在までのTOP5が表示されます。終了したゲームのスコアがTOP5に入っていれば、セーブすることができます。
+二人用の場合はマリオプレイヤーの画面の次にルイージプレイヤーの画面に変わりますから、２コントローラーで操作してくさだい。
+
+｛ながたにえんワールド｝の場合
+ゲームオーバーになると、画面が変わって｛復活スロット｝が始まります（スロットチャレンジの回数は秘密の条件によってふるえることもあります）。
+スロットは１コントローラーで操作してください。まず、Aボタンを一回押すと、３つのスロットが同時に回りはじめますので、続いてAボタンを３回押し、スロットのキャラクターが揃えばゲームオーバーした時点からスコアも画面もそのままでキャラクターが復活します。
+マリオ二つ並んで					１キュラクター復活
+ルイージ二つ並んで				１キュラクター復活
+マリオ三つ揃って					２キュラクター復活
+ルイージ三つ揃って				２キュラクター復活
+｛ながたにえん｝と揃って	４キュラクター復活
+二人用の場合は各各のプレイヤーに復活します。
+キャラクターが揃わず、復活しなかった場合は、ここでゲーム終了となり、終了選択画面に変わります。
+
+任天堂株式会社　本社６０５京都市東山区福稲上高松町６０番地
+０７５（５４１）６１１３
+C)１９８８Nintendo / 禁無断転載
+
+｛ながたにえんワールド｝だけのおトクな暗号
+このゲームで１００。０００点、２００。０００点をクリアすると、｛おめでとうメッセージ｝が出てきます。
+続いてAぼたんを押すとプレゼントに応募するための暗号が出てきます。必ずメモなどに書いてからもう一度Aボタンを押してください。
+二人用でプレイしている場合は先にクリアした人に対してだけ｛おめでとうメッセージ｝が出ます。
+（イメージの下：）暗号の画面に！
+
+楽しいマリオグッズを合計３。０００名様にプレセント！
+賞品は？
+２００、０００点コース（５０名様×３回）
+｛スパーマリオブラザーズ３ROMカセット｝または（任天堂の最新ゲームのROMカセット）（１９８９年５月３１日発売分まで）
+１００、０００点コース（１５０名様×３回）
+｛スパーマリオブラザーズ３トランプ｝
+さらに、ダブルチャンスとしてご応募いただいた方全員のなかから抽選で２４００名様（８００名様×３回）に｛スパーマリオブラザーズ３特製キーホルダー｝をさしあげます。
+応募方法は？
+暗号と住所、氏名、年齢、性別、電話番号を官製はがきに書き、下の応募券を１枚貼って、下記までお送りください。
+１０５東京都港区西新橋２ー３６ー１
+（株）永谷園本舗｛帰ってきたマリオブラザーズ｝系
+締め切りは？
+第１回　１９８９年１月３１日　（到着部分まで）
+第２回	１９８９年３月３１日　（到着部分まで）
+第３回	１９８９年５月３１日　（当日消印分まで）
+
+＊なお、お一人様６回までご応募いただけますが、同じ賞品が２回以上当たることはありませんのでご了知ください。
+＊２００。０００点コースにご応募の際は、どちらのゲームが希望かをご記入ください。
+＊任天堂以外の商品は送りできません。
+＊当選の発表は商品の発送をもってかえさせていただきます。
+＊応募券を貼るっていないはがきは無効といたします。
+システムが正常に作動しないときは
+エラーメッセジーが画面に出たら下の表で原因を調べ対処しいてください。
+エラーメッセージ		内容
+DISK SET ERR 01				ディスクカードを正しくセットして下さい。
+BATTERY ERR 02				電圧が弱くなっているので、電池を交換するか、ACアダプタを取りつけてください。
+ERR 03								ディスクカードのツメが折れているのでツメの所にテープを貼ってください。
+ERR 04								違ったメーカーのディスクカードがセットされています。
+ERR 05								違ったゲーム名のディスクカードがセットされています。
+ERR 06								違ったバーションのディスクカードがセットされています。
+A B SIDE ERR 07				ディスクカードの表と裏が逆にセトされています。
+ERR 08								違った順番のディスクカードがセットされています。
+ERR 20ー							許諾顔面のデータが読み取れません。
+＊ERR. 20ー40の場合は最寄りの任天堂へご相談ください。
+｛ご使用上の注意｝
+ご使用の前に取扱い方、ご使用上の注意等、この取扱説明書をとくお読みください。
+１）ディスクライブの赤ランプがついているときに、EJECTボタンやファミコン本体のRESETボタン、電源スイッチに触れないようにしてください。ディスクシステムの説明書もよく読みましょう。
+２）ご使用後はACアダプタをコンセントから必ず抜いておいてください。
+３）テレビ画面からできるだけはなれてゲームしてください。
+４）テレビゲームをするとは、健康のため約２時間ごとに１０分から１５分小休止してください。
