@@ -1,0 +1,1555 @@
+;defsub Ripple Island - A small sequel
+
+*define
+
+nsa
+
+rmenu"Save",save,"Load",load,"Memories",lookback,"Exit",reset
+
+savename"Write memories","Read memories","Memories"
+
+savenumber 10
+
+selectcolor #ff0000,#ffffff
+
+game
+
+*start
+
+setwindow 370,348,20,23,26,26,0,2,20,1,1,#ffffff,0,0,639,479
+bg white,6,1000
+
+!w1000
+lsp 1,"title.jpg",0,0:print 10,1000
+bgm"title.mp3"
+!w1000
+
+*stsel
+
+select"New game",*new,"Continue",*load,"Exit",*exit
+
+*new
+
+!w500
+vsp 1,0;print 10,1000
+!w1000
+goto *go
+
+*load
+
+!w500
+systemcall load
+!w500
+goto *stsel
+
+*exit
+
+!w500
+vsp 1,0;print 10,1000
+!w1000
+end
+
+*go
+
+bgmfadeout 1000
+
+setwindow 16,16,23,23,26,26,0,2,20,1,1,#999999,0,0,639,479
+
+bg"black.jpg",10,1000
+!w2000
+bgmstop
+
+bg"op_001.jpg",10,1000
+bgm"rip_00.wav"
+
+Once upon a time,
+in a small, uncharted sea,
+there was a little, remote island.@
+br
+Its name was Ripple Island.@
+br
+Here, the island residents lived in harmony with the local wildlife.\
+
+bg"op_002.jpg",10,1000
+
+However, not too long ago,
+when the Great Frog King Groaker
+used the "Sacred Treasure", a stone with mysterious powers,
+the peace of the island was disrupted.@
+br
+Unable to resist such power,
+the island was rampaged by minions,
+the princess was transformed into a frog,
+and people suffered a large number of casualties.\
+
+bg"op_003.jpg",10,1000
+
+The heroes that saved the island from doom
+were a boy and a girl, aided by the power of the Sacred Treasures.@
+br
+As a reward for his heroic efforts, the boy was granted permission to marry the princess.@
+br
+However, what he truly wished was living with the girl he shared so many adventures with.@
+br
+br
+br
+The events of this story happen right after that...\
+
+bgmfadeout 1000
+!w1000
+bgmstop
+
+bg"black.jpg",10,1000
+
+bg"yama.jpg",2,1000
+ld c,":a;cal_00.jpg",10,500
+
+bgm"nomal.mp3"
+
+Cal: "Phew, are we there yet?@ We've been walking for days on end."@
+Kyle: "Don't worry, we're at a stone's throw.@ My village is just past these woods."@
+Cal: "Oh... I smell the scent of a lake."@
+Kyle: "That's because my village is at the eastern endpoint of the island.@ Thanks to that, we can watch the sun rise from the sea's horizon every morning.@ The view is AMAZING."@
+Cal: "I see..."\
+
+Cal: "!"@
+br
+Cal: "Hold up, Kyle!"@
+Kyle: "What's wrong?"@
+Cal: "Look at that."\
+
+Kyle: "This... is a trap."@
+Cal: "That's dangerous...@ Why would they set up traps at the entrance of the village?"@
+Kyle: "Well, the island has become perilous since Groaker's incident.@ It's to be expected that villagers are wary of intruders."@
+Cal: "Really?"@
+Kyle: "Yeah.@ These traps are easy to avoid, so it's no big deal."\
+
+quake 3,200
+dwave 1,"baki.wav"
+
+Waaaaaaaah!!\
+
+Kyle: "Owwwww..."@
+Cal: "Are you okay, Kyle?@ Hey!@ Who the heck set up a pitfall here?!\
+
+bgmfadeout 5000
+!w500
+bgmstop
+
+cl c,10,500
+ld r,":a;cal_00.jpg",10,500
+ld l,":a;gen_00.jpg",10,500
+bgm"gen.mp3"
+
+Gen: "Hehe!@ I did!"@
+Cal: "Who are you?"@
+Gen: "I'm Gen, A.K.A Kyle's #1 disciple!"@
+Kyle: "I figured this was your doing, Gen!"@
+Gen: "Yo!@ Welcome back, bro!"@
+Kyle: "The first trap was a decoy to distract me from the pitfall...@ I see you've improved since the last we met!"\
+
+Gen: "Yeah, pretty much!@ However, I'm disappointed you fell for this so easily.@ You lost your touch."@
+Kyle: "Dammit!@ You even learned to talk big now?!"@
+Gen: "Hehehe!@ I was waiting for you, bro!@ You've come back with lotsa travel tales to share, haven't you?!"@
+Kyle: "Yeah, but I want to take a bath first.@ I'm all covered in mud."@
+Gen: "Hahaha!@ You're right!@ Okay, I'm gonna go tell everyone at the village you're back!"\
+
+Gen: "And don't forget to bring your girlfriend with you!"@
+Cal: "G-Girlfriend...?"@
+Gen: "See ya!"\
+
+cl l,10,500
+cl r,10,500
+ld c,":a;cal_00.jpg",10,500
+
+Cal: "He's a boisterous kid, isn't he?"@
+Kyle: "Yeah, I think he has WAY too much energy to spare."@
+Cal: "Also, he said I was your girlfriend..."@
+Kyle: "......"@
+Cal: "What's wrong?"@
+Kyle: "Nothing."@
+Cal: "..... Alright, let's get going."@
+Kyle: "Right, let's go."\
+
+bgmfadeout 1000
+!w1000
+bgmstop
+
+bg"black.jpg",10,1000
+!w1000
+bg"building074.jpg",10,1000
+bgm"nomal.mp3"
+
+Cal: "Heh, so this is your hometown, huh?"@
+Kyle: "Yeah, though it has zero attraction spots."@
+Cal: "Oh, but I like the quietness in here."@
+Kyle: There's someone I'd like to meet right ahead.@ Would you mind if we drop by here for a little?"@
+Cal: "Okay."\
+
+bgmfadeout 1000
+!w1000
+bgmstop
+
+bg"1384.jpg",10,1000
+ld c,":a;mol_00.jpg",10,500
+bgm"mol.mp3"
+
+Moll: "Oh, it's you, Kyle!"@
+Kyle: "I'm home, Moll sis!"@
+Moll: "My god, look at those ragged clothes...@ Aren't you hurt?@ Did you lose weight?"@
+Kyle: "You're always such a worrywart, Moll...@ I'm fine and kickin'!@ My clothes are worn-out because I fell into Gen's trap right there.\
+
+Moll: "Sheesh, that wild kid again!@ I'll scold him later!"@
+Kyle: "Well, he's protecting the village the best way he can.@ Let him be."@
+Moll: "Really?@ Well, if you say so...@ Anyway, I'm glad you're back."@
+Kyle: "Hehe!@ I'm became a fine man, don't you think?"@
+Moll: "Huhuhu, you're right."\
+
+Moll: "And that girl is...?"@
+Kyle: "Oh, she's Cal.@ Cal, Moll.@ She's Gen's big sister."@
+Cal: "Pleased to meet you.@ I came from Littner village."@
+Moll: "Oh, you mean that village that Groaker sank in a lake with his magic powers?"@
+Cal: "Yes, that's why Kyle invited me to this town."\
+
+Moll: "I see.@ You're a real hero, Kyle."@
+Kyle: "A real hero?@ Moll, please stop treating me like a kid..."@
+Moll: "Huhuhu, sorry.@ You can call me Moll, Cal.@ Nice to meet you."@
+Cal: "The pleasure is mine."\
+
+bgmfadeout 1000
+!w1000
+bgmstop
+
+ld l,":a;sue_00.jpg",10,500
+
+bgm"sue.mp3"
+
+Sue: "Kyle...?"@
+Kyle: "Ah, Sue!@ I'm back home."@
+Sue: "W-Welcome... back..."@
+Kyle: "Have you been well?"@
+Sue: "Yes... I'm fine.@ What... about... you?"@
+Kyle: "Yeah, I'm full of energy!@ By the way, have you grow taller, Sue?"@
+Sue: "Huh?@ I... I dunno..."\
+
+Kyle: "I see.@ Anyway, I'm glad to be back."@
+Sue: "Yes...@ B-Bye..."@
+cl l,10,500
+Kyle: "See ya later"\
+
+bgmstop
+ld r,":a;cal_00.jpg",10,500
+bgm"nomal.mp3"
+
+Cal: "What a cold girl..."@
+Moll: "She's just shy."@
+Cal: "Is that so, Kyle?"@
+Kyle: "Hmm...@ She has always had trouble socializing."@
+Cal: "I see..."\
+
+ld l,":a;gen_00.jpg",10,500
+
+Gen: "Oh, there you are!@ Bro!@ The bath's ready!"@
+Kyle: "Thanks, Gen!"@
+Gen: "Let's enter together, bro!@ I'll wash your back!"@
+Kyle: "Geez...@ Well, it's been a while since last time, so I'm game."\
+
+Moll: "What about we cook together, Cal?@ I'll teach you the special cuisine of this village."@
+Cal: "Wow!@ For real?@ Please let me help, then!"\
+
+cl l,10,500
+cl c,10,500
+cl r,10,500
+
+bgmfadeout 1000
+!w1000
+bgmstop
+
+bgmfadeout 3000
+
+bgmstop
+
+bg"black.jpg",10,1000
+!w1000
+bg"furo.jpg",2,1000
+ld r,":a;gen_01.jpg",10,500
+bgm"gen.mp3"
+
+Gen: "Bro!@ Did you meet Groaker, the frog king?"@
+Kyle: "Yeah, I did."@
+Gen: "Really?!@ How was that bastard?!"@
+Kyle: "He was a big monster with a weird speech, but once we took his sacred treasure from him, he was nothing more than a petty frog."@
+Gen: "Huh?@ He was weak?@ You beat him out, bro?"@
+Kyle: "Yeah, kinda."\
+
+Gen: "Superb!!@ That's my bro!!@ By the way, what's that "sacred treasure" all about?"@
+Kyle: "It's a bit complicated to explain, but basically it's a stone that grants wishes."@
+Gen: "Heh, so that stone can turn even a coward frog into a great king, huh?"@
+Kyle: "Yeah, pretty much."@
+Gen: "Amazing...@ I can't believe you beat a guy like that!@ You're awesome, bro!@
+br
+!w200
+Nh?\
+
+Gen: "Wait, wasn't marrying princess Nasarell the reward for defeating Groaker?"@
+Kyle: "Yeah, so what?"@
+Gen: "...?@ What do you mean "So what"?"@
+Kyle: "I declined the reward."@
+Gen: "You WHAT?!@ Why?!@ What a waste!"@
+Kyle: "D-Don't be stupid!@ How could I marry someone I don't even like?!"\
+
+Gen: "Guuuh!@ You're WAYYY TOO COOL!!!"@
+Gen: "That's why you're a real man, bro!!@ You not only beat the crap out of an evil king, but you also brushed off the princess of the whole freakin' kingdom!@ That's RAD!!"@
+Kyle: "I didn't do anything great, really."@
+Gen: "So you chose that blue-haired girl over marrying the princess?"\
+
+Kyle: "Ah, you mean C-Cal?@ She had nowhere to go, so I asked her to come with me, that's it.@ It's not I like her or anything..."\
+
+Gen: "Heh...@ Whenever you lie, your left leg starts trembling.@ It seems you never fixed that habit."@
+Kyle: "S-Shut up!"@
+Gen: "C'mon, you don't have to be shy, Bro!"@
+Kyle: "I-I won't tell you anything ever again!"@
+Gen: "Don't be like that, Bro!!"\
+
+bgmfadeout 1000
+
+bg"black.jpg",10,1000
+bgmstop
+!w1000
+bg"urayama.jpg",2,1000
+ld c,":a;gen_00.jpg",10,500
+bgm"nomal.mp3"
+
+Kyle: "Phew, it was a nice bath!"@
+Gen: "Well, Bro, I'm going ahead to help Sis!@ By the time you reach home the meal will be ready, so I'll take it to your home!"@
+Kyle: "Thanks, Gen.@ I'm going to tidy my place a bit!"@
+Gen: "Roger!@ See ya later!"@
+Kyle: "Sure!"\
+
+cl c,10,500
+
+Kyle: "Well, time to put my hands to work."@
+
+bgmfadeout 1000
+ld l,":a;ohly.jpg",10,500
+ld r,":a;arly.jpg",10,500
+bgmstop
+bgm"early.mp3"
+
+Arly: "Yo, Kyle."@
+Orly: "I'm glad you're back."@
+Kyle: "Arly!@ Orly!"\
+
+Arly: "I heard you turned the world upside down out there."@
+Kyle: "No, it wasn't that big of a deal."@
+アーリー
+「カエル大王ゲロゲールを倒して
+ナサレル王女を救出するとは、
+さすがは我が永遠のライバル！」@
+Arly: ""@
+カイル
+「はぁ。」@
+オーリー
+「そして姫様とのご結婚を許されながら
+それをお断りするなんて、
+さすがはお兄様がお認めになった
+殿方ですわ。」\
+
+カイル
+「お前ら何が言いたいんだ？」@
+アーリー
+「知れた事、ここで再び逢い見えるのは
+最強の男を確かめるための運命の導き！
+カイル、長年の決着
+今ここでつけようぞ！」@
+カイル
+「何だよお前、ゲロゲールの噂が
+聞こえてきた時には真っ先にどこかに
+身を隠しちまったくせに。」@
+アーリー
+「な…何を言うか！そ…それは、
+奴を倒す秘密の特訓をするために
+人里はなれた場所に篭って
+密かに牙を磨いていたからだ！」\
+
+カイル
+「本当かぁ？」@
+オーリー
+「お兄様はウソなど申しません！」@
+カイル
+「ふうん。」@
+アーリー
+「ならばその身をもって知るがいい！
+我が磨き上げられた技の冴えを！」@
+オーリー
+「がんばって！お兄様！」@
+アーリー
+「おう、見ておるがいい我が妹よ！
+兄の放つ稲妻のような蹴りを！
+うりゃああああああぁぁぁぁっ！！」\
+
+quakex 1,200
+dwave 1,"fon.wav"
+
+カイル
+「何するんだ、やめろって！」@
+アーリー
+「む、この蹴りをかわすとは
+さすが我が最強のライバル！
+ではこの電光石火の突きを
+受けてみよ！
+でりゃああああああぁぁぁぁっ！！」@
+
+quakex 5,200
+dwave 1,"fon.wav"
+quakex 5,200
+dwave 1,"fon.wav"
+quakex 5,200
+dwave 1,"fon.wav"
+
+カイル
+「だからやめろって！」@
+アーリー
+「むむぅ…これもかわすか！
+では捨て身のタックルを食らえ！！」@
+カイル
+「バカ！！場所を考えろ！！」\
+
+dwave 1,"baki.wav"
+!s5
+cl r,10,100
+quakex 10,1000
+
+カイル・アーリー
+「うわああああぁぁぁぁぁぁぁ！！」@
+!sd
+オーリー
+「お兄様！！カイル！！」\
+
+ld r,":a;arly_01.jpg",10,500
+
+アーリー
+「さすがオレのライバルだ！
+き…今日のところはこれぐらいに
+しておいてやろう。」@
+オーリー
+「あぁ…最強を競う殿方たちの戦い。
+美しゅうございますわ。」@
+カイル
+「あのなぁ…こんなのただ２人で
+階段を滑り落ちただけだろうが…」@
+アーリー
+「しかし、この次出会った時には
+必ず決着をつけて見せるぞ！！
+その時まで楽しみにしておるがいい！」\
+
+アーリー
+「わははははははは！」@
+オーリー
+「おほほほほほほほ！」@
+
+cl r,10,100
+cl l,10,100
+
+カイル
+「なんなんだあいつらは！
+全然変わってないじゃないか！
+てゆーか、せっかく風呂に入ったのに
+またドロドロになっちまったぞ！」\
+
+カイル
+「とほほ、もう一回お風呂に入るか。」\
+
+bgmfadeout 1000
+
+bg"black.jpg",10,1000
+bgmstop
+!w1000
+
+bg"1384.jpg",2,1000
+ld l,":a;mol_00.jpg",10,500
+ld r,":a;cal_00.jpg",10,500
+bgm"mol.mp3"
+
+キャル
+「うわぁ、美味しそう！」@
+モ　ル
+「なんにもない村だけど作物は自慢なのよ。
+今日はカイルも帰ってきた事だし
+いっぱいお料理しちゃいましょう！」@
+キャル
+「わ、モルさん手際がいい！
+私の出番なんてないわね。」@
+モ　ル
+「そんなの、ただ長くやってるだけよ。」@
+キャル
+「そんな事ないですよぉ！
+私なんて包丁使ったら２分に１回は
+確実に傷薬のお世話になっちゃうんだもん。」\
+
+モ　ル
+「２分に１回は多いわね…。」@
+キャル
+「この間なんかはホワイトシチューが
+トマトシチューみたいになっちゃって…」@
+モ　ル
+「キャ…キャルちゃんはこっちで
+サラダの盛り付けしてもらおうかしら？」@
+キャル
+「あはははは、
+やっぱりその方がいいですよね。」\
+
+モ　ル
+「ねえ、キャルちゃんって
+カイルの事、…好き？」@
+キャル
+「な…なんですか？やぶからぼうに！！」@
+モ　ル
+「だって、普通は好きでもない人の村に
+ついて来ようなんて思わないでしょう？」@
+キャル
+「そう…かも知れないけど…」\
+
+モ　ル
+「はぁ…カイルもついこの間まで
+こーんなちっちゃな子供だと思ってたのに、
+こんな可愛い彼女を連れてきちゃうなんて…。
+歳は取りたくないわねー。」@
+キャル
+「そんなぁ、モルさんぐらいの美人だったら
+いくらでも言い寄ってくる人はいたんじゃ
+ないですか？」@
+モ　ル
+「私はね…もうダメなの。」@
+キャル
+「え？どうしてですか？！」\
+
+モ　ル
+「１番好きだった人が死んじゃったから。」@
+キャル
+「え…？」\
+
+モ　ル
+「もう５年になるかなぁ…」@
+キャル
+「ご…ごめんなさい。」@
+モ　ル
+「キャルちゃんが謝る事ないのよ。
+私がいつまでもウジウジしてるだけ…」@
+キャル
+「でも…。」@
+モ　ル
+「それにもうずいぶん昔の事だから
+平気で語れちゃったりするのよ。」@
+キャル
+「…」\
+
+キャル
+「どんな人だったんですか？その人。」@
+モ　ル
+「そうね。大きくて…素朴な人。
+さっきスーって子がいたでしょう？」@
+キャル
+「あぁ…あのそっけない子。」@
+モ　ル
+「あの子のお兄さんだったのよ。」@
+キャル
+「へぇ。」@
+モ　ル
+「流行り病で突然に…ね。」@
+キャル
+「そうなんだ…」\
+
+モ　ル
+「でも私なんかよりスーの方が
+何倍もショックだったみたい。
+あんまり他人と話さなくなっちゃって…
+私とカイルでいっぱい面倒見たのよ。」@
+キャル
+「そうだったんですか。」@
+モ　ル
+「ええ。スーはカイルの１歳年下で
+本当の妹みたいになついてたわ。」@
+キャル
+「へえ…」\
+
+モ　ル
+「ああ見えてカイルが帰って来たのを
+この村で１番喜んでるのはスーなんじゃ
+ないかしら？」@
+キャル
+「ふうん…」@
+モ　ル
+「…」@
+キャル
+「なんですか？」@
+モ　ル
+「今ちょっと妬けちゃった？」@
+キャル
+「そ、そんな事ありません！」\
+
+モ　ル
+「本当？」@
+キャル
+「本当です！」@
+モ　ル
+「じゃあ、そういう事にしておいてあげる。」@
+キャル
+「もぅ…」\
+
+モ　ル
+「キャルちゃん。」@
+キャル
+「え？」@
+モ　ル
+「幸せなんていつどこにぶらりと
+出て行っちゃうか分からないんだから。
+しっかり掴んでなきゃダメよ。」@
+キャル
+「モルさん…。」@
+モ　ル
+「わかった？」@
+キャル
+「努力します。」@
+モ　ル
+「そうね。いい答えだわ。」\
+
+モ　ル
+「そのためにもお料理はもう少し
+勉強した方がいいと思うわよ。」@
+キャル
+「あ…やっぱりそう思います？」\
+
+bgmfadeout 3000
+
+bgmstop
+
+bg"black.jpg",10,1000
+!w1000
+bg"building107.jpg",2,1000
+ld c,":a;gen_00.jpg",10,500
+ld r,":a;cal_00.jpg",10,500
+ld l,":a;mol_00.jpg",10,500
+bgm"nomal.mp3"
+
+ゲ　ン
+「それでは、兄貴の無事な帰りを祝って
+カンパーイ！！」@
+モ　ル
+「カイル、キャルちゃん、
+いっぱい食べてね。」@
+カイル
+「うん。」@
+キャル
+「いただきまーす。」@
+カイル
+「うん！美味い！！さすがモル姉！！」\
+
+モ　ル
+「もう、お弁当つけちゃって
+いつまでたってもお子ちゃまねー。」@
+ゲ　ン
+「兄貴はなんたって英雄なんだから
+もっと堂々としてくれよなー！」@
+カイル
+「何言ってんだゲン、いつだって
+オレはオレだよ。」@
+キャル
+「そうよねー。
+急にカイルがお行儀よくなっちゃったら
+そっちの方が心配よねー。」@
+カイル
+「相変わらずキツいなぁ。」\
+
+ゲ　ン
+「さすがアネさん！
+兄貴の事よくわかってまスぜ。」@
+キャル
+「アネさん？！」@
+ゲ　ン
+「だって兄貴のお嫁さんなんだから
+アネさんでしょ？」@
+キャル
+「お嫁さんって私はまだ…」@
+ゲ　ン
+「まだ…って何スか？まだ…って。
+いずれそーなるって事ッスか？
+ヒューヒュー！！」\
+
+ld r,":a;cal_02.jpg",10,500
+
+キャル
+「こぉら！ゲン！！」@
+ゲ　ン
+「うわぁ！アネさんが怒ったぁ！！」@
+
+cl c,10,1000
+cl r,10,1000
+
+モ　ル
+「もう、ゲン！
+走り回っちゃダメでしょう！」\
+
+cl l,10,1000
+
+カイル
+「ホントにもう…
+どっちがお行儀が悪いんだか…
+!w200
+あれ？このコゲた料理は…！」@
+
+bgmfadeout 500
+ld c,":a;sue_00.jpg",10,500
+bgm"sue.mp3"
+
+ス　ー
+「それ･･私が…つくった…の」@
+カイル
+「あはは、スーの料理下手も相変わらずだな！」@
+ス　ー
+「あぅ…」@
+カイル
+「でも、懐かしくて嬉しいな。」@
+ス　ー
+「え？」\
+
+カイル
+「この料理のおかげでオレ…今、
+村に帰って来たんだなぁ…って
+すっごく実感できた気がする。」@
+ス　ー
+「ホン…ト？」@
+カイル
+「ああ。ありがと、スー。」@
+ス　ー
+「うん…またつくる…今度は練習して…
+もっと…もっと美味しいの…」@
+カイル
+「がんばれよ。」@
+ス　ー
+「うん。」\
+
+bgmfadeout 500
+cl c,10,1000
+ld c,":a;cal_00.jpg",10,500
+bgm"nomal.mp3"
+
+キャル
+「スーちゃんね？」@
+カイル
+「ああ。」@
+キャル
+「カイルとは結構ちゃんと話すのね。」@
+カイル
+「スーがまともに話せるのは
+オレとモル姉ぐらいだけどね。」@
+キャル
+「あれ？ゲンは？」@
+カイル
+「スーはああいうにぎやかなのは
+苦手なんだってさ。」@
+キャル
+「へー？カイルとあんまり変わんないのにね。」\
+
+カイル
+「えー？オレってあんなにガキか？！」@
+キャル
+「ほぼ同じよ。」@
+カイル
+「そんなことないだろー？
+もっと男の渋みって言うかさ、
+大人の魅力って物がさぁ…
+こうジワジワーっと出てないか？」@
+キャル
+「この話の流れで私がその意見を
+肯定すると微塵でも思う？」@
+カイル
+「思いません。」@
+キャル
+「でしょー？」\
+
+キャル
+「ところで大人といえば…
+カイルのご両親は？
+この村にいないの？」@
+カイル
+「あぁ…言ってなかったっけ？
+親父達はどこか別の島に行ってるんだ。」@
+キャル
+「え？そうなの？」@
+カイル
+「流行り病に効く薬を探してね。」@
+キャル
+「流行り病って…スーちゃんのお兄さんが
+亡くなったっていう？」@
+カイル
+「モル姉に聞いたのか…そうなんだ。」\
+
+キャル
+「そんなにすごい病気だったの？」@
+カイル
+「ああ…よく効く薬草はあるみたいなんだけど
+ものすごく少ししか取れないらしいんだ。」@
+キャル
+「その草を集めに行ってるの？」@
+カイル
+「ああ、スーの兄ちゃんもそれが間に合えば
+死なずにすんだんだ。
+もうあんな悲しい思いはしたくないってのが
+村のみんなの気持ちなんだよ。」@
+キャル
+「そうだったの…」\
+
+キャル
+「じゃあ、カイルのお父さんとお母さんは
+いつ帰ってくるか分からないの？」@
+カイル
+「１年に１回ぐらいフラッとね。
+いないのと大して変わんないかな？」@
+キャル
+「そうなんだ………寂しくない？」@
+カイル
+「慣れっこだよ。
+モル姉やゲンやスーもいるし。
+それに今は…」\
+
+bgmfadeout 500
+cl c,10,1000
+ld l,":a;ohly.jpg",10,500
+ld r,":a;arly.jpg",10,500
+bgm"early.mp3"
+
+アーリー
+「コラコラそこ！！
+イチャイチャするんじゃない！！」@
+カイル
+「アーリー？！
+お前たちも来てたのか？！」@
+アーリー
+「フッ、安心しろ。
+我々は宴の場所を暴力で汚すような
+不粋な真似はせん。」@
+カイル
+「とか言って、モル姉の料理を
+食べに来ただけだろうが！」\
+
+アーリー
+「なんだと？！
+我らがそんな浅ましいと思うか！
+いいだろう、表に出ろ！決着だ！」@
+カイル
+「おう！相手になってやらあ！」\
+
+bgmfadeout 500
+ld r,":a;cal_00.jpg",10,500
+!w500
+bgm"ohly.mp3"
+
+キャル
+「あーあ、出て行っちゃった。」@
+オーリー
+「お兄様にも困った物ですわ…」@
+キャル
+「あなたは？」@
+オーリー
+「アーリーの双子の妹の
+オーリーと申します。」@
+キャル
+「私は…」@
+オーリー
+「キャルさん…ですよね？」@
+キャル
+「え？知ってるの？」\
+
+オーリー
+「ええ、私の兄はカイルの事を
+永遠のライバルと認めているのです。
+…かなり一方的な思い込みでは
+あるのですが…」@
+キャル
+「そ…そうなんだ。」@
+オーリー
+「ですから、カイルがゲロゲール退治に
+村を出て行くと知った時には、
+実は私達はひっそりと後をつけて
+行っていたんです。」@
+キャル
+「えーーーーーーっ？！
+全然気がつかなかったわよ！！
+どの辺からどの辺までついて来てたの？」\
+
+オーリー
+「もう旅立ちからついさっきまで。
+だから、カイルがリトナの村で
+あなたと出会った事も、
+神器を２つ手に入れた事も、
+ゲロゲールを倒した事も、
+ナサレル姫様との婚儀をお断り
+した事も全て存じておりましたわ。」@
+キャル
+「うひーーーーーーっ！！」\
+
+オーリー
+「ですからお２人のご関係も
+充分存じ上げてございます。」@
+キャル
+「あう…それってどこまで…？」@
+オーリー
+「…ここで申し上げてよろしいのですか？」@
+キャル
+「よくない！よくない！ってゆーか、
+何もない！」@
+オーリー
+「何もないなら隠す事なんてなんじゃ？」@
+キャル
+「あうー…
+もうこの話題はよしましょ。」\
+
+キャル
+「でも、どうしてそんな事してたの？」@
+オーリー
+「カイルは兄が唯一お認めになった
+ライバル…とは申しておりますが、
+実は兄はカイルの事がすごく
+気に入っているのだと思います。」@
+キャル
+「ふうん…どうして？」@
+オーリー
+「カイルは兄の挑戦から一度も逃げません。」@
+キャル
+「ふうん、馬鹿正直なところがあるもんね。」@
+オーリー
+「そしてこれが１番大きいのですが、
+カイルはウソをつかないからです。」\
+
+オーリー
+「幼い頃に両親を失ったために、私達は
+何度もあちこちの親類に預けられました。」@
+キャル
+「そう…」@
+オーリー
+「兄は私を守ろうと無理に気を張って、
+他人との間に壁を作ってしまう習性が
+身についてしまうほどでした。
+でも逆にその態度が元で争いになったり、
+おかげで村を追われたりしてきたんです。」@
+キャル
+「そうなの…。」@
+オーリー
+「だから兄はまっすぐなカイルが
+好きなんだと思います。」\
+
+オーリー
+「これからもカイルの行く先々に
+兄が時々現れるかも知れませんけど、
+あたたかく接してあげてくださいましね。」@
+キャル
+「わかったわ。…でも…」@
+オーリー
+「でも？」@
+キャル
+「あなたは？」@
+
+ld l,":a;ohly_02.jpg",10,500
+
+オーリー
+「え？！」@
+キャル
+「カイルの事、好き？」@
+オーリー
+「な、何をおっしゃっているんですか！？」\
+
+オーリー
+「私はお兄様が認めた男性として
+カイルを尊敬はしております…
+しておりますが…。」@
+キャル
+「ふうん…ま、いいか。
+それともう一言いい？」@
+オーリー
+「それと？」@
+キャル
+「もう後をつけるのは勘弁してね。」@
+オーリー
+「村にいるんでしたら
+それはないと思いますわ。」@
+キャル
+「本当かなぁ？」\
+
+bgmfadeout 500
+!w500
+bgm"nomal.mp3"
+
+カイル
+「ただいまぁ！」@
+キャル
+「あ、カイルお帰りなさい。
+アーリーさんは？」@
+カイル
+「表でぶっ倒れてる。
+かけっこで決着つけようって言って
+海まで行って来たからさ。」@
+キャル
+「で、どっちが勝ったの？」@
+カイル
+「なんかグダグダで引き分け…」@
+キャル
+「そう。」\
+
+オーリー
+「あの…いつも兄がご迷惑を…」@
+カイル
+「いいって、いいって、アイツ
+悪い奴じゃないけど不器用だからな。
+本当は寂しかったんじゃないかな？」@
+オーリー
+「兄がそう申したのですか？」@
+カイル
+「そんな事言うヤツじゃないさ。
+素直じゃないもんな。
+でもそれぐらいわかるよ。」@
+オーリー
+「カイル…」\
+
+カイル
+「オーリー！」@
+オーリー
+「は、はい！」@
+カイル
+「悪いけど表に倒れてるアーリーにも
+モル姉の料理を持って行ってやってよ。
+折角来てくれたのに可愛そうでさ。」@
+オーリー
+「わ…わかりました。」\
+
+カイル
+「ん？なんだか調子狂うな。
+アーリーが一緒の時はよくしゃべるのに
+なんだか今日はしおらしいぞ。」@
+オーリー
+「私…お兄様といつも一緒で…
+お兄様以外の殿方とはあまり１対１で
+話さないものですから…その…
+調子が出ないだけ…ですわ。」@
+カイル
+「あはは、そういえば兄貴抜きで
+オーリーと話した事なかったかもな。」@
+オーリー
+「そ…そうですわね。」\
+
+オーリー
+「とにかく、本日はお邪魔いたしました。
+またいずれお伺いしますわ。」@
+カイル
+「あ、そんなに慌てて帰んなくても
+いいのに。」@
+オーリー
+「失礼いたします！」@
+
+cl l,10,1000
+
+カイル
+「あ、行っちゃった。」\
+
+キャル
+「おかしな双子ね。」@
+カイル
+「だろ？３年前にこの村に来たんだけど
+馴染むのが下手でさ、見ていられなくて
+…で、こんな風に付き合ってんだ。」@
+キャル
+「ふうん、優しいのねカイル。」@
+カイル
+「優しい…って言うのかな？これ。」\
+
+bgmfadeout 500
+ld l,":a;mol_01.jpg",10,500
+bgm"gen.mp3"
+
+モ　ル
+「カイルー！どこいってたのよー！」@
+カイル
+「うわ！
+いつの間にかモル姉が酒飲んでる！
+誰だよこんな物持って来たのは！」@
+モ　ル
+「いーじゃないの！
+こちとら寂しい一人者なんだから
+酒の１杯や２杯飲ませなさいよー！」@
+カイル
+「げげ…結構イッちゃってる。」\
+
+キャル
+「モルさんって酒癖悪いんだ。」@
+カイル
+「もう最悪なんだよ。」@
+モ　ル
+「誰が最悪ですって？」@
+カイル
+「げっ！？聞いてた！」\
+
+bg"mol_e.jpg",10,1000
+
+モ　ル
+「何よ何よー２人で仲良くしちゃってさ、
+カイルぅ、私にも甘えなさいよぉ。」@
+カイル
+「やめなよモル姉ぇ。」@
+キャル
+「モルさん！」@
+モ　ル
+「はいはい私がモル姉さんですよー！」@
+カイル
+「わわわ、悪乗りしすぎだよモル姉！」@
+キャル
+「ちょっと、モルさん！！」\
+
+モ　ル
+「なによぉ、そんなに暴れたら
+頭がグラグラして…んぷ！」@
+キャル
+「え？」@
+カイル
+「やな予感…」\
+
+モ　ル
+「えろえろえろえろえろえろ…」@
+カイル
+「わーーーーーーーーーーー！」@
+キャル
+「カイルお風呂お風呂！」\
+
+bgmfadeout 3000
+
+bgmstop
+
+bg"black.jpg",10,1000
+!w1000
+cl c,10,500
+bg"eyes0004.jpg",10,1000
+ld r,":a;cal_01.jpg",10,500
+ld l,":a;mol_gen.jpg",10,500
+bgm"mol.mp3"
+
+キャル
+「噂どおりの悪酔いねー。」@
+ゲ　ン
+「いやぁ、こんなの久しぶりッスよ。」@
+キャル
+「そうなの？」@
+ゲ　ン
+「兄貴が帰って来たのが本当に
+嬉しかったんじゃねーッスかね？」@
+キャル
+「私もそう思う。
+お料理してる時のモルさん
+すっごく楽しそうだったもん。」@
+ゲ　ン
+「でしょ？」\
+
+ゲ　ン
+「姉貴の奴、兄貴が旅に出てってから
+全然飲まなくなっちまってたんスよ。」@
+キャル
+「そうなんだぁ。」@
+ゲ　ン
+「変でしょ？
+普通は心配事があったら酒の量が増えるのに
+姉貴は飲まなくなっちゃうんスよ。」@
+キャル
+「それだけ責任感じてたんじゃないかな？」@
+ゲ　ン
+「責任…ッスか？」\
+
+キャル
+「うん。ゲンと同じよ。
+あなたが村を守ろうとして
+村の周囲に罠を張ってるのと同じように、
+カイルがいない時に村に何かあったら
+いけないって思ってたんじゃないかな？」@
+ゲ　ン
+「あぁ…そうかぁ。」@
+キャル
+「２人ともカイルの事も、村の事も、
+本気で心配してくれてたんだね…」@
+ゲ　ン
+「オレにまで姉貴の心配性が
+移っちまったみたいだ。」@
+キャル
+「そうね、うふふ。」\
+
+キャル
+「ゲン。」@
+ゲ　ン
+「なんスか？」@
+キャル
+「あなたもカイルが帰ってきて嬉しい？」@
+ゲ　ン
+「何聞いてるんスか？
+あったり前ッスよ！」@
+キャル
+「そうよね。
+カイルもとっても嬉しそうなんだもん。」@
+ゲ　ン
+「そうッスか？」\
+
+キャル
+「きっと１番気が合うからじゃない？」@
+ゲ　ン
+「へへ…なんか照れるなー。」@
+キャル
+「やっぱり１番気が合う人と一緒にいるのが
+１番なんじゃないかなぁ。」@
+ゲ　ン
+「アネさんの１番気の合う相手って
+やっぱり兄貴ッスか？」@
+キャル
+「んー…今はそうね。」@
+ゲ　ン
+「今は…ッスか？」\
+
+キャル
+「私の村…湖に沈んじゃったから…」@
+ゲ　ン
+「あ…スンマセン。」@
+キャル
+「いいのいいの。
+おかげでカイルに会えたし。
+ゲン達にも会えたんだもん。」@
+ゲ　ン
+「そう言ってもらえると助かるっス！」\
+
+ゲ　ン
+「んじゃ、オレらん家もうそこですから
+この辺で失礼します。」@
+キャル
+「モルさんの事よろしくね、ゲン。」@
+ゲ　ン
+「任しといて下さいって！アネさん！」@
+キャル
+「ゲン…そのアネさんっていうの
+やめてもらえる？」@
+ゲ　ン
+「えー？！いーじゃないッスか！
+アネさんはアネさんですもん。」@
+キャル
+「理由になってないわよ。」\
+
+ゲ　ン
+「アネさんこそ兄貴をヨロシク！」@
+キャル
+「もぅ、わかったわかった。
+じゃ、おやすみなさい！」@
+ゲ　ン
+「おやすみー！」\
+
+cl l,10,500
+
+キャル
+「兄弟か…いいな。」\
+
+bgmfadeout 1000
+
+bgmstop
+
+bg"black.jpg",10,1000
+!w1000
+bg"heya.jpg",2,1000
+
+カイル
+「ふー、まさか１日に３回も風呂に
+入る事になるなんて思わなかったな。」@
+
+ld c,":a;sue_00.jpg",10,500
+bgm"sue.mp3"
+
+ス　ー
+「あ…カイル。」@
+カイル
+「スー、どーしたんだ？」@
+ス　ー
+「あの…はいこれ…」@
+カイル
+「ん？なんだこれ？」@
+ス　ー
+「あ、中見ちゃダメ…」@
+カイル
+「え？どーして？」\
+
+ス　ー
+「あの…キャルって子…着替え…
+いると思って…下着とか…」@
+カイル
+「あ、そーか！
+オレん家って男物しかないもんな。
+気が利くなぁ、スーは。」@
+ス　ー
+「えへ…へ…」@
+カイル
+「ついでに頭嗅いでみてくれないか？
+一所懸命洗ったんだけど、自分じゃ
+ニオイがとれたのかわかんなくてさ。」@
+ス　ー
+「…うん…」\
+
+bg"sue_e.jpg",2,1000
+
+カイル
+「どうだ？もう臭くないか？」@
+ス　ー
+「…」@
+カイル
+「スー？」@
+ス　ー
+「カイルのニオイだ…」@
+カイル
+「そりゃそうだろ。
+へんなヤツだなぁ。」@
+ス　ー
+「……った…」@
+カイル
+「え…？」\
+
+ス　ー
+「よかった…帰ってきて…」@
+カイル
+「当たり前だろ？
+何言ってんだよスー。」@
+ス　ー
+「お兄ちゃんみたいに…
+また誰かいなくなったら…って、
+思った…から…」@
+カイル
+「あ…」@
+ス　ー
+「よかった…」\
+
+カイル
+「なあ、長いこと村を空けてたのに
+家の中がきれいなのって、
+スーが掃除しててくれたからだろ？」@
+ス　ー
+「あー…うん。」@
+カイル
+「ありがとな、スー。
+今日の料理も着替えもそうだけど、
+オレいつもお前やモル姉に世話かけたり
+心配かけたりしてばっかりでさ。」@
+ス　ー
+「そんなこと…」@
+カイル
+「こんなダメ兄貴だけど
+これからもよろしくな。」\
+
+ス　ー
+「…あに……き…？……」@
+カイル
+「？」@
+
+bg"heya.jpg",2,1000
+ld c,":a;sue_00.jpg",10,500
+
+ス　ー
+「…う…うん…そうだね…
+カイルは…私がいないと…
+全然…だらしない…もん…ね…」@
+カイル
+「そうだな。」@
+ス　ー
+「じゃ…じゃあ…ちゃんと歯を磨いて…
+寝るんだよ…」\
+
+カイル
+「おう！スーもおやすみ！」@
+ス　ー
+「うん…おやすみ…」\
+
+cl c,10,500
+
+カイル
+「スーもずいぶんしっかりしてきたな。
+…まだまだ全然危なっかしいけど。」@
+
+bgmfadeout 500
+ld c,":a;cal_up00.jpg",10,500
+bgm"moode_2.mp3"
+
+キャル
+「スーちゃん帰った？」@
+カイル
+「あ、キャルいたのかよ？
+声かけてくれたらよかったのに。」@
+キャル
+「だってスーちゃん
+私がいたらお話できないでしょ？」@
+カイル
+「あ…そうか。」\
+
+キャル
+「それに結構いい雰囲気みたい
+だったし。」@
+カイル
+「ば…ばばば馬鹿な事言うなよ！
+スーは…えと…妹！
+妹みたいな物でだな…」@
+キャル
+「わかってるって、冗談よ。」@
+カイル
+「なんだよ、人が悪いなぁ。」@
+キャル
+「もっともスーちゃん自身は
+そう思ってないみたいだけど…」\
+
+カイル
+「ん？何か言ったか？」@
+キャル
+「ううん、独り言。」@
+カイル
+「そうだ。これ、スーがお前にって。
+着替えとか下着とかだとさ。」@
+キャル
+「わぁ、ありがと。
+いい子ねスーちゃんって。」@
+カイル
+「ああ。」@
+キャル
+「私ちょっと安心しちゃった。」@
+カイル
+「へ？」\
+
+キャル
+「だって、カイルってぶっきらぼうだし、
+そんなに強いわけじゃないし、
+あんまり器用な方でもないし、
+無鉄砲だし、お調子者だし…」@
+カイル
+「おいおい、散々だなー。」@
+キャル
+「でも、スーちゃんも、モルさんも、
+ゲンも、アーリーさんも、オーリーさんも、
+みんなみんなカイルの事が
+大好きみたいなんだもん。」@
+カイル
+「そうか？」@
+キャル
+「うん。」\
+
+カイル
+「そうか。」@
+キャル
+「私も…」@
+カイル
+「…私も？」@
+キャル
+「私もみんなに好きになって
+もらえるようになりたいな！」@
+カイル
+「あぁ、キャルなら大丈夫だよ！
+みんな好きになってくれるさ。」@
+キャル
+「本当？」@
+カイル
+「ああ。」\
+
+キャル
+「どうしてそう思うの？」@
+カイル
+「どうしてって…当たり前だろ？」@
+キャル
+「どう当たり前なの？」@
+カイル
+「そりゃあ…キャルはさ…
+オレが気に入った奴だからな。」@
+
+ld c,":a;cal_up01.jpg",10,500
+
+キャル
+「！…」\
+
+ld c,":a;cal_up02.jpg",10,500
+
+キャル
+「カイル。」@
+カイル
+「ん？何だ？」@
+キャル
+「明日さ、朝日見に行こう。」@
+カイル
+「あ、そうか…そうだな。
+じゃあ今日は早く寝なきゃ。」@
+キャル
+「うん。」\
+
+カイル
+「じゃあキャルはベッドで。」@
+キャル
+「カイルは？」@
+カイル
+「オレは床でも椅子でも…」@
+キャル
+「ダメよそんなの！
+ここはカイルの家なんだから！」@
+カイル
+「でもなぁ、ベッドは一つしかないし。
+女の子を床に寝かせるのも…」@
+キャル
+「じゃあ、一緒に寝よう。」@
+カイル
+「え？」\
+
+キャル
+「う・そ！」@
+カイル
+「なんだよコイツ！」@
+キャル
+「えへへ、ドキドキした？」@
+カイル
+「したよ！しましたよ！」@
+キャル
+「ゴメンね。
+じゃあ、遠慮なくベッド借りるね！」@
+カイル
+「はいはい。
+ちゃんと歯磨きもしろよ。」@
+キャル
+「わかってるって。」\
+
+キャル
+「おやすみ、カイル。
+明日もいい日だといいねっ！」
+
+!w3000
+
+\
+
+bg"black.jpg",2,1000
+!s100
+
+こうしてキャルはカイルの村の一員になりました。
+br
+!w300
+誰も知らない小さな島の名もない小さな村の中で
+これからも日々いろいろな人達とともに
+いろいろな出来事が起こるでしょう。
+br
+!w300
+でもそれはみなさんの身近にも存在するような
+何気ない日常と変わらないひとコマ。
+br
+!w300
+いずれまた機会があれば、そんな日常をご紹介
+する機会が巡って来るかも知れません。
+br
+!w300
+それまではこの子達の平和な日常を送っている姿を
+心に思い描いてあげてください。
+いつかまた出会えるその日まで…。
+
+bgmfadeout 2000
+!w3000
+bgmstop
+!w3000
+
+\
+
+end
