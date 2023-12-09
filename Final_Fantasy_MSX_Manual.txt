@@ -1,0 +1,755 @@
+=================== SUMMARY ======================
+
+		もくじ
+
+ものがたり
+ゲームを始める前に！
+ファイナルファンタジー全マップ
+操作方法
+	■操作キーの説明
+	　１）キャラクター設定
+	　２）名前の入力方法
+	　３）４人の戦士の職業
+	　４）パーティーの組み方
+地形
+乗り物
+メニュー画面
+	■「ステータス」について
+	■旅の途中のコマンド選び
+	　★アイテム
+	　★まほう
+	　★ぶき
+	　★ぼうぐ
+戦闘
+	★たたかう
+	★にげる
+	★まほう
+	★くすり・もちもの
+パーティーの隊列替え
+人と話す・とる・調べる・お店
+	１）人と話す
+	２）とる・調べる
+	３）お店
+	４）宿屋
+	５）教会
+	６）武器屋・防具屋・道具屋
+	７）白魔法屋・黒魔法屋
+セーブ
+	★ゲームの終了
+武器リスト
+防具リスト
+道具リスト
+魔法について
+魔法リスト
+
+		Table of Contents
+
+Story
+Before Playing the Game!
+Final Fantasy World Map
+Controls
+	■ Control Keys explanation
+	  1) Character creation
+	  2) Name input
+	  3) The Classes of the Four Warriors
+	  4) Forming a party
+Terrain
+Vehicles
+Menu Screen
+	■ Regarding "Status"
+	■旅の途中のコマンド選び
+	　★アイテム
+	　★まほう
+	　★ぶき
+	　★ぼうぐ
+戦闘
+	★たたかう
+	★にげる
+	★まほう
+	★くすり・もちもの
+パーティーの隊列替え
+人と話す・とる・調べる・お店
+	１）人と話す
+	２）とる・調べる
+	３）お店
+	４）宿屋
+	５）教会
+	６）武器屋・防具屋・道具屋
+	７）白魔法屋・黒魔法屋
+セーブ
+	★ゲームの終了
+武器リスト
+防具リスト
+道具リスト
+魔法について
+魔法リスト
+
+
+=================== PAGE 1 =====================
+
+
+(c) スクウェア、イラスト/天プロダクション
+
+(c) Square, Illustrations: Ten Productions
+
+=================== PAGE 2 =====================
+
+	ものがたり
+
+長い間、人々に語りつがれてきた光の伝説がある。
+土、火、水、風をつかさどる４つのクリスタルに光が宿る限り、この世界の平和は守られる。そして、クリスタルの光が失われたとき、４人の光の戦士が現われると…。
+-----------------------------------------------------
+この世界が光につつまれ、平和であったのはいったいどのくらい前のことだったのだろう。空は澱み、作物は枯れ、海は荒れている。長い間眠っていた火山は狂ったようにほえ、火を吹き上げた。人々は、これらが巨大な悪の仕業であることを知っていたが、誰一人立ち向かえるものはいなかった。ただ、神に４人の光の戦士が現われることを願うのみだったのである。
+そして今…。
+ついに伝説のとおり、コーネリアの都にクリスタルを持った４人の戦士が現われた。
+しかし、４人の若者は本当に光の戦士なのか？
+-----------------------------------------------------
+クリスタルの光を取り戻すのは、自分達しかいない。自分達の手で、この広い世界のどこかにあるというクリスタルの祭壇を見つけださなくてはならないのだ。そのためには、モンスターの支配に屈せず、この世界に平和を取り戻そうと光の戦士達の出現を待ちわびていた賢者や人々に会い、数々の秘密を解き、行く手に立ちはだかるモンスターを倒して行かなければならない。
+４人の戦士が持つ４つのクリスタル全てに光を取り戻すまで、彼らの旅は続く。
+行け！伝説の戦士よ。闘いはまだはじまったばかりなのだ。
+
+	Story
+
+There is a legend that has been told since time immemorial. The legend of Light.
+As long as Light dwells within the Four Crystals that govern the elements of Earth, Fire, Water, and Wind, there will be peace in our world. But should the Light disappear from the Crystals, the Four Warriors of Light will appear.
+-----------------------------------------------------
+How long has it been since our world has last been blessed by that light? Now, the sky is dull, crops are withering, and the seas are raging. Volcanoes that have always been dormant now spew liquid fire, roaring madly. We knew that this was the work of a great evil, but none of us could stand against it. We could only hope that God would send the Four Warriors of Light to save us.
+And now...
+As the legend foretold, four warriors, each carrying a crystal, have appeared in the town of Cornelia.
+But are these youths truly the legendary Warriors of Light?
+-----------------------------------------------------
+Only they can restore Light within the Crystals. They must find the altars, hidden somewhere in this vast world. To do so, they must meet with the sages who have been waiting for the arrival of the Warriors of Light, unravel numerous mysteries, and defeat the monsters standing in their path.
+Their journey will not end until Light has been returned to all four Crystals.
+Now go, legendary warriors! Your battle has only just begun!
+
+=================== PAGE 3 =====================
+
+	ゲームを始める前に！
+
+１）製品構成
+　・「ファイナルファンタジー」ゲームディスケット	１枚
+　・プレイングマニュアル
+　・ユーザーディスク用ラベル						１枚
+　・ユーザーサポート依頼書
+　・アンケートはがき
+２）セーブについて
+ファイナルファンタジーMSX２版は、ゲームの途中までのデータを記録（セーブ）することができます。記録するためにはゲームディスクの他に、ユーザーディスクが必要です。
+ユーザーディスクを作成するためには、ブランクディスク（3.5インチ2ＤＤ）が１枚必要ですので用意して下さい。
+３）ユーザーディスクの作成方法
+オープニング中に[SELECT]キーを押すと画面には、
+
+------------------------------------------------
+　　《ユーザーディスクをさくせいします》
+＊ちゅうしするときは[ESC]キーをおしてください ＊ドライブナンバーを、にゅうりょくしてください
+------------------------------------------------
+
+と出ますので、[Ａ] のキーを押して下さい。
+
+------------------------------------------------
+１－１	side, double track
+２－２	side, double track
+？
+------------------------------------------------
+
+と出たら、[２]のキーを押します。
+
+------------------------------------------------
+＊よういができたらリターンキーをおしてください
+------------------------------------------------
+
+と出ますので、ここでディスクドライフのディスケットを、あなたが用意したディスケットと入れ替えて、リターンキーを押します。
+
+------------------------------------------------
+＊ゲームをはじめるなら
+＊ドライブＡにゲームディスクをいれて
+＊リターンキーをおしてぐださい！！
+------------------------------------------------
+
+と表示されればＯＫ。ゲームを開始したければ、ディスクを入れ替えてリターンキー、又はオープニング中にスペースキーを押して下さい。
+
+	Before Playing the Game!
+
+1) Content of the box
+
+  - "Final Fantasy" game diskette (1)
+  - Instruction manual
+  - Label for user disk	(1)
+  - User support request form
+  - Survey postcard
+
+2) About saving
+Final Fantasy MSX2 Edition allows you to save your progress during gameplay. In order to save, you will require a user disk in addition to the game disk.
+A blank disk (3.5-inch 2DD) is required to create a user disk.
+
+3) Creating a user disk
+
+During the game's opening, press the [SELECT] key, and the following message will be displayed on screen:
+
+------------------------------------------------
+			<User Disk Creation>
+* Press [ESC] to pause the game.
+* Insert disk in Drive Number.
+------------------------------------------------
+
+Then, press [A], and the following message will be displayed on screen:
+
+------------------------------------------------
+1-1	side, double track
+2-2	side, double track
+?
+------------------------------------------------
+
+Then, press [2], and the following message will be displayed on screen:
+
+------------------------------------------------
+* Press RETURN when you are ready.
+------------------------------------------------
+
+Now replace the diskette in the Disk Drive with the blank disk you will use as user disk, and press RETURN. The following message should be displayed on screen:
+
+------------------------------------------------
+* To start the game,
+* insert game diskette in Drive A
+* and press RETURN!
+------------------------------------------------
+
+Now replace the disk in the drive, and press RETURN. You can also press SPACE during the opening.
+
+=================== PAGE 4 & 5 =====================
+
+ファイナルファンタジー全マップ
+
+Final Fantasy World Map
+
+=================== PAGE 6 =====================
+
+	操作方法
+
+「ファイナルファンタジー」MSX2版のパッケージの中には、ゲー厶ディスクが１枚入っています。
+ご使用本体の電源を入れる前に次のことを行なって下さい。
+この「ファイナルファンタジー」は、FM音源に対応しています。FMパナ・アミューズメント・カートリッジをお持ちの方は、本体のスロットに差し込んで下さい。
+ゲームディスクをドライプに入れ[CTRL]キーを押しながら電源を入れて下さい。
+しばらくしますと、画面に【つづく】【やりなおし】【メッセージ　スピード１】とでます。
+まず最初にメッセージスピードを決定します。
+メッセージスピードとは、戦闘画面のメッセージスピードです。カーソルキーの左右で変えることができます。遅い順に1～８までの８段階で、８が最も早く表示されます。次に【つづく】か【やりなおし】を選びます。
+【つづく】はセーブしたところから、【やりなおし】はパーティーを選ぶところから始まります。初めてゲームをする場合は【やりなおし】を選びます。
+※FM-PACのボリュームはお好みに合わせて調整して下さい。
+
+■操作キーの説明
+
+カーソルキー
+			戦士の移動、コマンドの選択
+スぺースキー
+			コマンドの決定。人と話す。物を調べる。
+リターンキー
+			コマンドのキャンセル（一つ手前のコマンドに戻ります。)
+ファンクションキー１
+			メニュー画面を呼び出します。
+ファンクションキー２
+			４人のパーティーの並び替えの時に使用
+
+★ジョイカードもご使用になれますが、すべてのキーには対応していませんのでキーボードと併用してご使用ください。
+	力ーソルキー	----->	十字ポタン
+	スペースキー	----->	Ａボタンまたは１ボタン
+	リターンキー	----->	Ｂボタンまたは２ボタン
+
+	Controls
+
+The "Final Fantasy" MSX2 Edition package includes one game disk.
+Please follow these instructions before turning on your MSX2.
+This version of "Final Fantasy" is compatible with FM Sound. If you own an FM Pana Amusement Cartridge, please insert it in your MSX2.
+Insert the game disk into the drive and turn on the power while holding the [CTRL] key.
+After a few moments, you will see [Continue], [New Game], [Message Speed 1] displayed on your screen.
+First, you should choose your message speed.
+Message speed refers to how quickly text is displayed on screen during battles. There are 8 levels, 1 being the slowest and 8 the fastest.
+Next, choose between [Continue] and [New Game].
+[Continue] allows to resume your game from where you have last saved, while [New Game] begins the game from the party selection. If you are playing for the first time, select [New Game].
+* You can regulate the volume of FM-PAC to your liking.
+
+■ Control Keys explanation
+
+Cursor Keys
+			Move the Warrior
+			Highlight commands
+Space Key
+			Confirm commands
+			Talk to people
+			Inspect things
+Return Key
+			Cancel commands (return to previous command)
+Function Key 1
+			Open menu screen
+Function Key 2
+			Used to rearrange party
+
+★ While the game can be played with a Joy Card, not all keys are supported. Please use in conjunction with a keyboard.
+	Cursor Keys	----->	D-Pad
+	Space Key	----->	Buttons A and 1
+	Return Key	----->	Buttons B and 2
+
+=================== PAGE 7 =====================
+
+１）キャラクター設定
+【やりなおし】を選んでゲー厶をスタートさせると、キャラクター選択画面が出てきます。画面左上のキャラクターから、カーソルキーの左右で職業を選択し、スぺースキーで決定します。（職業はＰ８参照）
+ファイナルファンタジーは、最初に選んだ４人の職業が一定の条件を満たすとクラスチェンジして、より強力なスぺシャリストになります。（Ｐ９参照）
+
+２）名前の入力方法
+キャラクター設定画面で職業を決定し、スペースキーを押すと名前の登録画面が出てきます。ここで力ーソルキーを使って文字を選び、名前を登録します。名前は４文字までで、４文字以下の場合は、画面右下のスペースを入れてください。この操作を４人のキャラクター全員に行ない、決定した状態でスペースキーを押せば、いよいよ冒険の始まりです。
+
+1) Character creation
+After selecting [New Game], the character selection screen will be displayed. Starting from the upper left corner of the screen, use the cursor keys Left and Right to select a Class, then press Space to confirm (refer to p.8 for an explanation on Classes).
+In this game, your characters will undergo a Class Change when certain conditions are met, allowing them to become powerful specialists (refer to p.9).
+
+2) Name input
+After choosing a Class for each character, press Space to bring up the Name Registration screen. Use the Cursor Keys to select the letters. Names can have up to 4 letters or symbols. In case you wish to input a name with less than 4 letters, insert a blank space (lower right corner) to fill the blanks. Once you have input names for all four characters, press Space to confirm and begin your adventure.
+
+=================== PAGE 8 =====================
+
+３）４人の戦士の職業
+
+《戦士》
+武器を使った戦闘のプロフェッショナル。当然ほとんどの武器が使用できる。力が強くクラスチェンジして魔法を使えるようになるがレベルの高い魔法は無理。
+
+《シーフ》
+動きが素早く敵から逃げやすい。クラスチェンジすると意外に多くの武器や防具を使用できる。
+
+《モンク》
+自らの肉体と精神を鍛え上げている。クラスチェンジす るとヘタな武器を持つよりも素手の方がかえって攻撃力 が強い。持てる武器や防具は少ない。
+
+《赤魔術師》
+白と黒の両方の魔法が使えるが、全ての魔法が使えるわけではない。しかし、魔術師なのに武器や防具をうまく使いこなし、戦闘力も高い。
+
+《白魔術師》
+傷を治して体力を回復したり、身を守る防御中心の白魔法を使う。攻撃の魔法はほとんど使えず、体力も弱いのが玉に傷。
+
+《黒魔術師》
+敵にダメージを与える攻撃中心の黒魔法を使う。ただ白魔術師と同じく体力が弱く、武器による攻撃も得意ではない。
+
+3) The Classes of the Four Warriors
+
+<Warrior>
+Professionals of armed combat. Naturally, they can use almost any weapon. After Class Change, they will become even stronger, as well as gain the ability of casting magic spells, though not at high levels.
+
+<Thief>
+They can easily run from enemies thanks to their nimble legs. After Class Change, they will be able to use a surprisingly large number of weapons and armor.
+
+<Monk>
+Those who have honed their mind and body with rigorous training. After Class Change, the Monk's bare hands will be more powerful than those petty common weapons. They can only equip a handful of weapons and armor.
+
+<Red Mage>
+While they can cast both White and Black spells, they cannot cast all of them. However, Red Mages can equip weapons and armor, making them very versatile fighters.
+
+<White Mage>
+White Mages can cast defensive White spells that can heal wounds and protect themselves and their comrades. However, they can cast very few offensive spells, and they are physically weak.
+
+<Black Mage>
+Black Mages can cast a large variety of offensive Black spells to inflict damage on their enemies. However, like White Mages, they are physically weak.
+
+=================== PAGE 9 =====================
+
+４）パーティーの組み方
+６人のキャラクターの中から４人を選び、パーティーを組まなければなりません。このパーティーの組み方次第で、ゲームの進み方、展開が大きく異なってきます。君はどんなパーティーを作るのだろうか？
+組み合わせは全部で１２９６種類あります。たとえば……
+
+	戦士------戦士------戦士------戦士
+	戦士----白魔術師----黒魔術師----赤魔術師
+	戦士----シーフ------モンク------白魔術師
+	
+その他色々なパターンがありますが、ゲームを開始したら途中で変更することは出来ません。組み合わせは、よく考えて決めましよう。
+
+★キャラクターは、ゲームの途中である条件を満たすと、クラスチェンジができます。クラスチェンジをすると、今まで使えなかった武器や魔法が使えるようになります。
+
+		戦士	------>	ナイト
+		シーフ	------>	忍者
+		モンク	------>	マスターモンク
+		白魔術師 ----->	白魔導士
+		黒魔術師 ----->	黒魔導士
+		赤魔術師 ----->	赤魔導士
+
+4) Forming a party
+Your party must be composed of 4 out of the 6 available Classes. Depending on how you form your party, the way you experience the game will vary greatly. What kind of party will you make?
+There are a total of 1296 different combinations you could make. For example...
+
+	Warrior ---- Warrior ---- Warrior ---- Warrior
+	Warrior -- White Mage -- Black Mage -- Red Mage
+	Warrior ----- Thief ----- Monk ----- White Mage
+	
+And many more. However, you will not be able to change your party once the game has started. Think carefully about the kind of party you wish to create.
+
+★ If certain conditions are met during the course of the game, your characters will be able to undergo Class Change, which will allow them to wield weapons and spells they could not before.
+
+		Warrior ------>	Knight
+		Thief -------->	Ninja
+		Monk --------->	Master Monk
+		White Mage --->	White Wizard
+		Black Mage --->	Black Wizard
+		Red Mage ----->	Red Wizard
+
+
+=================== PAGE 10 =====================
+
+地形
+
+地形を理解することは旅を進める上でとても重要です。地形は乗り物と深い関係があります。
+
+
+[Grass]
+平地・芝地
+普通に歩くことができ、飛空艇を着陸させることができます。
+
+[Forest]
+森
+普通に歩くことができます。
+
+[Mountain]
+山
+歩くことはできません。
+
+[abstract painting]
+腐った大地・砂漠
+歩くことはできますが、飛空艇は着陸できません。
+
+[abstract painting 2]
+川・湖
+カヌーでしか入ることも渡ることもできません。
+
+[water pattern]
+海
+船でしか走れません。
+
+[castle]
+城
+情報やアイテムの宝庫。
+
+[town]
+町・村
+町や村には色々な店のほかに宿屋や教会があります。
+
+[tetris piece]
+港
+船を着けられます。
+
+[tree hole]
+ダンジョン
+地下深く続く迷宮です。
+
+[clipart stairs]
+段階
+上の階、下の階に行くことができます。
+
+[gate]
+扉
+鍵付きと鍵なしの扉があります。
+
+[clipart chest]
+宝箱
+宝箱の方を向いてスペースキーを押せば、中の物を取ることができます。
+
+ダンジョンの中には様々な罠があります。十分注意して下さい。
+
+
+Terrain
+
+Understanding terrain is essential to completing your journey.
+Note that terrains are also very relevant to vehicles.
+
+[Grass]
+Plains, grass
+You can walk and land your airship on this terrain.
+
+[Forest]
+Forest
+You can walk on this terrain.
+
+[Mountain]
+Mountains
+You cannot walk on this terrain.
+
+[abstract painting]
+Marshland, desert
+While you can walk on this terrain, you cannot land your airship on it.
+
+[abstract painting 2]
+River, lake
+You can only cross this terrain with the canoe.
+
+[water pattern]
+Sea
+You can only cross this terrain with the ship.
+
+[castle]
+Castle
+A treasure house of information and items.
+
+[town]
+Town, village
+In towns and villages you will find inns, churches, as well as a variety of shops.
+
+[tetris piece]
+Harbor
+You can only disembark from your ship from harbors.
+
+[tree hole]
+Dungeon
+Labyrinths that go deep underground.
+
+[clipart stairs]
+Staircase
+These allow you to move to an upper or lower floor.
+
+[gate]
+Gate
+Some gates require a key, while others do not.
+
+[clipart chest]
+Treasure chest
+Face a chest and press Space to take its content.
+
+Be aware that dungeons contain a variety of traps.
+
+
+=================== PAGE 11 =====================
+
+乗り物
+
+ファイナルファンタジーの世界を旅するためには、乗り物が重要な役目を果たします。
+それらを１つずつ手に入れるたびに、あなたの行動範囲は広がってゆくことでしょう。
+
+[ship]
+《船》
+旅の途中で手に入ります。ただし上陸できるのは港に限られます。
+海を移動するには船が必要です。
+
+[canoe]
+《カヌー》
+南半球のどこかで手に入れることが出来ます。
+川や湖はカヌーでなければ進むことが出来ません。
+
+[blimp]
+《飛空艇》
+数々の謎を解いてようやく手に入れることが出来るスーパーアイテムです。
+飛空艇はどこでも移動する事が出来ますが、着陸には平地や芝地の一定スペースが必要です。
+
+〈乗り物に関する注意〉
+■３つの乗り物は、それぞれつかえる場所、上陸、着陸できる場所が決まっています。
+特に飛空艇は着陸できる場所が限られています。
+
+■乗り物（飛空艇と船）は、おりた場所をよく覚えておかないと、町、村でセーブした後に大変困ります。
+自分で作ったマップに印を付けておくと便利です。
+
+
+Vehicles
+
+Vehicles play an important role in your journey through the world of Final Fantasy.
+With each new vehicle, your area of activity will expand.
+
+[ship]
+<Ship>
+You will acquire a ship during your journey. However, this ship can only dock in harbors.
+The ship is essential to cross the sea.
+
+[canoe]
+<Canoe>
+You will acquire a canoe somewhere in the southern hemisphere.
+The canoe is essential to cross rivers and lakes.
+
+[blimp]
+<Airship>
+This special vehicle can only be obtained after solving a series of riddles.
+The airship can travel anywhere, but can only land on plains and grass tiles.
+
+[A few notes about vehicles]
+-	Each vehicle can cross, embark from, and disembark from different terrains. Particularly, the airship can only land on a limited number of places.
+-	Try to remember where you have left your vehicle when you save your progress, or you may be in trouble next time you boot up the game. We recommend marking the spot on your own map.
+
+
+=================== PAGE 12 =====================
+
+メニュー画面
+
+このメニューは、コマンドを選択する基本画面です。
+〈Ｆ１〉キーを押して下さい。キャラクターの現在の状態を見ることができます。
+
+伝説のクリスタル。
+謎を解くと１つずつ輝く。
+
+							各キャラクターのレベルや
+							状態とＨＰの表示など。
+							
+	[game screen]
+
+
+《コマンドスペース》
+						現在持っているお金
+						
+						コマンドを選びスペースキーを押すと
+						必要なコマンド画面が表示されます。
+
+
+Menu Screen
+
+This is the basic screen for selecting commands.
+Press F1 to display your characters' current status.
+
+The legendary crystals.
+One of them will glow each
+time you solve a mystery.
+
+							This will display the level,
+							condition, and HP of your
+							characters.
+							
+	[game screen]
+
+
+<Command Space>
+						Your current amount of money.
+						
+						Highlight a command and press Space
+						to display the related Command Screen.
+
+=================== PAGE 13 =====================
+
+[character]
+
+			キャラクターの名前
+			現在のレベル
+			現在のＨＰと最大ＨＰ
+			
+			キャラクターが魔法を使える場合、そのレベルごとに使える魔法の回数を表示します。
+
+■「ステータス」について
+
+・現在のレベル、経験値、次のレベルまでの経験値、キャラクターの各能力が表示されます。
+・「ウェポン」「アーマー」の値が大きいと敵に与えるダメージは大きく、逆に敵から与えられるダメージは少なくてすみます。しかし、重いものを持つと、「めいちゅうりつ」「かいひりつ」が下がることになりますので、武器や防具を選ぶときには必ずステータスで確認して下さい。
+・「こううん」が高いと敵から逃げやすい。
+・すべての数値は、キャラクターのレベルが上がるごとにアップしますので、レベルアップしたらかならず確認して下さい。
+
+
+[character]
+
+			Character's name
+			Current level
+			Current HP/Max HP
+			
+			If the character can use magic,
+			the number of times each spell
+			level can be used is also shown.
+
+■ Regarding "Status"
+
+- This screen will display the character's current level, current experience points, points needed to level up, as well each individual stat.
+- The higher the value of "Weapon" and "Armor", the more damage you will inflict and the less damage you will receive. However, heavier equipment will lower your "Accuracy" and "Evasion" rates. Check your status often whenever you try new equipment.
+- The higher "Luck" is, the more likely you are to run away from enemies.
+- All values will increase when the character gains a level, so check your status often whenever you level up.
+
+=================== PAGE 14 =====================
+
+■旅の途中のコマンド選び
+
+メニュー画面の左下のコマンドメニューで、使いたい、調べたいコマンドをカーソルキーで選びスペースキーで決定します。
+
+★アイテム
+
+持っているアイテムが表示されます。使いたいアイテムをカーソルキーで選び、スペースキーを押します。
+ポーションや毒消しなどを選択すると新たにメニューが現れ、カーソルキーで誰に対して使うかを選び、スペースキーを押して決定して下さい。
+
+
+★まほう
+
+メニュー画面のまほうを選択し、どのキャラクターが魔法を使うのかを決めて下さい。
+使う魔術師を決定しスペースキーを押すと魔法選択画面が表示して使う魔法を選びます。
+魔法の中には戦闘中にしか使えない魔法もありますので、魔法の特徴をつかんで効果的に使って下さい。
+また、魔法を続けて使うときはスペースキーを、もとの画面に戻したいときはリターンキーを押して下さい。
+
+((Here it says "menu" which I changed to "option" or "textbox".
+I omitted some repetitive text of "use the cursor and space key". The first one is enough.
+The original says "please" which is fine for Japanese but it sounds a bit weird here.))
+
+■ Selecting commands during your travel
+
+Inside the "Command" option located at the lower left corner of the menu screen, you can select the command you wish to use or check out with the space key.
+
+★Items
+
+It will display your item list. You can select which one you'd like to use by pointing it with the cursor and pressing the space key.
+In case you choose potions and antidotes, a new textbox will appear. This will allow you to pick which one of your characters will receive it.
+
+★Magic
+In order to use magic, you must choose which character will perform which spell with the "Magic" option of the menu screen.
+Once you highlighted your wizard and pushed the space key, a textbox with the spell listing will pop up, from which you'll have to choose one.
+Among the spells, there are ones that can only be used mid-battle, so learn to use them carefully and efficiently as you grasp the gist during each battle.
+Also, if you want to keep using spells, push the space key again, and if you wish to return to the previous screen, press the return key.
+
+=================== PAGE 15 =====================
+
+★ぶき
+
+メニュー画面のぶきを選択すると、右のような武器表示画面が表示されます。
+
+《そうび》
+武器は「そうび」しないと使えません。
+カーソルキーで武器を選び、スペースキーを押すと「Ｅ」と表示され装備されたことを示します。続けてスペースキーを押すと解除されます。
+
+《こうかん》
+キャラクター同士の武器を交換したいときは、交換したい武器を選び、それぞれスペースキーを押せば交換できます。また、武器を他のキャラクターに渡したいときは、同じく「こうかん」を使用して渡す武器を選んで、渡したいキャラクターの武器の欄のスペース（空白）部分にカーソルを合わせてスペースキーを押せば完了します。
+武器は各キャラクター各々が４つまで持つことができます。
+
+《すてる》
+捨てたい武器をカーソルキーで選んで、スペースキーを押します。
+武器を持ちすぎた場合などに使用します。
+
+★ぼうぐ
+
+メニュー画面のぼうぐを選択すると、防具表示画面が表示されます。
+
+
+装備の方法は武器の装備と同じ方法です。ただし、防具は武器とは違い、キャラクターによっては複数身につけることができます。この場合は、必要な防具全てカーソルキーで選び、スペースキーを押して決定して下さい。なお、《こうかん》《すてる》は、武器のときと同じ方法で行うことができます。
+
+★Weapons
+
+Selecting the "Weapon" option will display your current weaponry, as you can see in the picture of the right.
+
+《Equip》
+Weapons can only be used when equipped. Choose the one you want to equip using the cursor and the space bar. Then, a letter "E" will appear, marking it as equipped. If you press space again, it will be removed.
+
+《Exchange》
+If you wish to exchange weapons between characters, choose them with the space key one at a time, and they will be swapped. Additionally, should you wish to give a specific weapon to a character, use this same command to pick the weapon you'd like to assign to them, and place it in a blank slot of their personal weapon inventory.
+Each character can carry up to four weapons.
+
+《Drop》
+Point to the weapon you want to get rid of, and press the space bar. It's useful if you're carrying too many.
+
+★Armor
+Enter this option to display your armor inventory.
+
+《Equip》
+Equipping a piece of armor is the same as with weapons. However, unlike weaponry, multiple armor elements can be assigned to a character (depending on the class): choose every piece you need with the cursor, and finish your selection pressing space bar. Lastly, 《Equip》 and 《Drop》 options work the same way as they do with weapons.
+
+=================== PAGE 16 =====================
+
+戦闘
+
+旅の途中、敵と出会うと画面がフラッシュして戦闘画面になります。４人の能力を生かして、敵を倒すことがレベルアップへの道です。
+
+★たたかう
+手持ちの武器で敵を攻撃します。カーソルキーで闘う相手を選び、スペースキーを押して下さい。闘って勝てば、経験値はアップします。
+
+★にげる
+敵から逃げるときに使います。ただし、このコマンドを選んでもすぐ逃げられる訳ではありません。コマンドは素早い者の順に実施されますので「にげる」のコマンドを選んだものに順番が回ってきたときに始めて実行されます。しかし、逃げられない場合もあるので、逃げる場合は４人で足並みをそろえた方が良いでしょう。
+
+★まほう
+身につけている魔法を使います。敵と闘う魔法の場合は「まほう」のコマンドを選び、スペースキーを押すと「魔法選択表示」ができます。使う魔法をカーソルキーを利用して選び、攻撃する敵を選んでからスペースキーを押します。（複数に効く敵の場合は、敵を選ぶ必要はありません）見方に使う魔法の場合は、使う魔法を選んでから誰に使うかを決めて、スペースキーを押します。見方全員に効く場合は、魔法を選んでスペースキーを押します。
+
+Battle
+
+During your journey, whenever you find enemies, the screen will flash and you'll be redirected to the battle screen. Putting your characters' abilities to good use and defeating these foes is the way you level up.
+
+★Fight
+The warrior will attack the enemy with whatever weapon they hold in hand. Pick a foe with the cursor and press space bar to confirm your choice. If you win the fight, you'll receive EXP points.
+
+★Flee
+Use it to escape from the enemy. However, please keep in mind you won't always be able to run away. Commands are run in order from the quickest to the slowest character, so "Flee" will be executed following this order. Nevertheless, there will be encounters that you absolutely can't run from, so in case you need to escape, it would be advisable to assign the command to everyone in your party.
+
+★Magic
+Will perform magic you already learned. Selecting this option will display a list of available spells. In case of offensive magic, you first need to choose a spell and then choosing a enemy to attack (not required for multiple-target spells), and in defensive magic, you pick an ally you want to protect instead. If you're using a multiple-ally spell, you only need to press space bar once.
