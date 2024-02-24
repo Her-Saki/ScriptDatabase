@@ -1,0 +1,361 @@
+;-------------------------------------------------------------------------------
+;	オープニング
+*openning
+;setwindow 18,18, 36,21, 17,17, 0, 4, 22, 1, 1, #ffffff, 0, 0, 639, 479
+setwindow 18,18, 36,21, 17,17, 0, 4, 22, 1, 1, #ffffff, 0, 0, 639, 479
+windoweffect 1
+;カーソルの表示を行わない
+setcursor 0,":c;icon\0.bmp",0,0
+setcursor 1,":c;icon\0.bmp",0,0
+autoclick 1500
+
+;CD-DA「メインテーマ・ループ」
+play "*9"
+
+br
+br
+br
+br
+br
+br
+br
+` -------De repente, abro los ojos.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                          Es una noche oscura,@
+`                                 y no hay nadie dentro de la casa.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                        Me da miedo estar solo,@
+`                         así que salgo al jardín a buscar a mi familia.\
+
+; 月（遠い）<クロスフェード(中)>
+bg "image\bg\ima_02.jpg",%type_crossfade_mid
+!w1000
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                           Los vastos jardines de nuestra mansión
+`                          están rodeados por un profundo bosque,@
+`                    cuyos negros árboles forman una enorme cortina.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+`                                       Al igual que en un teatro,@
+`                                      el telón de árboles se abre
+`                                     mientras aguardo con ansias
+`                                el inminente comienzo de la obra.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+`                                         Escucho varios sonidos
+`                            más allá de la negra cortina de árboles.@
+`                                            Dentro del bosque,@
+`                               todos están cantando alegremente.\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                       La cortina aún no se abre,@
+`                                           así que, impaciente,
+`                                           me meto al bosque.\
+
+; 黒画面<クロスフェード(遅)>
+bg "image\bg\ima_10.jpg",%type_crossfade_slw
+
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                       Todo está tan... oscuro...@
+`  El bosque es tan profundo que ni la fría luz de la luna llega hasta mí.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                               Hace tanto frío...@
+`                   Es un frío tan intenso que hasta podría entumecer
+`                                        el interior de mis ojos.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                  Oigo a alguien decir mi nombre,@
+`                           así que me adentro aun más en el bosque.\
+br
+br
+br
+br
+br
+br
+br
+br
+`                        Tras atravesar el velo que forma la arboleda,@
+`           los encuentro a todos esperándome en el claro del bosque.@
+`                                            Todos deformados,@
+`                                tirados en el suelo, y en pedazos.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                Todo el claro está cubierto de rojo.\
+
+br
+br
+br
+` ---No lo entiendo.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Un extraño se acerca para destrozarme.\
+
+br
+br
+br
+br
+br
+` ---No entiendo nada.\
+
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                           Sin embargo, alguien se para frente a mí,
+`                                     y es destrozado en mi lugar.\
+
+br
+br
+br
+br
+br
+br
+br
+` ---Soy sólo un niño, así que no entiendo nada.@
+\
+
+; 血しぶき（画面いっぱい）<クロスフェード(速)>
+bg "image\bg\ima_13b.jpg",%type_crossfade_fst
+
+br
+br
+br
+br
+br
+br
+br
+br
+`                                                    *Splash!*@
+`                                  Algo cálido golpea mi rostro.@
+`                                                    Es rojo.@
+`                                 Un líquido rojo como un tomate.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                       La persona destrozada,@
+`                               aquella a la que llamaba "mamá",@
+`                          nunca más volvió a decir mi nombre.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` -----De verdad no lo entiendo.\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                          Tengo tanto frío...@
+`                      Sé que es inútil, pero siento ganas de llorar.\
+
+; 白画面<クロスフェード(速)>
+bg "image\bg\ima_10.jpg",%type_crossfade_slw
+
+br
+br
+br
+br
+br
+br
+br
+`                                Un cálido escarlata nubla mi visión
+`                                    y se filtra dentro de mis ojos,@
+`                                   pero no me molesta para nada.@
+`                          Mientras tanto, allá en el cielo nocturno,@
+`                                       la luna brilla en soledad.\
+
+; 月（画面いっぱい）<クロスフェード(中)>
+bg "image\bg\ima_01.jpg",%type_crossfade_slw
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                                Qué extraño...@
+`                     ¿Por qué será que no me di cuenta hasta ahora?\
+
+br
+br
+br
+br
+br
+br
+br
+` ---Qué pesadilla tan fría... y horrible...\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                 Claro... No me había dado cuenta...\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                                           de que esta noche...\
+
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`                               la luna está------ hermosa----\
+
+;CD-DA停止
+playstop
+
+
+setwindow 18,18, 36,21, 17,17, 0, 4, 22, 1, 1, #aaaaaa, 0, 0, 639, 479
+windoweffect 10,300
+setcursor 0,":l/3,160,2;icon\cursor0.bmp",0,0
+setcursor 1,":l/3,160,2;icon\cursor1.bmp",0,0
+autoclick 0
+
+return

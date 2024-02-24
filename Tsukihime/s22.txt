@@ -1,0 +1,172 @@
+*s22
+
+
+; 学校中庭（昼）<左シャッター(速)>
+bg "image\bg\bg_04.jpg",%type_lshutter_fst
+` A medida que camino hacia el patio, el origen del sonido se vuelve claro.@
+` En el medio de un camino arbolado,@
+` una chica está agachada trabajando con un martillo y unos clavos.\
+
+`"||"@
+` ¿Qué estará haciendo?@ Faltan muy pocos minutos para que empiecen las clases.@
+`"Quizás no tiene un reloj..."@
+` De momento, esa es la única explicación que se me ocurre.@
+` || Ahora que la vi, ignorarla sería cruel de mi parte.@
+` Para no asustarla, voy a acercarme despacio y le voy a hablar.\
+
+; 黒画面<左シャッター(中)>
+bg "image\bg\ima_10.jpg",%type_lshutter_mid
+; シエル:出会い。柵を直しているシエル<左シャッター(中)>
+bg "image\event\cel_e01.jpg",%type_lshutter_mid
+
+;CD-DA「学校・昼」
+play "*3"
+
+`"Ey, las clases ya están por empezar."@
+`"¿Eh?"@
+` La chica agachada alza su rostro.@ El color de su listón prueba que va a tercer año.@
+`"||"@
+` Martillo en mano, la chica de último año me mira fijamente.@
+`"Esteee..."@
+` Su mirada a través de los lentes es tan directa que siento que me está atrayendo hacia ella.@
+` Es una mirada tan seria que me hace sentir culpable por molestarla.@
+` La tablilla para plantas frente a ella está tan podrida que ya no sirve de nada.\
+
+` Ahora que recuerdo, el patio trasero de nuestra escuela se encuentra en un estado deplorable.@
+` Las tablillas de soporte para las plantas nunca reciben mantenimiento, y los campos de flores están desatendidos.@
+` Si no me falla la memoria, como los maestros querían mandar a los alumnos a hacer una gran limpieza a fin de año, los contratistas no hicieron ninguna clase de mantenimiento desde el verano.\
+
+` ---Teniendo eso en cuenta, la situación está más que clara.@
+` Esta chica a la que nunca vi en mi vida está reparando las tablillas rotas con el martillo y los clavos, sin preocuparse por ensuciar su pulcro uniforme.@
+` El sudor de su frente me hace apreciar con cuánta seriedad y esfuerzo estuvo martillando.@
+` Sin embargo, hasta donde sé, en esta escuela no existen encargados de reparar la propiedad pública...\
+
+`"Decime, ¿qué se te ofrece?"@
+` Pregunta la chica acomodándose los lentes.@
+`"Nada importante, solamente quería saber qué estabas haciendo."@
+`"Esteee, como podés ver, estoy arreglando las tablillas para plantas."@
+` Sí, eso ya me quedó claro.@
+`"No me refiero a eso.@ Lo que me intriga es POR QUÉ las estás arreglando.@ ¿No podés esperar a que los de mantenimiento vengan a repararlas?" @
+`"Jajaja..."@
+` La chica de lentes ríe para ocultar su vergüenza.\
+
+`"Soy el tipo de persona que no soporta ver un desorden como este.@ Simplemente no puedo dejarlo así."@
+` Parece que decidió arreglar las tablillas porque no soportó ver su estado.@
+`"||"@
+` Qué senpai más extraña...@
+`"Me parece una pérdida de tiempo que las repares vos misma por eso.@ Si tanto te preocupa este desorden, ¿por qué no evitás venir al patio y listo?"@
+`"Es que mi salón de clases está allá"@
+` Senpai señala un salón del segundo piso que está frente al patio.\
+
+`"Mi asiento está junto a la ventana, así que siempre veo el patio lo quiera o no.@ Por lo general lo tolero, pero cuando tomé asiento esta mañana, me horrorizó ver todas estas tablillas rotas."@
+` El rostro de Senpai se vuelve sombrío, como si dijera "¿No te parece terrible?"@
+` || Al parecer está enojada, pero no la veo enfurecida "de verdad", por así decirlo.\
+
+` "Al principio dudé un poco, pero después recordé esa frase que dice "que lo bueno no espere", y fui a pedir prestadas las herramientas en la oficina de maestros para arreglar las tablillas yo misma."@
+br
+` Y ahí termina su explicación.@
+br
+` Con una torpe reverencia, Senpai comienza a martillar de nuevo.\
+
+`"|| Está bien, te entiendo, ¿pero por qué no lo dejás acá por hoy?@ Las clases empiezan en menos de cinco minutos, y además, si las tablillas están en tan mal estado, la escuela se va a encargar de arreglarlas enseguida."@
+`"¡De ninguna manera!"@
+` Apretando su martillo, la chica de lentes niega con la cabeza.\
+
+`"Si lo dejo así, voy a estar tan preocupada que no voy a poder concentrarme en la clase.@ ¡Los dictados van a perder todo sentido para mí, y entonces el profesor me va a gritar: "¡Ey!@ ¡¿Qué hacés mirando por la ventana?!""@
+` Senpai explica enfáticamente mientras sostiene su martillo.@
+`"|| Bueno, supongo que se enojaría si hacés eso."@
+`"¿Viste?@ Por eso tengo que terminar con esto ahora."@
+` La agradable senpai reanuda su labor martillando ineptamente.\
+
+; 学校中庭（昼）<クロスフェード(速)>
+bg "image\bg\bg_04.jpg",%type_crossfade_fst
+
+` *Clank!*@ *Clank!*@, resuena el martillo al golpear la madera.@
+` || Según veo, hay más de una o dos tablillas rotas.@
+` No puedo ni calcular cuántas horas le va a tomar arreglarlas todas sola.@
+
+;S.E."予鈴"
+wave se2
+!w2000
+` Y para colmo, suena la campana de advertencia.@
+`"|| Parece que la primera clase ya empezó."@
+` Bueno...@ Ya fue.@
+` Me siento sin decir nada y empiezo a ayudarla a reparar las tablillas.\
+
+; 黒画面<左シャッター(中)>
+bg "image\bg\ima_10.jpg",%type_lshutter_mid
+!w1000
+; 学校中庭（昼）<左シャッター(中)>
+bg "image\bg\bg_04.jpg",%type_lshutter_mid
+
+` Una vez que comienzo a ayudarla me doy cuenta de que no es un trabajo TAN difícil.@
+` Aunque la chica de lentes no está acostumbrada a reparar cosas, es bastante hábil.@ Una vez que le agarra la mano, el trabajo avanza rápidamente.@
+` Se mueve de forma precisa, y observarla me pone de buen humor.@ En resumen, podría describirla como una persona amena.@
+` || Cuando me doy cuenta, solamente queda una tablilla por reparar.@
+br
+` Ya pasó media hora.@
+` No puedo quedarme acá más tiempo, e igual una más no va a ser problema para Senpai.\
+
+`"Bueno, ya me voy."@
+` Me levanto y me sacudo los pantalones.@
+` La chica de lentes también se levanta, y al igual que antes, me mira fijamente.@
+; 中央<昼>=シエル:睨み02（まじめな顔）<クロスフェード(中)>
+ld c,":a;image\tachi\cel_t07a.jpg",%type_crossfade_mid\
+
+`"¿||?"@
+` Ahora que lo pienso, ¿quién es?@
+` Su comportamiento fue tan extraño que ni siquiera presté atención a su apariencia, pero ahora que estoy más tranquilo, me doy cuenta de que es hermosa.@
+` Con semejante belleza, no me sorprendería que fuera popular entre los chicos como "el bombón de lentes".\
+
+`"En fin, tengo que irme.@ No te esfuerces demasiado, Senpai."@
+; 中央<昼>=シエル:楽03（正面・少し照れている）<クロスフェード(速)>
+ld c,":a;image\tachi\cel_t03.jpg",%type_crossfade_fst
+` La chica asiente obedientemente.@
+` || A pesar de que es mayor que yo, siento como si fuera mi kohai.@
+`"Muchísimas gracias por haberme ayudado.@ Me alegraste el día."@
+` Dice con una reverencia.\
+
+; 中央<昼>=シエル:喜01（基本的喜び）<クロスフェード(速)>
+ld c,":a;image\tachi\cel_t04.jpg",%type_crossfade_fst
+`"Voy a ir a saludarte en el recreo.@ Ah, y no te olvides de lavarte las manos, Tohno."@
+`"Vos también, Senpai."@
+` La saludo con la mano y me retiro.@
+br
+` || Un momento.@
+br
+`"|| ¿Nh?@ ¿Ya nos habíamos visto antes, Senpai?"@
+`"¡¿Eh?!"@
+` Perplejo, le apunto con el dedo a Senpai, y a su vez, ella grita sorprendida y pone una cara medio tímida, medio deprimida.\
+
+; 中央<昼>=シエル:哀<クロスフェード(速)>
+ld c,":a;image\tachi\cel_t09.jpg",%type_crossfade_fst
+`"¿No te acordás de mí, Tohno?"@
+`"¿||?"@
+` ¿Que si no la recuerdo?@ No, ese no es el problema.@
+` Estaría loco si olvidara a una belleza como ella.@
+`"Este..."@
+` Ella me mira con amargura mientras analiza mi expresión.@
+` Creo que... recuerdo esos ojos... de alguna parte...@
+
+; 白画面<クロスフェード(速)>
+bg "image\bg\ima_11.jpg",%type_crossfade_fst
+; 学校中庭（昼）<瞬時表示>
+bg "image\bg\bg_04.jpg",%type_crossfade_fst
+; 中央<昼>=シエル:哀<瞬時表示>
+ld c,":a;image\tachi\cel_t09.jpg",%type_nowaitdisp
+
+` || Pensándolo bien, creo que nos habremos saludado una o dos veces.\
+
+`"Vos sos Ciel, ¿no?"@
+` Pronuncio su nombre mientras ella hace puchero.@
+; 中央<昼>=シエル:喜01（基本的喜び）<クロスフェード(速)>
+ld c,":a;image\tachi\cel_t04.jpg",%type_crossfade_fst
+`"Sí, me alegra que te hayas acordado.@ Te quedaste embobado tanto tiempo que pensé que te lo olvidaste."@
+` || No era mi intención distraerme, pero no es mi culpa que me lo haya olvidado.\
+; 中央<昼>=シエル:楽03（正面・少し照れている）<クロスフェード(速)>
+ld c,":a;image\tachi\cel_t03.jpg",%type_crossfade_fst
+
+`"Bueno, nos vemos.@ Perdón por haberte retenido acá."@
+; 中央を消去<クロスフェード(速)>
+cl c,%type_crossfade_fst
+` Ciel hace otra reverencia.@ La miro distraído, y luego comienzo a caminar hacia el edificio escolar, sin poder despejar mi confusión.\
