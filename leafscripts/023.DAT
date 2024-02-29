@@ -1,0 +1,181 @@
+{HEADER:AQAHAAAAAAAAAAAAAAAAAEUAAAAA/P/1//T/u/8Auv//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6cK///z75/4H++b+/wAAAAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:23}
+
+{BLOCK:0}
+{BGMNEXT:03}
+{BGMFOUT}
+{BG:030000}
+As my thoughts jumble together without forming any solid idea, the first period of afternoon classes ends.@>
+It's now break time.@>
+The crowd of students reflects in my eyes like an 8mm film projected on a screen.@>
+Since that day, the world has never lost its sound or color again.@>
+I guess the possibility of something amusing or even supernatural happening in this world keeps me tied to it.#
+
+{BLOCK:1}
+During the break, a girl comes to my seat to talk with me.@>
+{BGMFOUT}
+{BGMWAIT}
+{CHARA:r20}
+{BGMPLAY:06}
+"Umm, you're Yuusuke Nagase, correct?"@>
+After I turn around to her voice, I see her standing before me; a short-haired girl wearing glasses.@>
+I'm pretty sure she's a sophomore like me because I've seen her a couple of times before, but I don't remember her name.@>
+"Yes, why?"@>
+"I came to bring you the key as Mr. Nagase told me to do."@>
+"Oh, thanks."#
+
+{BLOCK:2}
+She hands me the key she holds in her hand.@>
+It's a brand-new, never-used key that looks like it was forged by a locksmith.@>
+My uncle said this is the master key for the school building.@ With it I should be able to open every door in the school, except for the front entrance since it requires the access code.@>
+{CHARA:r24}
+"Umm..."@>
+She already gave me the key, but it seems she still has something else to tell me.#
+
+{BLOCK:3}
+"Uuh...@ The teacher told me..."@>
+The girl speaks self-effacingly.@>
+"Huh?@ What?"@>
+{CHARA:r20}
+"Nagase...@ Ah, you share last names with Mr. Nagase, so perhaps I should call you "Yuusuke" instead...?@ Anyway, Yuusuke, I heard you're investigating about Kanako's incident.@ Is that true?"@>
+"How do you know?"@>
+{CHARA:r22}
+"Mr. Nagase told me about it."#
+
+{BLOCK:4}
+I drop my jaw unintentionally.@>
+"HE told you?"@>
+"Yes."@>
+I'm so shocked I don't find the words to reply.@>
+What is my uncle thinking?@ I don't get it...@ Didn't he send me to investigate because he suspected the teachers' investigation was leaked to the culprits?@>
+It's entirely possible that this girl is also one of them.@>
+That said, I think that likelihood is extremely low.#
+
+{BLOCK:5}
+"What did he tell you, specifically?"@>
+I need to verify how much she knows.@>
+{CHARA:r20}
+"He only gave me a brief summary.@ Mr. Nagase said the cause of Kana--...@ Ohta's breakdown could be some weird reunions she participated in.@ He also told me that you'll come to school tonight to investigate the matter."@>
+It looks like he didn't inform her the details, only the gist of it.#
+
+{BLOCK:6}
+"Yeah, that's right."@>
+I take a look around and talk in a low voice, making sure no one among the students is overhearing us.@>
+"We don't know where the culprits could be hiding, so I'd like to keep the investigation as low-profile as possible."@>
+"I understand.@ Otherwise it'd be pointless to send a student like you to patrol."@>
+Well, I'm glad she got that part right...\c
+{CHARA:r21}
+\e
+
+{BLOCK:7}
+"Um, I have a little request if you don't mind."@>
+Suddenly, she gazes at me with a serious look.@>
+While she's well-mannered, I feel her eyes give off a sort of intense aura.@>
+"A request?"@>
+She takes her right hand up to her chest, and...@>
+{CHARA:r26}
+"Please let me help you with the investigation."@>
+she says.#
+
+{BLOCK:8}
+"Did my uncle order you to help?"@>
+{CHARA:r24}
+"No, he refused arguing it'll be late at night and dangerous."@>
+"He's right.@ The inspection will take place quite late, and it may even last until midnight.@ It's no big deal for me since my house is near, but..."@>
+"That's not a problem for me, either, since I live nearby too."#
+
+{BLOCK:9}
+"Besides, your family would be worried.@ You're a girl, so I bet your father would make a fuss about it."@>
+"I only live with my mother, but...@ I'll be fine.@ She's a very understanding person."#
+
+{BLOCK:10}
+"But it's still dangerous, and we don't know what could happen there."@>
+{CHARA:r22}
+"I think having a partner by your side will make you feel reassured.@ Also, despite I may not look like it, I'm very athletic."#
+
+{BLOCK:11}
+I can tell she's serious about this, but why does she want to help in the investigation so much?@>
+We won't be doing any mystery tour, and it'd be a problem if she wants to join just for fun.@>
+"I'm glad you want to cooperate, but, why do you want to do it so badly?@ Do you have a reason in particular?"@>
+{CHARA:r24}
+"W-Well..."@>
+She hesitates.@ It looks like it's something difficult to say for her.#
+
+{BLOCK:12}
+"For starters, I don't believe the investigation will make good progress just because you're there."@>
+{CHARA:r21}
+"No, I think I could be helpful.@ I'm a member of the student council, so I know about the club activities and the buildings' arrangement better than the average student, and..."@>
+"Do you belong to the student council?"@>
+"Y-Yes, I do.@ I'm the secretary.@ Oh, silly me, I never told you my name, didn't I?"@>
+"No, you didn't."@>
+{CHARA:r22}
+"S-Sorry.@ I'm Mizuho Aihara."#
+
+{BLOCK:13}
+Mizuho Aihara, the secretary.#
+
+{BLOCK:14}
+The fact that she belongs to the S.C. means she must be very close to Ohta.@>
+After all, Ohta was the S.C's vice president.#
+
+{BLOCK:15}
+"If you two participated in the student council, were you acquaintances?"@>
+{CHARA:r24}
+"No, not just...@ acquaintances."@
+She says dropping her head in sadness.@>
+"Kanako was my best friend since middle school."@>
+"Oh, I... see."#
+
+{BLOCK:16}
+"I entered this high school and enrolled myself in the student council just to be close to her.@ We were always together, even the day prior to the incident..."@>
+"You mean Sunday?"@>
+"Yes, we hung out that day.@ We went shopping, then to the movies, ate hamburgers..."@>
+"How was she that day?@ Did she act differently than usual?"@>
+"No.@ She was the same Kanako I knew and loved."#
+
+{BLOCK:17}
+"So she behaved normally."@>
+"Yes, but the next day..."@>
+Mizuho becomes disheartened.@>
+"I met her in the hallway and greeted her as usual, and..."@>
+"And?"@>
+"And then she looked back at me, but...@ But she passed me by and ignored me...@ I thought I had offended her somehow so I called out to her again, but..."@>
+Her eyes dampen.#
+
+{BLOCK:18}
+"W-When I tried to stop her, Kanako brushed me away...@ She said "fuck off", and then..."@>
+{CHARA:r23}
+Mizuho wipes her tears with the back of her clenched hands.@>
+After that, Ohta probably said something unspeakable to Mizuho.@>
+"Kanako...@ Kanako..."#
+
+{BLOCK:19}
+"I understand now.@ That's why you want to help with the investigation so desperately, right?"@>
+Still wiping her tears, Mizuho nods.@ She's weeping quietly as her shoulders tremble.@>
+Regardless of the reason, I made a girl cry before me, so I can't help but worry about the glares of everyone around.@>
+"Okay, I got it.@ I'll call you later, so could you wait until then?"\c
+{CHARA:r24}
+\e
+
+{BLOCK:20}
+"Yes, I will."@>
+"What is your class?"@>
+"It's A."@>
+That's the class next to mine.@ That explains why I recalled seeing her before.@>
+"Whenever I'm not in the classroom, I stay at the student council."@>
+"Got it.@ "A" classroom or the student council, correct?"@>
+"Yes."@>
+Mizuho nods with teary eyes.#
+
+{BLOCK:21}
+"Alright, see you later."@>
+I tell her as to wrap up our meeting.@ She then makes a little farewell gesture as she rubs her eyes and takes her leave.@>
+{CHARA:r99}
+By the time she turns around, she already wiped her tears and her mouth was shut tight.@>
+She appears to be a glass-hearted crybaby, but perhaps she possess a strong soul on the inside.#
+
+{BLOCK:22}
+Mizuho Aihara, the student council's secretary...@>
+Now that I think about it calmly, letting Mizuho join the survey could be advantageous just as she said.@>
+Maybe her help would make the inspection go smoothly.@>
+It could be worth it to consider her seriously for the task.#
