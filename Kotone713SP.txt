@@ -1,0 +1,498 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 0713 0746
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+DisplayMessage 11
+DisplayMessage 12
+DisplayMessage 13
+DisplayMessage 14
+DisplayMessage 15
+DisplayMessage 16
+DisplayMessage 17
+DisplayMessage 18
+DisplayMessage 19
+DisplayMessage 1a
+DisplayMessage 1b
+DisplayMessage 1c
+DisplayMessage 1d
+DisplayMessage 1e
+DisplayMessage 1f
+DisplayMessage 20
+DisplayMessage 21
+DisplayMessage 22
+DisplayMessage 23
+SetFlag ab ff
+DisplayMessage 24
+DisplayMessage 25
+DisplayMessage 26
+DisplayMessage 27
+DisplayMessage 28
+DisplayMessage 29
+DisplayMessage 2a
+DisplayMessage 2b
+DisplayMessage 2c
+DisplayMessage 2d
+FlagSetBit 50 06 01
+GameOver
+StartEnding 00
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Tú también me gustas, Kotone.@ Jamás pondría mi vida en juego por una chica que no amo."\
+
+*01
+` "Hiroyuki…"@
+` Nos abrazamos con fuerza.@
+` Cuando la suelto, Kotone me mira a los ojos y cierra sus párpados suavemente.@
+` Trago saliva, y acerco mi rostro.@
+` … Siento mis labios rozando los suyos.@
+` Son tan suaves…\
+
+*02
+` Mi adoración por Kotone se vuelve más y más fuerte.@
+` Una chica tan linda…@
+` Una chica tan pura…@
+` Igual a una hermanita menor.@
+` Luego de nuestro largo (y a la vez corto) beso, Kotone baja la mirada con sus mejillas sonrojadas.@
+` La abrazo una vez más.@
+` "Te amo, Kotone."@
+` "Yo también…"@
+` Responde Kotone avergonzada.\
+
+*03
+` Me ubico lentamente tras ella, y toco su cuerpo por encima de su uniforme.@
+` "…‥"@
+` Mientras tanto, Kotone se cubre la boca con la mano, reprimiendo su pudor.@
+` Llevo mi mano a sus pechos,@
+` "Ah…"@
+` y ella gime sofocadamente.@
+` Cuando aplico fuerza sobre sus modestos montículos, estos repelen mis manos con coraje.@
+` Una vez satisfecho de aquel tacto, meto mis manos dentro de su uniforme.\
+
+*04
+` "¡Ah!"@
+` "¿Me permites…?"@
+` Le pregunto a Kotone ante su gritito de sorpresa.@
+` Ella asiente con su cara completamente enrojecida.@
+` Lo primero que toco es su abdomen.@
+` Se siente cálido y resbaloso.@
+` A diferencia de mí, que disfruto de tocarla, Kotone se pone rígida de los nervios.@
+` "Relájate un poco más."\
+
+*05
+` "S-Sí…"@
+` Eso responde, pero en realidad no afloja ni un poco.@
+` Sin preocuparme por eso, la toco gentilmente.@
+` Trazo mis dedos a través de su piel, lo más delicadamente posible.@
+` Entonces, inserto mis manos en el escote de su sostén.@
+` "¡…!"@
+` Su cuerpo pega un pequeño salto.@
+` El escote está apretado, pero igual empujo su sostén hacia arriba.\
+
+*06
+` Sus dos colinas quedan expuestas, y las tomo sutilmente entre ambas manos.@
+` "…‥"@
+` Sus pechos, en los que todavía se puede sentir dureza, están en pleno desarrollo.@
+` *Ta-Tump*| *Ta-Tump*| *Ta-Tump*@
+` Siento sus pulsaciones.@
+` La masajeo por cada rincón.@
+` Finalmente, paso mis dedos por la cima de sus montículos.@
+` En respuesta al estímulo que les doy, sus pezones se vuelven rígidos y puntiagudos.\
+
+*07
+` "Súbete ahí, Kotone."@
+` Le digo, apuntando al escritorio del profesor.@
+` Kotone hace un pequeño asentimiento, e intenta subirse.@
+` Sin embargo, no le resulta sencillo.@
+` No me gusta quedarme viendo sin ayudarla, así que la aúpo.@
+` "Ah…"@
+` Exclama algo sorprendida.\
+
+*08
+` Siento a Kotone sobre el escritorio.@
+` "Quítate la falda."@
+` Le susurro.@
+` Kotone eleva su mirada hacia mí, y luego agacha la cabeza.@
+` Un gesto típico de un gatito.@
+` "¿Te da verguenza?"@
+` Le pregunto, y Kotone lleva una tímida mano a su falda.@
+` Debajo de ella puedo ver su ropa interior blanca.
+WaitPage
+FadeBGM
+FadeInBGM 1b
+LoadHVisualScene 70 00 00
+EndTextBlk
+
+*09
+` "¿Puedo… tocarte?"@
+` Ella asiente en respuesta a mi pregunta.@
+` Estiro una mano con cuidado hasta rozar su jardín floral por encima de sus bragas.@
+` Su cuerpo reacciona con una breve convulsión.@
+` Su zona íntima está un poco húmeda.@
+` "Estás mojada aquí, Kotone."@
+` Le susurro al oído, y ella lo niega igual que una niñita haciendo berrinche.@
+` Ese gesto es tan adorable que me hace querer atormentarla a propósito.\
+
+*0a
+` "Eres bastante pervertida, Kotone."@
+` "Eso no… es verdad…"@
+` "Pues esta humedad dice lo contrario."@
+` "No seas cruel, Hiroyuki…"@
+` Dice Kotone a punto de llorar.@
+` "Perdón, ya me callo."@
+` Le digo, y estimulo su pétalo levemente por sobre su ropa interior.@
+` "¡…‥!"@
+` Kotone intenta desesperadamente resistir la timidez.\
+
+*0b
+` "Puedes gemir si quieres."@
+` "E-Está bien…"@
+` Ella asiente, y yo concentro todos mis nervios en las puntas de mis dedos.@
+` Los paso lentamente a lo largo de su pétalo.@
+` "Nh…"@
+` Kotone jadea ligeramente.@
+` "Voy a… meter las manos."@
+` Deslizo mis dedos dentro de sus bragas, y los llevo cuidadosamente hacia su pétalo.\
+
+
+*0c
+` "…‥"@
+` Kotone se cubre la boca tratando a toda costa de no gemir.@
+` Mientras, yo trazo mis dedos por su pétalo que ya está todo empapado.@
+` Quizás está sintiendo placer, ya que su cuerpo tiembla.@
+` El néctar que emana de su pétalo moja la cara interior de sus muslos, y los hace brillar.@
+` "Acuéstate de lado, Kotone."
+WaitPage
+LoadHVisualScene 73 00 00
+EndTextBlk
+
+*0d
+` Luego de acostar a Kotone sobre el escritorio, deslizo hacia abajo sus bragas.@
+` Kotone me mira con preocupación.@
+` Yo le devuelvo una sonrisa, y despacio succiono sus pezones erectos.@
+` "¡Ah…!"@
+` Los estimulo usando todos los métodos que se me ocurren: haciendo girar mi lengua, chupándolos con fuerza, y dándoles pequeños mordiscos.@
+` "Nnnh… Ah… ¡Nh!"@
+` Sin poder resistirlo, Kotone finalmente empieza a gemir.\
+
+*0e
+` Al escuchar sus dulces gemidos, obscena lujuria comienza a arder en mi corazón.@
+` Mientras estimulo sus pezones, acerco mi mano izquierda hacia su pétalo.@
+` Dejo resbalar mis dedos hasta tocar su punto más sensible: el capullo.@
+` La acaricio obsesivamente para hacerla gemir más.@
+` "Haa…@ Nh…"@
+` A modo de respuesta, Kotone jadea acaloradamente.\
+
+*0f
+` *Chup* *Chup* *Chup*@
+` Al incrementar la velocidad de mis manos, oigo esos lascivos sonidos.@
+` "Nh… Nnnh…"@
+` Kotone está sintiendo placer.@
+` Respira salvajemente, y resolla con fuerza.@
+` Verla así me excita demasiado.@ 
+` "… ¡Ah!@ Nh…@ ¡Aaah…!"@
+` Me acabo de dar cuenta,@
+` de que Kotone está a punto de correrse.@
+` Su abdomen y alrededores están convulsionando.\
+
+*10
+` Para no aplicar tanta fuerza, acelero el ritmo de mis dedos.@
+` "¡Ah!@ ¡Ah!@ ¡Ah!@ ¡¡Aaah!!"@
+` En un instante, el cuerpo Kotone se arquea hacia atrás.\
+
+*11
+` "Haa…@ Haa…@ Haa…"@
+` Kotone jadea fuertemente.@
+` "¿Se sintió bien, Kotone?"@
+` "…‥"@
+` Le pregunto, pero le queda tan poco aliento que no puede contestar.\
+
+*12
+` "Jamás… me había sentido mejor… en toda mi vida."@
+` Dice Kotone, resoplando débilmente.@
+` "¿Jamás…?@ ¿Acaso esta es la primera vez que has tenido un orgasmo?"@
+` Kotone asiente.@
+` Ya veo, así que esta fue su primera vez…@
+` Quizás tener sexo sea imposible para ella.@
+` Estoy algo preocupado.@
+WaitPage
+LoadHVisualScene 74 00 00
+EndTextBlk
+
+*13
+` Al final, para ahorrarle sufrimientos, decido cambiar mis métodos.@
+` Ya calmado, me bajo del escritorio.@
+` Hago que se coloque de espaldas, y paso mi masculinidad a través de sus muslos.@
+` Esto me hará sentir bien sin causarle daño a Kotone.\
+
+*14
+` Abro el cierre de mis pantalones y saco mi caliente asta.@ 
+` … Se siente fresco.@
+` "No te voy a hacer sufrir, Kotone."@
+` Le digo, y atravieso sus muslos con mi herramienta.@
+` Esa zona está bien húmeda con el néctar que brotó de su pétalo.@
+` Sacudo mis caderas.@
+` Ni hace falta decirlo, pero el contacto con la piel de una chica se siente muchísimo mejor que hacerlo uno mismo.@
+` Creo que haciendo esto voy a llegar al clímax en un santiamén…\
+
+*15
+` "Umm, por favor no te preocupes por mí, Hiroyuki.@ Haz lo que más te guste."@
+` "Pero me sentiré mal por ti."@
+` "A mí no me molesta si lo haces tú…"@
+` "… De verdad vas a estar bien, ¿cierto?"@
+` "Así es."\
+
+*16
+` Subo a Kotone una vez más al escritorio.@
+` Abro ampliamente sus muslos, e inserto a mi alter ego dentro de su flor.@
+` *Kuchup*@
+` Creo que este lugar está bien.@
+` "Aquí voy, Kotone.@ ¿Estás lista?"@
+` Le pregunto ahora que sólo metí un poco de la punta.@
+` "Sí…"@
+` Tras escuchar su respuesta, voy penetrando lentamente.
+WaitPage
+LoadHVisualScene 71 00 00
+EndTextBlk
+
+*17
+` "¡Aah!@ Agh…"@
+` "¿Te duele, Kotone?"@
+` Me detengo luego de incrustar mi miembro hasta la mitad.@
+` "No, estoy bien.@ Por favor continúa."@
+` Dice Kotone con ojos ligeramente llorosos.@ No se ve nada tranquila.@
+` Con más cuidado incluso que antes, avanzo hacia sus profundidades.@
+` Su interior me presiona con fuerza.@
+` No puedo describir el placer que me provoca.@
+` Sin embargo, eso mismo está lastimando a Kotone.@
+` Tengo sentimientos encontrados.\
+
+*18
+` Una vez que alcanzo el fondo, retrocedo.@
+` "Nnnh…@ ¡Aaah…!"@
+` Y una vez que me replegué lo suficiente, vuelvo a adelantarme.@
+` Los muslos de Kotone se ciñen sobre mi cuerpo estrechamente.@
+` Qué frustrante…@
+` Cada vez que veo la cara de Kotone desfigurándose de dolor me dan ganas de acabar rápido, pero solamente puedo moverme despacio.@
+` Eso me irrita.\
+
+*19
+` Luego de ir y venir unas cuantas veces, los muslos de Kotone apretándose contra mi cuerpo aflojan su presión.@
+` Más allá de eso, siento que su interior se puso húmedo.@
+` Eso me permite moverme cada vez más fácilmente.@
+` "¿Estás bien, Kotone?"@
+` "S-Sí, no pasa nada."@
+` Me doy cuenta de que hay menos dolor en su voz, y poco a poco, empiezo a moverme más rápidamente.@
+` *Chup*@ *Chup*@ *Chup*@
+` También parece que la miel de su pétalo se hizo más abundante.\
+
+*1a
+` "Ya no me duele, Hiroyuki.@ No te contengas."@
+` Al escuchar sus palabras, aumento un poco la velocidad.@
+` "Haa…@ Nh…"@
+` Kotone gime.@
+` ¿Acaso ha empezado a sentirse bien?@
+` Justo cuando pienso en ello, olas de placer comienzan a invadirme a mí también.@
+` "Nh…@ ¡Ah…!@ Se siente… genial…@ ¡Aaah!"@
+` Kotone…@ lo está disfrutando.@
+` Me voy excitando más y más.\
+
+*1b
+` "Uuuh, Kotone…"@
+` Su interior estrangula mi asta al ritmo de sus jadeos.@
+` Ya no voy a detenerme.@
+` "Aaanh… Hiroyuki… ¡Ah! ¡Ah! ¡Ah!"@
+` Voy avanzando cada vez más dentro de ella.@
+` Ante este placer que nunca antes experimenté en mi vida, sigo moviendo mis caderas en estado de éxtasis.\
+
+*1c
+` "¡Ah! ¡Ah! Yo… Yo… ya no…"@
+` "¡Kotone!"@
+` Sus paredes vaginales se contraen y ahorcan mi vara.@
+` Al mismo tiempo, alcanzo mi límite.@
+` "¡Aaaaaaahn!"@
+` Kotone grita, y yo me apresuro a retraer mis caderas.\
+
+*1d
+` No lo logré…@
+` Kotone mantuvo sus piernas aferradas a mí, y no me soltó.@
+` *Tump* *Tump* *Tump*@
+` Mi lujuria se va derramando en su interior.@
+` "C-Caliente…"@
+` Murmura Kotone como si delirara.
+WaitPage
+LoadHVisualScene 72 00 00
+EndTextBlk
+
+*1e
+` Lo dejé salir…@
+` En su interior…@
+` Me apuré para sacarla, pero tardé mucho.@
+` Un líquido blanquecino mezclado con uno rosa se derrama desde su zona íntima.@
+` El mundo a mi alrededor se torna completamente blanco…
+WaitPage
+LoadVisualScene 00 1f 0b
+Wait 64
+LoadCharacterAndBg 02 07 10 35 0b 00
+EndTextBlk
+
+*1f
+` "¡Perdón!@ Te hice algo terrib--"@
+` "No pasa nada, Hiroyuki."@
+` "¿Eh…?"@
+` "Hoy es, umm, un día seguro."@
+` "¿Un día seguro…?"@
+` "Por eso no tienes de qué preocuparte.@ Hoy fue una ocasión especial, así que quería que me consintieras."\
+
+*20
+` "… Bueno, me alegro.@ Realmente me asusté pensando que te hice algo malo."@
+` "Perdóname.@ Debería habértelo dicho desde un principio.@"
+` "Pero, ¿de verdad estarás bien?"@
+` No puedo dejar de sentirme inquieto.@
+` "Yo… no tengo confianza en mí misma, pero no podría hacer esto con ningún otro hombre."@
+` Kotone baja la mirada.\
+
+*21
+` "Está bien.@ Confío en ti, Kotone.@ Puedo quedarme tranquilo, ¿cierto?"@
+` Kotone sonríe dulcemente,@
+` "¡Sí!"@
+` y asiente llena de ánimos.
+WaitPage
+LoadVisualScene 00 00 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*22
+` Luego, haciendo de cuenta que nada pasó, salimos de la escuela.@
+` "Adiós, Kotone.@ Nos vemos mañana."@
+` "Claro.@ Umm, Hiroyuki…"@
+` "¿Qué?"\
+
+*23
+` "Hoy estuviste maravilloso."@
+` Kotone sonríe tímidamente.@
+` "¿En serio?"@
+` "Sí, muchísimo."@
+` "Bueno, hasta mañana."@
+` "Hasta luego."@
+` Kotone hace una reverencia.@
+` Luego yo la saludo con la mano, y ambos nos separamos.
+WaitPage
+ClearScreen 00 00
+Wait c8
+EndTextBlk
+
+*24
+` Y así pasaron los meses…\
+
+*25
+LoadPCM 23
+StartPCM 00 00
+` *PIP-PIP-PIP-PIP*| *PIP-PIP-PIP-PIP*| *PIP-PIP-PIP-PIP*|
+WaitPCM
+StopPCM
+` *Click*@
+` Estiro mi mano desde el interior del futón, y pulso el botón de apagado del reloj despertador.
+WaitPage
+StartBGM 06
+LoadBG2 25 0b 1f
+EndTextBlk
+
+*26
+` ¡Uuuumh!@
+` Ey, ¿ya es de mañana?@
+` Hoy voy a ir de compras con Kotone, y por la noche disfrutaré su comida casera.@
+` Salgo de inmediato de la cama.
+WaitPage
+LoadVisualScene 7f 00 00
+EndTextBlk
+
+*27
+` "Con estos ingredientes alcanza, ¿cierto?"@
+` Kotone me pregunta a mi lado.@
+` "¿Nh?@ Sí.@ Yo no voy a ser el que cocine, así que no quiero comentar nada al respecto."@
+` Lo digo así a propósito.@
+` "¡Juju!@ Basta, Hiroyuki."@
+` Kotone se lleva una mano a la boca y sacude sus hombros.\
+
+*28
+` Desde aquel anochecer en que nos unimos en la escuela, Kotone se ha vuelto cada día más alegre.@
+` Ella misma dice que su personalidad era así de animada y expresiva antes de que sus poderes psíquicos despertaran.@
+` Ahora que superó su miedo a predecir desgracias, recuperó su vitalidad natural.\
+
+*29
+` "¿Qué ocurre, Hiroyuki?"@
+` Me doy cuenta que Kotone me está mirando a la cara con preocupación.@
+` "Nada…@ Sólo estaba pensando en que te transformaste en una persona muy brillante."@
+` Entonces, con una cálida sonrisa,@
+` "Eso fue gracias a ti.@ Tú borraste todas las desdichas de mi vida."@
+` se cuelga de mis hombros.@
+` A su vez, yo la acerco tomando sus hombros,@
+` "En realidad, tú las esfumaste con tu propio poder.@ De lo contrario, yo ya estaría tocando el arpa hace rato."@
+` y le respondo.\
+
+*2a
+` "Pero fuiste tú quien me otorgó ese poder.@ Por eso tengo que agradecerte."@
+` Ella sonríe una vez más.@
+` Esto no terminará nunca…@
+` "Por ahora vamos a dejarlo en que ambos usamos nuestro poder para alejar las desgracias".@
+` "Claro.@ Fue el poder de nuestro amor#"@
+` Kotone hace un chiste travieso.@
+` "Jaja…@ Tal vez."@
+` En ese momento, mi nariz me empieza a picar de repente.\
+
+*2b
+` *¡Achuu!*@
+` "¡Kyah!"@
+` Por culpa del estornudo olímpico que di mientras la abrazaba, Kotone se tambalea hacia adelante por un instante.@
+` Esa fuerza hace que las naranjas de la bolsa salgan volando.@
+` "¡Ah!"@
+LoadPCM 19
+StartPCM 01 00
+` Pero en ese mismo momento, se detienen en el aire.\
+
+*2c
+` Me apresuro a recogerlas y colocarlas de vuelta en la bolsa,@
+` "¡Ey, no uses tus poderes aquí!@ ¡¿Qué haremos si alguien te ve?!"@
+` y miro alrededor.@
+` "Perdón.@ Lo hice por reflejo."@
+` Dice ella sacando la lengua.\
+
+*2d
+` "Escucha.@ No puedes usar tus poderes bajo ninguna circunstancia."@
+` "Pero quiero usarlos para ti."@
+` "No, tampoco."@
+` "No es así.@ Estos poderes existen para ti."@
+` Cuando Kotone insiste con algo, tiende a no escuchar a los demás.@
+` "Tsk.@ Sólo te lo permitiré esta vez."@
+` "¡Gracias!@ ¡Por eso te amo!"
+WaitPage
+WaitPCM
+StopPCM
+EndTextBlk
+TextEnd
