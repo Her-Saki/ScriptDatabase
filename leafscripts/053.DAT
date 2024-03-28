@@ -1,0 +1,80 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAACYAAAAA/P/1//T/2v8A2f//q/+r/qsA/av8q/ur+qsA+av4q/er9qsD9fvI/v8AAA==}
+{BLOCKLEN:11}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMWAIT}
+One of my cheeks feels cold, but the other one feels warm.#
+
+{BLOCK:1}
+I don't know when it happened, but it seems I lost consciousness.@>
+However, I come to my senses little by little, and at the same pace, I open my eyelids.#
+
+{BLOCK:2}
+A human-like figure appears in my hazy field of vision.@>
+I wonder who it is...@>
+I'm lying down on the floor and resting my head on their lap.@>
+Eventually, my blurred vision comes into focus and I realize the person is actually Ruriko.@>
+The warmth I feel in one of my cheeks comes from her lap, and the coldness I feel in the other comes from her hand.@>
+She peeks at my face fixedly.\c
+{BGMPLAY:08}
+{VISUAL:011100}
+\e
+
+{BLOCK:3}
+"Ruriko?"@>
+"......"@>
+She's dead silent.@>
+As if pulled by a thread, I slowly sit upright.@>
+My head feels heavy, just as if I lifted it forcibly after oversleeping.@>
+"Where am I?"#
+
+{BLOCK:4}
+The sky has gotten completely dark.@>
+A full, round moon is up, and beyond the fence I can see the lights of the city.@>
+"It's night..."@>
+A pretty obvious thing to say.@ I shake slightly my head, but then, I feel a sharp twinge of pain in it.#
+
+{BLOCK:5}
+Judging by the situation around, it looks like I got knocked out for a good while.@>
+Did Ruriko stay by my side all this time?@>
+I wonder if I had that dream because she was here with me...#
+
+{BLOCK:6}
+Ruriko stares straight into my eyes with a somewhat cold expression on her face, but eventually, she opens her mouth slowly.@>
+"You lied to me, Naga."@>
+Her voice is cold, devoid of all emotion.#
+
+{BLOCK:7}
+{CHABG:c01331010}
+"You lied when you said you could use electromagnetic waves.@ You haven't mastered their power yet."@>
+For some reason, Ruriko's eyes look sorrowful.@>
+That makes my chest hurt with guilt.@>
+"I-I'm sorry.@ I...@ I just..."@>
+Awkwardly, I try to keep appereances.@>
+However, I don't find anything appropriate to say.@>
+"I-I...@ I just...@ wanted...@ to see the same delusion as you."#
+
+{BLOCK:8}
+"Delusion?"@>
+Ruriko whispers as she slowly stands up.@>
+Then, gazing at me with those despondent eyes, she tells me:@>
+"You're just like everyone else, Naga.@ You make fun of electromagnetic waves.@ How dare you call them a "delusion"?"@>
+"T-That wasn't what I..."@>
+"Goodbye."@>
+Beautiful gem-like teardrops spill from her eyes.@>
+
+{BLOCK:9}
+She turns around and slowly walks away.@>
+{CHARA:c99}
+"R-Ruriko!"@>
+I chase her back desperately, but strangely, my body doesn't move an inch.@>
+It feels like it isn't my own body.@>
+"Ruriko!"#
+
+{BLOCK:10}
+My body stands glued against the fence for a while even after she takes her leave.\c
+{BGMNEXT:03}
+{BGMFOUT}
+{BG:360505}
+\e
