@@ -1,0 +1,81 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAAC0AAAAA/P/1//T/0/8A0v//q/+r/qsA/av8q/ur+qsA+av4+Pr1/fcA//b71/vv/tcH++j+/wAAAAAAAAAAAAA=}
+{BLOCKLEN:11}
+
+{BLOCK:0}
+"Okay, I accept."@>
+I mutter in a low voice.@>
+After hearing that, my uncle pats my shoulders with a smile of satisfaction.@>
+"You'll do it?@ Good."@>
+"But please don't expect a great job from me.@ They'll be wary of me even if I'm only a student."@>
+"This investigation is based merely on my guesses and conjectures, so just survey things a bit and if you find nothing, then leave it there.@ As long as the upper echelon gets a satisfactory answer, we're gold."#
+
+{BLOCK:1}
+My uncle taps my shoulders again.@>
+"Once the inspection is done, I'll pay you for the part-time job you did.@ The cheap pay of a local public officer."@>
+"Thank you..."@>
+"If there's something you don't know, just drop by my desk at the office.@ I usually spent my free time drinking coffee or smoking there.@ You already know the phone number of my house, don't you?"@>
+"Yes, I do."#
+
+{BLOCK:2}
+"Nice.@ Can you start tonight?"@>
+"Not a problem on my end, but...@ Oh, by the way..."@>
+"What is it?"@>
+"If you have another clue, please tell me."@>
+"I think I already told you everything I know..."@>
+"You said a girl of the athletics club saw some suspicious, human-like shadows.@ Could you tell me her name?"@>
+"Ah, it's Shinjo from the female volleyball club.@ Saori Shinjo.@ If I recall correctly, she's from 2-D class..."#
+
+{BLOCK:3}
+Saori Shinjo, volleyball club, 2-D class.@ Got it.@>
+I should ask her some info for reference.#
+
+{BLOCK:4}
+"Ah, I should explain to you how to enter the school entrance by night."@>
+"Oh, yes, that's important."@>
+"The front entrance is linked to a security company, and in order to enter you need a key and a security code.@ The code for the door is 0824.@ That's the day the school was founded, August 24th.@ Use the mnemonic device "weight, plenty for" to remember it.@>
+""Weight, plenty for", huh?@ 
+"Yeah."@>
+I feel bad for my uncle, but I find it easier to just remember "0824".\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:24}
+\e
+
+{BLOCK:5}
+*Ding-Dong-Ding-Dong!*\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+\e
+
+{BLOCK:6}
+At that moment, the warning bell for the afternoon classes rings.@>
+It's 12:55.@>
+"Oh, would you look at the time..."@>
+My uncle looks at his wristwatch.#
+
+{BLOCK:7}
+"Anyway, if you have any question, come to my desk anytime."@>
+"Yes, you got it."@>
+"Alright, I'm counting on you."@>
+{CHARA:r99}
+My uncle says turning his back to me.@>
+"Sure.@ I'll be looking forward to that part-time job pay."@>
+My uncle startles a bit with my reminder, but shrugs and waves to me as he leaves.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:03}
+\e
+
+{BLOCK:8}
+{XPOS:6}
+{SPEED:0}
+1. I'll stay at the rooftop for a while more.\n\e
+
+{BLOCK:9}
+{XPOS:6}
+{SPEED:0}
+2. I'll head back to my classroom.\n\e
+
+{BLOCK:10}
+Okay, what am I going to do now?\n\e
