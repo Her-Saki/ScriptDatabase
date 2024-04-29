@@ -1,0 +1,123 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 0801 0845
+*00
+End20
+
+*01
+TimeSetting 02
+Nazo40 0a
+Nazo6C 08
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+LoadBG 01
+Effect 0a
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 07 0b 0a
+` At break time, while our class was moving to another classroom, I had an accident.@
+LoadPCM 1c
+StartPCM 01 00
+Wait 64
+NazoPCMA6
+WaitPCM
+StopPCM
+` "Good morning, Hiroyuki!"@
+` "Whoa!"
+Vibrato 2c
+WaitKey
+` I yell as someone jumps at me completely out of the blue.@
+` At the same time, I feel something heavy dangling over my right arm…
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 0e
+ChangeCharacter 02 08 01
+EndTextBlk
+
+*01
+` "HI!"@
+` "L-Lemmy?!"@
+` Turns out my classmate, Lemmy Miyauchi, was the one grabbing my arm.@ She has a bursting smile on her face.@
+` Actually, her name is longer than that, but she says she shortened it when she moved to Japan.\
+
+*02
+` She was born in California, and moved here three years ago together with her family.@ In short, she's a half-japanese blonde chick.@
+` Being a foreigner makes her well-known in the school, so I know about her a bit, but that's it.\
+
+*03
+` Anyway, I'm positive this cotton-like softness spreading through my arm is something I could have never experienced in my own country.@
+` "Hiroyuki?"@
+` "W-What is it?"@
+` The only girls that call me by my name are Lemmy and my mom.@
+` … I'll correct myself:@ Lemmy is the only GIRL that does that.\
+
+*04
+` "Soon we'll be assigned to different classrooms, right?"@
+` Lemmy says as if she couldn't help but be amused.@
+` She makes it sound like it'll be a summer festival or something.@ It's strange.@
+` "Yeah…"@
+` It's true that we'll be sophomores very soon.\
+
+*05
+` "I hope we'll be in the same class this year!"@
+` For some reason, Lemmy looks awfully happy while talking to me.@
+` "M-Me too."@
+` Were we really so close and I don't remember, or…?@
+ChangeCharacter 02 08 03
+` "If we happen to share classrooms, it'll be like that quote, "EN WA INAMONO" (inscrutable are the ways of destiny), don't you think?"@
+` Uh…@ What?\
+
+*06
+` Only a halfie like Lemmy could be so proficient in Japanese.@
+` She often mixes bits of English here and there, but her pronunciation is almost perfect.@
+` However, she goes one step further and adds obscure proverbs and aphorisms into her speech that not even a Japanese language teacher would know.@
+` "Lemmy, what do you mean with that quot--"@
+` I ask her the meaning behind her words…@
+` "I'd be nice if we could go STEADY from now on♥"@
+` but she interrupts me.@
+` "Huh?"@
+LoadPCM 17
+StartPCM 01 00
+` And at that moment, the class bell rings.\
+
+*07
+` She separates from me doing a little leap…@
+ChangeCharacter 02 08 0d
+` "Bye, Hiroyuki.@ SEE YOU LATER."@
+ChangeCharacter 02 ff ff
+` and leaves tossing a flying kiss.@
+` Did I just hear STEADY?!@
+` "Did she forget how to speak English or something…?"
+WaitPage
+LoadVisualScene 00 0a 0b
+NazoPCMA6
+WaitPCM
+StopPCM
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*08
+` Lemmy's meeting
+` 3-6, Thu, 1st period break
+` Hallway\
+TextEnd
