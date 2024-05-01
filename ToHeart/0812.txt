@@ -1,0 +1,228 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 0812 0849
+*00
+End20
+
+*01
+TimeSetting 0b
+LoadBG 02
+Effect 05
+Nazo23 1e
+Nazo40 0a
+Nazo6C 11
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+LoadBG 01
+Effect 0a
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 08 0a 0a
+` "Hey, Masashi."@
+ChangeCharacter 02 09 01
+` "Nh?@ What is it, Hiroyuki?"@
+` "Wanna have lunch in the rooftop?"@
+` "Yeah, sure."@
+` Today, Masashi and I go eat lunch in the rooftop.
+WaitPage
+LoadBG2 0f 0a 0a
+EndTextBlk
+
+*01
+` Once we enter there, a dazzling sun welcomes us.@
+ChangeCharacter 02 09 01
+` "It's a sunny day, huh?"@
+` "Yeah, we should eat outdoors more often.@ Perhaps that'll make the sandwiches we always buy at the cafeteria taste a bit better."@
+` "You're right."@
+` Masashi nods with a sweet smile.
+WaitPage
+ChangeCharacter 02 ff ff
+EndTextBlk
+
+*02
+` *Rustle* *Rustle*@
+` "Let's eat!"@
+` I tear apart the package of the bread and I'm about to bring it to my mouth, when...\
+
+*03
+` "Oh, there you are...@ Hey, Hiroyuki!"@
+` Someone calls my name.@
+` When I turn around to that voice, I see Lemmy running over to me.@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 0e
+ChangeCharacter 02 08 01
+` "Hi!"@
+` She waves her right hand cheerfully.\
+
+*04
+` "Yo!"@
+` "Good afternoon."@
+` We return her American-style greeting with our own ones.@
+` "I'm surprised to see you here.@ Do you have any business with us?"@
+ChangeCharacter 02 08 03
+` "I came to lunch with you guys."@
+` "Lunch?@ Don't you usually eat at the cafeteria?"@
+` "It's fine.@ I just feel like it today."@
+` Lemmy says sitting next to me.@
+ChangeCharacter 02 ff ff
+` Astutely (not sure if to keep with us) she has a bread ready.\
+
+*05
+` "That cafeteria-tier bread won't get tasty just because you eat with us, y'know?"@
+` We actually attempted to make it taste better by coming to the rooftop, though...@
+ChangeCharacter 02 08 01
+` "Really?@ I think Japanese bread is delicious."@
+` "Is American bread bad?@ I don't think anything I eat there would fit my taste."@
+` "NO PROBLEM.@ There are a lot of Japanese restaurants."@
+` "Not being able to live without our national restaurants goes to show I'm Japanese through and through."\
+
+*06
+` "I still think you could live in America, though."@
+` Lemmy says happily for some reason.@
+` Then she adds:@
+` "I'm sure my cooking would suit your taste."@
+` "What?@ Do we ever agree you'd cook for me?"@
+` "I'm talking about the future."\
+
+*07
+` "The future?@ But we never know what could happen tomorrow..."@
+` I think Lemmy often throws hints at me, but perhaps it's just a misunderstanding on my end.@
+ChangeCharacter 02 08 04
+` "WHAT A SHAME..."@
+` Lemmy whispers as if disappointed, but I don't understand why.@
+ChangeCharacter 02 ff ff
+` "Anyway, let's dig in.@ We can't let this lunch go to waste."\
+
+*08
+` "I humbly accept this meal!"@
+` We bring the bread we bought to our mouths.@
+` *Munch* *Munch*@
+` As for the taste...@ It's unfortunate, but it tastes the same as always.@
+` "Is it tasty, Lemmy?"@
+ChangeCharacter 02 08 01
+` "Yep!@ Delicious!"@
+` "I kinda envy you..."@
+` "Isn't yours good, Hiroyuki?"@
+` "Nothing special...@ It's the typical, boring flavor of every day: not tasty, not bad."@
+` "Hmm..."@
+ChangeCharacter 02 ff ff
+` As we exchange thoughts, I notice Masashi's doing something odd.\
+
+*09
+` He's holding the lettuce of his sandwich between his fingers and staring fixedly at it...@
+` and even has a faint smile on his face.@ Pretty creepy if you ask me.@
+` "Hey, Masashi.@ What's wrong with that lettuce?"@
+` Masashi startles a little.@
+ChangeCharacter 01 09 01
+` "Oh, it's nothing.@ I was wondering if feeding my hamsters with this lettuce would make them happy."@
+` He says smiling awkwardly.@
+` "Well, that goes without saying..."
+WaitPage
+ChangeCharacter 00 08 0e
+EndTextBlk
+
+*0a
+` "Do you raise hamsters, Masashi?"@
+` Lemmy asks leaning forward.@
+` "Y-Yes, that's right."@
+` Masashi looks a bit surprised.@ Lemmy is the last person you'd expect to ask that.@
+ChangeCharacter 00 08 02
+` "Me too!@ What a coincidence...@ You have nice hobbies, Masashi."@
+` "Are you raising hamsters too, Lemmy?"@
+ChangeCharacter 00 08 01
+` "YES!@ What race are yours?"@
+` "I own two Djungarians."@
+` The Djungarian are a race of cute, tiny hamsters.@
+` He has showed them to me a lot of times.
+WaitPage
+ChangeCharacter 00 08 02
+EndTextBlk
+
+*0b
+` "Tsk-Tsk-Tsk!@ You've a long way to go, Masashi.@ The best hamsters are the Goldens!"@
+` Golden hamsters are the most popular race.@
+` Compared to Masashi's Djungarians, they're twice their size... or so I believe.@
+` "Maybe...@ I like the ones I have for now, so they're enough for me."@
+ChangeCharacter 00 08 01
+` "Raise Goldens next time, Masashi."@
+` "Yeah...@ I've never thought about the "next time", really, but I'll keep it in mind."\
+
+*0c
+` I cough.@
+` "I never knew you raised hamsters, Lemmy."@
+` I deviate the conversation a bit forcefully.@
+` "What about you do too, Hiroyuki?"@
+` "Me?@ I don't think it'd be a bad idea, actually.@ I'll consider it."@
+` I say, but I actually loathe the idea.@
+` It'd be a thing if I raised them free, but buying the cage and the necessary stuff would take quite a lot of money.\
+
+*0d
+` But still...@ Lemmy and hamsters, huh?@
+` I lowkey feel like picturing that in my mind.@
+` "Hey, Lemmy, how's your hamster called?"@
+` "Huh?@ Do you wanna know?"@
+` "Yes, please."@
+` "Well then, I'll tell you."@
+` "Yes, c'mon."\
+
+*0e
+` "My hamster, a dear member of my family, is "Johnny"."@
+` "J-Johnny...?"@
+` Unintentionally, Masashi and I stare at each other.@
+` Johnny the hamster...?\
+
+*0f
+` "Pffft...@ She said her hamster is Johnny!"@
+` Accidentally, I burst of laughter.@
+` I'd get it if it were a dog, but naming a hamster Johnny is a bit too over the top...@
+ChangeCharacter 00 08 03
+` "Hahaha!@ Is it so weird?"@
+` Even Lemmy is laughing along.@
+` "No, it's not weird.@ It's just so... American...@ It sounds RADICAL, as they say over there."
+WaitPage
+LoadVisualScene 00 00 0b
+EndTextBlk
+
+*10
+` In today's lunch, I learned about a side of Lemmy I didn't know before.@ It was a lot of fun.@
+` Thinking about it later, it miraculously made the cafeteria bread tastier.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*11
+` (Lemmy - Love points event 2)
+` (4-15 - 6 love points or more)
+` (Lunch break)
+` (Hallway near the stairs)
+` (Masashi's sprite)\
