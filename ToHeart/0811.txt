@@ -1,0 +1,210 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 0811 0848
+*00
+End20
+
+*01
+FlagSetBit 0e 01 01
+Nazo6C 13
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+DisplayMessage 11
+DisplayMessage 12
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 0e
+LoadBG2 0d 0a 0a
+` "Hi, Hiroyuki!"@
+` All of a sudden, someone calls me with a unique intonation.@
+` It's Japanese, but mixed with English accent.@
+ChangeCharacter 02 0a 02
+` Yeah, no doubt it's her.@
+` "Hello."@
+` I answer waving a hand, but…\
+
+*01
+` "Huh?@ Those clothes…"@
+` I notice Lemmy is wearing a costume I'm not used to see.@
+` She notices I'm staring at her, and then…@
+ChangeCharacter 02 0a 05
+` "You see…@ I'm in the KYUDO club!"@
+` she says with a broad smile.\
+
+*02
+` ""KYUDO"?@ Oh, do you mean the archery club?"@
+` It's that sport where you hit a target with a bow, right?@
+ChangeCharacter 02 0a 02
+` "I joined in order to study Japanese culture".@
+` Additionally, Lemmy tells me about her purpose.@
+` That's indeed a pretty foreigner-like reason…\
+
+*03
+` "When did you join?"@
+` "I'm in it since I entered highschool."@
+` "Heh…@ So you've been there for a whole year, then."@
+` "YES."\
+
+*04
+` "How good are you?"@
+` I ask for the heck of it.@
+` I think Lemmy and archery match as well as bread and butter.@
+` If she were to wear western clothes, she'd totally look like a female Robin Hood.@
+` Or so I thought…@
+ChangeCharacter 02 0a 06
+` "Terrible!@ I have no idea where the arrow will fly."@
+` because she straight up kills the concept I imagined.\
+
+*05
+` On second thought, a Californian girl like her might not be the best fit for martial arts.@
+` "I don't think it suits your style.@ Couldn't you try something more fitting?@ Like, cheerleading or something…"@
+` Was I too harsh telling her it's not her thing?@
+ChangeCharacter 02 0a 05
+` ""When in rome, do as the romans do".@ I live in Japan now, so I ought to study your culture."\
+
+*06
+` "So you don't care if it's not your thing, huh?@ Well, it's fine as long as you're having fun."@
+` "Yes, I love Japanese culture."@
+` "Glad to hear that."@
+` I nod.@
+` Seeing how passionate she is about learning about Japan makes me feel compelled to focus on studying.
+WaitPage
+ChangeCharacter 02 0a 06
+EndTextBlk
+
+*07
+` However, Lemmy lets out a sigh.@
+` "I don't like still targets."@
+` "Still targets?@ It's not a shooting range, so there's no moving targets in archery."@
+` "That's not what I mean, Hiroyuki.@ I'm talking about living targets."@
+` "Huh?"@
+` I startle a bit.
+WaitPage
+ChangeCharacter 02 0a 02
+EndTextBlk
+
+*08
+` "Don't you find exciting and thrilling to corner a living prey?"@
+` She says spellbound.@
+` "What happens to the prey after it's cornered?"@
+` Since we're at it, let's ask the rest of the story.@
+` "It gets CAUGHT by the hunter."\
+
+*09
+` "I don't know what kind of prey you're talking about, but don't you feel bad for it?"@
+` "WHY?"@
+` Lemmy asks with a blank face.@
+` "Why?@ It's wrong to kill animals just because you find it "thrilling"."@
+` "But they're prey.@ It's only natural they're hunted."@
+` "Hey, wait a minute.@ Why are you talking about prey and hunting in the first place?@ That's dangerous."@
+` "Really?"\
+
+*0a
+` "Yeah.@ Do you know about Yagamo, the duck?"@
+` ""Yagamo"? Wuzzat?"@
+` Looks like she doesn't.@
+` Does that mean she didn't live in Japan at that time?@
+` Anyway, I don't remember when it happened, so I decide to tell her directly.\
+
+*0b
+` "This is quite an old story.@ Some idiot shot a duck in a pond with an arrow."@
+ChangeCharacter 02 0a 05
+` "Did they catch it?"@
+` Lemmy asks brimming with excitement.\
+
+*0c
+` "No, that's not the point!@ They hit the duck, but the arrow pierced it without striking its vitals.@ Since then, the duck kept living with the arrow thrusted in its body."@
+` As I tell her, the rage I felt the day I saw it on the news wells up inside me.@
+` I don't know who was behind it, but it takes a real son of a bitch to do something like that.@
+ChangeCharacter 02 0a 02
+` "‥…"@
+` "Later, people captured the duck and cooperated to remove the arrow from it.@ The culprit didn't give a fuck, but it caused serious trouble for Yagamo and the people who had to help it."\
+
+*0d
+` "Why didn't they shoot again?"@
+` Hey, are you for real...?@
+` "'Cause they were heartless.@ Do you expect a person who enjoys making an animal suffer to kill it for mercy?"@
+` "In the US, hunting is a well-established entertainment.@ You can't succeed if you hold pity for your prey."@
+` "Entertainment?"@
+` "On weekends, our family used to go camping to a lake in Oregon and shoot waterbirds."@
+` Shooting waterbirds in Oregon, huh?\
+
+*0e
+` However, despite she names that American place as her own home, I can't quite picture it in my mind.@
+` "I've heard about Oregon before, but where is it located?"@
+` Lemmy smiles broadly.@
+ChangeCharacter 02 0a 05
+` "There are three states in the West Coast.@ Starting from the north you have Washington, Oregon, and California.@ Get the picture now?"@
+` I see, so Oregon is a state.@
+` I place those three states in my mind one below the other, in the west coast of a very vaguely shaped American map.\
+
+*0f
+` "Yeah, I think I got it now.@ Going to camp and hunt with your family sounds very American."@
+` "I used to hide in the grassland with Dad and hold the rifle like this…"@
+` As she explains, Lemmy imitates pointing a gun,@
+` "Set the aim and… BANG!"@
+` and shoots.@
+` Aided by precise movements, her acting looks oddly realistic.@
+` "HIT!@ Hahaha!"@
+` She's even playing astutely the part where she hits the target.@
+
+*10
+` "Have you ever shot a real gun, Lemmy?"@
+ChangeCharacter 02 0a 02
+` "Air guns only."@
+` Oh, air guns…@ But still, she's talking about real hunting rifles that can even kill people.@
+` They're not to be confused with kid toys.@
+` "I kinda envy you."@
+` Her acting felt real because she has actually experienced it.@
+` I'd like to shoot a gun too, even if only once.\
+
+*11
+` When you're used to handle guns from an early age you want to shoot them all day long.@ I understand that feeling.@
+` Lemmy's obsession with hunting is a withdrawal symptom caused by her stay in Japan where hunting is banned, or at least that's my theory.\
+
+*12
+` Oops, we've lost the thread of the conversation.@
+` "I get your point, but Yagamo wasn't a prey.@ It was shot as a prank."@
+` "Really?"@
+` "Yeah, I'm telling you."@
+` "I see…@ Poor Yagamo."@
+` "I'm glad we think alike.@ By the way, "Yagamo" is a nickname written with the characters for "arrow" and "duck", not an animal species."@
+ChangeCharacter 02 0a 06
+` "Japanese language goes VERY deep, doesn't it?"@
+` "‥…"
+WaitPage
+LoadVisualScene 00 00 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*13
+` Lemmy's love event
+` Saturday 12-4 - Fixed date
+` Triggers before you leave school
+` Shoe lockers\
+TextEnd
