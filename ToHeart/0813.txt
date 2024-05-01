@@ -1,0 +1,71 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 0813 0850
+*00
+End20
+
+*01
+Nazo6C 05
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+Choice 02 02 03 00 04 05
+Nazo6B
+Jump 08 14 01
+Nazo6B
+Jump 08 15 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 1f 0a 0a
+` As I walk along the hallway, I spot someone in the courtyard.@
+` It's no surprise finding someone there, but his fishy behavior catches my eye.
+WaitPage
+LoadCharacterAndBg 00 10 01 0e 0a 0a
+EndTextBlk
+
+*01
+` This guy is grabbing the plants placed on the window and clinging to them in order to peek into a room.@
+` Since the floor of that building is built high the windows are pretty elevated too, so it's impossible to peek inside without climbing.@
+` Is he spying on a changing room?@
+` Nah, his actions are too blatant for that to be the case.@
+` I wonder what classroom is that...@
+` The science room?@ The kitchen room?@
+` It's been a whole year since I enrolled, but it's not like I have a full grasp of every single room in the building.@
+` But still, what room is that...?
+WaitPage
+ClearAndLoadCharacter 00 ff ff
+EndTextBlk
+
+*02
+` As I ponder about that, he loses strenght and falls to the floor, but immediately rushes back to the building.@
+` What in the world is he watching there...?@
+` "Oh...!"@
+ClearAndLoadCharacter 00 10 02
+` Now a different guy comes in and starts peeking into the room just the same.@
+` It looks like you can witness a unique wonder in there.@
+` I'm dying of curiosity...
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. I'm gonna take a peek too.
+EndTextBlk
+
+*04
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. I'll play dumb.
+EndTextBlk
+
+*05
+` (Lemmy - Love event 3)
+` (18-4 - 10 love points or higher and the event of the first floor)
+` (Hallway)\
