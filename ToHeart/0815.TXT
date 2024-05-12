@@ -1,0 +1,60 @@
+*00
+` This is stupid.@
+` All you can see peeking through the window is the classroom inside.@
+` I ignore them and pass them by.
+WaitPage
+LoadBG2 1f 0a 0a
+EndTextBlk
+
+*01
+` When I walk towards the shoe lockers, a conspicuous human-like shadow approaches from the other side of the hallway.@
+` What makes it conspicuous is her bright blonde hair and that she wears an archery haori.@
+` There's only one student in this school who is blonde AND wears an archery garment that would wander through the A building.@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 0e
+ChangeCharacter 02 0a 02
+` "Hi, Hiroyuki!"\
+
+*02
+` "Yo, Lemmy.@ Doing well in the club?"@
+` "I'm patrolling now."@
+` "Why?"@
+` "Lately, there are molesters peeking inside the locker room."@
+` "Molesters?@ And by "locker room" do you mean the changing room?"@
+` "Yep."@
+` "Could that mean...?"@
+` I recall those guys I spotted in the courtyard before.\
+
+*03
+` "What's wrong?"@
+` "Just asking, but from where can you spy on the changing room?"@
+` "From the courtyard."@
+` "Those guys...@ Did they have to spy on the changing room of all places?"@
+` "...?"@
+` "Lemmy, those molesters were spying in the courtyard just a moment ago.@ Go catch them!"\
+
+*04
+` "Really?"@
+` "Yeah.@ I saw them just a while ago."@
+ChangeCharacter 02 0a 05
+` "ALRIGHT!@ LET'S GO HUNT!"@
+ChangeCharacter 02 ff ff
+` "Uh, what?!"@
+` Just as I startle, Lemmy breaks into a sprint at full speed.\
+
+*05
+` ""Let's go hunt"?@ Don't tell me she's gonna chase them with arrows..."@
+` Now that I remember, she looked awfully happy.@
+` That's because she developed withdrawal symptoms after moving to Japan where she can't engage in her beloved hunting activities.@
+` So that means she's really gonna hunt humans...@
+` "Nah, no way."
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
