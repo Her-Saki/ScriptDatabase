@@ -1,0 +1,68 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAAC0AAAAA/P/1//T/0/8A0v//q/+r/qsA/av8q/ur+qsA+av4+Pr3/fYA//X71/uP/tcH+47+/wAAAAAAAAAAAAA=}
+{BLOCKLEN:11}
+
+{BLOCK:0}
+"Shinjo!"@>
+I shout out to her.@>
+However, I don't get any answer.@>
+No one is inside the silent gym.@>
+For now, I'm just gonna look for Shinjo exhaustively.#
+
+{BLOCK:1}
+After making sure nobody is inside the gym's tool storage room, and the staff room as well, I knock the door of the girl's changing room.@>
+... No reply.@>
+I knock several times without response, so I try opening the door.@>
+The dim room is completely empty.@>
+Faint traces of moonlight leak from the small window, as well as cold air.#
+
+{BLOCK:2}
+This is odd...@>
+Isn't she inside the gym anymore?#
+
+{BLOCK:3}
+I consider giving up and taking on the investigation alone, but then, I suddenly realize something.@>
+Wait a minute...@>
+Yeah, that's it.@ There's a changing room that regular students use for P.E class and another one for members of athletic clubs.@ The latter is built all the way in.@>
+I'm gonna look up there, and if she isn't there, I'll give up.#
+
+{BLOCK:4}
+I exit through the door on the left side of the gym and walk towards the athletic club room.@>
+{BG:530303}
+It's a dark, windowless place.@ It doesn't feel like there's anybody here.@>
+The room of the female volleyball club is here.@>
+I stand before the door and knock.#
+
+{BLOCK:5}
+"Are you there, Shinjo?"@>
+However, I receive no response.@>
+Since the door is unlocked, I open it smoothly.\c
+{BGMFOUT}
+{BGMWAIT}
+{HSCENE:031011}
+\e
+
+{BLOCK:6}
+Ah!@>
+Inside the gloomy room, white skin covered in moonlight catches my eye.@>
+It's Shinjo... changing clothes.@>
+She still didn't put on her skirt, so her underwear is exposed.#
+
+{BLOCK:7}
+"N-Nagase?!"@>
+Holding her skirt with a hand, Shinjo awkwardly hides her underwear and steps back.@>
+"Ah, s-sorry!"@>
+My head goes blank and I suddenly don't know what to do anymore.@>
+I even forget completely to close the door.#
+
+{BLOCK:8}
+Now, what will I do?\n\e
+
+{BLOCK:9}
+{XPOS:6}
+{SPEED:0}
+1. For now, I'll close the door.\n\e
+
+{BLOCK:10}
+{XPOS:6}
+{SPEED:0}
+2. For now, I'll apologize.\n\e
