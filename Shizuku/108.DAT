@@ -1,0 +1,28 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAACEAAAAA/P/1//T/3/8A3v//q/+r/vgA+v39/P/7+9cA+5H+1/uQ/v9/AAAAAAAAAA==}
+{BLOCKLEN:5}
+
+{BLOCK:0}
+Shinjo must be in the gym, so it'd be quicker to go see her now than waiting for her.@>
+Following that reasoning, I proceed to enter the 2° gym in order to look for her.#
+
+{BLOCK:1}
+Aside from the lights of the door, all the other lamps are turned off.@>
+The glazed entry door is unlocked, so I can enter without trouble.@>
+{BG:520404}
+I open the double leaf door to the arena.@>
+Moonlight filters through the windows and illuminates faintly the dim inside.@>
+There's no presence of people here.@>
+I wonder where Shinjo is...#
+
+{BLOCK:2}
+Well, what will I do now?\n\e
+
+{BLOCK:3}
+{XPOS:6}
+{SPEED:0}
+1. Look for Shinjo everywhere.\n\e
+
+{BLOCK:4}
+{XPOS:6}
+{SPEED:0}
+2. Return to our meeting place.\n\e
