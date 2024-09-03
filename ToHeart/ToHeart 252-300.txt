@@ -1,0 +1,3919 @@
+;;///////////////////////////////////////////////////
+ScenarioStart 01A3 0252
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "What about a bear?"@
+` Before my exorbitant suggestion, Akari just smiles awkwardly.@
+ChangeCharacter 02 00 03
+` "Bears are cute, but they're ferocious, too."@
+` "That's not true.@ They take a liking for people if you raise them from cubs."@
+ChangeCharacter 02 00 0b
+` "For real?"@
+` "Like the one Mutsugoro raised."@
+` I know how much she likes bears.@
+` She just can't say no to bear-themed merchandise.\
+
+*01
+` "I'm sure cubs must be cute as hell, like plushies."@
+ChangeCharacter 02 00 02
+` "…‥"@
+` "They love to lick honey, did you know?@ Sweets in general hits their soft spot, after all."@
+` "…‥"@
+` "If you train them from cubs like circuses do, they also learn to do tricks.@ Every time they do a trick correctly, the owner gives them sugar cubes.@ They also make them wear chokers and stuff."@
+` "…‥"\
+
+*02
+` "…‥"@
+` "…‥"@
+` "Can you imagine it?"@
+ChangeCharacter 02 00 04
+` "Yes.@ It sounds amazing."@
+` "Yeah, right.@ As if you could raise an actual bear, airhead."@
+ChangeCharacter 02 00 03
+` "…‥"
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A4 0253
+*00
+End20
+
+*01
+Nazo6C 03
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+Choice 00 02 01 05 02 00
+Nazo6B
+Jump 01 a6 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 a5 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 1f 0a 0a
+` I'm walking casually along the first floor when I spot someone.@
+` Could it be Akari?
+EndTextBlk
+
+*01
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Follow her.
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Watch her leave.
+EndTextBlk
+
+*03
+` Akari frequency event 1F.
+` 11-4.
+` Hallway 2.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A5 0254
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Choice 02 02 03 05 04 00
+Nazo6B
+Jump 01 a8 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 a7 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` I sneak up on her as she walks.
+WaitPage
+LoadBG2 09 0a 0a
+EndTextBlk
+
+*01
+` Without noticing me, she heads towards the passage.@
+` Suddenly, my mischievous instinct awakes.@
+` I could surprise her covering her eyes from behind.@
+` And then I'd say something corny like "Who am I?!", just like those lame shows for teenagers.\
+
+*02
+` I speed up my step.@
+` Akari still doesn't notice me.@
+` However…@
+` As I'm stealthily approaching her, a gloomy thought crosses my mind.@
+` What if… she's not actually Akari?
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Act carefully.
+EndTextBlk
+
+*04
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Do it anyway.
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A6 0255
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Akari looks kinda busy.@
+` She doesn't notice me at all.@
+` Whatever.@ I'll leave it for another day.@
+` I watch her go from behind.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A7 0256
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+Choice 06 03 07 00 08 08 09 10
+Nazo6B
+FlagAdd 14 03
+Jump 01 a9 01
+Nazo6B
+FlagAdd 14 02
+Jump 01 aa 01
+Nazo6B
+FlagAdd 14 01
+Jump 01 ab 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Hold on, Hiroyuki.@
+` It would be terrible if this person was someone else.@
+` It could turn into a scandal I won't be able to justify as a simple prank.@
+` However…| she looks totally like her.@
+` Her back and gait are exactly the same.@
+` I can't be wrong since I know her from so long…@
+` Keeping this in mind, I slowly keep approaching.\
+
+*01
+` If I reach out now, I'll touch her.@
+` I lift both arms, and…
+WaitPage
+LoadVisualScene 00 0b 0b
+PauseBGM
+EndTextBlk
+
+*02
+` "Who am I?!"@
+` Whoa!
+WaitPage
+StartBGM 07
+LoadCharacterAndBg 02 00 04 09 0b 00
+EndTextBlk
+
+*03
+` "Hehehe!@ Did I surprise you?"@
+` "A-Akari…?"@
+` I say dumbfoundedly.@
+` I was about to embarrass myself BIG TIME…@
+ChangeCharacter 02 00 03
+` "You didn't notice I was approaching you, did you?"@
+` "…‥"@
+ChangeCharacter 02 00 02
+` "Yuki?"@
+` "I'm so happy you came, Akari."@
+` "…‥?"@
+` I give thanks for my luck to that invisible "something".
+WaitPage
+ChangeCharacter 02 00 01
+EndTextBlk
+
+*04
+` "Shall we go home together, Yuki?"@
+` "Sure thing."@
+` "Hey, did something special happen today?"@
+` "Yeah, I suppose."@
+` "?"@
+ChangeCharacter 02 ff ff
+` And so we start heading home.
+WaitPage
+LoadBG2 16 0a 0a
+EndTextBlk
+
+*05
+` "By the way, something weird happened at the stairs today."@
+` I casually remember what occurred back at lunch break, and decide to tell Akari about it.@
+ChangeCharacter 02 00 03
+` "Hmm…@ It feels mysterious."@
+` "I suppose it is.@ Moreover, I felt like something grabbed my leg before tripping down."@
+ChangeCharacter 02 00 01
+` "Perhaps it's one of those Seven Mysteries?"@
+` "Maybe.@ Do you believe in this stuff?"@
+ChangeCharacter 02 00 03
+` "Hm…@ I think it would be fun if it were real…@ But a bit scary, too."@
+` Akari smiles bashfully.
+WaitPage
+ChangeCharacter 02 00 01
+EndTextBlk
+
+*06
+` "What about you?@ Have you changed your mind now that you have experienced it yourself?"@
+` "Hmm…"
+EndTextBlk
+
+*07
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Wouldn't it be fun?
+EndTextBlk
+
+*08
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. No freaking way.
+EndTextBlk
+
+*09
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. I think supernatural things might exist.
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A8 0257
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` No, that's not possible.@
+` There's no way I could mistake Akari of all people.@
+` Shaking my head to get rid of my anxiety, I slowly reach out my arms…\
+
+*01
+` "Who am I?!"\
+
+*02
+` "Eeeek!"@
+` "Whoa!"@
+` The student that turns around screaming is…| someone quite different, no, COMPLETELY different from Akari.@
+` H-How could I mistook her?@
+` Her face looks nothing like Akari's!@
+` "W-W-W-What's wrong with you?!"@
+` "S-Sorry.@ Wrong person…"@
+` As I apologize, the girl voices her multiple complains and leaves in anger.\
+
+*03
+` T-This is so embarrassing…@
+` The students around me chuckle uncontrollably.@
+` Amongst them, a remarkably loud laughter resounds…@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 0a
+ChangeCharacter 02 04 05
+` "Pfft!@ Hahahaha!"@
+` "Shiho…"@
+ChangeCharacter 02 04 07
+` "Hey, tell me!@ Who you mistook her for?@ Little Shiho's VEEERY CURIOUS about it…@
+` "D-Dunno…"@
+` Tch!@
+` Of all people, SHE had to watch this scene!
+WaitPage
+ChangeCharacter 02 04 0b
+EndTextBlk
+
+*04
+` "Anyway, this is a bomb!@ Gotta upload it to my homepage right away."@
+` "Hey, Shiho!@ Wait!"@
+` What "homepage" is she talking about?!@
+` She can't even write the "p" in it!@
+ChangeCharacter 02 04 07
+` "I'm gonna publish your shameful deeds for the world to enjoy!"@
+` "Liar!"@
+ChangeCharacter 02 04 05
+` "Bye bye!"@
+ChangeCharacter 02 ff ff
+` "Hey, come here!@ Shiho!"\
+
+*05
+` D-Dammit…@
+` This is literally adding insult to injury.@
+` Come to think of it, she might actually have a homepage…
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01A9 0258
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "I think it'd be fun to see those kinda things."@
+` I answer her.@
+` Denying their existence is the lazy option.@
+` If something like today's accident hadn't happened, I would have probably kept laughing that phenomena off as usual.@
+` "Generally, until it is proved or disproved, affirming the existence or non-existence of something is equally valid.@ In that case, I think it's more interesting to believe that they exist."@
+ChangeCharacter 02 00 04
+` "I agree.@ It's more fun if you think they could exist."@
+` Akari smiles happily.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AA 0259
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "No freaking way."@
+` I laugh it off.@
+` Attributing paranormal phenomena to everything just because you can't explain it otherwise is too simplistic and irresponsible.@
+` I'm sure that if I thought about it more deeply, I could find some logical explanation to that accident.@
+` Well, I know that favoring their existence would support Akari's beliefs, but that's not enough of a reason to change my mind.\
+
+*01
+` "I'll believe it when more proof appears."@
+` "Hmm…"@
+` "Generally, more than 90% of paranormal phenomena are false rumors invented by people who think that its existence is more exciting that its non-existence."@
+ChangeCharacter 02 00 03
+` "Perhaps…"@
+` I guess I can't help but think straight, even if that doesn't please Akari.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AB 0260
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "I feel they might exist."@
+` I answer.@
+` Not to boast, but I didn't believe in this stuff at all up until now.@
+` Forcing myself to believe something that I never experienced was impossible for me.@
+` However, now I have experienced it myself.@
+` I can't forget the sensation of my leg being pulled back.@
+` And that girl, Kotone…\
+
+*01
+` Akari observes my profile with great interest as I become silently absorbed in these strong feelings.@
+` A gust of wind sways our hair and keeps going passing through us.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AC 0261
+*00
+End20
+
+*01
+Nazo6C 04
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+Choice 01 02 02 05 03 00
+Nazo6B
+Jump 01 ae 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 ad 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 16 0a 0a
+` I'm walking down the slope to go home,@
+` but then, I feel my sleeve being pulled.@
+` When I turn around…@
+FadeBGM
+FadeInBGM 07
+LoadCharacterAndBg 02 00 01 15 0a 0a
+` "Yuki…"@
+` Akari's there.@
+` It seems she rushed down here, for her cheeks are furious red.@
+` "*Gasp*…@ *Gasp*…@ I thought…| we could head home…| together…"@
+` "You definitely should exercise more, Akari."@
+ChangeCharacter 02 00 03
+` I tell her half jokingly, and she gives me a semi-awkward smile.\
+
+*01
+` Alright…
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Go together.
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. "I'm sorry, but I have somewhere else to go."
+EndTextBlk
+
+*04
+` Akari's frequency event - Slope.
+` 14-4.
+` Slope 2.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AD 0262
+*00
+End20
+
+*01
+DisplayMessage 00
+Choice 01 03 02 00 03 08 04 10
+Nazo6B
+FlagAdd 14 01
+Jump 01 af 01
+Nazo6B
+FlagAdd 14 02
+Jump 01 b0 01
+Nazo6B
+FlagAdd 14 03
+Jump 01 b1 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Yeah, let's go."@
+` I agree to accompany her…@
+ChangeCharacter 02 00 04
+` "Sure!"@
+` and Akari nods cheerfully.
+WaitPage
+LoadCharacterAndBg 02 00 04 2a 0a 0a
+EndTextBlk
+
+*01
+` "By the way, is there any celebrity you like?"@
+` "A comedian?"@
+ChangeCharacter 02 00 01
+` "No, I mean like a singer…"@
+` "Hmm…@ Why are you asking me something like that so suddenly?"@
+` "Oh, nothing in particular."@
+` Sheesh, whatever.@
+` I'll answer.
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. I'm not really interested in celebrities.
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. What about THAT girl?
+EndTextBlk
+
+*04
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. Akari Kamigishi.
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AE 0263
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Listen, Akari."@
+ChangeCharacter 02 00 03
+` "Yes?"@
+` "I'm sorry, but I can only accompany you up to there."@
+` "Oh, I see…"@
+` "I have a couple of places to stop by."@
+ChangeCharacter 02 00 04
+` "That's okay for me.@ Let's go."
+WaitPage
+LoadBG2 16 0a 0a
+EndTextBlk
+
+*01
+` We have a silly small talk afterwards.@
+` And then, at the end of the slope, we part ways.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01AF 0264
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "I couldn't care less about the entertainment industry."@
+` "Hm, I see."@
+` "There isn't anyone I'm a big fan of."@
+` "So, aside from celebrities, what kind of girls do you like?"@
+` "To be honest, I have no idea."\
+
+*01
+` I evade her question.@
+` But seriously, what kind of girls do I really like…?
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B0 0265
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "What about that girl?"@
+` "Who?"@
+` "The girl from the pocket bells' commercials that says "One more person!" and stuff…@
+ChangeCharacter 02 00 04
+` "Ryoko Suehiro?"@
+` "Yeah, she's who I'm talking about."@
+` "She's so cute, isn't she?"@
+` "Yeah, I suppose."
+WaitPage
+ChangeCharacter 02 00 01
+EndTextBlk
+
+*01
+` "What do you like about her?"@
+` The way she says "her" sounds like she's talking about a friend.@
+` I answer while picturing Ryoko in my mind.@
+` "Her refreshing short hair."@
+` "I see…"@
+` "And her cheerfulness, perhaps."@
+` "Cheerfulness, huh?"@
+` "That side of hers is completely different from yours."@
+ChangeCharacter 02 00 03
+` "R-Really…?"@
+` "You're kinda softer, and warmer and fuzzier…"@
+ChangeCharacter 02 00 07
+` "I guess."\
+
+*02
+` That doesn't mean I don't like Akari, though.@
+` But still, who would I choose?@
+` My tastes are pretty wide-ranging…@
+SetTextHOffset 17
+SetTextVOffset c2 01
+NazoB4 07
+` And your integrity is at rock bottom.
+NazoB4 01
+WaitPage
+EndTextBlk
+
+*03
+` I casually notice Akari has become quiet and thoughtful for some reason.@
+` Perhaps something I said made her stop and reflect like this?@
+` Tch, she's such an airhead…\
+
+*04
+` "Well, you and Ryoko are like oil and water, but both of you…"@
+` "Are pretty nice", I was about to say, but I stop.@
+ChangeCharacter 02 00 03
+` "What?"@
+` "Nothing."@
+` "Tell me!"@
+` "Nope."
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B1 0266
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Akari Kamigishi, perhaps."@
+ChangeCharacter 02 00 03
+` "Huh…?"@
+` "I'm kidding."@
+` "…‥"@
+` "…‥"@
+` "…‥"\
+
+*01
+` "But still, if by a one-in-a-million chance you become famous, I'll be there to support you."@
+` "For real?"@
+` "Yes."@
+` "Hmm, that kinda encourages me to give it a try…"@
+` "You're not supposed to take it seriously!"@
+ChangeCharacter 02 00 04
+` "Hehehe!"@
+` She deserves a poke in the head.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B2 0267
+*00
+End20
+
+*01
+Nazo6C 04
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+Choice 01 02 02 05 03 00
+Nazo6B
+Jump 01 b4 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 b3 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 08 0a 0a
+` Something happens as I'm strolling idly toward the stairs.@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 02 00 01
+` "Oh, Yuki."@
+` Akari's climbing down the stairs.@
+` "Hi.@ How's your cold?"@
+` "Oh, I think it's gone.@ More importantly, I was looking for you."@
+` "For me?"@
+` "Yes.@ Come with me to the rooftop."@
+` "Why?"@
+ChangeCharacter 02 00 04
+` "Hehehe!@ It's a surprise!"@
+` Akari smiles cheerfully.\
+
+*01
+` I'll…
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Accompany her.
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Tell her I'm busy.
+EndTextBlk
+
+*04
+` Akari's frequency event - 2F.
+` 22-4.
+` Hallway next to the stairs.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B3 0268
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+Choice 05 03 06 00 07 08 08 10
+Nazo6B
+FlagAdd 14 02
+Jump 01 b5 01
+Nazo6B
+FlagAdd 14 01
+Jump 01 b6 01
+Nazo6B
+FlagAdd 14 03
+Jump 01 b7 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+*00
+` Well, I guess I'll just stick with her.@
+` "Tch, what is it now?"@
+` Grumbling, I climb up the stairs with her.
+WaitPage
+LoadCharacterAndBg 00 1c 01 0f 0a 0a
+EndTextBlk
+
+*01
+` I open the door of the rooftop.@
+` There are puddles reflecting the blue sky all over the floor.@
+` Come to think of it, a small drizzle sprinkled over here last period.@
+` "Yuki."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 04
+` When I turn up my gaze in response to her voice, Akari narrows her eyes and smiles.@
+` "Look."@
+` I look up to the sky as Akari points at it.
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 ff ff
+EndTextBlk
+
+*02
+` It's a rainbow.@
+` "Heh, a rainbow…"@
+` A bridge describing an enormous arc of seven colors traverses the perfectly clear blue sky cleaned by the rain,@
+` and outside that rainbow, although a bit diluted, another one hangs on the sky.@
+` "A double rainbow…"@
+` "Look closer.@ You should see another one there."@
+` It's true…@
+` Despite it's almost gone, outside those two rainbows, an extra rainbow is visible there.@
+` It's a triple rainbow.\
+
+*03
+` "It's been a while since I saw a rainbow…"@
+` I mutter, deeply moved.@
+` "Aren't you happy for coming?"@
+` Akari says with a smile.@
+` "Oh, so you brought me here to see this?"@
+` "Yes."@
+` Akari does a big nod.@
+` "It's so beautiful…@ I feel like it's so mysterious…"@
+` She approaches to my side, talking absent-mindedly.\
+
+*04
+` But at that moment…@
+` *Splash!*@
+` I turn around to the source of the sound, and there I find Akari carelessly stepping on a puddle at her feet.@
+` She tries to move aside quickly, but the splashy water has already soaked her socks.@
+` She mutters something with a troubled face, but at the same time she looks vaguely playful.@
+` For some reason, the picture of a puppy playing with a puddle comes to my mind.
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 04
+EndTextBlk
+
+*05
+` "Hm?@ What is it?"@
+` Akari looks at me with a happy face.@
+` "Uh, nothing…"@
+` As I look at her, I can't help but think…
+EndTextBlk
+
+*06
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. "She's the same dimwit as always."
+EndTextBlk
+
+*07
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. "She's adorable."
+EndTextBlk
+
+*08
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. "She's an dog-chick."
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B4 0269
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "I'm busy now."@
+ChangeCharacter 02 00 03
+` "I-I see…"@
+` Akari smiles bitterly.\
+
+*01
+` "Okay, just take a look through the window."@
+` "Hm?"@
+` Obeying her, I look outside the window.@
+` "Oh, a rainbow."@
+` A big rainbow is straddling across the city.@
+` "Isn't it beautiful?"@
+` "I guess."@
+` "That's all I wanted to show you.@ Sorry for bothering you."@
+ChangeCharacter 02 ff ff
+` With that last line, Akari heads up to the rooftop once more.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B5 0270
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` She's the same dimwit as always.@
+` That's what I think.@
+` But then…@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+` "You were thinking that I'm the same dimwit as always, weren't you?"@
+` Akari unreservedly hits the bull's eye.\
+
+*01
+` "Bingo."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 06
+` "I knew it.@ Your eyes look always the same when you call me an dimwit."@
+` "My eyes?@ What are you talking about?"@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 01
+` "When you say "How silly can you be…?", your face says "you're hopeless"."@
+` My expression?@
+` Perhaps is the same face Akari makes when she talks with me.\
+
+*02
+` "Heh, so deep I could drown."@
+` I comment, and then…@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 04
+` "I know it after 16 years of hanging out together."@
+` she says laughing.
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 ff ff
+EndTextBlk
+
+*03
+` After that, we stay in the rooftop until the rainbow disappears, and then we head home together.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B6 0271
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+
+*00
+` She's adorable.@
+` That's what I think.@
+` Smiling so happily over a mere rainbow…@
+` What an affordable girl she is.@
+` I think her future boyfriend will be pretty lucky.@
+` She doesn't need expensive gifts since she's happy enough with simple things like these.
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+EndTextBlk
+
+*01
+` "Do I have something on my face…?"@
+` "Hm?@ What are you talking about?"@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 07
+` "You've been staring at me for a while now…"@
+` "I was just thinking you're as childish as ever."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+` "Huh?@ P-Perhaps I am…"
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 ff ff
+EndTextBlk
+
+*02
+` After that, we stay in the rooftop until the rainbow disappears, and then we head home together.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B7 0272
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Come to think of it, she's pretty much like a dog-chick.@
+` A dog submissive to her owner.@
+` For some reason, that's how I picture her.@
+` "Come here, Akari."@
+` I beckon to her.@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+` "Huh?"@
+` Suspecting I set myself to "weird" mode, Akari becomes watchful.@
+` "Don't be afraid.@ Just come here."@
+` "Okay…"@
+` Akari comes to me.\
+
+*01
+` "Shake hands."@
+` I reach out a hand.@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 0b
+` "Huh?"@
+` "Shake hands."@
+` "Yuki…"@
+` "Shake hands."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 07
+` Finally, after three attempts, she slowly puts her right hand on mine.\
+
+*02
+` "Shake the other hand."@
+` I command her, and Akari quietly places her other hand.@
+` "Gimme the jaw."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 0b
+` "Huh?"@
+` "The jaw."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+` "Jaw…?"@
+` "THE JAW!"@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 08
+` Resignedly, Akari is about to put her jaw on my hand...\
+
+*03
+` But then I quit it.@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 0a
+` "Ah!"@
+` Akari unintentionally loses her balance, but quickly recovers it.@
+` "Don't take it seriously, airhead."@
+LoadThreeCharacters 00 1c 01 02 ff ff 01 00 03
+` "S-Sorry…"
+WaitPage
+LoadThreeCharacters 00 1c 01 02 ff ff 01 ff ff
+EndTextBlk
+
+*04
+` After that, we stay in the rooftop until the rainbow disappears, and then we head home together.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B8 0273
+*00
+End20
+
+*01
+Nazo6C 04
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+Choice 01 02 02 05 03 00
+Nazo6B
+Jump 01 ba 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 b9 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 1f 0a 0a
+` I climb down to the first floor.@
+` Hey, isn't that girl Akari?@
+` "Hey, Akari!"@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 02 00 01
+` "Oh, Yuki."@
+` Akari looks unusually bright.@
+` "You look kinda happy.@ Where are you going to?"@
+` "I'm going to deliver this letter."@
+` "Letter?@ What kind of letter?"@
+` "A love letter, I guess.@
+` W-WHAT?!\
+
+*01
+` "You…@ A love letter…"@
+` "Wanna come?"@
+` Is that even a question?!
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Of COURSE I'll go!
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Screw it. It's none of my business.
+EndTextBlk
+
+*04
+` Akari frequency event - 1F.
+` 23-4.
+` Hallway 2.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01B9 0274
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+Choice 05 03 06 00 07 08 08 10
+Nazo6B
+FlagAdd 14 01
+Jump 01 bb 01
+Nazo6B
+FlagAdd 14 03
+Jump 01 bc 01
+Nazo6B
+FlagAdd 14 02
+Jump 01 bd 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Of course I'll go!"@
+ChangeCharacter 02 00 02
+` "Why are you upset?"@
+` "I'm not!"@
+` "…‥"@
+` I decide to accompany her.
+WaitPage
+LoadCharacterAndBg 01 00 04 09 0a 0a
+EndTextBlk
+
+*01
+` "Oh, there you are, Masashi."@
+ChangeCharacter 00 09 02
+` "Hiya."@
+` M-Masashi?@
+` Don't tell me the recipient of the letter is…@
+ChangeCharacter 01 00 01
+` "Here.@ A letter for you from a girl of D class.@ You're so popular, Masashi…"@
+ChangeCharacter 00 09 01
+` "I see.@ Thank you."
+WaitPage
+LoadBG2 0d 0a 0a
+EndTextBlk
+
+*02
+` "…‥"@
+ChangeCharacter 02 00 01
+` "Masashi receives tons of letters."@
+` "R-Really?"@
+` "W-What's wrong, Yuki?"@
+` "I'm a bit tired, that's all."@
+` "?"@
+` Sheesh, I'm dead tired…
+WaitPage
+LoadBG2 16 0a 0a
+EndTextBlk
+
+*03
+` So we end up heading home together.@
+ChangeCharacter 02 00 04
+` "But hey, don't you think Masashi's amazing?@ This is the third time a girl asks me to deliver him a letter."@
+` "Yeah, I guess."@
+` "The critical factor must be his soccer skills."@
+` "Yeah, I guess."@
+ChangeCharacter 02 00 03
+` "What's wrong?@ You're acting weird."@
+` "Yeah, I guess."@
+ChangeCharacter 02 00 02
+` "Sheesh…"
+WaitPage
+LoadBG2 1a 0a 0a
+EndTextBlk
+
+*04
+` As we walk through the park, Akari asks:@
+ChangeCharacter 02 00 01
+` "Hey."@
+` "Hm?"@
+` "Why don't you want to enter the soccer club?"@
+` "It's tiresome."@
+` "But you're good at soccer, so I think you'd succeed at it.@
+` "Good?@ What are you talking about?"@
+ChangeCharacter 02 00 03
+` "I remember you were talented back in elementary."\
+
+*05
+` "Hmm…"
+EndTextBlk
+
+*06
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. What's your point?
+EndTextBlk
+
+*07
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Yeah, I'll consider it.
+EndTextBlk
+
+*08
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. It's not my thing.
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BA 0275
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "To hell with it.@ It's none of my business."@
+ChangeCharacter 02 00 03
+` "I see…@ You're right.@ Sorry for bothering you.@ See you later."@
+ChangeCharacter 02 ff ff
+` Perhaps being wary of my threatening attitude, Akari hurriedly takes her leave.@
+` But still, what was Akari going to do with that letter?@
+` Who was she going to deliver it to?@
+` Hmm…@
+` I'm kinda worried.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BB 0276
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "What's the point of asking me that?@ We're already in second year, aren't we?"@
+ChangeCharacter 02 00 01
+` "I think you can start from this spring."@
+` "Do you want me to enter so badly?"@
+ChangeCharacter 02 00 02
+` "Y-Yes, I… want."@
+` "…‥"@
+` "…‥"@
+` "Hmm…@ Perhaps becoming popular through soccer like Masashi does wouldn't be so bad."@
+ChangeCharacter 02 00 03
+` "T-That's not what I mean…"
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BC 0277
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Yeah, I'll consider it."@
+ChangeCharacter 02 00 04
+` "Please do.@ Masashi's there too, so I think you guys will make a great duo."@
+` "That kiddo trained as my personal partner in the first place, so bringing back the Golden Combo wouldn't be so bad, I guess."@
+ChangeCharacter 02 00 01
+` "You're right!"@
+` "Okay, I'm gonna strive to become the ace striker of our school…!| or something."@
+ChangeCharacter 02 00 04
+` "Yes, set your passion ablaze!"\
+
+*01
+` "But…| even if I'm good at it, nowadays' high school soccer kinda sucks."@
+ChangeCharacter 02 00 02
+` "…‥."
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BD 0278
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "It's not my thing…"@
+ChangeCharacter 02 00 04
+` "That's not true."@
+` "I'm half-hearted at everything, unlike Masashi."@
+ChangeCharacter 02 00 01
+` "That's not true!"@
+` "Running is too tiresome for me."@
+ChangeCharacter 02 00 04
+` "Isn't that your specialty?"@
+` "I have plenty of practice, so I could apply if I only have to run in official matches."@
+ChangeCharacter 02 00 02
+` "…‥"\
+
+*01
+` "That, and the chance of becoming popular with the girls…@ That's another reason to enter."@
+` "…‥"@
+` "…‥"@
+` "What's wrong?"@
+ChangeCharacter 02 00 03
+` "We better forget about this."@
+` "What's that supposed to mean?!"@
+ChangeCharacter 02 00 09
+` "Ouch!"
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BE 0279
+*00
+End20
+
+*01
+Nazo6C 03
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+Choice 00 02 01 08 02 00
+Nazo6B
+FlagAdd 14 00
+Jump 01 c0 01
+Nazo6B
+FlagAdd 14 03
+SetFlag a6 01
+Jump 01 bf 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 16 0a 0a
+` When I'm approaching the slope, I spot Akari's back on the other side.@
+` I could easily reach her in a sprint.
+EndTextBlk
+
+*01
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Chase her.
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Watch her leave.
+EndTextBlk
+
+*03
+` Akari's frequency event - Road home.
+` 25-4.
+` Slope 2.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01BF 0280
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Time to dash!@
+` I start to run, and get close to Akari immediately.@
+` "Hey, Akari!"@
+ChangeCharacter 02 00 01
+` She then turns around, but at that moment…@
+PauseBGM
+ChangeCharacter 02 00 0a
+` "Whoa!"@
+ChangeCharacter 02 ff ff
+` The earth and the sky turn upside down.@
+` I spin around, and around…
+Vibrato 0b
+Vibrato 0b
+Vibrato 0b
+WaitPage
+EndTextBlk
+
+*01
+` It seems I managed to do a perfect circular rotation.@
+` "Ouch…"@
+` Furrowing my brows, I stand up.@
+` I see Akari running over to me.@
+StartBGM 07
+` "Are you okay, Yuki?"@
+` Akari looks at me worriedly, and I feebly tell her I'm OK waving a hand.@
+` Looking around hurts, but moreover, my insides sting with pain.@
+` I walk staggering towards a tree at a side of the road, and squat under its shadow.@
+` After closing my eyes and groaning for a minute, unexpectedly, a soft sensation wraps the back of my hand.@
+` "Akari…?"\
+
+*02
+` Akari wipes the skinned back of my hand soaked in blood with her handkerchief.@
+` "Are you okay, Yuki?"@
+` She's on the verge of tears.@
+` She overreacts as if I were to die here and now.@
+` "Does it hurt?@ Does it hurt?"@
+` I somewhat feel like she's suffering more than me.\
+
+*03
+` "Nah, 'tis but a scratch."@
+` But actually, I lowkey want to stay here for a while feeling this comfort.@
+` "Don't force yourself."@
+` She says.@
+` Akari…\
+
+*04
+` But then something happens…@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 0a
+ChangeCharacter 00 04 01
+` "My, my!@ I'll never run out of news with you!"@
+` Shiho appears.@
+` "S-Shut up!@ I'm not in the mood to play with you now!"@
+ChangeCharacter 00 04 02
+` "But you're in the mood to let your tongue run loose, right?"@
+` "Leave me alone."@
+ChangeCharacter 00 04 07
+` "Anyway, I'll upload your Ultra C to the internet right away!"@
+` "Damn it…"
+WaitPage
+ChangeCharacter 01 00 03
+EndTextBlk
+
+*05
+` "Shiho."@
+` "What is it, Akari?"@
+` "Please keep this as a secret."@
+ChangeCharacter 00 04 02
+` "Huh?"@
+` "I'm begging you, Shiho."@
+` "S-Sure…@ If you insist, I'll seal my lips this time."@
+` With that last line, she cheerfully takes her leave.
+WaitPage
+ChangeCharacter 00 ff ff
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 01 00 04
+EndTextBlk
+
+*06
+` "It's okay now, Yuki."@
+` "…‥"@
+ChangeCharacter 01 00 01
+` "Shiho promised she won't talk about this."@
+` "Akari…"@
+` "Hm?"@
+` "You…| should pay more attention to the people around you."
+WaitPage
+ChangeCharacter 01 ff ff
+EndTextBlk
+
+*07
+` Then, after resting for while, I'm recovered enough to stand up.@
+ChangeCharacter 02 00 03
+` "Are you okay now, Yuki?"@
+` "Yeah…@ Sorry for wasting your handkerchief, though."@
+` "What do you mean?"@
+` "It got stained with my blood."@
+` "Don't worry about it."@
+` "I'll buy you a new one."@
+` "It's nothing, really."@
+` "Let's go buy it right now."@
+ChangeCharacter 02 00 04
+` "Oh, okay.@ Thank you."@
+` I should be thanking you, Akari.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C0 0281
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Oh, whatever.@
+` I'm gonna leave it for the next time.@
+` I decide to watch her leave from behind.@
+` Her back appears and disappears for a while between other students, until it finally vanishes…
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C1 0282
+*00
+End20
+
+*01
+Nazo6C 03
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+Choice 00 02 01 05 02 00
+Nazo6B
+Jump 01 c3 01
+Nazo6B
+SetFlag a6 01
+FlagAdd 14 00
+Jump 01 c2 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 07 0a 0a
+` Geez…@
+` This first day after holidays is making me sleepy…@
+` After stretching out, I leave the classroom nonchalantly, and then I spot Akari gazing outside the window.@
+` What is she looking at?
+EndTextBlk
+
+*01
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Call out to her.
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Leave her alone.
+EndTextBlk
+
+*03
+` Akari's frequency event - 2F.
+` 30-4.
+` Hallway 1.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C2 0283
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Choice 02 03 03 00 04 08 05 10
+Nazo6B
+FlagAdd 14 03
+Jump 01 c4 01
+Nazo6B
+FlagAdd 14 01
+Jump 01 c5 01
+Nazo6B
+FlagAdd 14 02
+Jump 01 c6 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Something amusing out there?"@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 02 00 81
+` "Yuki…"@
+` I stand next to her, and look out of the window.
+WaitPage
+LoadVisualScene 98 0a 0a
+EndTextBlk
+
+*01
+` "Look, Yuki, an airship."@
+` "Whoa.@ That's a pretty rare sight nowadays.@ It's been a while since I saw one."@
+` The silver airship is about to cross above the city slowly.@
+` "There's something written there.@ Lemme see…| "LEAF".@ Never heard of it."@
+` "There were a lot of them flying just a while ago."@
+` "Yeah.@ You don't have the chance of seeing them so frequently these days."@
+` "Looks fun…@ I would like to ride one someday."@
+` "Why?@ Did that big bear mark catch your eye?"@
+` "Yes, that too."@
+` Akari smiles bashfully.\
+
+*02
+` After looking absent-mindedly at it for a while, I say:@
+` "You know, there's something I always wonder whenever I see an airship…"
+EndTextBlk
+
+*03
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Wouldn't you become sleepy in it?
+EndTextBlk
+
+*04
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Would something crazy happen if you pierced it with a needle?
+EndTextBlk
+
+*05
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. Wouldn't it be scary to ride it?
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C3 0284
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` Ah, whatever.@
+` I'm gonna leave her alone.@
+` Even though I walk behind her, Akari doesn't notice me, and keeps gazing through the window.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C4 0285
+*00
+End20
+
+*01
+DisplayMessage 00
+Jump 01 c7 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Wouldn't you become sleepy in it?"@
+LoadCharacterAndBg 02 00 03 07 0a 0a
+` "Sleepy?"@
+` "Yeah, like, you're traveling REALLY slow up there.@ Wouldn't it feel like you're inside a dream?@ As if you were transported to another place in your dream, and then you suddenly find yourself in the US when you wake up.@ That kinda feeling."@
+ChangeCharacter 02 00 01
+` "You're right."@
+` "Still, traveling so slowly must be a dream come true.@ Man, I'd kill for riding a ship like that."@
+ChangeCharacter 02 00 06
+` After giving a big yawn, I look at my side.@ Akari's gentle smile seems to say "But you literally LIVE slowly!"\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C5 0286
+*00
+End20
+
+*01
+DisplayMessage 00
+Jump 01 c7 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Would something crazy happen if you pierced the airship with a needle?"@
+LoadCharacterAndBg 02 00 04 07 0a 0a
+` "With a needle?"@
+` "Yeah.@ Surely you have seen it before in western cartoons, right?@ If you pierce them with a needle they go "PSSSHHH!""@
+ChangeCharacter 02 00 01
+` "…‥"@
+` Looks like she's imagining it.@
+` Perhaps now, in her mind, she's picturing an airship flying around in circles like a balloon crossing the sky, all while making that characteristic lame sound.@
+` "No way that will ever happen, airhead.@ They have protection against that."@
+ChangeCharacter 02 00 03
+` "R-Right."@
+` And then we laugh together.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C6 0287
+*00
+End20
+
+*01
+DisplayMessage 00
+Jump 01 c7 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Wouldn't it be scary to ride it?"@
+LoadCharacterAndBg 02 00 03 07 0a 0a
+` "Scary?"@
+` "They're floating with a mass of gas, right?@ That means it's basically a bomb that could explode with a single match."@
+ChangeCharacter 02 00 0a
+` "Oh, that's right."@
+` "The inside of the ship must be full of "No fire" signs."@
+ChangeCharacter 02 00 03
+` "P-Perhaps."@
+` "But still, if you want to go against all risks, the ship itself must be pretty comfortable."@
+ChangeCharacter 02 00 04
+` "You're right."@
+` After that, we keep gazing at the airship for a while.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C7 0288
+*00
+End20
+
+*01
+DisplayMessage 00
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "By the way, Akari, what are you gonna do on Golden Week?"@
+ChangeCharacter 02 00 01
+` "Hmm…@ I don't have any plans in particular."@
+` "Me neither.@ Damn, we have WAY too much time to spare…"@
+ChangeCharacter 02 00 04
+` "You're right."@
+` She says and chuckles.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C8 0289
+*00
+End20
+
+*01
+FlagSetBit 01 02 01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+Choice 03 03 04 00 05 08 06 10
+Nazo6B
+FlagAdd 14 03
+Jump 01 c9 01
+Nazo6B
+FlagAdd 14 02
+Jump 01 ca 01
+Nazo6B
+FlagAdd 14 01
+Jump 01 cb 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 17 0a 0a
+` As I approach the bookstore, thinking about silly stuff like the recent lack of fish flags…@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 02 00 01
+` "Yuki."@
+` I meet with Akari who is exiting the bookstore.@
+` "'Sup, Akari.@ Wasn't expecting to meet you here."@
+` "Are you going home now, Yuki?"@
+` "Yeah, talk about a coincidence.@ We might as well go together."@
+ChangeCharacter 02 00 04
+` "Yes."
+WaitPage
+LoadBG2 1a 0a 0a
+EndTextBlk
+
+*01
+` "By the way, what were you buying in the store?"@
+ChangeCharacter 02 00 04
+` "Oh, this."@
+` She takes out the paper bag she put away in her briefcase a while ago.@
+` Then she unzips it and draws out its contents.@
+` ""The perfect guide for Hokkaido", huh?"@
+ChangeCharacter 02 00 01
+` "Yes.@ I bought it to prepare myself for the school trip."@
+` "You're as earnest as always."@
+ChangeCharacter 02 ff ff
+` We sit down on a bench and open the guide.\
+
+*02
+` "Heh…@ No wonder there are so many spots given Hokkaido's size.@ I guess we'll have to jostle our way through."@
+` "We're gonna go here and here…"@
+` "And there and nowhere!"@
+ChangeCharacter 02 00 03
+` "…‥"@
+` "Just keep reading."@
+ChangeCharacter 02 00 01
+` "Okay.@ Hmm, we'll have a free day in Sapporo."@
+` "So where should we go then?"@
+` "I'll do some research and then show you our options."@
+` "Yeah.@ I'm leaving it you."@
+ChangeCharacter 02 00 04
+` "Sure."\
+
+*03
+` "By the way, Yuki, what do you plan to bring home with you?"@
+` A souvenir?@
+` Aren't we too early for that?@
+` "Hmm…@ A good souvenir from Hokkaido could be…"
+EndTextBlk
+
+*04
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. A bear.
+EndTextBlk
+
+*05
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. Crab cans.
+EndTextBlk
+
+*06
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` C. White dwarfs.
+EndTextBlk
+
+*07
+` Akari's frequency event - Road home.
+` 1-5.
+` Bookstore and cram school.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01C9 0290
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "A bear."@
+ChangeCharacter 02 00 0b
+` "Huh?"@
+` "I mean, a bear-themed ornament."@
+ChangeCharacter 02 00 03
+` "O-Oh, I see."@
+` "Well, staples are staples, but why do people always look for bears when they're visiting Hokkaido?"@
+ChangeCharacter 02 00 01
+` "I'd like a key ring.@ I'm sure there must be a lot of cute ones there."@
+` "Another item for your bear collection, am I right?"@
+ChangeCharacter 02 00 04
+` "Exactly!"
+WaitPage
+LoadVisualScene 00 0a 0b
+EndTextBlk
+
+*01
+` After that, we talk about our middle school trip, and then we head home.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CA 0291
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Crab cans."@
+ChangeCharacter 02 00 03
+` "But you can buy them here in the local convenience store…"@
+` "Then ramen.@ Salted salmon.@ Corn."@
+` "Only thinking about food, I see."@
+` "All those are regional gems."@
+ChangeCharacter 02 00 04
+` "You really like Sapporo's ramen, don't you?"@
+` "Yeah, I love it.@ Oh!@ That's a good plan for our free day: "Sapporo's ramen on-foot tour!""@
+ChangeCharacter 02 00 03
+` "I don't think you'll be able to eat that much within half a day."
+WaitPage
+LoadVisualScene 00 0a 0b
+EndTextBlk
+
+*01
+` After that, we have a little but lively culinary talk, and then we head home.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CB 0292
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "White dwarfs."@
+` "Huh?"@
+` "They constitute 98% of Hokkaido's souvenirs, and are a pretty renowned confection."@
+ChangeCharacter 02 00 03
+` "F-For real…?"@
+` "People call them "white", but they actually look more like Macadamia chocolate."@
+ChangeCharacter 02 00 01
+` "I see."@
+` "Once you purchase them, you hand them to other people while you walk around, and by doing that all your relationships will improve.@ That kinda courtesy is mandatory if you're a high school student, right?"@
+` "So will you buy some?"@
+` "On second thought… nah.@ They're not worth it."@
+ChangeCharacter 02 00 03
+` "Thought so."
+WaitPage
+LoadVisualScene 00 0a 0b
+EndTextBlk
+
+*01
+` After that, we have a relaxed, casual conversation, and then we head home together.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CC 0293
+*00
+End20
+
+*01
+Nazo6C 03
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+Choice 00 02 01 08 02 00
+Nazo6B
+FlagAdd 14 00
+Jump 01 ce 01
+Nazo6B
+FlagAdd 14 03
+SetFlag a6 01
+Jump 01 cd 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 1f 0a 0a
+` When I just climbed down to the first floor…@
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 07
+ChangeCharacter 02 00 04
+` "Yuki."@
+` Akari comes to me.@
+` "What is it?"@
+` "Are you free now?"
+EndTextBlk
+
+*01
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. Yeah, I am.
+EndTextBlk
+
+*02
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. I'm not.
+EndTextBlk
+
+*03
+` Akari's frequency event - 1F.
+` 2-5.
+` Hallway 2.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CD 0294
+*00
+End20
+
+*01
+DisplayMessage 00
+IfBitOff 01 02 02
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Yeah, I'm free.@ What do you want?"@
+` "I thought we could talk about our free day in the trip."@
+` Akari shows me the book in her hands.@
+` "The perfect guide for Hokkaido", huh?\
+
+*01
+` "Yeah, I remember you said you would check stuff out."@
+` "Yes."@
+` Akari answers with a sweet smile.@
+` "Well, stop wasting time and show me what you have learned.@ The full details of "Sapporo's bankrupt ramen tour.""@
+ChangeCharacter 02 00 03
+` "That's not what I looked into…"\
+
+*02
+` Akari opens the guide.@
+` The page about the stage of our free day, Sapporo, is marked with lot of checks made with fluorescent pink pen.@
+ChangeCharacter 02 00 04
+` "Let's begin…@ First, we have to visit Clerk's statue in Hokkaido's University, then drop by Seikatei, then go to the Hokkaido University Botanical Gardens."@
+` "Nice."@
+ChangeCharacter 02 00 01
+` "After that, we'll visit the former Hokkaido Government Office, the clock tower, then Sapporo's TV tower, and then…"@
+` "Hold up, Akari, do you intend to visit EVERY SINGLE attraction in Hokkaido?"@
+ChangeCharacter 02 00 03
+` "Huh?"@
+` "We'll have to run from place to place without room to catch a breath."
+WaitPage
+ChangeCharacter 02 00 0b
+EndTextBlk
+
+*03
+` Akari looks taken aback, and then hangs her head.@
+` "I understand you're excited, but keep in mind that we're mere mortals.@ The course you suggested is only possible using teleportation."@
+ChangeCharacter 02 00 08
+` "You're right.@ Sorry."@
+` Akari drops her shoulders in disappointment.@
+` "I just wanted to go everywhere and take photos with you…"@
+` C'mon, did you want to fill a whole freakin' album or what?!\
+
+*04
+` "Hey, Akari."@
+ChangeCharacter 02 00 01
+` I call out to her, and she lifts her head again.@
+` "Tell me what you really want to do."@
+ChangeCharacter 02 00 02
+` "What I really want to do?"@
+` "You have something in mind, right?@ Something you can do only in Hokkaido."\
+
+*05
+` Troubled, Akari keeps silent.@
+` A soundless while flows slowly,@
+` but then…@
+ChangeCharacter 02 00 03
+` "Yuki, I…"@
+` Finally, Akari opens her lips.@
+ChangeCharacter 02 00 04
+` "I want to see the native bears!"\
+
+*06
+` "Bears.@ Gotcha."@
+` I snatch the guide from her hands and start flipping pages.@
+` "Look, here are bear parks.@ They're raising 180 bears.@ It's called Noboribetsu.@ Where is it?@ Oh, dammit, it's on the bus' way.@ Why doesn't it stop there?@ Fuck…@ Let's look for another one."@
+ChangeCharacter 02 00 03
+` "Don't worry, Yuki.@ There are bears here in the local zoo, so…"\
+
+*07
+` "It's not the same if you don't see them in Hokkaido, airhead.@ Oh, there's a zoo in Maruyama Park.@ What about we go here?"@
+ChangeCharacter 02 00 0b
+` "Huh?@ For real?"@
+` "You're missing the point of this trip, Akari.@ See?@ Here are like 10 or 20 bears."@
+ChangeCharacter 02 00 04
+` "Alright!"@
+` Akari smiles happily.\
+
+*08
+` "So we will stay 2 hours there.@ After that, we go for local ramen…"@
+ChangeCharacter 02 00 03
+` "Thought so."
+WaitPage
+LoadVisualScene 00 0a 0b
+EndTextBlk
+
+*09
+` We get excited talking about the course after the ramen.@
+` Though we don't make any special promises, we plan to do everything together.@
+` After all, both of us, Masashi, and Shiho (who I bet is gonna escape from her class) will probably go together anyway as we always do.\
+
+*0a
+` So, from now on we must patiently wait for the departure day.@
+` This trip is almost before our eyes.@
+` I'm eagerly looking forward for it.@
+` Oh, but there's the Golden Week before that…
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CE 0295
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+` "Sorry, but I'm busy now."@
+ChangeCharacter 02 00 02
+` "I see…"@
+` Akari hangs her head in disappointment.@
+` "Maybe the next time."@
+ChangeCharacter 02 00 04
+` "Sure.@ See you later."@
+ChangeCharacter 02 ff ff
+` Leaving Akari behind, I start walking away.\
+
+*01
+` I feel like she had something important to tell me…
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 01CF 0296
+*00
+End20
+
+*01
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+FlagAdd62 af 01
+FlagAdd 14 03
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+LoadPCM 08
+NazoPCMA7 00 00
+Nazo79
+LoadBG 0d
+Effect 1f
+Wait 64
+LoadCharacter 02 00 86
+Nazo44 02 03
+Wait 64
+Nazo7A
+` "Yuki."@
+` "…‥"@
+ChangeCharacter 02 00 84
+` "Yuki, tomorrow we…@
+ChangeCharacter 02 00 8b
+`  Oh."@
+ChangeCharacter 02 ff ff
+` Ignoring Akari, I change shoes and leave the school buildings.
+WaitPage
+LoadVisualScene 00 1f 0b
+NazoPCMA8
+StopPCM
+Nazo79
+LoadBG 14
+Effect 1f
+Wait 64
+LoadCharacter 02 00 86
+Nazo44 02 03
+Wait 64
+Nazo7A
+EndTextBlk
+
+*01
+` "Yuki."@
+` "…‥"@
+` "U-Umm…"@
+` "…‥"@
+` *Whoosh*@
+ChangeCharacter 02 ff ff
+` I turn my back to her, and start walking.
+WaitPage
+ChangeCharacter 02 00 84
+EndTextBlk
+
+*02
+` "Wait, Yuki!"@
+` Akari comes running to me, and grabs my right hand.@
+` "Tch!"@
+` At that moment, the pain runs up my spine, and I immediately quit my hand.@
+ChangeCharacter 02 00 8b
+` "Huh?@ A-Are you hurting here?"@
+` "…‥"@
+ChangeCharacter 02 00 82
+` "Y-You injured yourself last night…"@
+` "Akari."@
+ChangeCharacter 02 00 8b
+` "Huh?"@
+` "Can you stop talking to me for a couple of days?"@
+ChangeCharacter 02 00 8c
+` "Yuki…"\
+
+*03
+` Turning my back to her, I start walking once more.@
+ChangeCharacter 02 00 8d
+` "Yuki!"@
+ChangeCharacter 02 ff ff
+` But I keep ignoring her.
+WaitPage
+LoadVisualScene 00 1f 0b
+Wait 64
+LoadBG2 16 0b 00
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 0200 0297
+*00
+End20
+
+*01
+TimeSetting 02
+Nazo40 0a
+Nazo6C 08
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+DisplayMessage 11
+DisplayMessage 12
+LoadBG 01
+Effect 0a
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 06
+LoadBG2 07 0b 0a
+` First period break time.@
+` With Serika's book in hand, I head to the sophomores' classroom.@
+` After asking which is hers to a student passing by, they tell me it's 2-A, so I swiftly head there.
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+LoadBG2 06 0b 0a
+EndTextBlk
+
+*01
+` However, in an unfortunate twist, the classroom turns out to be completely empty.@
+` Perhaps they switched rooms for the next period.@
+` Never mind, I'll come another day.@
+` However, as I'm about to trace back…\
+
+*02
+` *Slide*@
+` I hear something being moved.@
+` "?"@
+` When I turn around, I see a student standing still in the classroom I thought was empty.@
+` "Oh."
+WaitPage
+ChangeCharacter 02 02 04
+EndTextBlk
+
+*03
+` It's Serika.@
+` Heh, so she WAS here.@
+` Actually, I feel more like she has ALWAYS been, but I couldn't see her because she was squatting.@
+` What is she doing here alone?@
+` Well, anyway, I'll give her the book back.
+WaitPage
+LoadBG2 03 0a 0a
+EndTextBlk
+
+*04
+` "Hey, Serika…!"@
+` I enter the classroom as I call her name.@
+` "?"@
+` Reacting to my voice, Serika turns around to me.@
+Nazo44 00 00
+StartBGM 08
+ChangeCharacter 02 02 02
+` "‥…"@
+` She stares blankly at my face.@
+` ""Well met!@ I'm the freshman you clashed with this morning, Hiroyuki Fujita.@ A pleasure."@ Jokes aside, sorry 'bout that…"@
+` I say with a cheerful smile.\
+
+*05
+` "‥…"@
+` "By the way, what were you doing here alone?@ Everybody's gone, y'know?"@
+` Then, after thinking for a solid three seconds…@
+` "I was looking for it", she answers.@
+` ""Looking for it?"@ Are you talking about a book, perhaps?"@
+` I ask her…@
+` "‥…"@
+` and she nods.\
+
+*06
+` "A "Black Magic Compendium", by any chance?"@
+` I say with a confident smile.@
+` "‥…"@
+` "Huh?@ How do I know?@ Hehehe, you see…@ Ta-dah!"@
+` I show her the book I was hiding behind my back.@
+` "I had it with me all along."@
+` "‥…"@
+` "You dropped it by accident this morning, didn't you?@ Someone handed it to me a while ago.@ C'mon, take it."@
+` And so I give her the book.@
+` "‥…"\
+
+*07
+` "It must be pretty important to you since you were looking for it all over the floor, am I wrong?"@
+` Serika nods.@
+` "You shouldn't drop stuff like that, y'know?@ Well, ignoring the fact that I dropped my weight onto you…@ Just kidding!"@
+` However…\
+
+*08
+` "‥…"@
+` Ugh, she's expressionless.@
+` So typical of a lady.@
+` I guess it's natural she wouldn't laugh at such vulgar jokes.@
+` Even so, I doubt she would laugh with an elegant one, either.@
+` Anyway, I'll drop the gags here.\
+
+*09
+` But still, she's really pretty seen from close.@
+` That's a classy girl for you.@
+` It feels like every part of her body is custom-made.@
+` She's so beautiful she looks almost like a doll.@
+` I feel like her absent-mindedness makes her more relatable for me.\
+
+*0a
+` "By the way, are you actually into occultism?"@
+` Forcibly changing the topic, I make our cut-short conversation lift flight again.@
+` "You're not like other girls.@ A lot of rich ladies have those kind of odd hobbies, don't they?"@
+ChangeCharacter 02 02 04
+` "‥…"@
+` "Huh?@ You're not sure?@ Hmm, I see…@ From what I've heard, you're member of an occultism research society."@
+` *Nod*\
+
+*0b
+` "So people say you practice black magic and necromancy there, but is all that actually true?@ Huh?!@ It is?!@ For real?!"@
+ChangeCharacter 02 02 02
+` "It's true", she answers expressionlessly.@
+` "I see…"@
+` I can tell her personality is far from typical.\
+
+*0c
+` "I recall there was a suggested tour to the occultism club among the club prints back when I entered the school."@ "Our club strives to investigate what lies beyond the limits of science", stuff like that."@
+` To be honest, it looked pretty sketchy to me, but it's true that it caught my attention.@
+` "Did you yourself write all that, by any chance?"@
+` *Shake*@ *Shake*@
+` "So you didn't write that text."@
+` *Nod*\
+
+*0d
+` "‥…"@
+` "Huh?@ It was the club president?@ Oh, I see.@ There's no way you'd be president, right?@ Huh?@ He was an eminence in occultism but he didn't really attend the club, so he was like a ghost member?@ HAHAHA!@ A ghost member in an occultism club!@ Fuckin' hilarious!"@
+` "‥…"@
+` Enough of these lame puns.
+NazoB4 07
+SetTextHOffset 02
+SetTextVOffset 82 01
+` *In Japan, a "ghost member" is a member of a club that, despite being enrolled, is always absent.
+WaitPage
+NazoB4 01
+EndTextBlk
+
+*0e
+` Just then, I realize we're one minute away from the next class.@
+` This is bad…@ I made her lose time quizing her one-sidedly.@
+` I'd feel bad if that makes her angry.@
+` "Well…@ I'm gonna go back to my classroom now, Serika.@ You should also hurry, y'know?@ You'll be in trouble if you make your teacher mad."@
+` *Nod*@
+` Serika agrees.\
+
+*0f
+` "Bye, then."@
+ChangeCharacter 02 ff ff
+` I wave to her, but as I'm about to leave…@
+` *Grip*@
+` "Hm?"@
+ChangeCharacter 02 02 02
+` She stops me on my tracks pulling the sleeve of my coat.@
+` "Huh?@ What is it?"@
+` "‥…"@
+` Serika speaks in a very low voice.@
+` "Huh…?@ If I'm interested in occultism?"@
+` Lady Sorceress nods.\
+
+*10
+` "Hm, well…"@
+` To be frank, I don't believe in supernatural phenomena at all.@
+` While I know it's charming, and that the world would be a better place should it exist, I'm basically a skeptic.@
+` That said, it doesn't mean that I haven't the slightest interest in it.@
+` In order to truly accept its existence, I want to experience it and see it with my very own eyes.@
+` I've never really believed in Santa, but deep in my heart I always wished he'd actually hand out presents and such.@
+` So, in a nutshell, I'm interested.\
+
+*11
+` "Yeah, I'm definitely interested."@
+` When I answer her, once again, Serika speaks with almost inaudible whispers.@
+` "Huh?@ If I'd like to pay the club a visit?@ Yeah, sounds good.@ I'll come if I find time."@
+` After answering with a smile,@
+ChangeCharacter 02 02 03
+` "‥….."@
+` for some reason, she hangs her head and blushes.\
+
+*12
+LoadPCM 17
+StartPCM 01 00
+` But at that moment, the bell sounds.@
+` "Oh, crap!@ I'm gonna be late!@ See you later, Serika!"@
+` Waving a hand, I turn my back to the classroom.
+WaitPage
+LoadVisualScene 00 0a 0b
+NazoPCMA8
+StopPCM
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 0201 0298
+*00
+End20
+
+*01
+FlagSetBit 02 00 01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+DisplayMessage 11
+DisplayMessage 12
+DisplayMessage 13
+DisplayMessage 14
+DisplayMessage 15
+DisplayMessage 16
+DisplayMessage 17
+DisplayMessage 18
+DisplayMessage 19
+DisplayMessage 1a
+DisplayMessage 1b
+DisplayMessage 1c
+DisplayMessage 1d
+DisplayMessage 1e
+DisplayMessage 1f
+DisplayMessage 20
+DisplayMessage 21
+DisplayMessage 22
+DisplayMessage 23
+DisplayMessage 24
+DisplayMessage 25
+DisplayMessage 26
+DisplayMessage 27
+Return2D
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+DateSetting 20
+StartBGM 06
+LoadBG2 b1 0a 0a
+` April 1's night.@
+` A comfortable, homeworkless spring recess.@
+` After dining, I throw myself up on the bed and start reading manga.@
+LoadPCM 20
+StartPCM 00 00
+` *RIIIING*@ *RIIIING*@ *RIIIING*@
+` But at that moment, the phone of the entrance rings.\
+
+*01
+` *RIIIING*@ *RIIIING*@ *RIIIING*@
+` *RIIIING*@ *RIIIING*@ *RIIIING*@
+` *Tap-Tap-Tap*@
+LoadBG2 b2 0a 0a
+` Yeah, I'm on my way already.@
+LoadVisualScene 99 0a 0a
+` I climb down the stairs and pick up the receiver.@
+Nazo44 00 00
+Nazo79
+LoadVisual 9a
+WaitPCM
+StopPCM
+LoadPCM 25
+Nazo44 00 00
+StartPCM 01 00
+Wait 32
+Nazo7A
+NazoC9
+` *Click*@
+WaitPCM
+StopPCM
+` "Yes?@ Hiroyuki Fujita here."\
+
+*02
+` "‥…"@
+` "Hello?"@
+` "‥…"@
+` "Uh, hello?"@
+` "‥…"@
+` "Huh?@ Kurusugawa…?@ Oh, it's you, Serika!"@
+` Of all people, the person at the other end of the line is no one less than the princess of the Kurusugawa Group, Lady Serika Kurusugawa.\
+
+*03
+` "Were you looking for me?@ Oh, I'm glad…@ So, what did you want to talk about?@ Huh?@ Meeting?"@
+` Surprised by such an astounding proposal, I put the receiver closer to my ear in an attempt to hear her hardly audible voice.@
+` "N-Now?!@ For real?!"@
+` I look at the clock.@
+` Ten minutes before 8 P.M.@
+` "Hey, it's night already, y'know?@ Uh…@ Yeah, no problem on my end, but is this really fine for you?"\
+
+*04
+` "‥…"@
+` "Hello?@ I can't tell if you're nodding through the phone…@ Huh?@ It's okay for you too?@ I see…"@
+` Well, I always thought rich households were really strict with their curfew and all that, but…@
+` "So, where will we meet?@ Huh?@ At school?@ Yeah.@ Okay.@ Alright.@ So, in the clubhouse at 9 P.M.?@ Fine, I'll be there."@
+` *Click*@
+LoadVisualScene 99 ff 05
+` I slowly put down the receiver.
+WaitPage
+LoadBG2 b2 0a 0a
+EndTextBlk
+
+*05
+` Still, I can't help but wonder what is she looking for calling me at this time of night.@
+` Hmm…@
+` Some inappropriate thoughts cross my mind.@
+` Nah…@ Ain't no way that sweet fantasy will ever happen.@
+` Well, whatever.@
+` I won't know till I'm there.@
+` Alright, I better get ready now…
+WaitPage
+LoadVisualScene 00 1f 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*06
+` After reaching school, I see the gate slightly opened.@
+` Just as Serika said, the staff room entrance is unlocked, so I can enter without trouble.
+WaitPage
+LoadBG2 70 0b 0a
+EndTextBlk
+
+*07
+` The school buildings at night are filled with cold air.@
+` I walk along the deserted, silent hallway.@
+` My spine freezes at the impression of a lot of glances looking at me from everywhere.@
+` I'm even hallucinating a shadow chuckling as it observes my movements.@
+` To be frank, this IS scary.@
+` I mean, you don't usually come school alone, let alone at night…\
+
+*08
+` "Uh, Serika…?"@
+` I try calling her.@
+` However…@
+` "‥…"@
+` There's no response.@
+` This is weird…@
+` Indeed, I came a bit early, but the entrance of the staff room was already open, which means Serika should be already here.@
+` Never mind, I'll just wait some more.\
+
+*09
+` "‥|…"@
+` The school at night…@
+` I think I experienced a similiar situation in a video game.@
+` Certainly, I recall that game's title was a SINGLE word long…@
+` There won't be electromagnetic waves messing with my head all of a sudden, right…?
+NazoB4 07
+SetTextHOffset 02
+SetTextVOffset 82 01
+` *Reference to Shizuku, a Leaf game known for establishing the denpa (electromagnetic wave) horror subgenre.
+WaitPage
+NazoB4 01
+EndTextBlk
+
+*0a
+` However, after expecting the unexpected for a couple of minutes, Serika never appears.@
+` C'mon, it's almost time for our meeting.@
+` This is really odd…@
+` Today is April 1, meaning April Fools, so this might be a prank to scare the living daylights outta me.@
+` But it's Serika we're talking about, so there's no way she'd do something like that…\
+
+*0b
+` And then, at that moment…@
+LoadPCM 1c
+StartPCM 01 00
+NazoB8
+` *Tap-|Tap-|Tap-|Tap-|Tap-|Tap-|TAP!*
+CancelNewLine
+Wait c8
+Wait 64
+WaitKey
+NewLine
+NazoC7
+NazoPCMA8
+WaitPCM
+StopPCM
+` Gah!@
+` I awkwardly turn around at the sound of steps following me from behind.@
+LoadVisualScene 00 0a 0b
+` However…| no one is there.@
+` "‥|…"@
+` W-What's going on here?@
+` But the next instant…@
+LoadPCM 32
+StartPCM 01 00
+` *Creak…*| *SLAM!*@
+` This time I hear a door opening and closing at my back!@
+` Creepy!@
+` I rush towards the--"
+WaitPage
+NazoPCMA8
+WaitPCM
+StopPCM
+LoadCharacterAndBg 02 02 02 70 0b 0b
+EndTextBlk
+
+*0c
+` "E-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEK…..!!"\
+
+*0d
+` H-Huh?@ Oh!@
+StartBGM 08
+` "I-It was you, Serika…@ I didn't notice you."@
+` I say, struggling to catch my breath.@
+` "Huh?@ You startled because I yelled all of a sudden?@ Sorry 'bout that.@ I really thought there was something abnormal behind me…@ Actually, never mind.@ I just feel a bit sick."@
+` After I sigh putting a hand on my forehead, Serika asks me if I'm okay.\
+
+*0e
+` "Y-Yeah, I guess…"@
+` I say disheartened, but then…@
+` *Pat*@
+ChangeCharacter 02 ff ff
+` "Huh?"@
+` Serika starts to stroke my head.@
+ChangeCharacter 02 02 02
+` "Huh?@ If I'm still scared?@ I-I am…"@
+ChangeCharacter 02 ff ff
+` *Stroke* *Stroke*@
+ChangeCharacter 02 02 02
+` "S-Still scared…"@
+ChangeCharacter 02 ff ff
+` *Stroke* *Stroke*@
+ChangeCharacter 02 02 02
+` "J-Just a bit more…"@
+ChangeCharacter 02 ff ff
+` *Stroke* *Stroke*@
+ChangeCharacter 02 02 02
+` "One more time."@
+ChangeCharacter 02 ff ff
+` *Stroke* *Stroke*"
+WaitPage
+ChangeCharacter 02 02 02
+EndTextBlk
+
+*0f
+` "Yeah, I'm alright now.@ I feel like new thanks to you!"@
+` When I throw out my chest, although expressionlessly, Serika's face resembles happiness.@
+` Lately, I feel like I'm becoming able to decipher her expressions.@
+` "Alright!@ I take those footsteps were a trick of my mind.@ Silly me, letting myself carried out!"
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*10
+LoadPCM 1c
+StartPCM 01 00
+NazoB8
+` *Tap*| *Tap*| *Tap*| *Tap*| *Tap*| *Tap*| *TAP!*"
+Wait c8
+Wait 64
+WaitKey
+NewLine
+NazoC7
+NazoPCMA8
+WaitPCM
+StopPCM
+LoadPCM 32
+StartPCM 01 00
+` *Creak…*| *SLAM!*@
+` "‥|…"@
+` My face becomes lily white.@
+` With her usual expression, Serika whispers that we should begin, since "they" are now all present.@
+` "WHO THE FUCK DID YOU BRING HERE…?!"
+WaitPage
+NazoPCMA8
+WaitPCM
+StopPCM
+FadeBGM
+FadeInBGM 1a
+LoadBG2 ef 1f 00
+EndTextBlk
+
+*11
+` I mean, who is she talking about?@
+` Until we enter the club room, I can't help but look around relentlessly at the feeling of an eerie look glancing at me.@
+` At that moment, Serika stands right before me.@
+ChangeCharacter 02 02 02
+` "‥…"\
+
+*12
+` "Huh?@ "It might be a long-ago deceased person who yearns to find someone here", did you say?"@
+` H-Hey, are you serious?@
+` I just can't believe it…@
+` "Huh…?@ We'll do a spiritism session?@ We're going to call a departed soul?"@
+` *Nod*@
+` Serika confirms it.@
+` "I see…@ You could say today's like a big "special event" of sorts.@ So you actually called me to show me this spiritism session live, right?"@
+` *Nod*\
+
+*13
+` Hmm, when I said I had interest in occultism earlier, I wasn't expecting participating in an actual ritual right off the bat.@
+` To be honest, the very first thing that comes to my mind when I hear "Occultism Research" is a circle where someone reads your fortune…\
+
+*14
+` "Huh?@ I should request a soul to invoke to begin the ritual?@ Hmm, tough choice…@ I don't have any deceased friends.@ Oh, wait a minute…@ It HAS to be a human?@ Couldn't it be an animal?@ It's okay?@ Alright, then please call the dog I raised in my childhood, Boss.@ It was my best friend back then, and I'd like to meet him.@ Can I?@ Really?@ Okay, I'm counting on you."
+WaitPage
+ChangeCharacter 02 ff ff
+EndTextBlk
+
+*15
+` Eventually, after I decide to invoke Boss, my long-ago deceased dog that I raised at home, Serika starts to prepare the invocation ritual.@
+` Boss…@
+` I don't believe in necromancy, but I'd like to meet him if she can actually invoke spirits.@
+` Memories of elementary school when I raised Boss start to flow through my mind.@
+` Boss, huh…?\
+
+*16
+` Boss was a huge dog, a Pyrenee, to be precise.@
+` I recall he was really affectionate to me.@
+` He used to put his huge paw on my hand when I asked him to, and I always felt it would crush me flat, since I was still little.@
+` Ah, those were the times.@
+` However, despite his liveliness, Boss died due to a repentine illness.@
+` I was shocked that day, and spent it all crying nonstop, literally.
+WaitPage
+ChangeCharacter 02 02 02
+EndTextBlk
+
+*17
+` Looks like everything's ready to go.@
+` The mysterious magic circle, the candles, and the spells book.@
+` Serika said it's an original necromancy rite that adapts the fox-invoking Japanese ceremony style to a western-fashioned, demon-invoking one.@
+` She also said that the club president spent day and night developing it with his extensive knowledge of the spiritual realm and black magic.@
+` Today, aside from the president, the whole club will take part in the ceremony.@
+` It seems like a pretty costly ritual just to invoke an animal like Boss.\
+
+*18
+` "By the way, there's no one here besides us, right?@ That ghost member… I mean, the president never came.@ Huh?@ He's right here?@ Where…?@ Huh?@ There?@ Behind… me?@ H-He can't be.@ H-He is?@ Like, for real?@ H-Hey, are you serious…?"@
+PauseBGM
+LoadPCM 02
+StartPCM 01 00
+` At that moment, an air-splitting sound echoes.@
+` "A-A greeting, did you say?@ H-Hey…@ A-Are you telling me that… aside from you… every member is a… ghost?"@
+WaitPCM
+StartPCM 02 00
+` *Rattle* *Rattle*@
+` And a rapping sound rings and reverberates.
+WaitPage
+WaitPCM
+StopPCM
+FadeBGM
+FadeInBGM 14
+LoadVisualScene 23 0a 0a
+EndTextBlk
+
+*19
+` As the smoke of incense envelops the room, amidst the light of the candles, the invocation ritual begins.@
+` Dressed with enigmatic garments like a black cloak and a hat, Serika recites a strange spell book in hand.@
+` It looks like something those Indian sorceress use in their rites.@
+` I wonder if it's really working…\
+
+*1a
+NazoB8
+` "Ye… Du… Tri… Her… Jo… So… Fel… Av… Kit… Del… Sha… Muk…"\
+
+*1b
+` Wind enters the room, supposed to be completely closed.@
+` Serika's black cloak flutters.@
+` Before I can notice it, as if harmonizing with Serika's incantation, I hear an uncanny voice coming from nowhere…| or perhaps I just imagined it.@
+` Could those voices be from the other ghost members?@
+` Nah, there's no way…@
+` It's just my mind playing tricks on me.\
+
+*1c
+` "‥…"@
+` Even though it's already spring, I feel shudders through my whole body.@
+` The air has become colder in a strange way.@
+` No, that's not it.@
+` It's not the temperature that is low, but the very core of my body that is freezing…@ "Chills" of sort.@
+` "W-What's going on, Serika?"@
+` Despite I request an explanation, Serika keeps chanting the spell without answering me.\
+
+*1d
+` At that moment…@
+` *Rattle!*"
+Vibrato 40
+WaitKey
+NewLine
+` *Rattle!*"
+Vibrato 40
+WaitKey
+NewLine
+` *Rattle!*"
+Vibrato 40
+WaitKey
+NewLine
+` *Bam!*"
+Vibrato 0e
+` *Bam!*"
+Vibrato 0e
+WaitKey
+NewLine
+` W-What is this?!@
+` T-The books in the shelves and the desk are going crazy!
+WaitPage
+LoadBG2 ef 0a 0a
+EndTextBlk
+
+*1e
+Vibrato 0b
+Vibrato 0b
+Vibrato 0b
+` "W-What the hell is all this, S-Serika?!"@
+` When I ask her after she finishes chanting the spell, Serika takes the cloak and apologizes with a quiet expression.@
+ChangeCharacter 02 02 04
+` Huh?@ Why are you apologizing?@ W-WHAT?!@ You invoked the wrong spirit?!@
+` *Nod*\
+
+*1f
+Vibrato 0a
+Vibrato 0a
+Vibrato 0a
+` "W-What do we do now…?!"
+WaitPage
+LoadVisualScene 00 1f 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*20
+` ‥…
+WaitPage
+FadeBGM
+FadeInBGM 08
+LoadCharacterAndBg 01 02 04 b0 0a 0a
+EndTextBlk
+
+*21
+` It's 11 P.M.@
+` Serika explains that the ghost members helped her avoid the worst-case scenario, so the invocation ceremony ended without major incidents.@
+` Since we had to clean up the mess of the room, akin to the rage of an earthquake, it has become very late.@
+` After that, I take Serika out of the school, and walk with her all the way to this park.\
+
+*22
+` "C'mon, stop worrying about that.@ It wasn't a serious accident or anything."@
+` Perhaps feeling guilty, Serika has been hanging her head for a while now.@
+` "To be frank, today's was quite an experience for me, and I had a lot of fun.@ All thanks to you."@
+ChangeCharacter 01 02 02
+` I say, and Serika finally turns around to me.\
+
+*23
+` "If I really mean it?@ Yeah, of course!"@
+` I nod with a cheerful smile.@
+` "It's true that I was a bit too scared at the beginning, but I'm never bored when I'm hanging with you.@ Feel free to invite me again whenever you want to perform rituals."@
+` Serika nods.@
+` Perhaps she didn't notice it, but her pupils have become clouded.@
+;;Goddamit, Hiroyuki…
+` "Hey, Serika, what about we head to my place now?@ We can drink tea and talk the night away…"\
+
+*24
+` But at that moment, a large, black limousine parks before the park.@
+` And at the same time…@
+ChangeCharacter 00 14 01
+` "Lady Serika!!"\
+
+*25
+` Tch.@
+` "I was looking for you, Lady Serika!@ What are you trying to accomplish, sneaking out of the mansion at such ungodly hours of the night?"@
+` "‥…"@
+` "If something like this reaches Master's notice, I will be severely scolded!"@
+` "H-Hey, take it easy, dude."@
+` I try to calm him down, but…@
+Nazo44 00 00
+Nazo79
+ClearCharacter 01
+LoadCharacter 00 14 02
+Nazo44 00 00
+NazoF8 01
+Nazo7A
+NazoC9
+` "GAAAAH…!"@
+` "!"@
+` The old butler yells with a thundering voice.\
+
+*26
+` "T-This damn geezer…!"@
+` However, the butler ignores me…@
+ChangeCharacter 00 14 01
+` "Please enter the car, Lady Serika."@
+ClearAndLoadCharacter 00 ff ff
+` and takes Serika from an arm and locks her up in the limousine.@
+` *Bump*@
+` The door closes.\
+
+*27
+` The black limousine gets away as the quiet sound of the engine echoes from it.@
+` "Serika…!"@
+` Getting smaller and smaller as the car goes away, Serika looks at me for a long, long time…
+WaitPage
+LoadVisualScene 00 0a 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 0210 0299
+*00
+End20
+
+*01
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+DisplayMessage 05
+DisplayMessage 06
+DisplayMessage 07
+DisplayMessage 08
+DisplayMessage 09
+DisplayMessage 0a
+DisplayMessage 0b
+DisplayMessage 0c
+DisplayMessage 0d
+DisplayMessage 0e
+DisplayMessage 0f
+DisplayMessage 10
+DisplayMessage 11
+DisplayMessage 12
+DisplayMessage 13
+DisplayMessage 14
+DisplayMessage 15
+DisplayMessage 16
+DisplayMessage 17
+DisplayMessage 18
+DisplayMessage 19
+DisplayMessage 1a
+DisplayMessage 1b
+DisplayMessage 1c
+DisplayMessage 1d
+DisplayMessage 1e
+DisplayMessage 1f
+DisplayMessage 20
+SetFlag ab ff
+DisplayMessage 21
+DisplayMessage 22
+DisplayMessage 23
+DisplayMessage 24
+DisplayMessage 25
+DisplayMessage 26
+DisplayMessage 27
+DisplayMessage 28
+DisplayMessage 29
+DisplayMessage 2a
+FlagSetBit 50 01 01
+GameOver
+StartEnding 00
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+StartBGM 08
+LoadBG2 07 0a 0a
+` Today, once school finishes, I meet with Serika at the hallway.@
+ChangeCharacter 02 02 04
+` "What's up, Serika?@ You have something to tell me, huh?@ What?@ You completed the "potion"?@ What potion?"@
+` When I ask her, her expression becomes gloomy for some reason.@
+` "Uh, what?@ I asked you to make it?@ Wait, do you mean THAT love potion?@ Oh, yeah, now I remember!@ Yeah, I requested you that.@ Huh?@ You really made it?!"@
+ChangeCharacter 02 02 02
+` *Nod*@
+` Serika nods.\
+
+*01
+` "Huh?@ Do you wanna go to the clubroom together to test it?@ Alright, let's go!"
+WaitPage
+LoadBG2 0c 0a 0a
+EndTextBlk
+
+*02
+` Taken along by her, we enter the mysterious occultism clubroom.
+WaitPage
+LoadCharacterAndBg 02 02 02 ef 0a 0a
+EndTextBlk
+
+*03
+` "Huh?@ Is this it?"@
+` She holds out a small bottle filled with liquid.@
+` "Looks like a fishy potion.@ What do I do with it?@ Huh?@ I'll fall in love with first person I see after drinking it?@ Hmm, sounds odd…"@
+ChangeCharacter 02 02 04
+` "‥…"@
+` "Huh?@ Oh, that's not what I mean.@ It's not like I don't trust you or anything…@ Huh?@ We should give it a try?@ Yeah.@ Alright, you first…@ Just kidding!"\
+
+*04
+` *Nod*@
+ChangeCharacter 02 ff ff
+` After agreeing, taking the bottle I gave her back as a joke, Serika opens the cap and gulps it all at once.@
+` "Wow, y-you really did it."@
+` Serika hangs her head for a while, but then slowly lifts it up.@
+ChangeCharacter 02 02 02
+` "‥…"@
+` She fixedly stares at me.@
+` I can see myself reflected in those faintly clouded pupils.\
+
+*05
+` W-What do I do now?@
+` She already looked at me…@
+` "D-Did you fall for me, Serika?"@
+` When I ask her,@
+` *Nod*@
+` Serika nods.@
+` "I don't believe it!@ YOU made that potion, after all.@ You could nod all day and I'd never know if it really worked!@ Huh?@ I should take a shot, too?@ It'll make my heart race?@ O-Okay."\
+
+*06
+` I bring the bottle near my mouth and drink out the contents.@
+` Indirect kiss!@ Yay!@
+` This is enough to cheer me up.@
+` *Gulp* *Gulp*@
+` I drink all the liquid of the bottle, making my throat croak.\
+
+*07
+` T-This tastes like shit!@
+` However, I decide not to tell her that.@
+` I mean, it's technically Serika's cooking, so…@
+` Wearing a worried face, she has been watchfully peeking at mine for a while now.@
+` As for practical results, it's still not clear if it worked.@
+` However, effectiveness aside, the fact that I love Serika remains undeniably true.
+WaitPage
+Nazo44 00 00
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+StartBGM 1d
+EndTextBlk
+
+*08
+` Ah, Serika…@
+` Serika Kurusugawa…@
+` You're so beautiful…@
+` Your hair…@
+` Your clouded pupils…@
+` Lady Serika…@
+` My dear Serika…@
+` Stop looking at me like that…\
+
+*09
+` "Huh?@ If it worked?@ Hmm, I'm not really sure…@ What about you?@ Huh?@ It worked?"@
+` *Nod…*@
+` "So, does that mean… you're in love with me now?"@
+` *Nod…*@
+` "For real?!"@
+` *Nod…*@
+` Serika nods.\
+
+*0a
+` Uhh, S-Serika's way too cute.@
+` She just said she's fallen for me…@
+` I guess this is her unique and special way to confess her love.@
+` Kgh…@
+` "Come here, Serika!"@
+` When I spread my arms, Serika entrusts her body to them.
+WaitPage
+LoadVisualScene 22 00 00
+EndTextBlk
+
+*0b
+` I stroke her soft hair.@
+` A nice scent comes from it.@
+` Serika said that she loves me.@
+` And I love her too.@
+` Regardless of the potion, I have been in love with her from a long time ago.\
+
+*0c
+` "‥…"@
+` Yeah.@
+` I have been in love with her…| from the moment I first met her.@
+` It's only natural being with her like this makes me so happy.@
+` It's natural…@ And yet…\
+
+*0d
+` I think that's a bit off the mark.\
+
+*0e
+` "Uhh, I'm not gonna say I'm not happy now, but your "love" is a product of the potion, right?"@
+` I ask her.@
+` "‥…"@
+` "If that were the case, will you forget that you ever loved me at the very instant the potion loses effect, as if you sobered up?"@
+` "‥…"@
+` "I'd feel pretty sad if that happened."@
+` "‥…"\
+
+*0f
+` "But I love you."@
+` "‥…"@
+` "Even without this potion, I've loved you from a very long time."@
+` "‥…"@
+` "That's why I want to be with you like this, but without drinking any potion."@
+` "‥…"\
+
+*10
+` At that moment, Serika whispers in my ear…@
+` "Huh?@ What…?@ You've also been in love with me from long ago?@ Really?"@
+` *Nod…*@
+` Serika nods, still in my arms.@
+` "I'm a very dear friend to you?@ O-Oh…@ H-Hahahaha…@ So that's what you meant by "love".@ I-I see…@ Yeah…"@
+` As I keep laughing without meaning it, Serika asks me something in a low voice.\
+
+*11
+` "Huh…?@ What do I mean with "love"?@ Well, I wasn't referring to "friendship" like you did.@ It was more like, how to put it…@ Like embracing each other and stuff…@ Huh?@ We're doing that now?@ Y-Yeah, I know.@ A-And, like, kissing and such.@ Huh…?@ Do you want to do that?!"@
+` *Nod…*@
+` "Do you want to kiss me?"@
+` *Nod…*@
+` Serika nods, her cheeks faintly dyed red.@
+` "A-Alright…"
+WaitPage
+LoadBG2 ef 00 00
+EndTextBlk
+
+*12
+` I put both hands on her gentle and smooth cheeks.@
+` "Serika…"@
+` "‥…"@
+` She looks at me with her honest eyes covered in mist.@
+` I take her face close to mine, and let our lips join.@
+` "‥…"@
+` "‥…"@
+` It was a kiss where we barely touched each other.@
+` However, it's still my first kiss with Serika.\
+
+*13
+` Perhaps it's just a strange kiss in a strange clubroom, but circumstances doesn't matter.@
+` I kissed Serika.@
+` That's enough to make my head go blank.@
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+` "Blank…@ Blank…@ My mind is gradually... becoming pure white…"@
+Nazo44 00 00
+Nazo79
+WhiteOut 05
+Wait 64
+LoadBG fe
+Nazo44 00 00
+Nazo7A
+NazoC9
+` HOLD UP!!@
+` I-Isn't this a bit too dangerous?!@
+` The next instant, I find myself lying on the floor of the clubroom.
+Vibrato 0b
+WaitPage
+LoadVisualScene 00 00 0b
+EndTextBlk
+
+*14
+` ‥…
+WaitPage
+Nazo71
+LoadBG ef
+NazoCC 01 02
+EndTextBlk
+
+*15
+` "Ugh…"@
+` I lift my head with a groan.\
+
+*16
+` Before me, Serika is looking at me worriedly.@
+StartBGM 08
+ChangeCharacter 02 02 04
+` "Huh…?@ If I'm okay…?@ L-Looks like I'm not…@ My body's feeling numb, and I can't move at all…"@
+` I'm sitting down on a chair.@
+` With a concerned expression, Serika peeks at my face.\
+
+*17
+` "Huh…?@ The potion becomes effective after drinking just a little bit?@ Y-You could have spoken earlier, you know…?@ I gulped down an entire freakin' bottle!@ Isn't that dangerous?!"\
+
+*18
+` Yeah, it is.@
+` Specifically, my friend down there is in danger.@
+` It looks like, for some reason, that love potion was also a powerful, magical aphrodisiac, of which I gulped down 10 times the recommended dosing.@ Meaning, the effects of the potion have appeared in my lower half in massive proportions.@
+` My manhood is gallantly towering inside my trousers.\
+
+*19
+` "U-Uhh…"@
+` Inside my denims, my shaft is filled to the point of bursting, and it hurts.@
+` "P-Please stop looking so hard at me, Serika."@
+` With my legs spread wide, my numb body can't move an inch.@
+` Being unable to hide this situation feels pathetic.@
+ChangeCharacter 02 02 03
+` "‥…"@
+` Serika shyly hangs her head.\
+
+*1a
+` Ugh…..!@
+` P-Please stop stimulating me with that face…!@
+` "O-Owwwww…!"@
+` My shaft swells to a point I seriously think it'll be torn open.@
+` "D-Do something, Serika!"@
+` "‥…"@
+` She looks troubled and embarassed.@
+` Y-You're getting it all wrong!@
+` I'm asking you if there's an antidote or something!\
+
+*1b
+` At that moment…@
+ChangeCharacter 02 ff ff
+` "‥…."@
+` After considering something for a while, without changing her usual absent-minded expression, Serika suddenly begins to remove her uniform.@
+` "S-Serika?!"@
+` She unfastens her ribbon, and throw off her sailor suit.@
+` All left to cover her salacious figure are her panties and bra….
+WaitPage
+FadeBGM
+FadeInBGM 1b
+LoadHVisualScene 20 00 00
+EndTextBlk
+
+*1c
+` *Slip…* *Slip…*@
+` "Hold on, Serika!"@
+` After taking out my burning shaft, she envelops it with her hands smeared in a strange oil.@
+` *Slip!* *Slip!* *Slip!*@
+` "W-Wait a minute, S-Serika!@ Ah!!"@
+` I can see her gently-sloping breasts sticking out from her rolled up bra, and her roused nipples.@
+` Serika rubs them against the tip of my shaft in circles.@
+` It's an incredibly lewd sight.
+WaitPage
+LoadHVisualScene 21 00 00
+EndTextBlk
+
+*1d
+` She then guides my wet shaft to her interior.@
+` And by doing so, we become one.@
+` "Ahh…@ Ahh…@ Ahh…@ Ahh…@ Ahh…"@
+` Serika lets out an intermittent, cute voice.@
+` By the moment I can somehow move both hands and I'm finally free to use my fingertips, I rub her butthole in circles with them.@
+` Uhh…@ I-I'm already at my limit…@
+` "T-This is it, Serika…@ I-I can't hold it anymore!"@
+` After pushing her up high, I extract my shaft just like that.
+WaitPage
+LoadHVisualScene 22 00 00
+EndTextBlk
+
+*1e
+` *Splash!*@ *Splash!*@ *Splash!*@
+` A nebula of liquid flamboyantly flies around and reaches Serika's reddened face.@
+` Absent-mindedly, Serika wipes the semen flowing down her skin with her fingertips.@
+` "‥……"@
+` The tip of my rod that just ejaculated lies feebly on Serika's fingertips.@
+` "S-Serika…"@
+` One pleasure wave after another washes over me...@
+` as Serika looks at my shaft affectionately.
+WaitPage
+LoadHVisualScene 23 00 00
+EndTextBlk
+
+*1f
+` I make Serika lie on the floor and open wide her legs.@
+` And then, I start to ram her from behind.@
+` Immersing myself in the act, the numbness of my body slowly fades away.@
+` I move my hips violently.@
+` "Ahh!@ Ahh!@ Ahh!@ Ahh!@ Ahh!!"@
+` Her insides convulse with little spasms.@
+` Every time I push forward, Serika lets out a sweet, puffing voice.@
+` As her breasts sway around, I can feel them almost escaping from the grip of my hands.@
+` I pinch her firm, erect nipples with my fingertips.
+WaitPage
+LoadHVisualScene 24 00 00
+EndTextBlk
+
+*20
+` "S-Serika…!!"@
+` *Gush!*@
+` The moment I hop back from her interior, a white discharge drips along her back.@
+` *Splash!*@ *Splash!*@ *Splash!*@ *SPLASH!*@
+` Lying face down, Serika looks enthralled.@
+` Her smooth back is dirty from all the white sap.@
+` I let out my wild breath again and again while my hands are still on her hips…
+WaitPage
+LoadVisualScene 00 1f 0b
+FadeBGM
+WaitForFadeBGM
+PauseBGM
+EndTextBlk
+
+*21
+` After that, some days have passed by…
+WaitPage
+StartBGM 08
+LoadCharacterAndBg 02 02 02 0c 0b 00
+EndTextBlk
+
+*22
+` "Today is your birthday, isn't it, Serika?"@
+` *Nod…*@
+` "Hey, what about we have a party tonight, only the two of us?@ I have prepared some little surprises for you."@
+ChangeCharacter 02 02 04
+` "‥…"@
+` "Huh?@ You can't?@ Why?@ You already have a party at your mansion?@ I-I see…@ Yeah, of course…@ You're a high-class lady, after all.@ I bet your birthday parties are the best of the best.@ Anyway, sorry for asking.@ Just forget it.@ Bye."@
+` I wave a hand with a bitter smile, and turn back to leave the hallway.@
+` But then I stop.\
+
+*23
+` "Oh, by the way, Serika."@
+ChangeCharacter 02 02 02
+` Serika looks back at me.@
+` "I know it's not much, but I wish you a happy birthday!@ Congratulations on your 18 years!"@
+` When I blink at her, with a low voice…@
+ChangeCharacter 02 02 03
+` "Thank you very much."@
+` She says.
+WaitPage
+FadeBGM
+FadeInBGM 06
+LoadBG2 b1 1f 1f
+EndTextBlk
+
+*24
+` Man…@ I'm so bored.@
+` I had even some money prepared for my party with Serika.@
+` Never mind, I'll just buy her a present or something next time…@
+` But at that moment…
+WaitPage
+PauseBGM
+EndTextBlk
+
+*25
+LoadPCM 20
+StartPCM 00 00
+` *RIIIING*@ *RIIIING*@
+` The entrance phone rings.
+WaitPage
+LoadBG2 b2 0a 0a
+EndTextBlk
+
+*26
+` I climb down the stairs and reach the entrance.@
+LoadVisualScene 99 0a 0a
+` *RIIIING*@ *RIIIING*@
+Nazo44 00 00
+Nazo79
+LoadVisual 9a
+WaitPCM
+StopPCM
+LoadPCM 25
+Nazo44 00 00
+StartPCM 01 00
+Wait 32
+Nazo7A
+NazoC9
+` *Click*@
+` I take the receiver.@
+` "Hello.@ Hiroyuki Fujita here."@
+` I can hear a tender, extremely subtle female voice coming from the other line.@
+` When the caller names herself, my eyes open wide out of surprise.
+WaitPage
+WaitPCM
+StopPCM
+EndTextBlk
+
+*27
+` "Huh?!@ The neighborhood's park?!@ You're already there?!@ A-Alright, I'll be there right away!"@
+LoadBG2 b2 0a 0a
+` After almost smashing down the receiver, I put on my shoes, and leap out the entrance with the clothes I happen to wear.
+WaitPage
+LoadBG2 b0 00 00
+EndTextBlk
+
+*28
+` The empty, nocturnal park.@
+` I don't see anyone here…@
+` "Serika…!@ Serika…!"@
+` I call her, and then…@
+StartBGM 1d
+ChangeCharacter 02 13 01
+` "Hiroyuki…"@
+` I startle a bit when I see her.@
+` "What's with that dress?@ Huh?!@ You sneaked away from the party?!@ Are you sure of this?@ I mean, YOU are the star in it…"@
+` Approaching to my side without further words, she gently leans towards me.
+WaitPage
+ChangeCharacter 02 ff ff
+EndTextBlk
+
+*29
+` "S-Serika…?"@
+` And then she whispers in my ear.@
+` "Huh…?@ You'd rather spend time with me than attend the party?"@
+` *Nod…*@
+` Serika…
+WaitPage
+LoadVisualScene 2f 00 00
+EndTextBlk
+
+*2a
+` The desolate, quiet nocturnal park.@
+` Below a faint light, I closely embrace Serika from behind.@
+` She grabs my hand tight as I do so.@
+` Her usual nice scent comes from her neatly untangled black hair.@
+` "‥…"@
+` Her chest moves up and down comfortably.@
+` "Serika…"@
+` From the bottom of my heart, I wish to be like this with her forever.\
+TextEnd
+
+;;///////////////////////////////////////////////////
+ScenarioStart 0220 0300
+*00
+End20
+
+*01
+DisplayMessage 00
+DisplayMessage 01
+DisplayMessage 02
+DisplayMessage 03
+DisplayMessage 04
+Choice 05 02 06 05 07 00
+Nazo6B
+Jump 02 24 01
+Nazo6B
+SetFlag a6 01
+Jump 02 21 01
+End20
+
+*02
+EndFF
+ScenarioEnd
+
+*00
+LoadBG2 07 0a 0a
+` As soon as I leave the classroom, I meet Serika at the hallway.@
+StartBGM 08
+ChangeCharacter 02 02 02
+` "What's up, Serika?@ What are you doing?@ Huh?@ Do you have something to tell me?"@
+` It looks like she was waiting for me to leave the classroom.@
+` Sheesh, if all she wanted was talking, she could've just called me or something…@
+` She never changes, does she?@
+` I mean, she can be very proactive sometimes, but not daring enough to do certain things.@
+` Well, I find that pretty Serika-like, and kind of cute.\
+
+*01
+` "So, what do you need me for?"@
+` When I ask her…@
+ChangeCharacter 02 02 03
+` Serika hangs her head for a moment, and then speaks shyly.@
+` "Huh?@ You completed the potion?"@
+` *Nod*@
+` "Uh…|…|…| What potion?"@
+ChangeCharacter 02 02 04
+` I ask with a smile, but Serika's expression becomes a bit sad.@
+` "Huh?@ What?@ The potion I asked you to make the other day?@ THAT love potion?!"@
+` Did I really asked her something like that?@
+` No, wait a minute.@
+` I'm sure it was--
+WaitPage
+SepiaEffect 01
+LoadCharacterAndBg 02 02 02 0c 00 00
+EndTextBlk
+
+*02
+` "Oh, now I remember!@ Yeah, that's a good idea for a magic potion.@ A love potion!@ Huh?@ How does one use it?@ Isn't it obvious?@ First, you drink it while looking into my eyes, and you'll fall in love with me right after."@
+ChangeCharacter 02 02 03
+` "‥|…"@
+` "Huh?!@ You already did it?@ The love potion?@ F-For real?"@
+` *Nod…*"
+WaitPage
+LoadCharacterAndBg 02 02 04 07 00 00
+EndTextBlk
+
+*03
+` "OH!@ Yeah, I recall you said it before!@ Huh?@ D-Do you mean you have completed it?"@
+ChangeCharacter 02 02 02
+` *Nod…*@
+` Serika nods.@
+` "Huh?@ Do you want us to go the classroom to test its efficacy?"@
+` Testing it, huh…?@
+` In other words, we'll check if the potion can really make her fall in love with me.@
+` In the simplest of the terms, she wants to fall in love with me.@
+` I mean, the very act of drinking the potion means that she's accepting my courting.\
+
+*04
+` "‥|…"@
+` I feel my own face glowing with heat.@
+` I can't believe this is really happening…\
+
+*05
+` Will I answer to Serika's feelings…?
+EndTextBlk
+
+*06
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` A. I'll do it!
+EndTextBlk
+
+*07
+SetTextHOffset 06
+CharacterDrawSpeed 00
+` B. I still can't.
+EndTextBlk
+TextEnd
