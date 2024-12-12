@@ -1,0 +1,80 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAAC0AAAAA/P/1//T/0/8A0v//q/+r/qsA/av8q/ur+qsA+av4+Pr3/fYA//X71/ua/tcH+97+/wAAAAAAAAAAAAA=}
+{BLOCKLEN:11}
+
+{BLOCK:0}
+"Do you wanna ask me something else?"@>
+Shinjo asks tilting her head.@>
+"Hmm, I think this is enough for now..."@>
+"Well?@ Was I helpful?"@>
+"Yeah, you helped me quite a lot."@>
+"I see.@ Good to hear."@>
+She places her hand in her hip and nods cheerfully.#
+
+{BLOCK:1}
+"By the way, Nagase, I have a little proposal..."@>
+Shinjo stares fixedly at me as she draws close.@>
+I feel a little nervous.@>
+"W-What proposal?"@>
+Shinjo chuckles, lifts her index finger,@>
+{CHARA:r13}
+"Mind if I join the survey?"@>
+and suggests that flashing a wink.#
+
+{BLOCK:2}
+"No, that's a no-go.@ This is not a game."@>
+Yeah.@ This is a dangerous case that could escalate into a police investigation.@ It'd be unbeareable if she tagged along thinking we're playing detective.@>
+{CHARA:r1D}
+"So rude!"@>
+She pouts and puts a hand against her hip.@>
+"I'm not taking this as a game, y'know?!"@>
+"Then why do you want to join?"#
+
+{BLOCK:3}
+"I told you before that I hate people that make a ruckus around ghosts and supernatural stuff, but if there's something I'll never tolerate is people CAUSING a ruckus!"@>
+She clenches her fist in front of her chest.@>
+{CHARA:r10}
+"I'm positive these people are having fun spooking everyone with ghosts stories."#
+
+{BLOCK:4}
+I think that's pretty far from reality.@ They don't want to cause a fuss about ghosts.@>
+After all, that might backfire and draw attention from people around the school.@>
+Their actual goal lies somewhere else: having wild sexual parties without being noticed.\c
+{CHARA:r12}
+\e
+
+{BLOCK:5}
+"That's why I wanna yell at 'em in their face: "STOP RIGHT NOW!""@>
+Then, Shinjo peeks at my face.@>
+{CHARA:r11}
+"Well?@ Can I join?"@>
+"But still..."\c
+{CHARA:r10}
+\e
+
+{BLOCK:6}
+However, I feel somewhat grateful that Shinjo wants to join the survey.@>
+I'd feel reassured with her by my side.@>
+After all, I'll be alone in this creepy school late at night.@ Creepier even if some weird incident were to happen.@>
+With someone as light-hearted as a midsummer sun like her next to me, the mood will naturally brighten too.@>
+That in itself would be a great advantage, without mentioning I'll able to rely more on her information.@>
+Perhaps it'd be a good idea to consider herself seriously for this.\c
+{CHARA:r11}
+\e
+
+{BLOCK:7}
+"C'mon, pretty please!@ I'll do my very best.@ I swear I'll be helpful to you!"@>
+She begs to join with an awkward smile.@>
+Hmm, it's hard to turn her down when she asks me like that...#
+
+{BLOCK:8}
+Anyway, what will I do?\n\e
+
+{BLOCK:9}
+{XPOS:6}
+{SPEED:0}
+1. Let her join the investigation.\n\e
+
+{BLOCK:10}
+{XPOS:6}
+{SPEED:0}
+2. Reject her firmly.\n\e

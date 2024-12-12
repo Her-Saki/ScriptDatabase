@@ -1,0 +1,74 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAADMAAAAA/P/1//T/zf8AzP//q/+r/qsA/av8q/v4+voA+/n/+Pv39/YA89f73f7X+9yh3/7b3/7a/v8AAAAAAAA=}
+{BLOCKLEN:10}
+
+{BLOCK:0}
+After pondering for a while, I state resolutely:@>
+"I'm sorry, but I can't take you with me.@ It'll be late at night and dangerous."@>
+{CHARA:r10}
+Shinjo puffs out her cheeks a bit and is about to reply something, but instead she cuts herself short and gives a small sigh.@>
+"Phew...@ Alright, you got it.@ You have a point."#
+
+{BLOCK:1}
+"Sorry."@>
+"Oh, please don't worry!@ I know I was asking for something ridiculous."@>
+Shinjo says with a sweet smile.@>
+"If you wanna ask me something else, come to the second gym.@ I'll be there training in the club."@>
+"Yeah, thank you".\c
+{CHARA:r13}
+\e
+
+{BLOCK:2}
+"Anyway, good luck with the investigation, Sherlock junior!"@>
+She winks.@ That's yet another of her mischievous quirks.@>
+"Thanks."@>
+{CHARA:r99}
+Shinjo pats my shoulder as a sort of farewell gift and walks away through the hallway.@>
+As I watch her leave, she stops five, maybe six meters away, and turns around to me.\c
+{CHARA:r10}
+\e
+
+{BLOCK:3}
+"But, nothing is stopping me from investigating on my own, right?"@>
+"Wha--?!"@>
+{CHARA:r16}
+I gasp unable to finish my sentence, and Shinjo chuckles as if making fun of me.@>
+"I'm kidding!@ It was only a lil' joke!"@>
+"S-Shinjo..."@>
+"Anyway, bye-bye!"@>
+{CHARA:r99}
+Shinjo then keeps walking away with lively steps.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:03}
+\e
+
+{BLOCK:4}
+What she just said made my heart skip a beat.@>
+I hope she's not serious about tagging along...@>
+I definitely don't dislike her, but she's a very unpredictable girl.@>
+She makes me feel anxious.#
+
+{BLOCK:5}
+But, leaving that aside, I obtained pretty valuable clues from Shinjo.@>
+Now I know...@>
+\e
+
+{BLOCK:6}
+{XPOS:6}
+{SPEED:0}
+1. That three or more girls (the shadows) were there.\n\e
+
+{BLOCK:7}
+{XPOS:6}
+{SPEED:0}
+2. That the shadows were sighted near the gym.\n\e
+
+{BLOCK:8}
+{XPOS:6}
+{SPEED:0}
+3. That the ghost craze started two or three weeks ago.\n\e
+
+{BLOCK:9}
+{XPOS:6}
+{SPEED:0}
+4. The time where the ghosts usually appear.\n\e

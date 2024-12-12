@@ -1,0 +1,84 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAADQAAAAA/P/1//T/zP8Ay///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/O4vf4Awr7+/Pvh/vsP3/7/AAA=}
+{BLOCKLEN:13}
+
+{BLOCK:0}
+"Did you notice anything weird in the club recently?"@>
+{CHARA:r12}
+"Yep!"@>
+Shinjo says firmly.#
+
+{BLOCK:1}
+"It indeed happened something strange."@>
+"What?"@>
+"Ghosts."@>
+"Ghosts?"@>
+{CHARA:r10}
+"Yup.@ I'm only talking about those mysterious shadows I saw, though.@ Thing is, the girls of my club have observed odd human-like silhouettes late at night, too..."#
+
+{BLOCK:2}
+"Do you mean there are more witnesses aside from you?!"@>
+"No, I wouldn't call them "witnesses", really.@ They only affirm they spotted some shadows, but nothing else.@ They kid with the rumor that those are ghosts.@ Have you heard that rumor?@ That supposedly ghosts wander in the gym?"#
+
+{BLOCK:3}
+"No, never."@>
+"Well, my friends are pretty concerned about it, but it's only a silly story, isn't it?@ It's too simplistic of an explanation!"@>
+"Don't you believe in ghosts, Shinjo?"@>
+"You mean like spirits and aliens?@ I believe, of course, but only as fairy tales.@ Like, it never hurts to enjoy a bit of fantasy in one's life, doesn't it?"@>
+Shinjo narrows her eyes and smiles ironically.#
+
+{BLOCK:4}
+"So you're a realistic person."@>
+"I guess, but actually, I believe quite a lot in supernatural stuff.@ Thing is, it kinda pisses me off when people starts arguing about if the supposed "ghost" they saw was real or not.@ Do you know about those self-called "mediums"?"@>
+"Yeah."@>
+"Well, I'm not exactly a fan of them.@ There was this kid in middle school that used to bully people telling them they were possessed by evil spirits."#
+
+{BLOCK:5}
+"Hmm..."@>
+"He used to gather people and play Kokkuri-san.@ Do you know what that is?@ Have you ever played it?"@>
+"Yeah, but alone."@>
+{CHARA:r16}
+"Huh?@ Hold up...@ ALONE?@ Man, that's gloomy..."@>
+"Mind your own business."@>
+Shinjo chuckles.\c
+{CHARA:r10}
+\e
+
+{BLOCK:6}
+"It's weird, but at some point in our life we all believed in ghosts, guardian spirits and whatnot, right?@ Well, this guy assembled those believers to play Kokkuri-san and "somehow" attached evil spirits to them."@>
+{CHARA:r15}
+Her expression, as bright as a midsummer sunflower just a moment ago, becomes gradually darker.@ She keeps talking now with her head hanging low.@>
+"A certain day I saw a girl being bullied like that.@ I lost my temper and yelled at the guy "Stop!" to defend her."#
+
+{BLOCK:7}
+Yeah, I can picture Shinjo doing that.@>
+"And what do you think he said then?"@>
+"Huh?@ What?"@>
+""You're possessed by an evil spirit too".@ I know it was only a stupid kid's game, but I lost myself and...@ Well, he was a boy, but I punched him with all my might.@ And then it became a big fight with both of us wrestling on the floor..."\c
+{CHARA:r1B}
+\e
+
+{BLOCK:8}
+Shinjo looks at me upwards.@>
+"I was an idiot, wasn't I?@ Ain't no way I could beat a boy in a fist fight..."@>
+The mood became awkward for some reason.@>
+{CHARA:r10}
+"Sorry for telling you such a ridiculous story.@ Since that day I find it unpleasant when people make a big fuss about ghosts and stuff."@>
+Shinjo shows me a bitter, apologetic smile.#
+
+{BLOCK:9}
+"Since when did your teammates saw those ghosts...@ I mean, those suspicious shadows?"@>
+"Since two or three weeks ago."#
+
+{BLOCK:10}
+"Is there a place in particular they appear frequently?"@>
+"Hmm, we don't usually get far from the gym, so I think they always come out near it."@>
+So the shadows lurk near the gym, huh?@ It might be worth a shot to investigate there.#
+
+{BLOCK:11}
+"And which time do they usually show themselves?"@>
+"I heard a lot that they appear late at night.@ Like, when we're leaving for home, so I think around 9 or 10 P.M."#
+
+{BLOCK:12}
+"Which days?"@>
+"I don't think they come at specific days."@>
+"Hmm..."#
