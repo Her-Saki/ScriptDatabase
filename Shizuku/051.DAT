@@ -1,0 +1,73 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAACwAAAAA/P/1//T/1P8A0///q/+r/v4A/P+r/f78/qsA/Kv7q/qr+asA+Kv3q/ar9fsPy/7/AAAAAAAAAAAAAAA=}
+{BLOCKLEN:11}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:10}
+Inside a pitch-black darkness, I hear someone crying.@>
+*Sob*@ *Sob*@>
+Their weeping reaches my ears.#
+
+{BLOCK:1}
+{PCMLOAD:17}
+Is it a kid?@>
+No, it isn't.@>
+It's a young girl.#
+
+{BLOCK:2}
+*Plop*@>
+A drop?@ Yeah, that was a drop.@>
+A teardrop falling to the ground.@>
+The drops fall slowly to the water's surface, forming gentle ripples of light.#
+
+{BLOCK:3}
+Illuminated by the light of the ripples, the figure of a girl cowering comes into my view.@>
+{PCMWAIT}
+{PCMFOUT}
+{BGMPLAY:10}
+{VISUAL:259912}
+That girl is...@ Ruriko.#
+
+{BLOCK:4}
+Ruriko...@>
+Why are you crying?@>
+What are you so sad about?@>
+However, my voice doesn't reach her.#
+
+{BLOCK:5}
+Another bright ripple spreads out.@>
+Its light lits up the darkness, and Ruriko's figure appears once again.@>
+She wears a sailor uniform with ragged sleeves.@ Her hair is messy, and her face is covered in tears.@>
+Dripping tears...@>
+that flow down her face as she gets defiled.#
+
+{BLOCK:6}
+"I'm sorry, Ruriko."@>
+I hear that voice coming from beyond the darkness.@>
+It's the gentle voice of a man.@>
+"I'm sorry, Ruriko."@>
+He repeats.@>
+However, Ruriko keeps crying while crouching on the floor.#
+
+{BLOCK:7}
+"I love you so much, Ruriko, so why...?@ Why...?"@>
+Streaming across her cheeks before dropping to the floor, Ruriko's tears create flashing ripples on the puddle below her.@>
+"Is it really wrong?@ Is it taboo to fall in love with someone and pursue that love to the very end?"@>
+His voice is pure, innocent, unpolluted.@>
+A voice that envelops Ruriko tenderly.#
+
+{BLOCK:8}
+However, her teardrops keep projecting endless light ripples.@>
+"I love you, Ruriko.@ I love you, Ruriko."@>
+Her shoulders tremble as she weeps.@>
+"I love you, Ruriko.@ I love you, Ruriko.@ I love you, Ruriko.@ I love you, Ruriko..."@>
+He repeats those words again and again as if chanting a spell.#
+
+{BLOCK:9}
+"I LOVE YOU, RURIKO. I LOVE YOU, RURIKO. I LOVE YOU, RURIKO I LOVE YOU RURIKOILOVEYOURURIKOILOVEYOURURI..."#
+
+{BLOCK:10}
+Just like a broken machine, he keeps looping the same sentence in aeternum...\c
+{BG:000611}
+\e
