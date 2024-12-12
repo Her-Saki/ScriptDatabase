@@ -1,0 +1,175 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAAEIAAAAA/P/1//T/vv8Avf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6avoq+f7m/4//wAA}
+{BLOCKLEN:25}
+
+{BLOCK:0}
+{BGMPLAY:05}
+Toxic electromagnetic waves that allow you to control other people at will...@ Do they really exist?@ No, that doesn't matter now.@ It doesn't change the fact that a tragedy is occurring inside.@>
+I strengthen my resolve.@>
+I'll save both of them.@>
+Even though I know I can't do anything with my power,@>
+the only thing I must absolutely never do...@>
+is running away.#
+
+{BLOCK:1}
+Up until now, all I did was escaping from everything.@>
+I didn't want to get hurt, so I didn't try to make friends.@>
+I hated challenges that involved winning or losing, so I didn't compete with anyone.@>
+I was more afraid of paying the price to achieve something than making efforts towards it.@>
+I'm now a mere breathing lump of flesh.@>
+I have no reason to exist in this world.#
+
+{BLOCK:2}
+I was always running away, so I felt...@>
+that the world didn't need a coward like me,@>
+but now...@>
+Now things are different.@>
+At the very least, I must save Mizuho and Shinjo without running away.@>
+I feel that, right now, that's the only reason I have left to live.#
+
+{BLOCK:3}
+I'm gonna call my uncle.@>
+If I give him the full picture, he can take care of the rest even if something serious happens to me now.@>
+There's a public phone in the hallway that connects the school building with the second gym.@>
+I'm gonna use that.#
+
+{BLOCK:4}
+"Let's go, Ruriko."@>
+I pull Ruriko by the hand and start walking.@>
+"Where are you going, Naga?"@>
+Ruriko asks in a whisper.@>
+"I'm going to make a call."@>
+"A call?"@>
+"Yeah, to my uncle."\c
+{BGMNEXT:11}
+{BGMFOUT}
+{BG:280303}
+\e
+
+{BLOCK:5}
+Illuminated only by the moonlight, we move to the hallway of the second gym.@>
+The green public phone is next to a juice vending machine placed there.@>
+I pick up the receiver, take out a telephone card from my wallet, and insert it into the machine.@>
+*Beeem*@ The line connects.#
+
+{BLOCK:6}
+Wait a minute.@>
+I throw a glance at Ruriko.@>
+She's as expressionless as always, and as quiet as a doll.@>
+If I talk now, Ruriko might overhear our conversation.@>
+Ruriko doesn't know her brother is inside that room.@ She doesn't know, and I don't want her to know either.#
+
+{BLOCK:7}
+{PCMLOAD:06}
+Her own brother is throwing a party full of demented lasciviousness just a few meters away from us.@>
+She doesn't have to know about that.@>
+After all, finding out about that would only hurt her feelings.@>
+"Sorry, Ruriko, but could you please leave me alone for a moment?@ I have something important to talk with my uncle."@>
+Ruriko nods, and obeying my command, she gets away from me.@>
+I call my uncle without delay.#
+
+{BLOCK:8}
+{PCMPLAY:0220}
+*Riiing* *Riiing*
+{PCMWAIT}
+{PCMFOUT}
+\p*Click!*#
+
+{BLOCK:9}
+Perhaps he was worried about me, because he picks up at the second ring.@>
+"Hello, Nagase here."@>
+"Ah, uncle?@ I'm Yuusuke."@>
+"Oh, Yuusuke.@ How are you doing?"@>
+Hearing his bright voice takes me back to reality.#
+
+{BLOCK:10}
+"Listen.@ I have no time to spare so I'll cut to the chase.@ Just as you surmised, the group in question is throwing an orgy this precise moment."@>
+"What?!@ For real?!"@>
+"Yes."@>
+"Where?@ How many people?@ Did you see their faces?"@>
+"The place is the student council.@ As for their number...@ They're four.@ The ringleader seems to be Tsukishima, the former student council president."@>
+Upon mentioning Tsukishima's name, I make sure Ruriko's not near me.#
+
+{BLOCK:11}
+"Tsukishima?@ THAT Tsukishima?!"@>
+"Yes."@>
+"I can't believe it..."@>
+My uncle is right in disbelieving it.@>
+Tsukishima is a well-respected, honor student who is trusted by students and teachers alike.@>
+"But it's the truth."@>
+"Alright, you got it.@ Good job, Yuusuke.@ I'm going there now, so wait a bit longer.@ Where are you now?"#
+
+{BLOCK:12}
+"No, I'm afraid I can't wait for so long.@ Two friends of mine were caught and are suffering horrible things right now.@ I'm going to rescue them."@>
+"Wait, don't do it.@ It's dangerous.@ I'm going there now, so wait for me!"@>
+Part of Mizuho's involvement in this mess was a product of my uncle's careless actions, but I intentionally avoid that topic.#
+
+{BLOCK:13}
+"No, I can't let them suffer any longer.@ That's my last reason to live."@>
+"Yuusuke, what are you...?"@>
+"Anyway, I'm going now.@ Try to come as soon as possible, okay?@ Remember, I'll be in the student council's room."@>
+"H-Hey, hold up, Yuusuke!@ Don't hang up!"#
+
+{BLOCK:14}
+*Click!*#
+
+{BLOCK:15}
+I put down the receiver.@>
+Alright.@>
+Now, even if Tsukishima catches me, my uncle will do something about this.@>
+A stitch in time saves nine, as they say.#
+
+{BLOCK:16}
+I give a sigh and turn back, but then...@>
+A human-like shadow stands before me.@>
+{BGMFOUT}
+{BGMWAIT}
+"R-Ruri--"@>
+The backlight doesn't let me see well her face, but judging by her haircut, I think is Ruriko who overheard my call.@>
+"D-Did you hear...?"#
+
+{BLOCK:17}
+{PCMLOAD:10}
+No, it's not her.@>
+It's not Ruriko!@>
+"Y-You are...!"\c
+{CHARA:c32}
+\e
+
+{BLOCK:18}
+{QUAKE}
+{FLASH}
+*THUD!*#
+
+{BLOCK:19}
+As soon as I feel a strong blow in the back of my head, my consciousness start fading out very quickly...\c
+{BG:000011}
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMFOUT}
+\e
+
+{BLOCK:20}
+I fall to the ground.@>
+*THMP!*@>
+At the same time, I hear something heavy dropped onto the ground.@>
+I look in that direction.#
+
+{BLOCK:21}
+A-A rock?!@>
+It's a rock...@ And as big as a boulder...#
+
+{BLOCK:22}
+Was someone behind me?@>
+Did she hit me with that heavy rock?@>
+Will I die now...?@>
+Right before losing my consciousness, I see the face of a girl standing before me.@>
+It's, without a doubt, Ohta.#
+
+{BLOCK:23}
+Ohta, huh?@>
+I see.@ So she already noticed me.@>
+Goddamit.@>
+I was careless...#
+
+{BLOCK:24}
+As I'm engulfed in jet-black darkness, I become worried about Ruriko.#
