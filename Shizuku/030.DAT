@@ -1,0 +1,120 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAADwAAAAA/P/1//T/xP8Aw///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++4vv4Awr3+/Pvg/vsP3/7/AAAAAAAAAAAA}
+{BLOCKLEN:17}
+
+{BLOCK:0}
+"Please tell me about those suspicious human-like shadows you saw last night."@>
+{CHARA:r10}
+"Okay..."@>
+She lifts her gaze slowly towards the ceiling and starts recounting what happened.#
+
+{BLOCK:1}
+"Our volleyball club is one of the strongest teams of the whole prefecture, and we're usually either runner-ups or champions, so naturally we have to practice extra hard.@ We're gonna become seniors next year, y'know, so we're running tight on time and everybody's training like there's no tomorrow."@>
+Her intonation is wide-ranging, and her voice clear.@ She skillfully controls her tempo like an actress delivering her lines; in short, Shinjo is an excellent orator.#
+
+{BLOCK:2}
+"That's why recently we stay up quite late to practice.@ Yesterday's training was particularly long, and after we finished we began chatting.@ I'm quite the chatterbox, so I kept prattling without even changing clothes.@ I was left behind and had to close the gym door before going home."@>
+She makes a little gesture with her hands as if closing an invisible door.@ Any onlooker would say she looks oddly excited.#
+
+{BLOCK:3}
+"I think that was around 10 P.M. last night.@ Or was it 9:30?@ Or 10:30?@ Well, it doesn't matter, doesn't it?"@>
+Of course it matters!@ That said, I don't want to spoil her fluent speech, so instead I say "wait".@>
+"It IS important.@ Please make an effort to remember what time it was."#
+
+{BLOCK:4}
+"Hmm...@ Oh, yeah, it was 10 P.M.@ At the club we have to fill a "leaving report", y'know?@ It's just a cheap notebook placed where we usually return the gym key.@ The person who last returns it must write down their name and leaving time.@ The last time I used the notebook was at 10 P.M...@ Yeah, that was it."@>
+"Yep, no doubt", she nods.#
+
+{BLOCK:5}
+"So I locked the door, returned the key, jotted down my name and left the gym, then...@ Have you seen those cherry trees planted right in front of the gym?@ Well, there..."@>
+She moves her face close to mine, and suddenly, she opens wide her eyes.@>
+"I saw those mysterious silhouettes!"@>
+She looks just like a grandma telling spooky stories to a child.@ Her acting includes a full repertory of gestures.#
+
+{BLOCK:6}
+"You're a grandma's girl, aren't you?"@>
+{CHARA:r12}
+"Eh?@ Y-Yeah, but...@ How could you tell?!@ Tell me, tell me!"@>
+She flaps both of her arms and gazes at me delighted.@>
+"It was only a guess.@ You're as eloquent as any granpa or grandma.\
+
+{BLOCK:7}
+"Wow, that was amazing!@ You deduced it just like a detective!@ I'm sure you'll become one in the future!"@>
+That's an awfully simplistic prediction...@ Also, what does she find so great about that supposition?@>
+"Forget about me.@ Keep going with the story."@>
+{CHARA:r10}
+"Oh, yeah, sorry."@>
+She sticks out her tongue and hits her forehead.@>
+"And then..."@>
+She changes her expression abruptly and goes back to her previous horror taleteller tone.#
+
+{BLOCK:8}
+"......"@>
+"So?"@>
+"Umm...@ Where was I at again?"
+"The shadows near the cherry tree!"@>
+{CHARA:r11}
+"Oh, that's right!@ Sorry!@ Being a scatterbrain is my only flaw."@>
+Her ONLY flaw?@ I wouldn't be so sure about that...\c
+{BGMNEXT:05}
+{BGMFOUT}
+{CHABG:l37110808}
+\e
+
+{BLOCK:9}
+"Okay, so, in short, various silhouettes were standing before the cherry trees."@>
+""In short"?@ Well, whatever...@ Anyway, were there several of them?@ How many?"@>
+"Hmm, yeah, I'm positive they were many.@ Three, perhaps?"@>
+"Are you sure they were three?"@>
+"Yeah, more or less."@>
+So we're dealing with a trio, huh?@ If the persons Shinjo witnessed are involved in the incident, that means there's three more aside from Ohta.#
+
+{BLOCK:10}
+"I could have sworn they were my friends from the club trying to play a prank on me, so I approached them and yelled "Boo!"."@>
+Shinjo laughs pulling her tongue and scratches her head.@>
+"So you SAW them up close!"@>
+"Yeah, but in the darkness...@ Well, obviously those girls turned out to be different people.@ I felt awkward, so I apologized and dashed the hell outta there."\c
+{BGMNEXT:07}
+{BGMFOUT}
+{CHABG:r10430808}
+\e
+
+{BLOCK:11}
+"Those "girls"?"@>
+"Yeah, they were girls.@ I knew from their uniform."@>
+"All three of them?"@>
+"Yes.@ All of them were wearing the uniform for girls."@>
+"What about their faces or physique?@ Are they students from our school?@ Did you recognize someone among them?"@>
+I bury Shinjo under a pile of questions.#
+
+{BLOCK:12}
+"Ugh, don't ask me everything at once, please!@ I told you, it was dark and I could barely see my own nose!@ I couldn't make out their faces well.@ I felt so embarrassed I couldn't possibly meet them face to face."@>
+"Do you remember anything else?@ Any small detail can help."@>
+"Hmm, I recall one of them had long hair."@>
+"Long hair, huh?@ About as long as yours?"@>
+"Yeah, I think so.@ Tied hair, I believe."@>
+"You're unsure about that too?"@>
+"Sorry."@>
+Shinjo peeks at my face from below and smiles awkwardly.#
+
+{BLOCK:13}
+"I was worried because I felt bad about scaring them, but now that I think about it, it was really weird.@ Why would those girls in uniform be at school so late?@ There was something strange about them."@>
+"What do you mean exactly by "weird"?@>
+"Well, by "trying to scare them" I mean I shouted to the top of my lungs."@>
+It's Shinjo we're talking about, so I figure she splitted their ears.#
+
+{BLOCK:14}
+"However, they didn't startle.@ In fact, they didn't react AT ALL.@ If I had to describe them, I'd say they were like zombies."@>
+"No reactions...?"#
+
+{BLOCK:15}
+After hearing Shinjo's story, I remember Ohta's state of that day.@>
+If someone screamed to scare her back then, I bet she wouldn't have batted an eyelash.@>
+Yeah, exactly like a zombie.#
+
+{BLOCK:16}
+"Bizarre, isn't it?@ That's why I informed Mr. Nagase about it today.@ Oh, by the way, he's your uncle, isn't he?@ How do you feel about having a relative in the school?"@>
+She can't keep focused on the topic for a single minute straight.@>
+"Nothing in particular."@>
+"Nothing in particular?@ What do you mean by "nothing in particular"?"@>
+"Sorry, but let's talk about that later."@>
+I curl my lips and cut short the conversation.#

@@ -1,0 +1,137 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAADcAAAAA/P/1//T/yf8AyP//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/P4+vIA/fH/8PvX++EB/tf74P7/AAAAAAAAAAAAAAAAAAAA}
+{BLOCKLEN:16}
+
+{BLOCK:0}
+Who should I visit first?@>
+I believe Mizuho is the one who can provide with me the most useful information.@>
+On the other hand, I should meet Shinjou because she's the only witness.@>
+Anyway...\c
+{BG:430404}
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:1}
+Unable to collect my thoughts, I leave the classroom and step in the hallway, but then...@>
+{CHARA:r10}
+"Umm..."@>
+A girl I don't know talks to me.\c
+{BGMPLAY:07}
+\e
+
+{BLOCK:2}
+"What is it?"@>
+"Are you from B class?"@>
+Her eyes are clear and straight.@>
+"Yeah, why?"@>
+"Oh...@ Then, is Nagase still in your classroom?"@>
+"Huh?@ Yeah..."@>
+{CHARA:r11}
+"Sorry, but could you please bring him here?"@>
+She joins her hands in a pleading pose.#
+
+{BLOCK:3}
+Who is she?@ I don't recall seeing her before.@>
+"I'm Nagase..."@>
+{CHARA:r12}
+"Huh?!@ Oh, I see..."@>
+Her expressions change drastically from one moment to another.@>
+{CHARA:r13}
+She points to her chest and names herself.@>
+"I'm Saori.@ Saori Shinjo."@>
+"Shinjo from the volleyball club?"@>
+Hey, she's the witness I was about to meet!\c
+{CHARA:r12}
+\e
+
+{BLOCK:4}
+"Do you know me?@ Wait, don't tell me I've become a celebrity!"@>
+She claps her hands as her face turns bright with joy.@>
+"No, it's just I had some business with you.@ I was about to go meet you."@>
+{CHARA:r10}
+"Oh..."@>
+This time she drops her shoulders in disappointment.@ I can never get enough of her reactions.@>
+"You mean what happened last night, right?@ You wanna hear about what I saw?"@>
+"Yeah..."@>
+"Okay, I'll tell you.@ That's what Mr. Nagase sent me here for, after all."#
+
+{BLOCK:5}
+She says, dropping her shoulders to imitate a hunchback.@>
+""Uh, sorry, Shinjo, but could you tell my nephew what you just told me now about those fishy shadows?@ He's going to patrol the school tonight...""@>
+It looks like she's mimicking my uncle.@ Not a perfect imitation, but the key mood is there.@>
+{CHARA:r13}
+"That's what he said."@>
+Shinjo giggles and winks.#
+
+{BLOCK:6}
+At first sight I thought she'd be more serious, but the more I talk with her, the more I realize how friendly she is.@>
+"You're a very funny girl, Shinjo."@>
+{CHARA:r16}
+"I get that a lot."@>
+She says with a bashful smile.@>
+"By the way, what are you investigating, Nagase?@ Did an incident occur yesterday?"@>
+"Oh, it's nothing too important..."#
+
+{BLOCK:7}
+My uncle really got me into trouble...@>
+I thought it'd only be Mizuho, but now Shinjo is involved in this matter...@>
+Now Mizuho, Ruriko and Shinjo know that I'll be surveying the school tonight.@>
+These three have some kind of link to the case, so I must be careful not to tell them anything important.@ VERY careful.#
+
+{BLOCK:8}
+It seems Shinjo wasn't well informed about this by my uncle.@>
+That's fine for me.@ I'll try not to touch the heart of the matter.@>
+{CHARA:r14}
+"First Mr. Nagase doesn't tell me anything, and now you...@ *Sob!*"@>
+Shinjo covers her eyes and pretends to cry.@>
+{CHARA:r13}
+"But don't worry!@ Whatever you know, I won't tell anybody."@>
+And then she winks.@ She really jumps between expressions quickly.#
+
+{BLOCK:9}
+"Yeah, I'd appreciate that."@>
+"But I actually know, y'know?"@>
+"Huh?"@>
+I gulp a bit.@>
+Out of the blue, Shinjo mutters:@>
+{CHARA:r16}
+"This is actually BIG trouble, isn't it?"@>
+She says narrowing her eyes.#
+
+{BLOCK:10}
+"Uh, yeah..."@>
+Seeing my awkward reaction, Shinjo laughs.@>
+"You've just gotten yourself involved in a terrible calamity, aren't you?"@>
+She says in a creepy tone.@>
+Is she acting to liven things up or something?\c
+{CHARA:r10}
+\e
+
+{BLOCK:11}
+"More importantly, what I want to ask you is..."@>
+I cut her short to change topic, but Shinjo places her index finger before her lips and says "shhh".@>
+"They say walls have ears.@ We gotta be careful with our surroundings, or someone might hear us!"@>
+"Huh?"@>
+"It seems no one is overhearing us now, though."@>
+It looks like she's getting the wrong idea about this.@ She's acting like this is a detective show.#
+
+{BLOCK:12}
+"Well, anyway, what did you want to ask me?"@>
+Shinjo looks at me with upturned eyes.@>
+"Well, first of all..."@>
+{CHARA:r13}
+"C'mon, I'm ready for any question!"@>
+She says beating her chest.#
+
+{BLOCK:13}
+Well, what will I ask?\n\e
+
+{BLOCK:14}
+{XPOS:6}
+{SPEED:0}
+1. "Tell me about those suspicious shadows."\n\e
+
+{BLOCK:15}
+{XPOS:6}
+{SPEED:0}
+2. "Did you notice anything weird in the club recently?"\n\e
