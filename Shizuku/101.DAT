@@ -1,0 +1,97 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAADQAAAAA/P/1//T/zP8Ay///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/O4uP4Awr///PvZ/vsP2P7/AAA=}
+{BLOCKLEN:13}
+
+{BLOCK:0}
+"Fine.@ If you insist, I'll have you keep me company from tonight on."@
+{CHARA:r12}
+"Yay!@ That's more like it!@ I knew I could count on you!"@
+Shinjo leaps in place happily.@ She's WAY too eager about this.@
+"I don't know about the ghost fuss, but you bet I'm gonna yell to those scandalous jerks!"@
+Shinjo mimics a punch as if hitting an invisible criminal.#
+
+{BLOCK:1}
+"Uh, I think you've gotten that part wrong."@
+{CHARA:r10}
+"Huh?@ What part?"@
+"I'm not investigating the ghost scandal or anything of the sort."@
+"Oh, really?@ What is it then?"@
+I want to act as if nothing had happened.#
+
+{BLOCK:2}
+"It's too long of a story to explain out, but basically, there are weird reunions happening here at school everyday.@ That's what I'm patrolling for.@ I have to verify if it's really happening or not, who are participating, where is it taking place, etc."@
+I summarize it to the best of my ability.@
+"Hmm...@ Fishy reunions, huh?@ Like, they're sniffing glue or something?@ I wonder if there are guys like that nowadays."@
+"Quite close, but that's not actually the case.@ I'm just gonna say that, if it becomes public, it'll cause trouble to the school."#
+
+{BLOCK:3}
+"But, what I saw last night were all girls.@ All of them looked completely normal, and they didn't give off troublemaker vibes."@
+As Shinjo strolls down memory lane, she takes her chin to her hand and loses herself in thought.@
+"Oh, but they certainly looked dangerous.@ Like they were... broken or something.@ Creepy stuff."@
+Broken, huh?@
+{CHABG:l30010505}
+I react sensitively to Shinjo's words...@
+and recall vividly how Ohta looked that day.\c
+{CHABG:r10430505}
+\e
+
+{BLOCK:4}
+"If you told me they were doing glue, I think I'd just believe it."@
+Shinjo nods in self-agreement.@
+{CHARA:r12}
+"Ah!"@
+Shinjo screams out of the blue.@ She claps her hands as if she just realized something.@
+"What if they're the ones causing the ghost scandal?"#
+
+{BLOCK:5}
+"I think that's very possible.@ Even if that wasn't their intention, that's what the witnesses saw."@
+"So that means we're investigating the ghost scandal all the same.@ They're causing us trouble all the same, after all!@ How come they're scaring people on top of sniffing glue?@ They're so nasty!"@
+If I don't stop her, she'll keep going off a tangent.#
+
+{BLOCK:6}
+"I'm telling you no one's sniffing glue!@ They're gathering for some other purpose!"@
+{CHARA:r10}
+"Oh, really?@ What purpose?"@
+Shinjo stares at me with sparkling eyes.@
+"W-Well..."@
+"Yeah?"#
+
+{BLOCK:7}
+Their group gathers every night to have sex until dawn, using the school as a hotel...@
+It's hard to talk about such a topic with a girl.@
+"I-It's a bit difficult to explain it here.@ I can't just sum it up.@ Also, I'm a bit short of time right now.@ Sorry, but I have agreed to meet someone."@
+I casually avert my gaze from Shinjo.#
+
+{BLOCK:8}
+"Hmm, okay, let's leave it for later.@ I'm gonna be at the club, so pay me a visit."@
+"Huh?@ You want me to drop by your club?"@
+"Yeah.@ I usually practice at the second gym.@ We train on our own until our advisor teacher comes, so I can go out for a little while."#
+
+{BLOCK:9}
+"Well, I don't really mind..."@
+{CHARA:r13}
+"It's a promise!@ When that time comes, let's keep talking about this and meet later at night!"#
+
+{BLOCK:10}
+Shinjo says flashing a wink.@
+That's just her playful nature in action.@
+Hmm...@
+Without even realizing it, she's gotten away with what she wanted.@
+I must admit I'm often a total pushover.#
+
+{BLOCK:11}
+"Anyway, see ya later, Sherlock junior!"@
+{CHARA:r99}
+Shinjo pats my shoulder as a sort of farewell gift and walks away through the hallway humming a song.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:03}
+\e
+
+{BLOCK:12}
+She's a strange girl.@
+Just by looking at her my mood becomes cheerful.@
+I bet even the spooky school at night will feel a little brighter with her.@
+However, she's a bit unpredictable, and that makes me feel anxious.@
+But, why is she so enthusiastic about cooperating in the investigation?@
+I think her anger for the ghost scandal is a weak reason for it.@
+I'll ask her about it more in detail later.#
