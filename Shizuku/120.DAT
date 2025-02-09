@@ -1,0 +1,39 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAABwAAAAA/P/1//T/5P8A4///q/+r/qsA/av8q/ur+vsPhv7/AAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:6}
+
+{BLOCK:0}
+For example, something that she can only see from here.@>
+Well, from here I can see...#
+
+{BLOCK:1}
+"!"#
+
+{BLOCK:2}
+I have just realized something.@>
+I can observe the whole school from here.@>
+I could tell immediately if someone entered from the back door or the front door.#
+
+{BLOCK:3}
+I should just watch over from here.@>
+There's no better place to stand watch than this one.@>
+Wait, does that mean the girl from before was waiting for someone to come to school?@>
+Makes perfect sense.#
+
+{BLOCK:4}
+"Did you find something, Yuusuke?@ A-Answer me..."@>
+Upon hearing Saori's faint voice, I remember my original goal.@>
+"Oh, sorry.@ There's nothing here."\c
+{BG:330303}
+\e
+
+{BLOCK:5}
+I go back and Saori clings to my arm once again.@>
+{CHARA:r14}
+"Can we please get away from here?@ I-I'm getting bad vibes from this place..."@>
+Her voice is feeble.@>
+Everybody has stuff that they just can't deal with.@>
+If I hadn't brought up the topic of ghosts back there, maybe she'd have tagged along being her usual bright self.@>
+"Yeah, you're right.@ Let's do that."@>
+I'll be careful not to mention anything about ghosts ever again.\c
+{CHARA:r99}
+\e
