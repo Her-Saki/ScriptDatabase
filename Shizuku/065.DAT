@@ -1,0 +1,103 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAADcAAAAA/P/1//T/yf8AyP//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/P4+vIA/fH/8PvX+7sB/tf7vP7/AAAAAAAAAAAAAAAAAAAA}
+{BLOCKLEN:16}
+
+{BLOCK:0}
+{BG:110303}
+We're in front of the second gym.#
+
+{BLOCK:1}
+We haven't found a single clue yet.@>
+Perhaps we're patrolling the wrong places?@>
+That said, as long as the culprits don't show themselves, we have no choice but to walk around and investigate straightforwardly.#
+
+{BLOCK:2}
+Should we aim for an exhaustive search?@>
+{CHARA:r02}
+As I think about that, I casually peek at Ruriko's face.@>
+She's wearing a complex expression as she stares fixedly at the school building.#
+
+{BLOCK:3}
+"What are you looking at, Ruriko?"@>
+{CHARA:r00}
+I ask her, and she stares back at me.@>
+"What's wrong?"@>
+{CHARA:r02}
+She slowly reaches out her right arm horizontally, and points to the building.@>
+"There are people over there."@>, she says with an expressionless, emotionless face.#
+
+{BLOCK:4}
+"People?!"@>
+I turn my gaze to where she pointed.@>
+And there...@>
+{BGMSTOP}
+"!"@>
+Yeah, they're there!@>
+They immediately vanished from our field of vision, but they WERE there.@>
+Two of them, even.@>
+"Let's go!"\c
+{REFCHAR:r99}
+{BGMPLAY:05}
+\e
+
+{BLOCK:5}
+Both shadows crossed the back of the gym and disappeared into the building.@>
+We walk quickly and chase them right away.@>
+That said, we go step by step carefully so as to avioid getting caught...#
+
+{BLOCK:6}
+We reach them in no time.@>
+It looks like the shadows want to enter the building from the emergency exit by the east stairs.@>
+When they open the door with the key, they get spotlighted by the moonlight and their appearances become clear.#
+
+{BLOCK:7}
+At first I thought one of them was hiding their face, and thus their gender, behind a mask.@>
+However, looking at them closely, I notice it isn't a mask, but a piece of white fabric.@>
+White bandages, to be precise.@>
+They have their face covered with white bandages, like a mummy from a horror movie.#
+
+{BLOCK:8}
+Then, I see the other one under the moonlight.@>
+"!"@>
+I let out an unintentional gasp.@>
+I know that face...@>
+Slightly curly, chestnut-color hair...@ Big glasses...@ A somewhat childish face...@>
+She's the student council's secretary, Mizuho Aihara.#
+
+{BLOCK:9}
+Mizuho...@>
+Yeah, I have no doubt it's her.#
+
+{BLOCK:10}
+I can't believe she really came...@>
+I was kinda expecting it, but I regret not stopping her before.@>
+Who is the person next to her?@ A friend of hers she brought along?@>
+That's fine, but what if she's a member of the meetings...?@>
+Alcohol...@ Drugs...@ Sex...@ Rape...@>
+Those nouns my uncle mentioned flash through my mind and send chills through my spine.#
+
+{BLOCK:11}
+"Mizu--...!"@>
+I was about to run over to Mizuho, but Ruriko's cold hand grabs mine.@>
+{CHARA:r01}
+"Don't go."@>
+When I turn around, Ruriko's gazing fixedly at me.@>
+"You can't go now."@>
+She doesn't let go of my hand.@>
+B-But...#
+
+{BLOCK:12}
+I turn my gaze to the emergency exit.@>
+Mizuho and the other person are about to enter the building.#
+
+{BLOCK:13}
+What should I do?\n\e
+
+{BLOCK:14}
+{XPOS:6}
+{SPEED:0}
+1. I must stop Mizuho\n\e
+
+{BLOCK:15}
+{XPOS:6}
+{SPEED:0}
+2. I'm worried about Mizuho, but for now I'll watch from afar.\n\e
