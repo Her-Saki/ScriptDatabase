@@ -1,0 +1,277 @@
+{HEADER:AQAIAAAAAAAAAAAAAAAAAFYAAAAA/P/1//T/qv8Aqf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6avoq+er5qsA5avkq+Or4qsA4avgq9+r3qsD3fuM/v8AAAAAAAAAAAAAAAA=}
+{BLOCKLEN:35}
+
+{BLOCK:0}
+{BG:110404}
+Including the staff room, all the lights of the school are off.@
+I don't spot anything resembling a person's shadow.\c
+{CHARA:r10}
+\e
+
+{BLOCK:1}
+"What about dinner?@ Did you buy any?"@
+"Yes, here."@
+I hand Shinjo a paper bag with three burgers and a cola that I bought for her.@
+{CHARA:r12}
+"Yay!@ This is exactly what I wanted to eat right now!"@
+Shinjo gladly receives the paper bag, which is still warm.\c
+{CHARA:r99}
+\e
+
+{BLOCK:2}
+"Let's dig in!"@
+Shinjo really eats a lot for a girl.@
+She's chewing on her meal as if it was a feast.@
+She looks back at me and smiles happily.@
+In turn, I smile along from ear to ear.@
+"Man, that was tasty!"@
+Shinjo devoured everything in about five minutes.@ She curls up the wrapper in a ball and throws it in the paper bag, wipes her mouth with a napkin, and sighs satisfiedly.#
+
+{BLOCK:3}
+"Thanks for the meal!@ Alright, let's go investigate now!@ Where should we begin?"@
+Her voice brims with enthusiasm.@
+"Well...@ For starters, let's patrol around the place where you saw the shadows last night."@
+I look around the cherry trees surrounding the second gym.@
+"Sounds good.@ I don't know where they headed to last night, but I have no doubt they were here."@
+Shinjo says with her eyes sparkling of excitement.#
+
+{BLOCK:4}
+"I hope we find some clue here."@
+"Yeah, let's kick off the survey already.@ By the way, this is kinda off topic, but..."@
+{CHARA:r10}
+Shinjo peeks into my eyes.@
+"What?"@
+"I'm not confortable with you calling me "Shinjo".@ Just "Saori" is fine.@ All of my friends call me by my name, after all."#
+
+{BLOCK:5}
+"Alright.@ If "Saori" is okay for you, I'll stick to that."@
+"Yeah, that sounds more natural."@
+Shinjo...@ I mean, Saori flashes a wink.@
+"Hey, can I address you by your name too?@ What is your first name?"@
+"Yuusuke."@
+"Yuusuke, huh?@ Can I call you like that from now on?"@
+"I don't mind."\c
+{CHARA:r99}
+\e
+
+{BLOCK:6}
+We start roaming around.@
+"Has someone called you "Yuusuke" before?"@
+"Now that you mention it, I think my relatives address me that way."@
+"Can see why.@ Yuusuke is kinda an easy name to call."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:03}
+\e
+
+{BLOCK:7}
+There's a full moon out tonight.@
+The moonlight spread by the round moon is so bright that projects clearly our shadows on the ground, and thanks to that, we can see very far away without relying on any other source of light.@
+{BG2:110303}
+We try walking around the gym and along the row of cherry trees, all while making sure not to miss even the slightest spot of light or shadow.\c
+{CHARA:r10}
+\e
+
+{BLOCK:8}
+"There isn't anything of interest here."@
+Saori says letting out a sigh.@
+It's just past 9 P.M.@ Perhaps it's still a bit early for the meetings to begin.@
+"Did you witness the girls around 10 P.M last night?"@
+"Yeah, I did.@ We usually have team meetings late at night, and after practice was over, we stayed chit-chatting until very late at night."#
+
+{BLOCK:9}
+"In that case, we should come back here around 10 P.M, and investigate inside the school in the meantime."@
+"Yeah, that'd be for the best.@ If they're really used to this, they surely will come at the same hour.@ The school at night, huh...?@ Sounds kinda exciting."@
+Saori's body trembles with eagerness.\c
+{BG:290303}
+\e
+
+{BLOCK:10}
+We move to the front gate.@
+Of course, the door is locked, so I input the code my uncle shared with me.@
+0...@ *Beep!*@ 8...@ *Beep!*@ 2...@ *Beep!*@ 4...@ *Beep!*@
+*Vroom*@ A motor roars and the electric lock of the door is released.@
+I insert the master key my uncle lent me into the hole and remove the lock, then slowly open the door.\c
+{BG:440404}
+\e
+
+{BLOCK:11}
+Packed with cold air, the inside of the building is eerily calm.@
+As I imagined, I don't feel any human presence here.@
+It doesn't feel like anybody is inside.\c
+{CHARA:r10}
+\e
+
+{BLOCK:12}
+"Hey, Yuusuke, do you think they're really there?@ I mean, those guys doing lewd stuff at school by night."@
+"Beats me.@ There are just too many possibilities to take into account.@ I think it's more likely that they're not here, but on the other hand it's true that Ohta had intercourse with a guy before losing her mind.@ They confirmed it at the hospital."\c
+{CHARA:r15}
+\e
+
+{BLOCK:13}
+"I feel bad for her.@ She just went a bit crazy and the meds examined every inch of her body."@
+Ohta wasn't just "a bit" crazy, but I'm not gonna point that out.@
+"Her parents authorized it, that's for sure.@ They wanted to know where their daughter went every night and if she was really going out with a boyfriend..."#
+
+{BLOCK:14}
+"Even though they're her parents, they shouldn't poke their nose in her private life!@ More even if it's about boys.@ I wouldn't want them to have a say in it!"@
+"But they need to ascertain the cause of her breakdown, otherwise they couldn't provide an effective treatment, could they?"@
+"Well, you're right, but still..."@
+Saori makes a complex face.#
+
+{BLOCK:15}
+"Have your parents ever questioned you about boys, Saori?"@
+I poke a little of fun at her.@
+{CHARA:r13}
+"Oh, never!@ For them, I'm a boorish girl that won't EVER have that kinda problems!"
+"Don't you have male friends or a boyfriend?"@
+"Yes, I do have friends!@ Lots of them!@ But, unfortunately...@ not a boyfriend.@ G-Got a problem with it?@ Well, SORRY!"@
+Saori pouts.\c
+{BG2:440303}
+\e
+
+{BLOCK:16}
+For the time being, we walk back and forth along the hallway.@
+Warm moonlight shines on the darkness.@
+No matter how hard I stare or how closely I listen, I don't find anything of particular importance.@
+Between this and that, we keep searching for about 20 minutes.\c
+{CHARA:r10}
+\e
+
+{BLOCK:17}
+"Hmm, we're out of luck, it seems."@, Saori says a little bored.@ It feels like the tension she felt before has died out.@
+"For starters, it's not clear if what Ohta wrote in her diary is real, right?"@
+"Yes, you're correct.@ That diary itself might as well be just a product of her delusions."
+{CHARA:r1B}
+\e
+
+{BLOCK:18}
+"But, it's been confirmed that she had, um, s-sex with a boy, hasn't it?"@
+She blushes.@
+Looks like even Saori feels embarrassed mentioning that word in front of a guy.@
+"Then what about this?@ Maybe she really met with her boyfriend at school but right after hooking up, they moved to a hotel or some other place in order to... uh... make love."#
+
+{BLOCK:19}
+"Yes, that's entirely possible.@ Maybe the girls you saw last night were waiting for someone at school too."@
+{CHARA:r10}
+"Perhaps those nocturnal playboys only chose school as a rendezvous point, but if that were the case, we're just wasting our time like idiots patrolling around here."#
+
+{BLOCK:20}
+"I don't think it's in vain, though.@ If we can prove nothing fishy is going on, we can call this case closed and the school management will be able to say it actually investigated the matter."@
+"So that means we have no reason to be so on edge, huh?"@
+"The biggest problem is if they're using the school or not.@ If they aren't, the school doesn't have to take any responsibility for this case.@ Naturally, if the names of the suspects come to light, they'll be able to question them about Ohta."@
+"Hmm, so that's why we're patrolling...@ Gotcha."\c
+{CHARA:r99}
+\e
+
+{BLOCK:21}
+We keep on with the investigation.@
+{CHABG:r10050303}
+We enter haphazardly at every classroom we pass by, but to no avail.@
+Casually, the ghost fuss comes to my mind.@
+Calling it like that makes it sound like a big deal, but it's actually trivial.@ A couple of girls from the club witnessed repeatedly human-like shadows at school late at night.@
+Now that I think about it, Saori was mad pissed about it.@
+According to her, when she was in middle school, one of her classmates bullied other kids with ghost stories.@ Since then, she remembers that incident every time someone makes a ruckus about supernatural phenomena and gets angry.#
+
+{BLOCK:22}
+"Perhaps the ghost fuss you talk about was just the offending gang assembling here at school."@
+When I bring up that topic, Saori turns back to me with an awkward smile on her face.@
+"True.@ Either way, it's the girls' fault for making such a scandal in the first place.@ I mean, ghosts?@ That's so ridiculous!@ They say they appeared today in the hallway and yesterday in the rooftop, but c'mon, that can't be real!@ First off..."@
+{BG:440404}
+Afterwards, Saori makes me listen to a rather lenghty speech about what she finds fishy about ghosts.\c
+{BG:460303}
+\e
+
+{BLOCK:23}
+We reach the staff room.@
+I really don't think the orgies are taking place here...\c
+{CHARA:r10}
+\e
+
+{BLOCK:24}
+"And they say the ghost is a female student from this school and that she wears the same uniform as us.@ Supposedly, she commited suicide inside school more than ten years ago, and everybody is kicking up a fuss about her apparitions.@ However, our school adopted this uniform five or six years ago, so why would a ghost from a decade ago wear the current one?@ At that point I'd heavily distrust such rumors..."\c
+{BG:440707}
+\e
+
+{BLOCK:25}
+As we did with the first, we patrol around the second and third floor.@
+However, we find no clue whatsoever.\c
+{CHARA:r10}
+\e
+
+{BLOCK:26}
+"They say that if you don't see a ghost before age 20, you'll never see them ever again, did you know that?@ But why 20, specifically?@ We're not talking about cigarettes or alcohol, so being adult or underage shouldn't matter at all, don't you think?@ I'm 17 now, so I only have three more years ahead.@ I think it'd be a waste not seeing one while I can, so I'd love to do it at least once."#
+
+{BLOCK:27}
+While nodding unconcernedly to Saori's speech, I look at the entrance door through the window and never let my guard down.\c
+{BGMFOUT}
+{BGMSTOP}
+\e
+
+{BLOCK:28}
+And then, when I look casually at the school building clock in order to check out the time...@
+{BGMPLAY:05}
+"!"@
+I spot a human-shaped shadow in the rooftop of the central building.@
+"There's someone in the rooftop!"\c
+{REFCHAR:l15}
+\e
+
+{BLOCK:29}
+"Huh?!"@
+When I point quickly to the place in question, Saori sticks her face to the window glass and looks in that direction.@
+{CHARA:l12}
+"Where?@ Tell me!@ Where?!"@
+"There!@ Look, it's right there!"@
+It's a girl wearing this school's uniform.#
+
+{BLOCK:30}
+"Huh?@ Where?@ Where?!@ I can't see them!"@
+"Ah..."@
+However, the human-like shadow disappears from the rooftop before Saori can catch a glimpse of it.@
+"Where is it?@ Tell me!"@
+With her eyes glittering, Saori looks around relentlessly.@
+"She's gone.@ Where did she head to?"\c
+{CHARA:l10}
+\e
+
+{BLOCK:31}
+"Huh?!@ No way!@ I haven't still seen her!@ Argh!@ I didn't see anything, though.@ Was she really there?@ Didn't your eyes deceive you?"@
+"No, I'm sure.@ It was a girl wearing this school's uniform."@
+"A girl in uniform?@ In the rooftop?"@
+"Yes, no doubt about it."@
+{CHARA:l14}
+"T-That means..."@
+Saori frowns and smiles awkwardly.#
+
+{BLOCK:32}
+"Ah..."@
+I grasp immediatley what she wants to say.@
+This matches to a T the ghost story we were talking about moments ago.@
+{CHARA:l13}
+"Oh, I know!@ Haha, you were playing a trick on me, didn't you, Yuusuke?@ Am I wrong?"@
+Saori throws a sidelong glance at me and cackles.@
+"No, she really was up there!"@
+How could I mistake it?@ I saw her with my very own eyes.#
+
+{BLOCK:33}
+"Let's go to the rooftop!"@
+{CHARA:l10}
+"Huh?!@ A-Are we going up there?!"@
+"I'm telling you, the girl in uniform was there!"@
+{CHARA:l14}
+"T-That's only a urban legend, I'm sure!"@
+Saori gives a step back.@
+"This is not time for ghost stories!@ She could be a member of the group we're looking for!@ Let's go!"@
+{CHARA:l1a}
+"B-But..."@
+For some reason, Saori looks scared.#
+
+{BLOCK:34}
+"Hurry up!@ We gotta run!"@
+"Ah!"@
+I take Saori by the hand and run along the hallway.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:09}
+\e
