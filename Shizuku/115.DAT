@@ -1,0 +1,54 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAACUAAAAA/P/1//T/2/8A2v//q/+r/qsA/av8+Pr7/foA//n71/uL/tcH+4r+/wAAAA==}
+{BLOCKLEN:7}
+
+{BLOCK:0}
+{BG:480202}
+We sprint through the dim hallway, run up the stairs and rush to the rooftop.@>
+{CHARA:r14}
+"W-Was she really there?"@>
+Saori repeats the same question again and again.@>
+"Yeah!@ I'm sure!"@>
+My eyes didn't deceive me.@>
+I'm 100% sure I saw a girl in uniform up there.\c
+{BG:180202}
+\e
+
+{BLOCK:1}
+Eventually, we finish climbing up those long stairs.@>
+Before us is a heavy, gray iron door.@>
+This is the second time I open this door today; the first time was when I met with my uncle, and the second time is now with Saori.@>
+It's unlocked.@>
+I grab the knob, tilt it diagonally, and then open the door.#
+
+{BLOCK:2}
+*Clank*\c
+{BG:190707}
+\e
+
+{BLOCK:3}
+{PCMLOAD:01}
+{PCMPLAY:0100}
+*Whooosh!*@>
+{PCMWAIT}
+{PCMFOUT}
+In the dead of the night, chilly wind blows in from the rooftop.@>
+At the same time, moonlight shines through the gap of the open door.@>
+"Y-Yuusuke..."@>
+Saori holds my arm wearing an anxious expression on her face.@>
+What happened to her?@>
+Judging by how brave she acted before, I'd have never imagined she'd be THIS scared.#
+
+{BLOCK:4}
+Now that I remember, her reaction before was a little odd too.@>
+Perhaps she's actually a chicken at heart?@>
+In fact, she looks like she'll sink in fear any minute now.#
+
+{BLOCK:5}
+{XPOS:6}
+{SPEED:0}
+1. Ask her if she's scared.\n\e
+
+{BLOCK:6}
+{XPOS:6}
+{SPEED:0}
+2. Tell her "Don't worry, I'm here to protect you."\n\e
