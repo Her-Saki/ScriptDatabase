@@ -1,0 +1,508 @@
+{HEADER:AQALAAAAAAAAAAAAAAAAAIgAAAAA/P/1//T/eP8Ad///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6avoq+er5qsA5avkq+Or4qsA4avgq9+r3qsA3avcq9ur2qsA2avYq9er1qsA1avUq9Or0qsA0avQq8+rzqsAzavMq8uryqsAyavIq8erxqsAxavE+3j+/wAAAAA=}
+{BLOCKLEN:60}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMWAIT}
+30 minutes have passed since then.@>
+Half an hour...@>
+By now, Tsukishima probably stopped searching for us.@>
+It'd be most logical if he thinks we already went home.#
+
+{BLOCK:1}
+Besides, it's only a guy and three girls.@>
+Not a number we cannot deal with by force if necessary.@>
+Saori is recovered now, so even if we bumped into each other, it's not impossible for us to outrun them.#
+
+{BLOCK:2}
+{BGMPLAY:12}
+I throw a glance at Saori.@>
+Now that she's finally done changing clothes, she notices my gaze, blushes, and smiles happily and bashfully.@>
+"Sorry, I'm ready."@>
+Fixing her disarrayed hair, Saori walks towards me.\c
+{CHARA:r1B}
+\e
+
+{BLOCK:3}
+She peeks into my face from below.@>
+"W-What is it?"@>
+"Hehehe."@>
+For some strange reason, Saori laughs embarrassedly.@>
+"W-Well, let's get going now."@>
+Since I have no immunity whatsoever to this kind of stuff, I avert my gaze from her and pick up the sports bag from the floor.#
+
+{BLOCK:4}
+"Geez!"@>
+Saori places a hand on her hips and makes a slightly angry face.@>
+"You're sooo dull!"@>
+"?"@>
+In the end, I never figured out what Saori's aim was.\c
+{BGMNEXT:03}
+{BGMFOUT}
+{BG:520303}
+\e
+
+{BLOCK:5}
+We leave the volleyball club room and reach the arena of the second gym.@>
+The golden moonlight coming from the glass window projects pitch-black shadows at our feet.@>
+I feel like the air has become way colder than before,@>
+and I can't hear a single sound.#
+
+{BLOCK:6}
+I take a look around and notice there are a lot of dark spots.@>
+Someone might jump at us from one of them, so I gotta be extra careful.@>
+{CHARA:r14}
+"Are they still there?"@>
+Saori speaks nervously.#
+
+{BLOCK:7}
+"I can't say for sure, but maybe they went home already.@ I bet they think it's dangerous to stay at school any longer with us running loose."@>
+I say as if reassuring myself.@>
+"I hope so..."@>
+Saori grabs tight the sleeve of my uniform.\c
+{CHARA:r99}
+\e
+
+{BLOCK:8}
+{PCMLOAD:01}
+We walk along a wall of the playfield until we reach the center.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+All of a sudden, I feel a cold gust of wind stroking my cheek, and chills running down my spine.@>
+And at that instant...\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:9}
+*Creeaak*#
+
+{BLOCK:10}
+{BGMPLAY:19}
+"!"@>
+{CHARA:c1A}
+"Heee!"@>
+The two-leaf door I was heading to opens slowly with a creaky sound.@>
+Beyond it, three human-shaped shadows appear.@>
+Lighted by the fluorescent lamps of the emergency exit, they look like they give off an ominous green aura.#
+
+{BLOCK:11}
+"Heeee!@ N-No!@ Nooo!"@>
+Saori's knees are shaking.@>
+{CHARA:c99}
+I give a step forward in order to cover her,@>
+and then, the three shadows gradually turn around to me.@>
+No doubt about it.@>
+It's Ohta and the other two girls from the student council.\c
+{ALLCHAR:c31l35r36}
+\e
+
+{BLOCK:12}
+Both of them approach us with staggering steps.@>
+They move like lifeless corpses...@ Like zombies.@>
+"G-Gross!"@>
+Saori clings to my back.@>
+This looks straight out of a B-horror movie.@>
+Heartless zombies...@>
+Saori's words from a while ago flash through my mind.#
+
+{BLOCK:13}
+The moonlight lights up the trio of girls.@>
+We question even more what our eyes are seeing.@>
+Aside from Ohta, the other two girls are stark naked just like they were at the student council room.@>
+"T-This is not normal!@ These girls are crazy!"@>
+Saori's shaking on her boots.@>
+Zombies without a mind of their own...@>
+I wonder if they even lost their shame.\c
+{REFCHAR:c99}
+\e
+
+{BLOCK:14}
+"Yuusuke..."@>
+Saori bends her knees as she quivers.@>
+She's scared out of her wits.@>
+What should I do?@>
+I could escape alone, but bringing Saori along would be difficult.#
+
+{BLOCK:15}
+First off, charging ahead will be impossible.@>
+I have to find another escape route.@>
+Escape... route?@>
+Now that I think about it, I've always been escaping from everything.@>
+Unintentionally, that triviality pops up in my mind.#
+
+{BLOCK:16}
+I didn't want to get hurt, so I didn't even try to make friends.@>
+I hated challenges that involved winning or losing, so I didn't compete with anyone.@>
+The fear of paying the price to achieve something prevented me from making efforts towards it.@>
+
+{BLOCK:17}
+I was nothing but a breathing lump of flesh.@>
+I had no reason to exist in this world.@>
+I was always running away, so I felt...@>
+that the world didn't need a coward like me,@>
+but now...@>
+Now things are different.#
+
+{BLOCK:18}
+There's at least one person who needs me: Saori.@>
+I have to save her without running away.@>
+I feel that, right now, that's the only reason I have left to live.#
+
+{BLOCK:19}
+The girls are less than 10 meters away from us.@>
+I strengthen my resolve.@>
+I have to protect Saori.@>
+"I'm gonna distract them, so take the chance and escape!"@>
+"Huh?!"#
+
+{BLOCK:20}
+Before Saori speaks further, I leave her there, pick up her sports bag and run towards the three girls.@>
+"Uaaaaaaaaaah!"@>
+"Yuusuke!"@>
+I hear Saori's voice from behind.#
+
+{BLOCK:21}
+I push them aside and buy time for Saori to escape.@>
+It's me against three girls.@>
+Perhaps it'd be dangerous to fight them 3 VS 1, but I should be able to handle them individually.@>
+To start with, I set my aim on the girl closest to me.\c
+{CHARA:c35}
+\e
+
+{BLOCK:22}
+{PCMLOAD:10}
+I bump against her.@>
+She's apparently a dainty girl.@ If I run with enough momentum, I should be able to push her away easily.@>
+--Or so I thought,@>
+because...!\c
+{BGMSTOP}
+\e
+
+{BLOCK:23}
+"!"@>
+{QUAKE}
+*Blam!*@>
+{BG:000909}
+For a moment, I didn't understand what happened.@ My body went flying and got slammed against the wall.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+{BG:520000}
+The scene I was witnessing just a moment ago becomes distant.@>
+I feel the pain running up my back and finally understand.@>
+I was the one who got pushed.#
+
+{BLOCK:24}
+"Yuu...@ --ke...@ hang...@ --ere..."@>
+Saori calls my name and screams something after.@>
+My ears ring and I can't hear her well.@>
+My head is dizzy.\c
+{BGMPLAY:19}
+\e
+
+{BLOCK:25}
+Was I thrown?@>
+A grown-ass guy like me...?@>
+By that petite girl...?#
+
+{BLOCK:26}
+I don't quite get what happened, but anyway, it's a fact that these girls before me possess strenght way beyond the average human.@>
+I can't take them head on.@>
+A single touch was enough to make me realize the overwhelming gap between our power.#
+
+{BLOCK:27}
+The three girls slowly turn back to me.@>
+Everyone has the same eyes.@>
+Eyes akin to a dark, grubby, muddy swamp.@>
+The same eyes Ohta has.@>
+The eyes of a person whose spirit broke down.#
+
+{BLOCK:28}
+The three of them approach me little by little.@>
+I'm not exaggerating; I really feel like they'll kill me if I get caught.@>
+This feels just like a zombie movie.@>
+I stand up with great difficulty.@>
+They're almost at our backs.@>
+Ohta reaches out her arm to grab mine.@>
+I dodge her and move to a side along the wall.\c
+{CHARA:c36}
+\e
+
+{BLOCK:29}
+{PCMLOAD:10}
+The naked short-haired girl stands there.@>
+*Swing!*@>
+Her fist flies towards my face.@>
+"Waah!"@>
+{BG2:520910}
+It was so unexpected my feet slip up and I fall to the floor.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+That was a stroke of luck.@>
+The girl's fist grazed my cheek and impacted on the white concrete wall.@>
+*Pow!*#
+
+{BLOCK:30}
+Along with several fragments of debris, a lukewarm liquid pours over my head.@>
+"!"@>
+When I look up, I see the girl's fist plunged into the wall.@>
+It's truly an unbelievable scene.@>
+The debris came from the concrete wall.@>
+*Plip*@ *Plip*@>
+And as a follow-up of those scraps, bright red liquid drizzles along with them.\c
+{CHARA:L69}
+\e
+
+{BLOCK:31}
+When she pulls out her fist from the wall, a good amount of that liquid rains over my face.@>
+It's a lukewarm, crimson liquid...@ In other words, blood.@>
+"Heee!"@>
+I unintentionally gulp saliva.@>
+The girl's fist is completely broken; it has been turned into a bloody lump of flesh with white bones sticking out of it.@>
+Deep-colored vermillion blood scatters from it.@>
+
+{BLOCK:32}
+It seems she doesn't even feel any pain.@>
+{REFCHAR:c36}
+The girl lifts up her arm covered in blood.@>
+Her first is able to pierce a concrete wall.@>
+I imagine it would have broken my head like a watermelon in that watermelon-splitting game if it landed, scattering vivid red blood in the process.#
+
+{BLOCK:33}
+"U-Uaaah!@ Uaaaaaaaaaaah!"@>
+{CHARA:c99}
+I crawl on all fours while screaming and flee from this place.@>
+*Swing!*@>
+I hear a fist splitting the air, and next, a bloody rain pouring down.@>
+"Uaaaaaaaaaaaaah!"#
+
+{BLOCK:34}
+I barely manage to stand up.@>
+However, distracted by the girl behind me, I didn't notice the other girl approaching me front the front.@>
+*Bam!*@>
+I bump against her small breasts and lift up my face.@>
+{CHARA:c35}
+The long-haired girl looks down on me with an empty stare.#
+
+{BLOCK:35}
+The girl crosses her arms and tries to get a hold of me.@>
+"Waaaah!"@>
+{BG2:520910}
+I fall on my rear on the ground and dodge it by a hair's breadth.@>
+Now the short-haired girl chases me from behind.@>
+I roll on the ground and slip past them; using well that momentum, I try to stand up.#
+
+{BLOCK:36}
+{PCMLOAD:10}
+However, the next instant, my soles slip with the blood and my legs stagger.@>
+*Slam!*@>
+{BG2:520910}
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+My balance crumbles and I fall on my face to the gym's floor.@>
+I didn't even have time to experience pain.@>
+Almost on the verge of tears, I try to stand up and lift up my face.#
+
+{BLOCK:37}
+*Heee!*@>
+The bare feet of a girl lie before me.@>
+When I look up...@ Ohta is there.\c
+{CHARA:c31}
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:38}
+With wobbly movements, Ohta grabs me by the shoulders and makes me stand up by force,@>
+{CHARA:c99}
+then she performs a full nelson on me.@>
+{CHARA:l35}
+The other two girls slowly approach me.@>
+{CHARA:r36}
+T-This has to be nightmare.@>
+Yeah, there's no other explanation.@>
+Like drops of ice, cold sweat slides down my spine.#
+
+{BLOCK:39}
+Ohta strangles my arms.@>
+--It hurts.@>
+I can almost hear the sound of my bones cracking.@>
+*Drip*@ *Drip*@ As a pool forms on the floor, the girl with her right hand covered in crimson, bright blood approaches me.@>
+I'm gonna be killed.@>
+There's no doubt about it.@>
+I'm going to be assassinated.#
+
+{BLOCK:40}
+--Will I be murdered...@>
+by these girls before me?@>
+--Why?@>
+What did I do to deserve this?@>
+I just don't get it.@>
+There's no reason for me to die...\c
+{BGMPLAY:01}
+\e
+
+{BLOCK:41}
+--Reason?@>
+You don't need a reason to kill a guy you can't tell if it's alive or dead.@>
+Everybody like that should just die!@>
+That's a belief I have always upheld.#
+
+{BLOCK:42}
+In that case, I must die before anybody else.@>
+--That's right.@>
+In a strange way, I accept my own truth and relax my whole body.#
+
+{BLOCK:43}
+The short-haired girl before me slowly lifts up her right hand covered in blood.@>
+The next instant, my face will be crushed to a pulp like a watermelon in a watermelon-splitting game and a lot of bright crimson blood will scatter on the ground.@>
+The next instant, I'll be already...\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:44}
+The girl lets her right hand fall with an air-splitting sound.@>
+
+{BLOCK:45}
+A geyser of emotions surge up inside me.@>
+Fear.@>
+No!@>
+I don't wanna die!\c
+{BG2:520910}
+\e
+
+{BLOCK:46}
+I kick the floor immediately and jump backwards while Ohta is still holding me.@>
+I mustered a strength unbelievable of me.@>
+*Swing*!@>
+The girl's right hand slices down the air.@>
+Drops of blood scatter and wet my cheeks.@>
+Then...\c
+{BGMPLAY:20}
+\e
+
+{BLOCK:47}
+"Yuusuke!"@>
+As soon as I hear Saori scream my name, I hear a bouncing sound and then a white object flies with amazing momentum towards here.@>
+It's a volleyball.\c
+{BGMNEXT:20}
+{VISUAL:081010}
+\e
+
+{BLOCK:48}
+{QUAKE}
+*Thud!*@>
+The volleyball hits the girl in front of me dead-on.@>
+Caught by surprise, she loses her balance and is about to trip.\c
+{BG:521010}
+\e
+
+{BLOCK:49}
+{PCMLOAD:10}
+It's do or die!@>
+Now that Ohta let her guard down, I shake off her arms and push the girl before me with all my might.@>
+{QUAKE}
+*Whomp!*@>
+No matter how monstrous their strenght is, they're nothing but ordinary girls before sneak attacks.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMFOUT}
+{PCMSTOP}
+That girl was a lightweight, so when I pushed her strongly against the wall she collapsed to the floor.#
+
+{BLOCK:50}
+"Take this!"@>
+Along with that yell, Saori tosses two, three balls more.@　
+{QUAKE}
+*Toss!*@>
+{QUAKE}
+*Toss!*@>
+Saorin keeps shooting spikes one after another; she's taking them from the cage she probably drew from the utilities room.#
+
+{BLOCK:51}
+Despite they're far from being lethal, Saori's spikes are powerful and good enough to scare away the girls.@>
+Now that they're distracted by the balls, they're full of openings.@>
+"Uaaaaaaaaaah!"@>
+I take that opportunity to run past the girls through a side.#
+
+{BLOCK:52}
+"Yuusuke, this way!@ It's now or never!"@, Saori shouts.@>
+I advance guided by her voice.@>
+"We can leave through the window of the utilities room!"@>
+Saori shoots her last spike.@>
+{QUAKE}
+*Blam!*@>
+The ball hits Ohta in the chest and flies away high in the air.#
+
+{BLOCK:53}
+Perhaps it was Saori's doing, but the door of the utilities room before us is open.@>
+We flip over the volleyball cage and scatter the balls inside.@ They go away rolling on the utilities room.@>
+{BG:260202}
+I close immediately the sliding door, but I don't find anything resembling a lock inside.#
+
+{BLOCK:54}
+{PCMLOAD:10}
+"This way, Yuusuke!"@>
+{CHABG:L6A161010}
+Saori beckons to me.@>
+She said we can escape through the window.@>
+After opening the glass window, she uses the leveled platform of gym class to help herself enter that opening and goes outside.@>
+"Ah!"@>
+The hem of her skirt gets stuck on the window frame.@>
+"W-What do I do?@ Ugh, I'm sick of this!"@>
+Saori stops caring and just jumps outside.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+Her skirt teared off a little, but we can't afford to worry about that.#
+
+{BLOCK:55}
+"Yuusuke!@ Quick!"@>
+Saori gets down outside and hurries me up.@>
+I jump to the same leveled ground as her.@>
+*Clack!*@>
+Then we hear the door being opened.@>
+A freezing wind blows and the three girls slowly enter the utilities room.#
+
+{BLOCK:56}
+They immediately get to us.@>
+They reach out their pale hands in order to grab my ankle.@>
+At the same time, I escape from the window.@>
+Their hands catch the air instead.@>
+By a hair's breath, I roll out towards the courtyard under the bright moonlight.\c
+{PCMPLAY:01Pw}
+{PCMSTOP}
+{PCMFOUT}
+{BG:001111}
+\e
+
+{BLOCK:57}
+Saori runs over to me.@>
+"Are you alright, Yuusuke?!"
+I stand up, and a sting of pain bites my ankle.@>
+It seems it twisted when I was rolling on the floor.@>
+I turn around; the three girls are observing us absent-mindedly from the utilities room.#
+
+{BLOCK:58}
+"I-I'm fine, don't worry about me!@ Let's go!"@>
+"Okay!"@>
+Ignoring the pain in my ankle, I take Saori's hand and escape through the door.\c
+{BGMFOUT}
+{BGMWAIT}
+{BG:201110}
+\e
+
+{BLOCK:59}
+The moon looks as bright as if it was the sun at midday.\c
+The gates are before our very eyes.@>
+Those gates we're so used to see...@>
+mean for us the end of this long, painful nightmare.#
