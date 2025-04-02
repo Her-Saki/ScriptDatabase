@@ -1,0 +1,68 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAACsAAAAA/P/1//T/1f8A1P//q/+r/qsA/av8q/ur+qsA+fj6+P33//YA+9f7af7X+2of/v8AAAAAAAAAAAAAAAA=}
+{BLOCKLEN:10}
+
+{BLOCK:0}
+{BG:440303}
+"Aside from the student council room and her classroom, do you know where else Ohta could have headed to?"@>
+{CHARA:c20}
+"Huh?@ Another place?"@>
+"Somewhere you two used to go together."@>
+{CHARA:c24}
+Mizuho hangs her head and ponders about it a little.@>
+And then, she gives a short answer.@>
+{CHARA:c20}
+"The rooftop."#
+
+{BLOCK:1}
+"The rooftop?"@>
+{CHARA:c22}
+"Yes.@ We used to have lunch in the rooftop together every break."@>
+"Alright, let's go see if she's there."@>
+"Okay."\c
+{BG:480303}
+\e
+
+{BLOCK:2}
+We both move to the stairs that lead to the rooftop.#
+
+{BLOCK:3}
+Casting her gaze to the floor, Mizuho has been thinking about something all the way from the classroom.@>
+Was it too big of a shock for her?@>
+Perhaps I should have summarized my explanation of the case instead of telling her every single detail.@>
+I climb the stairs slowly trying to match my pace to hers and not separating too much from her.#
+
+{BLOCK:4}
+Mizuho is the type of person that tends to jump to conclusions, and the more she worries about something, the more seriously she thinks about it.@>
+Maybe I should talk with her about anything in order to distract her from said thoughts.@>
+Keeping silence for so long in this dark school feels creepy to me.@>
+Halfway through the stairs that connect the second and third floor, I suddenly come to a halt and call out to Mizuho.#
+
+{BLOCK:5}
+"Mizuho..."@>
+Mizuho lifts her face abruptly.@>
+"Y-Yes...?"\c
+{BGMFOUT}
+{BGMWAIT}
+{BG:001011}
+\e
+
+{BLOCK:6}
+At that very instant, she slips on the stairs and stumbles.@>
+"Ah!"@>
+Her balance staggers and she's about to fall on her back.@>
+"Watch out!"\c
+{BG:481110}
+\e
+
+{BLOCK:7}
+I reach out my arm right away to catch her.#
+
+{BLOCK:8}
+{XPOS:6}
+{SPEED:0}
+1. Grab her hand.\n\e
+
+{BLOCK:9}
+{XPOS:6}
+{SPEED:0}
+2. Grab her hips.\n\e
