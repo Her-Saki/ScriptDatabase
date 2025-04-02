@@ -1,0 +1,59 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAACgAAAAA/P/1//T/2P8A1///q/+r/qsA/av8q/ur+qsA+cG1/vz7a/4AuLX++2/+/wAAAAAAAAAAAAAAAAAAAAA=}
+{BLOCKLEN:7}
+
+{BLOCK:0}
+"Alright, let's check out the student council room."@>
+"Yes."@>
+We move to the student council room.\c
+{BG:500404}
+\e
+
+{BLOCK:1}
+The student council room is located in the hallway where the cultural club rooms are lined up.@>
+That hallway is windowless and looks more gloomy than the regular ones.@>
+This is the second time we come here.@>
+Despite I attend this school, I've never seen the council room inside up until just yesterday.@>
+If I hadn't picked up this troublesome mission and kept going with my normal school life, I'd have graduated without ever seeing its interior.\c
+{BG:181010}
+\e
+
+{BLOCK:2}
+We stand before the door of the council room.@>
+Mizuho gives a step forward in order to open it.@>
+"Wait, take the key first."@>
+I was about to take out the key I borrowed from my uncle from my pocket.@ However...@>
+"It looks like it's already open, Yuusuke."@>
+"Huh?!"@>
+{BG:191010}
+By the moment I lift my head, Mizuho already opened the door.\c
+{BG:000000}
+\e
+
+{BLOCK:3}
+The inside is pitch-black.@>
+Mizuho enters the room and, with a truly experienced movement of the hand, she presses the light switch right next to the wall.@>
+{BG:141106}
+*Bzzzt!*@ The fluorescent lamp blinks and the room becomes illuminated.@>
+Since Mizuho is the student council secretary, she knows this room as the palm of her hand.#
+
+{BLOCK:4}
+No one is inside.@>
+"Why was the door open?@ Perhaps they simply forgot to close it?"@>
+I try to converse to Mizuho.@>
+{CHARA:c22}
+"Maybe.@ Everyone is quite sloppy, so they often forget to shut the door.@ I mean, there's nothing to take from here in the first place."@>
+Mizuho says with a faint smile.@>
+However, her face quickly reverts to anxiety and restlestness.\c
+{CHARA:c24}
+\e
+
+{BLOCK:5}
+"But...@ maybe Kanako came here."@>
+"Huh?@ Ohta?"@>
+Mizuho examines the room closely, but after finding nothing of interest, she drops her shoulders and lets out a sigh.#
+
+{BLOCK:6}
+"Perhaps I'm just overthinking."@>
+"No, I don't think it's too far-fetched.@ Maybe she was here just a while ago and then she moved to another place.@ Let's look for her elsewhere."@>
+"Yes..."@>
+We leave the room, and after closing and locking the door we go investigate to other places.#
