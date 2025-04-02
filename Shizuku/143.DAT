@@ -1,0 +1,97 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAADcAAAAA/P/1//T/yf8AyP//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/P4+vIA/fH/8PvX+28B/tf7bv7/AAAAAAAAAAAAAAAAAAAA}
+{BLOCKLEN:16}
+
+{BLOCK:0}
+8:25 P.M.@>
+At this time of day, the lights of the school building and the athletic club rooms are turned off one after the other.@>
+There are still people in school, so we decide not to drop by the main building.@>
+For the time being, we'll wait until everybody leaves the school while we survey around the hallways and the backyard.#
+
+{BLOCK:1}
+{BG:110404}
+8:30 P.M.@>
+The second gym, apparently suspicious according to Shinjo's testimony and the rumors of the ghost fuss, are being turned off as if the gym were about to be closed.@>
+It seems the girls of the volleyball club, who stay up training more late that anybody else, are finally done cleaning up after their practice session.#
+
+{BLOCK:2}
+Now the lights of the main building, the second gym, the other athletic clubs and every other room are off.@>
+As stated by Mizuho, thanks to the security system a company installed in our school, there are no teachers doing night guard.@>
+That means that, except for both of us, soon the school will be emptied out.#
+
+{BLOCK:3}
+{BG:200404}
+8:35 P.M.@>
+A teacher goes into their SUV and leaves the parking lot, and a bit later, the last group of volleyball club girls cross the door.@>
+Aside from me and Mizuho, there's nobody left in the surroundings.@>
+Today the school fell silent relatively earlier than usual.#
+
+{BLOCK:4}
+Tonight is a full moon.@>
+The perfectly round yellow moon hangs in the night sky and shines faintly upon the world.@>
+Despite every light in the school building is off, we can look around us perfectly fine without relying on any other source of light.@>
+{CHARA:c20}
+"Who would have thought the moon would be so bright tonight..."@, Mizuho whispers as she gazes at her black shadow on the floor.#
+
+{BLOCK:5}
+We haven't found anything yet.@>
+As I thought, it'd be better to narrow down our search points.@>
+In this school devoid of all human presence, we officially start inspecting our surroundings.#
+
+{BLOCK:6}
+First off, we look in places where Ohta could be.@>
+"Any hunch about Ohta's whereabouts?"@, I ask Mizuho, and after thinking for a while, she suggests we look into her classroom and the student council room.#
+
+{BLOCK:7}
+"Her classroom...@ Of course!@ After the student council, that's the place she's most used to visit.@ Kanako worked at the student council with me, after all."@>
+Ohta served as vice president of the student council.@>
+The student council room and her classroom, huh?@>
+Her classroom was the same as mine, 2-B.@>
+As for the student council room, it is located in the hallway where the after-school cultural club rooms are lined up.@>
+Let's drop by there first of all.#
+
+{BLOCK:8}
+No matter what route we decide to take, we have to enter the main building first anyway, so we move to the front gate.\c
+{BG:290404}
+\e
+
+{BLOCK:9}
+Of course, the entrance door is locked with a key.@>
+"In order to open it we need the key I gave you and releasing the electronic lock.@ There's a code for it, though..."@, Mizuho says.@>
+"Don't worry.@ My uncle told me the code today."#
+
+{BLOCK:10}
+I input the code my uncle shared with me.@>
+0...@ *Beep*...@ 8...@ *Beep*...@ 2...@ *Beep*...@ 4...@ *Beep*...@>
+*Vrooom!*@ The electronic lock is released along with the roar of a motor.@>
+I insert the master key in the hole and turn it, and after removing it, I slowly open the door.#
+
+{BLOCK:11}
+"But, wasn't this connected to the security company?@ I wonder if they found out I've just opened the door..."@, I tell Mizuho worriedly.@>
+"No, this is only a lock.@ From what I've been told, the backroom inside the staff room and others are also locked like this."@>
+Naturally, Mizuho is very well-versed about the school.@>
+No wonder she's the secretary of the student council.@>
+This is one of the advantages of bringing Mizuho along.\c
+{BG:440606}
+\e
+
+{BLOCK:12}
+We enter the main building from the front entrance.@>
+The building is packed with an eerie quietness and cold air.@>
+Not very surprisingly, there's no sign of people here.@>
+I don't think anybody is inside.#
+
+{BLOCK:13}
+Now, what will we do?\n
+\e
+
+{BLOCK:14}
+{XPOS:6}
+{SPEED:0}
+1. Go check out the classroom 2-B.\n
+\e
+
+{BLOCK:15}
+{XPOS:6}
+{SPEED:0}
+2. Go check out the student council room.\n
+\e
