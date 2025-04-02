@@ -1,0 +1,87 @@
+{HEADER:AQAFAAAAAAAAAAAAAAAAAC8AAAAA/P/1//T/0f8A0P//q/+r/qsA/av8q/ur+qsA+av4q/f4+vZA/f8A+9f7bf7XB/ts/v8AAAAAAAAAAAA=}
+{BLOCKLEN:12}
+
+{BLOCK:0}
+"Okay then, let's check out the classroom."@>
+"Yes."@>
+We head to the 2-B classroom.\c
+{BG:440404}
+\e
+
+{BLOCK:1}
+The yellow moonlight coming from the window colors the hallway in such a way that it looks other-worldly.@>
+Normally, we'd cross this hallway to go to our classrooms,@>
+but now, a sense of impending danger floats in the air.\c
+{BG:050303}
+\e
+
+{BLOCK:2}
+We reach the classroom.@>
+Despite we listen closely, it's still as quiet as always.@ There's no trace of anybody inside.@>
+We open the door and enter.@>
+It's empty.@>
+The classroom is so silent it feels very creepy.@>
+Our attempt to scout the premises ends in vain as well.@ I don't think we'll find any clue regarding the incident here, let alone find Ohta.#
+
+{BLOCK:3}
+I stand casually besides my seat and gaze at the whole classroom with a sweep of the eye.@>
+"Looks like there's nothing here."@>
+{CHARA:c24}
+Mizuho crouches on the floor and opens wide her eyes in search of clues, but eventually gives up with a sigh of resignation.#
+
+{BLOCK:4}
+"Let's search elsewhere."@, I say, when...@>
+{CHARA:c2B}
+Mizuho stands before me, joins her hands, and stares at me intently.@>
+"Yuusuke..."@, she whispers my name.@>
+"Hm?@ What is it?"@>
+"Um..."@>
+It seems she has a hard time finding the appropriate words.@>
+I realize that immediately.#
+
+{BLOCK:5}
+"You see..."@>
+Mizuho lowers her gaze a bit and then looks my way once again.@>
+{CHARA:c21}
+"I'd like you to tell me more in detail about what happened.@ You know more about Kanako's activities in school and why she turned out like that, don't you?"@>
+"W-Well, just a little..."#
+
+{BLOCK:6}
+"Perhaps she was just being considerate with me, but her mom...@ I mean, Kanako's mom didn't give me the full picture.@ She only asked me if we went together to school by night.@ Of course, I didn't know anything back then, so I wondered what was she talking about...@ But today, Mr. Nagase told me about it casually and...@ It was only a casual talk, but I kind of understood what went on..."#
+
+{BLOCK:7}
+Mizuho looks into my eyes.@>
+"Did Kanako suffer that breakdown because she did something forbidden?@ Like... consuming illegal substances?"@>, Mizuho asks in a feeble voice.@>
+"I don't know that much, but..."@>
+I'm not sure how to follow up her question, so I answer vaguely.@>
+{CHARA:c26}
+"Tell me, please.@ I...@ I..."@>
+Mizuho's eyes dampen.\c
+{CHARA:c29}
+\e
+
+{BLOCK:8}
+What should I do?@>
+I know we're going to investigate together, but would it be alright to tell her everything?@>
+She would hear the worst about her best friend.@>
+I think that would sadden Mizuho even worse.@>
+Teachers suspect she was either on drugs or alcoholized.@>
+The medical check-up performed on her confirmed she had sexual intercourse as well.@>
+Quite a tough topic to bring up.#
+
+{BLOCK:9}
+However, if I tell her the full story, I might obtain useful hints while talking to her.@>
+What will I do?@>
+I'm not sure about it.@>
+
+{BLOCK:10}
+{XPOS:6}
+{SPEED:0}
+1. Tell her everything as it is.\n
+\e
+
+{BLOCK:11}
+{XPOS:6}
+{SPEED:0}
+2. I should keep it a secret.\n
+\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e\e
