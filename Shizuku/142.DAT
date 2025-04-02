@@ -1,0 +1,147 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAADgAAAAA/P/1//T/yP8Ax///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avs+3D+/wAAAAAAAAAAAAAAAAAA}
+{BLOCKLEN:20}
+
+{BLOCK:0}
+8:10 P.M.@>
+Ten minutes have passed since our agreed time, but there's no sign of Mizuho anywhere.@>
+Perhaps she had an emergency that impeded her to come.#
+Mizuho has a strong sense of responsibility.@>
+I don't think she'd be late without a good reason.@ I'm sure there must be something else behind.#
+
+{BLOCK:1}
+That said, I'm not getting anywhere waiting here.@>
+I'll give up and start the survey alone.#
+I can't afford to waste time, after all.#
+{BG:110404}
+\e
+
+{BLOCK:2}
+I leave the courtyard behind and head to the second gym where Shinjo saw those suspicious human-shaped shadows.#
+
+{BLOCK:3}
+Opportunely, it seems the volleyball club has finished its activities.@ Sports bag in hand, some girls are leaving the gym.@>
+If I recall correctly, last night Shinjo stayed up late chattering and lost notion of time, so she left the gym at 10 P.M.@>
+If they finished practice at that time of night, Shinjo must have been talking for a very long while.#
+
+{BLOCK:4}
+Well, it's Shinjo we're talking about.@ It's normal she'd take ten extra minutes or so.@>
+I convince myself of that and imagine her chatting cheerfully with her friends.@>
+Anyway, I don't want to wander around her and fuel the ghost fuss when someone catches sight of me.@ Also, it'd be annoying if I happened to bump into Shinjo and she asked me to join the survey.@>
+I'll leave this place temporarily while nobody finds me.\c
+{BG:280404}
+\e
+
+{BLOCK:5}
+Then, as soon as I pass near the hallway...@>
+"Y-Yuusuke?!"@>
+I see Mizuho running over to me from the gates, gasping.#
+
+{BLOCK:6}
+Mizuho sprints towards me and then holds her knees as she pants and her shoulders shake up and down.@>
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:05}
+{CHARA:c26}
+"S-Sorry!@ I'm really sorry!"@>
+Mizuho apologizes several times out of breath.@>
+She looks quite pale.@>
+Did something happen to her?#
+
+{BLOCK:7}
+"Mizuho...@ What did you...?"@>
+When I talk to her and place a hand on her shoulder, she lifts up her face and looks at me.@>
+Her eyes are full of tears.@>
+"Y-Yuusuke!"@>
+She is clearly upset.@>
+"W-What's wrong?"@>
+Large tears spill from her eyes and her shaking voice is sobbing.@>
+"K-Kanako...@ Kanako is...!"#
+
+{BLOCK:8}
+Restless, she grabs the chest part of my uniform with both hands.@>
+"A-Anyway, calm down.@ Did something happen?@ Speak slowly."@>
+{CHARA:c29}
+I softly place my hand on hers and open her hand holding my uniform.@>
+Mizuho's hand is small, soft and very cold.@>
+I grab it tight.#
+
+{BLOCK:9}
+"What happened with Ohta?"@, I ask her with a soothing voice.@>
+{CHARA:c26}
+"Kanako...@ disappeared!"@>
+"That Ohta disappeared?"@>
+Mizuho nods shedding tears.@>
+"What do you mean she disappeared?"\c
+{CHARA:c23}
+\e
+
+{BLOCK:10}
+"She disappeared from the hospital she was in!@ When we went to visit her, her room was empty!"@>
+She sobs convusely.@>
+"Do you mean they moved her to another room or another hospital?"@>
+Mizuho shakes her head.@>
+{CHARA:c26}
+"N-Not that!@ Kanako escaped from the hospital and went somewhere else!"@>
+Her shoulders are quivering.\c
+{CHARA:c23}
+\e
+
+{BLOCK:11}
+"Kanako could barely walk by herself..."@>
+Mizuho wipes her tears.@>
+"H-Hold up.@ Up until just yesterday Ohta was in a coma like a human vege--"@>
+I was about to say "human vegetable", but I stop.@>
+"She was in a coma and remained unresponsive, right?@ How come she escaped alone?"\c
+{CHARA:c24}
+\e
+
+{BLOCK:12}
+"Some people saw her leaving the hospital.@ The receptionist said she was wearing a jumper over her pajamas, and that she left through the front door..."@, Mizuho says hanging her head.@>
+"We were just looking for her with her mother and friends..."#
+
+{BLOCK:13}
+"So that's why... you were late."@, I ask her, and Mizuho nods heavily as she wipes her tears.@>
+"Judging by your uneasiness, it seems you haven't found Ohta yet."@>
+"Yes."@, Mizuho answers.@>
+{CHARA:c29}
+She lifts up her face and looks into my eyes tightening her mouth.\c
+{CHARA:c26}
+\e
+
+{BLOCK:14}
+"I thought maybe Kanako came to school.@ I heard from Mr. Nagase that, since two or three weeks prior to her breakdown, she came to school almost every night..."\c
+{CHARA:c24}
+\e
+
+{BLOCK:15}
+True.@ She wrote something like that in her diary.@>
+2/21, I went to school tonight.@>
+2/23, I went to school tonight.@>
+She wrote lines like that once per day.\c
+{CHARA:c26}
+\e
+
+{BLOCK:16}
+"That's why I thought Kanako might have come to school.@ I think she could be here!"\c
+{CHARA:c24}
+\e
+
+{BLOCK:17}
+Certainly.@ It's not unthinkable.@>
+In her diary, Ohta demonstrated a pathological sexual desire, akin to a drug addict craving illicit substances.@>
+If she's acting by instinct alone, it'd be most natural for her to come here.#
+
+{BLOCK:18}
+"Perhaps that's so.@ I think it's very likely for Ohta to be here.@ Well then, let's start checking out primarily the places where she could be."@>
+{CHARA:c2A}
+"T-Thank you so much, Yuusuke."@>
+Mizuho covers her hand with her mouth and bows deeply.#
+
+{BLOCK:19}
+Just as you can't leave Ohta alone, I can't leave YOU alone.@>
+Those words drifted casually through my mind but they never came out from my mouth.@>
+And so we promtply start investigating.\c
+{BGMFOUT}
+{BGMNEXT:03}
+{BG2:280404}
+\e
