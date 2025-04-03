@@ -1,0 +1,60 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAACAAAAAA/P/1//T/4P8A3///q/+r/qsA/av8q/ur+qsA+av4+1P+/wAAAAAAAAAAAA==}
+{BLOCKLEN:8}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMNEXT:23}
+{BG:501010}
+Perhaps because it broke, the sound of the music box stops and once again silence reigns over the place.@>
+I wipe the blood off my nose and walk once more towards Mizuho.@>
+{CHARA:c32}
+Ohta stands between us as if blocking my way.@>
+Mizuho is right behind her.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:01}
+\e
+
+{BLOCK:1}
+"Move."@>
+I say, and put myself on guard.#
+
+{BLOCK:2}
+Nothing I tell her will have any effect.@>
+I've been aware of that way before this.@>
+But, I don't care if it's useless.@>
+I just don't want to run away anymore.@>
+I'm sick of escaping from everything just because it's scary or painful.#
+
+{BLOCK:3}
+"Didn't you hear me?@ Move."@>
+I repeat.@>
+Ohta looks at me with the eyes of an automaton.@>
+I ignore her and walk past her.#
+
+{BLOCK:4}
+*WHAM!*@>
+{QUAKE}
+{BG:080505}
+I take a ridiculously powerful impact that goes from my solar plexus to my back.@>
+When I look down, I see Ohta's left fist piercing my stomach.@>
+I feel something acid welling up in my throat, and then vomit.@>
+Messy puke stains Ohta's arm.#
+
+{BLOCK:5}
+*TWACK!*@>
+{QUAKE}
+Next thing I know, I feel an impact in the back of my head.@>
+Ohta hit me from behind.@>
+I feel the world shakes violently, and my field of sight turns pitch-black.#
+
+{BLOCK:6}
+"Yuu... suke..."@>
+Just before I faint out of this reality, I hear Mizuho's anguished voice.#
+
+{BLOCK:7}
+And finally, I pass out.\c
+{BG:000007}
+{BGMFOUT}
+{BGMWAIT}
+\e
