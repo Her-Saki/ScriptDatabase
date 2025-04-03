@@ -1,0 +1,43 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAABsAAAAA/P/1//T/5f8A5P//q/+r/qsA/av8uLT++2Ef/v8AAAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:4}
+
+{BLOCK:0}
+"Can you show me that music box?"@>
+{CHARA:c20}
+"Yes."@>
+Mizuho takes out the small woodden box from her pocket and hands it to me.@>
+{VISUAL:170808}
+{BGMFOUT}
+The music box, whose size fits just right in my palm, feels way lighter than I thought.@>
+It's designed so that the music starts to play as soon as you open the cover.@>
+I open the box gently.\c
+{BGMPLAY:23}
+\e
+
+{BLOCK:1}
+Perhaps it's because the inner springs are almost unwound, but the music box plays a feeble melody until eventually loses all its power and stops working.@>
+"Ah, please wind the horizontal springs."@>
+"Like this?"@>
+"Yes, with that lever."@>
+I wind the springs with a rattling sound.@>
+After I let go of the lever, the music box starts again, this time playing a sweet melody.\c
+{BGMPLAY:22}
+\e
+
+{BLOCK:2}
+If this music is deeply rooted in her memories, perhaps it can help to produce some sort of response in Ohta.@>
+Mizuho's wholehearted wish to save her friend lead her to try every possible method to accomplish it.@>
+I feel that the resonance of this music box is the voice of Mizuho's tender heart itself.\c
+{BGMFOUT}
+{BGMNEXT:06}
+{CHABG:c20480505}
+\e
+
+{BLOCK:3}
+"As long as you keep her in your heart, Ohta will someday go back to her usual self.@ That's what I feel."@>
+I say closing the lid of the box.@>
+I'm not trying to console her.@ I mean every word I say.@>
+{CHARA:c2A}
+"Y-Yuusuke..."@>
+Mizuho wipes her tears with the back of her hand.@>
+"T-Thank you so much..."@>, she says smiling.#
