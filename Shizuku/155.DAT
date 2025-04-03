@@ -1,0 +1,226 @@
+{HEADER:AQAIAAAAAAAAAAAAAAAAAFUAAAAA/P/1//T/q/8gqv/PAKv+q/2rAPyr+6v6q/mrAPir96v2q/WrAPSr86vyq/GrAPCr76vuq+2rAOyr66vqq+mrAOir56vmq+WrAOT4+uP94v/hAPvX+2P+1/tiH/7/AAAAAAAAAAAAAAAAAAA=}
+{BLOCKLEN:31}
+
+{BLOCK:0}
+Before I sink deeper, I'll deviate from the chest topic.@>
+"B-By the way, aren't you hurt?"@>
+That's the very first thing that I managed to say.@>
+{CHARA:c28}
+"No."@, Mizuho answers in a low voice with a bright red face as she averts her gaze.@>
+And then she stops the conversation again.#
+
+{BLOCK:1}
+"......"@>
+"......"#
+
+{BLOCK:2}
+While equally tense, a different atmosphere from before floats in the air.@>
+We're strongly aware of each other and not only we can't converse, but we can't look at each other in the eye either.@>
+I'm clearly more nervous than her.@>
+I've never talked to a girl before like this, let alone in private.@>
+I don't know what to say next.\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:3}
+{BGMPLAY:06}
+{PCMLOAD:14}
+However, it's Mizuho who breaks the ice first.@>
+{CHARA:c21}
+"S-Sorry.@ You saved me from danger and I just said strange things..."@>
+{CHARA:c28}
+She drops her gaze to the floor blushing.#
+
+{BLOCK:4}
+{PCMPLAY:0040}
+*Ba-Bump*@ *Ba-Bump*@>
+I hear my own heartbeats.@>
+The blood across my body pumps vigorously.@>
+"N-No, I should apologize."@>
+I apologize in a lot of meanings.\c
+{CHARA:c21}
+\e
+
+{BLOCK:5}
+"U-Um, I'm really sorry..."@>
+Mizuho apologizes.@ "Sorry" must be her catchphrase.@>
+We surely look like idiots apologizing to each other.@>
+{CHARA:c24}
+"I...@ lied."@>
+{PCMSTOP}
+{PCMFOUT}
+Mizuho says all of a sudden.@>
+"You lied?"#
+
+{BLOCK:6}
+"Yes...@ Back when we were in your classroom this afternoon I said I was athletic, but..."@>
+"Huh?@ O-Oh, yeah..."@>
+I recall she said that.@>
+"That was...@ a lie."@>
+Mizuho looks my way apologetically.#
+
+{BLOCK:7}
+"Actually, I'm terrible at sports.@ I usually space out and trip or bump against stuff...@ and a result, I often hurt myself."@,>
+{CHARA:c28}
+Mizuho whispers bashfully.@>
+"I thought you'd reject me on the spot if I told you that, so..."@>
+She bows deeply.#
+
+{BLOCK:8}
+Oh, so that's what she lied about.@>
+I'm so relieved...@>
+It seems the previous topic is over.@>
+{CHARA:c21}
+"S-Sorry!"@>
+Mizuho keeps lowering her head.@>
+"I-It's okay, I understand."@>
+"I'm really sorry..."#
+
+{BLOCK:9}
+"I'm not mad.@ More importantly, let's hurry up to the rooftop."@>
+"Yes."@>
+Mizuho lifts up her head and nods.@>
+{CHARA:c2A}
+"Thank you, Yuusuke..."@, she says smiling happily.#
+
+{BLOCK:10}
+"......"@>
+Upon seeing her smile, my heart skips a beat.@>
+W-What is this feeling...?@>
+My cheeks are becoming hotter.@>
+I start climbing the stairs so that Mizuho doesn't notice it.\c
+{CHARA:c99}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:03}
+\e
+
+{BLOCK:11}
+We were walking up the stairs once again, when...#
+
+{BLOCK:12}
+*Doo-room*#
+
+{BLOCK:13}
+Something hard drops to the floor.@>
+{CHARA:c21}
+"Ah!"@>
+Mizuho stops walking and lets out a little scream.@>
+I turn around and notice a small woodden box near her feet.@>
+{CHARA:c99}
+She quickly crouches and picks up the little box with great care.\c
+{CHARA:c20}
+\e
+
+{BLOCK:14}
+"What is that?"@, I ask.@
+{CHARA:c22}
+"This is..."@>
+Mizuho makes sure the small, match-box sized woodden box is not scratched and sighs in relief.@>
+"This is a music box my father gave me as his last present."@>
+"A music box memento?"#
+
+{BLOCK:15}
+"Yes.@ When you open it...@ Ta-dah!"@, Mizuho says opening the lid.\c
+{BGMFOUT}
+{BGMNEXT:22}
+{VISUAL:170707}
+\e
+
+{BLOCK:16}
+Certainly, the small casket is indeed a music box.@>
+Its harmonious melody echoes under the faint moonlight.#
+
+{BLOCK:17}
+Mizuho closes her eyes and slowly tells me about it.@>
+"Just a week before I entered high school, I lost my father in a car accident.@ He gave me this music box just before he passed away."#
+
+{BLOCK:18}
+Suddenly, Mizuho lifts up her face and smiles bitterly.@>
+"Ah, perhaps I'm making it sound like it's something really valuable, but actually, it's only a cheap, generic ornament.@ I saw it next to a cash register when we went out to eat to a family restaurant and threw a fit to obtain it, and my dad bought it for me.@ It's just a cheap toy."@>
+She holds the box tight.#
+
+{BLOCK:19}
+"That said, it's still the last thing my dad bought for me.@ It'll always be my father's memento for me."@>
+Mizuho gazes warmly at the music box.@>
+"When I just entered middle school, I never let go of this box.@ I felt like my father was always by my side."\c
+{CHABG:c2A480505}
+\e
+
+{BLOCK:20}
+"Why did you bring so precious a thing here?"@>
+"This is not only the memory of my father, but Kanako's too."@>
+"Ohta's memory?"@>
+"Yes.@ It happened soon after I entered middle school..."@>
+Mizuho lifts her gaze as if strolling down memory lane and keeps telling me the story as she looks at the bright moon outside the window.#
+
+{BLOCK:21}
+"After my father passed away, we moved from the city we always lived in and I enrolled in a school I wasn't planning to go."@>
+{CHARA:c24}
+Mizuho's eyes darken out.@>
+"There were kids I didn't know everywhere.@ I was always bad at making friends, so at first I almost didn't talk with anybody.@ I was in a corner of the main building listening to this music box alone."@>
+Her gaze turns to the music box once again.#
+
+{BLOCK:22}
+"A certain day, a group of boys of my class came to play a a prank on me as I was listening to the music box in the courtyard.@ Now that I think about it, it was only a silly prank, so they picked my music box and used it to play catch."@>
+"That's so mean..."@>
+{CHARA:c2A}
+"Ah, but there was a lawn below, so I don't think it'd have broken if it fell."@>
+Mizuho adds quickly.@>
+You don't have to be gentle with bullies...\c
+{CHARA:c24}
+\e
+
+{BLOCK:23}
+"But, at the moment, I felt that my dad was being bullied instead of me, so I feel frustrated.@ I repeated "stop, stop!" while crying, but I couldn't do anything but cower on the ground..."@>
+Mizuho's eyes dampen.@>
+However, the next instant, she lifts up her face and smiles cheerfully with her eyes full of tears.@>
+{CHARA:c22}
+"But then, Kanako came to my rescue."\c
+{VISUAL:180505}
+\e
+
+{BLOCK:24}
+"Kanako saw they were bullying me and came to help me alone, even though we've never met before..."@>
+A single teardrop flow from her eye.@>
+"Despite Kanako was beaten by the boys, she never gave a step behind and returned the music box to me.@ She cut her lip, but she said she was fine."@>
+Mizuho wipes the teardrop trickling down her cheek with her sleeve.#
+
+{BLOCK:25}
+"And then I asked Kanako why she helped me, and she..."@>
+She lifts up her crying face and smiles gently.@>
+"Kanako smiled happily while pointing to this music box, and said she wanted to hear it."@>
+Her shoulders shake as large teardrops flow down her eyes.#
+
+{BLOCK:26}
+"I-I wanted to thank her immediately, b-but my tears didn't allow me to mutter much of a word.@ Even so, Kanako kept asking me if I was fine."@>
+Mizuho grabs the music box with both hands as if enveloping it, closes her eyes and takes it up to her chest ever so dearly.@>
+"Since then, Kanako became my unconditional friend..."\c
+{BGMFOUT}
+{BGMNEXT:06}
+{CHABG:c2A480505}
+\e
+
+{BLOCK:27}
+"And, that's the music box of your memories?"@>
+{CHARA:c24}
+"Yes.@ Every time she came to my house she'd open the music box and say "what a beatiful sound" or "this brings me back" and things like that.@ I thought maybe this would help me to restore Kanako to normal."@>
+Mizuho's desperate efforts to help her friend crush my heart.#
+
+{BLOCK:28}
+"I took it to the hospital she was in, and then I came straight here..."@>
+Mizuho saves her music box with utmost care inside her pocket.\n
+\e
+
+{BLOCK:29}
+{XPOS:6}
+{SPEED:0}
+1. Say "Show me the music box."\n
+\e
+
+{BLOCK:30}
+{XPOS:6}
+{SPEED:0}
+2. Say "I'll help you search for Ohta."\n
+\e
