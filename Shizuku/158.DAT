@@ -1,0 +1,153 @@
+{HEADER:AQAGAAAAAAAAAAAAAAAAAEEAAAAA/P/1//T/v/8Avv//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+vCv/4A/Ptf/vtg/v9/AAAA}
+{BLOCKLEN:21}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMNEXT:03}
+{BG:190303}
+We climb up the stairs, open the iron door, and step into the rooftop.@>
+{BG:331010}
+A cold wind blows.@>
+We look around us, but no one is there.@>
+"Not a soul on sight, huh?"@>
+Ohta's not here, either.#
+
+{BLOCK:1}
+{PCMLOAD:01}
+A big, yellow, perfectly round moon hangs in the sky.@>
+Under the faint moonlight, we look as radiant as pale flames.@>
+Our shadows are sharply projected on the floor.#
+
+{BLOCK:2}
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+A cold gust of wind blows past our feet and makes Mizuho's skirt flap.@>
+She looks around relentlessly.@>
+There are still a lot of blind spots to check out, such as the water tank up high and the back of the entrance door.@>
+We can't say for sure Ohta isn't in one of those places.\c
+{CHARA:r20}
+\e
+
+{BLOCK:3}
+"Let's look around a bit."@>
+"Yes..."@>
+Along with Mizuho, I look around into every nook and cranny.@>
+{CHABG:r20330404}
+However, in our first round we don't find a single human-shaped shadow.@>
+It seems we're completely alone here.#
+
+{BLOCK:4}
+"If they're not here, perhaps they didn't come to school in the first place."@>
+{CHARA:r24}
+"Kanako..."@, Mizuho whispers hanging her head low.@>
+"If we had a bit more information, we could at least pinpoint Kanako's whereabouts."@>
+"......"@>
+Always looking at the rooftop floor, she stands frozen in place.#
+
+{BLOCK:5}
+As a viewing platform, this place is ideal.@>
+I can watch over the front and back door with a sweep of the eye and observe clearly the cherry trees of the second gym that Shinjo was talking about.@>
+With a night as clear as this one, I will be able spot anybody approaching the school immediately.@>
+It'd be a good idea to hide here and stand watch.#
+
+{BLOCK:6}
+However, I should leave that aside for today and help Mizuho search for Ohta.@>
+I choose to leave the rooftop.@>
+"It seems we're just wasting time patrolling here.@ Let's go already."@>
+But just when I was telling that to Mizuho...@>
+"Yuusuke..."@>
+Mizuho suddenly calls my name.#
+
+{BLOCK:7}
+"Huh?"@>
+{CHARA:r21}
+"Sorry."@>
+I don't know what happened, but Mizuho apologizes out of the blue.@>
+She drops her gaze to the floor apologetically and stares to the black shadow projected sharply at her feet.@>
+"What do you mean?"\c
+{CHARA:r24}
+\e
+
+{BLOCK:8}
+"I...@ lied to you again."@, Mizuho says in a low voice as she looks downwards.@>
+"You lied?@ About what?"@>
+With a painful expression, Mizuho directs her gaze towards me.@>
+"U-Umm..."@>
+"Yes?"@>
+"Y-You see..."@>
+Mizuho exhales deeply.@ Her expression becomes serious as if she strenghtened her resolution and fixes her gaze on my face.\c
+{CHARA:r2B}
+\e
+
+{BLOCK:9}
+"I said I had no clue about the identity of Kanako's boyfriend, right?"@>
+"Yes."@>
+"I said I didn't know anything, but actually..."@>
+Mizuho cuts herself short there.#
+
+{BLOCK:10}
+"You know who it is?"@>
+Mizuho hesitates for a while, but eventually she nods.@>
+"Why did you confess so suddenly?"@>
+{CHARA:r24}
+"I promised I wouldn't tell anyone..."@, she whispers.@>
+"To Ohta?"@>
+"--Yes."#
+
+{BLOCK:11}
+Mizuho takes a short, deep breath and moves her heavy lips.@>
+"Kanako told me about him from long ago.@ She had a crush on him since second year and asked me for advice a lot of times..."@>
+Perhaps strolling down memory lane, a gentle smile appears on Mizuho's face.#
+
+{BLOCK:12}
+"Kanako was madly in love with him.@ She confessed to me that she struggled every day because of that.@ I told her to give it her best shot and that I'd be cheering for her."@>
+A cold gust of wind strokes Mizuho's hair.#
+
+{BLOCK:13}
+"Last year fall Kanako confessed to him at once.@ That day I was hidden behind her.@ He accepted Kanako's confession and she was moved to tears.@ I cried along with her too."@>
+Kanako starts tearing.#
+
+{BLOCK:14}
+"Since then, I thought both of them were doing it well.@ No, actually, they're still doing it well.@ I mean, today..."@>
+"Today?"@>
+"......"@>
+Mizuho falls silent and becomes quiet.#
+
+{BLOCK:15}
+"Mizuho..."@>
+"Yes?"@>
+"Please tell me his name."@>
+{CHARA:r21}
+"B-But..."@>
+Mizuho says looking at me with a troubled face.@>
+"If you went your way to tell me this it means you are willing to tell me EVERYTHING, doesn't it?"@>
+{CHARA:r24}
+"T-That's true, but..."#
+
+{BLOCK:16}
+Along with a deep sigh, she shakes her head and drops her gaze.@>
+"I-I don't know what to do.@ I mean, I promised.@ I promised it to Kanako..."#
+
+{BLOCK:17}
+The promise to her best friend and the hint to reveal the truth.@>
+For her both are important.@>
+Entrapped between both, Mizuho doesn't know how to proceed and just stands there distressed.#
+
+{BLOCK:18}
+"Listen, Mizuho.@ I can't put it well into words, but I think what matters the most now is doing something for Ohta."@, I say, and Mizuho lifts up her face and looks my way.@>
+{CHARA:r2B}
+"If you can do something, no matter how little it is, you have to do it.@ Perhaps the person you mentioned has the key to open Ohta's heart.#
+
+{BLOCK:19}
+After I say that, Mizuho ponders about something for a while.@>
+However, eventually, she slowly opens her mouth.@>
+{CHARA:r24}
+"--Okay."@, she says.@>
+"Will you tell me?"@>
+"--Yes."@>
+She nods.#
+
+{BLOCK:20}
+"That person is...@ Tsukishima.@ He's a third-year student that served as the student council president last semester."@, Mizuho says.#
