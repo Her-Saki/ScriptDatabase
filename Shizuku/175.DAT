@@ -1,0 +1,328 @@
+{HEADER:AQAJAAAAAAAAAAAAAAAAAGoAAAAA/P/1//T/lv8Alf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6v4A++mr6Kvnq+YAq+Wr5Kvjq+IAq+Gr4Kvfq94Aq92r3Kvbq9oA+PrZ/dj/1/sA1/tO/tf7SP4//wAAAAAA}
+{BLOCKLEN:41}
+
+{BLOCK:0}
+"Fine, you got it.@ I just have to do it, right?!"@>, I answer half-angry.@>
+"Hahahaha, you were going to accept from the get go anyway, am I right?"@>
+My uncle laughs.#
+
+{BLOCK:1}
+"Girls, first introduce yourselves to Mr. commanding officer here."@, Tsukishima says to the three girls.@>
+"Oh, but that's not necessary.@ Everybody knows them already."@>
+"No, that's not acceptable.@ According to the script, this is the first time you've met the girls."@>
+"Huh?@ Oh, I see..."@>
+Forced to accept such strange reasoning, I let the three girls introduce themselves.#
+
+{BLOCK:2}
+First off, Mizu--...@ I mean, the girl with glasses.@>
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:06}
+{REFCHAR:c22}
+"Hello, my name is Mizuho Aihara."@>
+She bows.@>
+"My specialty is searching for enemies and analyzing information.@ I can discover enemies' weaknesses and space distortions.@ My codename is Mizzy."@>
+"M-Mizzy?!@ What the hell?!"@>
+"Please address me like that from now on."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:07}
+{CHARA:c13}
+\e
+
+{BLOCK:3}
+Next is Sao--@ I mean, the girl with long hair.@>
+"Yay!@ I'm Saori Shinjo, A.K.A Saorin!"@>
+"S-Saorin?!"@>
+"My specialty is direct attacks!@ Punches, chops and kicks!@ My final move is "Fireball Spike"!@ I boast the strongest combat power of all three!"@>
+"T-That's helpful..."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:08}
+{CHARA:c00}
+\e
+
+{BLOCK:4}
+And last but not least is...@ (I know her well, though) a slightly absent-minded girl.@>
+"Good afternoon."@, she says.@>
+"H-Hello."@>
+"......"@>
+"Um, what is your name?"@>
+"Ruriko."#
+
+{BLOCK:5}
+"W-What are your moves?"@>
+"Eye lasers, chest vulcan, knees rocket launcher, etc.@ I specialize in long range combat.@ Oh, I'm also equipped with a chest..."@>
+"Ack!@ Y-You're not gonna say breasts missiles, right...?"@>
+"--A chest nuclear fusion generator".@>
+"O-Oh, I was sure you'd--@ Wait, WHAT?!@ A n-n-nuclear reactor!!!???"#
+
+{BLOCK:6}
+"No need to worry.@ Design-wise, nuclear fusion is comparatively cleaner than nuclear fission.@ However, in case it receives an impact and explodes, small nuclear explosions will arise in a 500m radius..."@>
+"Hoooly SHIIIIIIIIIIIIIIIIIIIIIT..."@>
+My face distorts as I scream just like that Munch painting.@>
+"My codename is Ruriruri."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+{REFCHAR:l51}
+\e
+
+{BLOCK:7}
+"Anyway, from now on you're their commanding officer.@ Use their cutting edge anti-dimensional weapons and seal the super spacetime domain behind the never-opening door in the east wing!@ I'm counting on you!"@>
+{allchar:L22c13r00}
+"Roger!"@>
+The three girls bow firmly.#
+
+{BLOCK:8}
+"Hey, are Mizuho and Ruriko taking too much influence from Saori?"@>
+{REFCHAR:c1D}
+"Hey, what's that supposed to mean?!"@>
+Saori glares at me.@>
+"N-Nothing..."\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:9}
+{PCMLOAD:11}
+And then...\c
+{BG:341010}
+\e
+
+{BLOCK:10}
+{PCMPLAY:0100}
+"Eeeeeeeeeeeeeeeek!"@>
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+I hear a the scream of a girl piercing through the school, and next...#
+
+{BLOCK:11}
+"Uwaaaaaaaaaaaaaaaaaaaaaaaah!"@>
+"Heeeeeeeeeeeeeeeeeeeeeeeeeee!"@>
+Following it, the screams of countless students echo one after another.\c
+{BGMPLAY:19}
+\e
+
+{BLOCK:12}
+"W-What in the world is going on?"@>
+{CHABG:r40311010}
+"The dimensionalings have initiated their attack."@>, Tsukishima whispers as his face turns palid.@>
+"T-That can't be!@ What a sudden turn of events!"@>
+{CHARA:l51}
+"We can't afford to waste a second!@ Go, Yuusuke.@ Seal the super spacetime domain!"@, my uncle orders me as if he was a commander from Whatchamacallit Rangers.#
+
+{BLOCK:13}
+"Astral Busters, move!"@>
+{allchar:L22c13r00}
+"Roger!"@>
+The trio bows firmly.@>
+"R-Roger..."@>
+I missed the timing.#
+
+{BLOCK:14}
+Thus, we commence our attack.\c
+{BGMFOUT}
+{BGMNEXT:11}
+{BG:100202}
+\e
+
+{BLOCK:15}
+When we return to the main building, all the students are gone.@>
+"This is odd...@ Where did everybody go?@ Any ideas, Mizuho?"@>
+She said her duty was to search for enemies.@>
+{CHARA:r20}
+"Um..."@>
+Mizuho gives a step forward.@>
+It looks like she wants to say something.#
+
+{BLOCK:16}
+"Do you know something?"@>
+"Um, Yuusuke, I'd like you to address me by my codename when giving me orders."@>
+"Huh?@ Oh, sorry.@ Then, Mizzy...!"@>
+{CHARA:r22}
+"Yes!"@>
+"Survey this terrain and give me a report!"@>
+"Roger!"@>
+I'm already experiencing headaches.\c
+{CHARA:r2C}
+\e
+
+{BLOCK:17}
+*Beep*@ *Beep*@>
+Some electronic device sounds.@>
+Whoa!@>
+Mizuho's eyes are sparking green!@>
+Numbers like "01010111" run horizontally across her eyes.@>
+Oh my god, she's the real deal!#
+
+{BLOCK:18}
+"That said, it must be a pretty slow CPU if we can see the binary numbers in action..."@>
+{CHARA:r2B}
+"I-It is an excellent piece of software!"@>
+Mizzy says a bit embarrassedly.\c
+{CHARA:r2C}
+\e
+
+{BLOCK:19}
+"Analysis complete!"@>
+"Results?"@>
+{CHARA:r2B}
+"We've already stepped into a different dimension!"@>
+"W-What did you just say?!"@>
+I overreact so that the kids watching the show understand how shocking this is.@>
+{CHARA:r22}
+"It's a simple outer-dimensional space of a limited area.@ Simply put, it's like the "Pod*eal Space" that appears in the manga "Win*man"."#
+
+{BLOCK:20}
+"Mizzy!"@>
+"Yes!"@>
+"How old are you?!"@>
+"I'm 17."@>
+"How do you know about that manga then?@ You had to read it while you were about to enter elementary..."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:09}
+{CHARA:r2B}
+\e
+
+{BLOCK:21}
+"Yuusuke!@ A strong space distortion emerged at 12 o'clock!@ They're approaching!"@>
+"W-What?!@ I'm not done talking about that manga yet..."@>
+{CHARA:l1D}
+"This is no time for that!"@>
+Saorin contributes with the pun.\c
+{REFCHAR:l99}
+\e
+
+{BLOCK:22}
+As soon as she says that,@>
+the space before our eyes warps and an eerie silhouette appears.#
+
+{BLOCK:23}
+{CHARA:L61}
+"That's it!"@, Mizzy shouts.@>
+"That's our enemy, the dimensionaling!@>
+"T-That is..."!
+{FLASH}
+*Flash*!@>
+I stop moving in a dramatic pose.@>
+Too bad it won't show up on-screen.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+\e
+
+{BLOCK:24}
+- Episode #1 -@>
+- <First encounter> -@>
+- Enter Jiro, the wannabe #4 batter -#
+
+{BLOCK:25}
+The title card is up.#
+
+{BLOCK:26}
+"Mizzy!@ Hurry up analyzing the data!"@>
+{REFCHAR:r22}
+"Roger!"@>
+"Ruriruri, you shoot lasers of warning!@ When the enemy stalls, Saorin, you attack him from close range!"@>
+{allchar:l00r13c99}
+"Roger!"@>
+"And you, player, don't forget to save!"\c
+{REFCHAR:L61}
+\e
+
+{BLOCK:27}
+The dimensionalings are approaching at alarming speed.@>
+They're faster than we expected!@>
+And then, the enemy speaks in a strange voice.#
+
+{BLOCK:28}
+"I'll sign your T-shirt."#
+
+{BLOCK:29}
+He's speaking in dimensionalese, so I don't know what he's saying.\c
+{REFCHAR:r00}
+\e
+
+{BLOCK:30}
+{FLASH}
+*Beem!*@>
+Ruriruri shoots lasers from her eyes.@>
+They impact on the dimensionaling's body scattering shiny light.@>
+{CHARA:l1D}
+"Yaaah!"@>
+Saorin jumps to attack.@>
+{QUAKE}
+{QUAKE}
+{QUAKE}
+She pounds the enemy with a flurry of strikes.\c
+{REFCHAR:c22}
+\e
+
+{BLOCK:31}
+"Analysis complete."@, Mizzy shouts.@>
+"Alright, report it!"\c
+{REFCHAR:L61}
+\e
+
+{BLOCK:32}
+"Codename: Jiro.@>
+Influenced by a baseball manga he read long time ago, he believes he's a professional batter, but nobody else acknowledges it.@ He often fights with the security guards before the stadium.@ He also steals colored papers of the fans crowding in front of the stadium waiting for signs and signs them himself.@
+--That's it."#
+
+{BLOCK:33}
+What a twisted guy.@>
+We encountered a freaky fellow right off the bat.\c
+{allchar:L61r15c99}
+\e
+
+{BLOCK:34}
+Jiro takes up a bunt stance.@>
+"?"@>
+Saorin takes the chance and attacks by surprise.@>
+*Swing*@>
+Not letting a fly in, Jiro swings his bat (which looks a bit too obviously like a broom).#
+
+{BLOCK:35}
+{QUAKE}
+*Bam!*@>
+"Augh!"@>
+{REFCHAR:L61}
+"Saorin!"@>
+Saorin goes away flying, rolls on the ground and bumps against my feet.#
+
+{BLOCK:36}
+"O-Ouch...@ Goddammit."@>
+Saorin shakes her head and stands up.@>
+{REFCHAR:c1D}
+"You're dead meat!@ Yuusuke, let me beat the crap outta him!"@>
+"Okay, go ahead, but I'll decide how you attack.@ Strike him as I tell you to do."@>
+"R-Roger..."#
+
+{BLOCK:37}
+Now, how will we attack him?@>
+His specialty is batting...@>
+Alright.@>
+We have to fight fire with fire.@>
+Beating him in his own game will be a true victory.#
+
+{BLOCK:38}
+"Okay, Saorin, these are your attack orders!"@>
+{CHARA:c12}
+"Yes!"@>
+"You'll attack with..."\n
+\e
+
+{BLOCK:39}
+{XPOS:6}
+{SPEED:0}
+1. Tornado Tech: Large League Ball II.\n
+\e
+
+{BLOCK:40}
+{XPOS:6}
+{SPEED:0}
+2. Great Rotation High Jump Back Bridge Clone Demonic Ball.\n
+\e

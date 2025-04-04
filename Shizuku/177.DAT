@@ -1,0 +1,246 @@
+{HEADER:AQAIAAAAAAAAAAAAAAAAAFoAAAAA/P/1//T/pv8Apf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/P++/IAq/Gr8Kvvq+4Aq+2r7Kvrq+oAq+mr6Kvnq+YAq+Wr5Kvjq+IA+Prh/eD/3/sA1/tH/tf7Tf4//wAAAAAAAAA=}
+{BLOCKLEN:33}
+
+{BLOCK:0}
+"Roger!"@>
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:20}
+{REFCHAR:c1D}
+{PCMLOAD:12}
+I don't know where she was hiding it, but she takes out a ball with red sutures on a white surface, grabs it and starts focusing her ki.@>
+"Haaaaaaaaaaa..."@>
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+Saorin's ki increases gradually.@>
+Her combat ability read in my scouter goes over 180000.\c
+{PCMLOAD:01}
+\e
+
+{BLOCK:1}
+"Woooh-raaaaaaaaaaaaaaaaaaah!"\c
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+{REFCHAR:L61}
+\e
+
+{BLOCK:2}
+Raising a vigorous whirlwind, Saori throws her Tornado Tech: Big League Ball II.#
+
+{BLOCK:3}
+{QUAKE}
+*Whomp!*\c
+{allchar:L61r12c99}
+\e
+
+{BLOCK:4}
+"Ah!"@>
+{allchar:L61r99c99}
+Gadzooks!@>
+The ball pierced Jiro between the brows.@>
+It is clearly a dead ball.\c
+{BGMSTOP}
+\e
+
+{BLOCK:5}
+"......"@>
+"......"@>
+"......"@>
+"......"@>
+I hear crickets.\c
+{allchar:L61r10c99}
+\e
+
+{BLOCK:6}
+"--Hehe!"@>
+{BGMPLAY:04}
+Saorin sticks out her tongue and pokes her head.\c
+{REFCHAR:L61}
+\e
+
+{BLOCK:7}
+At the same time, Jiro's head breaks apart.@>
+It was a fatal blow.#
+
+{BLOCK:8}
+"Hey, ya shoulda tell me befo'..."\c
+{FLASH}
+{QUAKE}
+{QUAKE}
+{REFCHAR:L99}
+\e
+
+{BLOCK:9}
+Leaving behind an incomprehensible scream, Jiro vanishes.@>
+In this first random encounter we were able to win by a hair's width.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:09}
+\e
+
+{BLOCK:10}
+We aim for the east wing and hurry our step.#
+
+{BLOCK:11}
+However, the enemy seems really desperate to stops us on our tracks, because they already sent their next hitman.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:05}
+{CHARA:r29}
+\e
+
+{BLOCK:12}
+"Spacetime movement reaction!@ Materials identified!@ It is in front of us...@ Here it comes!"@>
+"!"\c
+{CHARA:r99}
+\e
+
+{BLOCK:13}
+*Wriggle*@>
+As soon as Mizzy gives her reports, the space before us warps and a dimensionaling appears.#
+
+{BLOCK:14}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:01}
+{CHARA:L62}
+- Chapter 2 -@>
+- <Cross the time> -@>
+- Enter Hajime Ninomae (<-->), the explosive, billow-rising, black-headed dimensionaling -#
+
+{BLOCK:15}
+The title card is up.#
+
+{BLOCK:16}
+"Tsk!@ The bastard is already here! Mizzy, hurry up analyzing its data!"@>
+{REFCHAR:c2C}
+"Yes, I'm on it!"@>
+{allchar:l10r00c99}
+"You defend on the front side, Saorin!@ Ruriruri, you fire lasers from the rear!"\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:17}
+The dimensionalings assault us.@>
+{allchar:L62r00c99}
+*Pew*@ *Pew*@ *Pew*@>
+{FLASH}
+*Pew!*@>
+Ruriruri shoots emerald-colored lasers from her eyes.@>
+They're ultra-hot beams that travel at 300.000 km/s and impact directly on the dimensionaling.\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:18}
+{FLASH}
+*Pewww!*#
+
+{BLOCK:19}
+"Did you destroy it?!"@>
+Usually, when someone says that it's because it didn't work.@>
+This is no exception.@>
+The dimensional is unharmed.@>
+{FLASH}
+It's radiating light all around its body.\c
+{REFCHAR:r21}
+\e
+
+{BLOCK:20}
+"AT field detected around the dimensional!@ It deflected the lasers!"@>
+"What?!@ This guy's shielded with something trendy!"@>
+{CHARA:r22}
+"Analysis complete."@>
+"Okay, report it!"@>
+{CHARA:r2C}
+"Yes!"\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:21}
+"- Codename: <--> (Hajime Ninomae) -@>
+It's losing weight!@>
+It has an AT field around it!@>
+It can sleep 14 hours straight!@>
+It can easily live a week eating McBurgers!@>
+It naps in a sleeping bag in the kitchen!@>
+--That's all."#
+
+{BLOCK:22}
+"What the fuck?!"@>
+{REFCHAR:r21}
+"I don't understand it well either, but its AT field poses a threat."@>
+{CHARA:l13}
+"Well, that means we should use meat bullets against it!"@>
+{allchar:l99r26c99}
+"Ah!"@>
+Saorin jumps before I can stop her.\c
+{allchar:L62r1Dc99}
+\e
+
+{BLOCK:23}
+However, that's just what <--> wants.@>
+"Pulverizing blade!"@>
+{FLASH}
+*Slash!*@>
+{QUAKE}
+"Eeeeeek!"\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:24}
+It was all text and difficult to understand, so here's what happened: <--> swung down its weapon and attacked Saori.@>
+Saorin is blown off again and, same as before, she rolls on the floor up to bumping against my feet.@>
+{REFCHAR:c14}
+"Well, I WAS created to be an underdog..."@>
+Saorin looks upwards at me and smiles awkwardly.\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:25}
+<--> makes strange noises that can hardly be called words.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+\e
+
+{BLOCK:26}
+"Thank you very much for purchasing our game, "Shizuku".@ I thought making the master copy of this game was going to be easy, but it's actually proving to be quite troublesome (we're a week before mastering now).@ As always, if this game doesn't sell well our company will be at risk."#
+
+{BLOCK:27}
+"If it sells like hot cakes, though, we'll able to allocate more time for development and create more solid games...@>
+By the way, we're short on staff.@ We're always hiring, so people who feel like they're the chosen ones please don't hesitate to call.@ We're especially interested in graphic designers and artists."#
+
+{BLOCK:28}
+"Our next work will be "Leaf Visual Novel Series Vol. 2".@ For several convenience reasons, it will be released in summer.@ However, it's only a plan, and we don't know how it will come out.@ Please wait patiently."#
+
+{BLOCK:29}
+As always, dimensionalese is Greek to me.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+{REFCHAR:r22}
+\e
+
+{BLOCK:30}
+"Weakness identified!"@, Mizzy says.@>
+{CHARA:r2C}
+"It's weak points are mornings and mastering games.@ Also, its batteries only last five minutes.@ That's all."@>
+"Well done!@ But as this rate, WE are not gonna last five minutes more.@ What should we do...?"\n
+\e
+
+{BLOCK:31}
+{XPOS:6}
+{SPEED:0}
+1. "Saorin!@ Cut open its AT Field!"\n
+\e
+
+{BLOCK:32}
+{XPOS:6}
+{SPEED:0}
+2. "Ruriruri!@ I'm counting on you!"\n
+\e
