@@ -1,0 +1,46 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAAB4AAAAA/P/1//T/4v8A4f//q/+r/qsA/av8q/ur+qsD+fs9/v8AAAAAAAAAAAAAAA==}
+{BLOCKLEN:7}
+
+{BLOCK:0}
+"Saorin!@ Get close to that sucker and cut open its AT field to attack it!"@>
+{CHARA:l13}
+"OK!@ Leave it to me!"@>
+Saorin runs towards the dimensionaling.\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:1}
+{FLASH}
+*Shiip* *Shiip* *Shiip* *Shiip*#
+
+{BLOCK:2}
+However, the enemy's AT field blocks Saorin's approach.@>
+{allchar:L62r1DC99}
+"You think THIS is gonna stop me?!@ You little...!"@>
+Saorin tries to wrench open it forcefully.@>
+"Hyaaaaaaaaaa!"#
+
+{BLOCK:3}
+However, her offense left her defenseless.@>
+Then, <--> (Hajime Ninomae) cracks an evil smile.@>
+It was all part of its plan!#
+
+{BLOCK:4}
+"Pulverizing Blade!"#
+
+{BLOCK:5}
+{FLASH}
+{QUAKE}
+*SHAAAAAAASH!@>
+{REFCHAR:L62}
+"Eeeeeeeeeeeeek!"@>
+The dimensional's blade cut Saorin apart.@>
+"Saoriiiiin!"\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:6}
+Saorin lost?!@>
+That means we're all defeated.@>
+Don't tell me we're going to...#
