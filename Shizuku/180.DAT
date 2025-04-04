@@ -1,0 +1,319 @@
+{HEADER:AQAKAAAAAAAAAAAAAAAAAG8AAAAA/P/1//T/kf8AkP//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6avoq+er5qsA5avkq+Or4qsA4avgq9+r3qsA3avcq9ur2qsA2avYq9f4+tYA/dX/1PvX+0oB/tf7RP7/AAAAAAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:44}
+
+{BLOCK:0}
+{PCMLOAD:13}
+"Hey, this way!"@>
+I choose the mix of alcoholic drinks, grab it and throw it with all my might to the dimensional being.@>
+{REFCHAR:L64}
+{FLASH}
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+*Swoosh...*@ *Crack!*
+The bottle cracks in Bururun's face and the liquid inside scatters.@>
+Bururun absorbs every drop of it.@>
+"How'd you like that?!"#
+
+{BLOCK:1}
+"Not a fan of mixed beverages..."@>
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+\e
+
+{BLOCK:2}
+Fuck yeah!@>
+It worked!@>
+Immediately, Bururun's face turns pale and it staggers.@>
+The graviton attack stops.#
+
+{BLOCK:3}
+{PCMLOAD:12}
+"Now, Saorin!"@>
+{REFCHAR:c13}
+"Alright!"@>
+Saorin stands up, joins her hands and prepares to perform another desperation move.\
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:20}
+{CHARA:c1D}
+\e
+
+{BLOCK:4}
+"Fi-re-ba-ll..."@>
+{FLASH}
+She forms a white volleyball with her hands.@>
+It's a ball of pure energy.@>
+{VISUAL:081010}
+"Spiiiiiiiiiiiiiiike!!!"\c
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+\e
+
+{BLOCK:5}
+{FLASH}
+{QUAKE}
+*Whomp!*#
+
+{BLOCK:6}
+There it is!@>
+The recycled CG!@>
+You may think we're cutting corners, but we'd like you to interpret it as a sort of episodic sequence.\
+{CHABG:L64221110}
+\e
+
+{BLOCK:7}
+{FLASH}
+{QUAKE}
+*Blam!!!*#
+
+{BLOCK:8}
+"You'd find it tasty if you drank it..."#
+
+{BLOCK:9}
+The Fireball Spike opened a large hole in Bururun's stomach and its flesh imploded from inside out.#
+
+{BLOCK:10}
+{FLASH}
+{QUAKE}
+{QUAKE}
+*Booooooooom!!!*\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:11}
+The pieces of flesh scatter away.@>
+{REFCHAR:r22}
+"4th monster neutralized!"@>
+{CHARA:l1D}
+"Did you like that, you drunkard?!"@, Saorin says as she pants and her shoulders move up and down.@>
+"Nice!@ Good job, guys.@ Let's keep on.@ Once we climb down the stairs and break through the courtyard we'd be in the east wing.@ Saorin, carry Ruriruri on your back."@>
+{CHARA:l13}
+"Roger."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:05}
+{REFCHAR:l99}
+\e
+
+{BLOCK:12}
+We hurry up.@>
+Ruriruri still doesn't wake up.@>
+She hasn't recovered enough energy yet.\c
+{BG:420303}
+\e
+
+{BLOCK:13}
+We reach the courtyard.@>
+If we cross it and take a shortcut, the east wing will be right there.@>
+It'd be nice if we could arrive without anything else happening...@>
+but the dimensional beings won't cut us any slack.#
+
+{BLOCK:14}
+- Chapter 4 -@>
+- <The last day of evil> -@>
+- Enter Captain J, the dimensionaling lost in Wakayama.#
+
+{BLOCK:15}
+The title card suddenly popped up.@>
+That means we're going to encounter yet another dimensional being.@>
+"Where?!@ Where is it?!"@>
+We look around us.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:09}
+{CHARA:L65}
+\e
+
+{BLOCK:16}
+"Excuse me, where is the Itami station...?"#
+
+{BLOCK:17}
+In an act of blatant shamelessness, the dimensional being approaches us talking our language.\c
+{allchar:L65r1DC99}
+\e
+
+{BLOCK:18}
+"Saorin Puuuuuunch!"@>
+{QUAKE}
+"Where... is..."@>
+"Saorin Chooooooop!"@>
+{QUAKE}
+"the Itami..."@>
+"Saorin Kiiiiiiiick!"@>
+{QUAKE}
+"station...?"#
+
+{BLOCK:19}
+Saorin beats the monster to a pulp with her three-fold special move.@>
+The dimensional being stumbles and falls to the floor.@>
+{REFCHAR:L65}
+"W-What ya doin'?!@ Punches n' chops, I get it, but dat kick was painful as sin!"\c
+{allchar:L65r1DC99}
+\e
+
+{BLOCK:20}
+"Don't play dumb!@ The episode title has came out, so we know that you're a dimensionaling!"@>
+The dimensionaling stayed silent for a while, but then it stands up laughing.\c
+{REFCHAR:L65}
+\e
+
+{BLOCK:21}
+"Huhuhu.@ You've come a long way.@ If you want to pass here you'll have to do it over my cold, dead body!@ Nuuuuuuuunh!"\c
+{REFCHAR:r1D}
+\e
+
+{BLOCK:22}
+"Don't try to play cool now!"@>
+"Its lines don't match its drawing at all..."@>
+{CHARA:r2C}
+"I'm done analyzing it!"@>
+"Okay, bring the report!"\c
+{REFCHAR:L65}
+\e
+
+{BLOCK:23}
+"Codename: Captain J.@>
+Its blood type is B, so is easily bored.@>
+It regularly buys expensive goods.@>
+--That's all."#
+
+{BLOCK:24}
+"What do you mean it does expensive purchases?"@>
+{REFCHAR:r20}
+"Loss purchases...@ Like when you buy a product and a week later it suffers a massive drop in price.@ Isn't it something like that?"\c
+{REFCHAR:L65}
+\e
+
+{BLOCK:25}
+"Hmm...@ I suppose..."#
+
+{BLOCK:26}
+It seems the dimensionaling received little damage.@>
+The next instant, a sharp glare beams in its eyes.#
+
+{BLOCK:27}
+"Snore Breath!"#
+
+{BLOCK:28}
+{FLASH}
+*Flash!*@>
+*Brrrrrooooooooom!*@>
+The dimensionaling snores.@>
+His snore shakes the air, transforms into a ultra sound wave and attacks us.#
+{QUAKE}
+"Eeeek!"@>
+"Wah, it's SO loud!"#
+
+{BLOCK:29}
+"Serves you right!@ Hella loud, ain't it?!"\c
+{REFCHAR:c1D}
+\e
+
+{BLOCK:30}
+"Okay, you made me REAL mad now!@ You'll pay!@ Haaaaaaaaaaaaaaaaaaaaaaaaaaa!"@>
+{FLASH}
+*Doom!*@ *Doom!*@ *Doom!*@ *Doom!*@ *Doom!*@ *Doom!*@
+Saorin quickly prepares another Fireball Spike.@>
+This is bad!@>
+Usually, desperation moves performed before a seriously tough spot don't have any effect on the enemy.#
+
+{BLOCK:31}
+"Fi-re-ba-ll..."@>
+"Wait, Saorin!"@>
+{VISUAL:081010}
+"Spiiiiiiiiiiiiiiike!"@>
+Saorin ignores my warning and shoots a Fireball Spike.\c
+{CHABG:L65421010}
+\e
+
+{BLOCK:32}
+{FLASH}
+{QUAKE}
+{QUAKE}
+*WHAAAAAAAAAAAM!*#
+
+{BLOCK:33}
+The Fireball Spike hits Captain J and triggers a massive explosion.@>
+{REFCHAR:l13}
+"Great!"@>
+Saorin flashes a victory sign.@>
+Did we really defeat it?!@>
+{CHARA:r26}
+"No, it's still alive!@ The spacetime warp isn't gone yet!"@>
+"Huh?!"#
+
+{BLOCK:34}
+The smoke clears out.@>
+{REFCHAR:L65}
+Beyond the smoke...@ is Captain J alive and kicking.@>
+I knew it!\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+\e
+
+{BLOCK:35}
+"I can't believe you forced me to activate my barrier...@ That's worth of praise."#
+
+{BLOCK:36}
+"I-Impossible..."@>
+{REFCHAR:r26}
+"Captain J's energy levels are increasing by the second!@ I can't believe he's able to produce such a powerful dimensional distortion..."@>
+*Beeeeeeem*@>
+"High energy signal detected!@ Here comes an attack!"@>
+{REFCHAR:c1D}
+"Everybody, hide behind me!"\c
+{REFCHAR:l65}
+\e
+
+{BLOCK:37}
+"Get Lazer!!"#
+
+{BLOCK:38}
+*Beeeeeeeeeeeem*@>
+{FLASH}
+*Flash*@>
+The world is covered in radiant light.@>
+{QUAKE}
+"Guh!"@>
+Saorin takes the barrier of light up-front and barely manages to cover us behind her.\c
+{REFCHAR:c1A}
+\e
+
+{BLOCK:39}
+"Oof...@ Oof..."@>
+"You okay, Saorin?"@>
+"K-Kinda...@ but I won't be able to do that twice."@>
+{allchar:c1Ar26c99}
+"Saorin won't stand another attack like that!"#
+
+{BLOCK:40}
+"If that's the case, we gotta kill before we're killed!"@>
+Should we tough it out with Saorin's power or rely on Mizzy's brain...?@>
+{REFCHAR:L65}
+*Beeeeeeeeeeeem...*@>
+I hear energy being concentrated once again.#
+
+{BLOCK:41}
+We can't afford to think now!@>
+I give the order.@>
+"Go and defeat it,@>
+
+{BLOCK:42}
+{XPOS:6}
+{SPEED:0}
+1. Mizzy!\n
+\e
+
+{BLOCK:43}
+{XPOS:6}
+{SPEED:0}
+2. Saorin!\n
+\e
