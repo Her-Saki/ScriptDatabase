@@ -1,0 +1,263 @@
+{HEADER:AQAJAAAAAAAAAAAAAAAAAGYAAAAA/P/1//T/mv8Amf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avs/vvrq+oAq+mr6Kvnq+YAq+Wr5Kvjq+IAq+Gr4Kvfq94Aq92r3Pj62/0A2v/Z+9f7Rv4D1/tM/v8AAAAAAAAAAAAA}
+{BLOCKLEN:39}
+
+{BLOCK:0}
+"Ruriruri, you carry anti-dimensional weapons all over your body.@ Attack it in the most effective way based on the data we previously collected!"@>
+{REFCHAR:c00}
+"Understood."@>
+Ruriruri nods and gives a step forward.@>
+{CHARA:c99}
+*Shing!*@ The hatch on her arm opens up and a strange device appears on it.#
+
+{BLOCK:1}
+"Give it your best, Ruriko!"@>
+I encourage her waving a hand.@>
+{CHARA:r10}
+"By the way, I've wondering this for a while now, but why are you polite ONLY with Ruriko?"@, Saorin asks.@>
+"......"@>
+"......"#
+
+{BLOCK:2}
+{FLASH}
+*Beeem*@ *Beeem*@ *Beeem*@ *Beeem*#
+
+{BLOCK:3}
+Along with that noise, energy starts focusing on her arm.@>
+"Hey, why is that?"@>
+While her strange device releases purple electricity, Ruriruri narrows her eyes and sets her aim.@>
+This is really her most lethal anti-dimensional secret weapon--@>
+{CHARA:r12}
+"C'mon, tell me why!"@>
+"Shut up!@ Who cares about that?!"\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:4}
+{FLASH}
+{PCMLOAD:12}
+*Flash!*@>
+At that instant, our surroundings are covered with pure white light.#
+
+{BLOCK:5}
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+*BEEEEEEEEEEEEEEEEEEEM!*@>
+A bright energy beam impacts on <-->\c
+{REFCHAR:r21}
+\e
+
+{BLOCK:6}
+"Ah, that is...!"@, Mizzy screams.@>
+"Do you know what it is, Raiden?!@ I mean, Mizzy!"@>
+{CHARA:r22}
+"Yes!@ If my memory serves me right, that's the legendary Inspire Beam!"@>
+"What the hell is that?!"@>
+"To put it simply, it's a beam that speeds up the time around the target!"\c
+{REFCHAR:L62}
+\e
+
+{BLOCK:7}
+{FLASH}
+*Zoop-Zoop-Zoop-Zoop-Zoop-Zoop-Zoop-Zoop...!*#
+
+{BLOCK:8}
+It's working exactly as she said.@>
+The time around <--> is flying at a crazy fast speed.@>
+Five minutes pass in an instant and its batteries die out.@>
+The morning of the mastering process has only arrived around him!#
+
+{BLOCK:9}
+"Mizzy!"@>
+{REFCHAR:r22}
+"Yes!"@>
+"What is this "mastering" exactly?!@ Answer me!"@>
+"It's the last stage of game development!@ At this point the game must be 100% complete!"@>
+"Exactly!@ You're pretty savvy, Mizzy."@>
+I stroke her hair.@>
+{CHARA:r28}
+"Yuusuke...@ *Blushes*"\c
+{REFCHAR:L62}
+{FLASH}
+{QUAKE}
+{QUAKE}
+\e
+
+{BLOCK:10}
+After suffering for a while, <--> is eliminated.#
+
+{BLOCK:11}
+"Mission complete!"\c
+{REFCHAR:L99}
+\e
+
+{BLOCK:12}
+That was the last "sound" it released.@>
+It has been now completely vanquished.\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:13}
+"You did it!@ Amazing work, Ruriruri!"@>
+After releasing that high energy beam, Ruriruri lies exhausted.@>
+I run over to her and embrace her by her slim shoulders.\c
+{BGMPLAY:12}
+{CHARA:c03}
+\e
+
+{BLOCK:14}
+"Was I useful, Naga...?"@>
+"Of course, Ruriruri!@ We won thanks to you!"@>
+"I'm... glad..."@, Ruriruri says before fainting.\c
+{CHARA:c99}
+\e
+
+{BLOCK:15}
+"Ruriruri, get yourself together!@ Ruriruriii!"@>
+{CHARA:r20}
+"She entered deep sleep in order to replenish energy."@, Mizzy says.@>
+"--I see.@ Good job, Ruriruri."@>
+I stroke her cheek.#
+
+{BLOCK:16}
+"Alright.@ Saorin, carry Ruriruri on your back."@>
+{CHARA:l12}
+"Aye aye sir."@>
+Saorin bestrides the toilworn Ruriruri on her rear.@>
+(Those are some difficult words)\c
+{BGMFOUT}
+{BGMWAIT}
+{REFCHAR:l99}
+\e
+
+{BLOCK:17}
+We barely managed to win the battle.#
+
+{BLOCK:18}
+"Let's hurry ahead."@>
+We proceed across the hallway.@>
+{BG:220404}
+\e
+
+{BLOCK:19}
+The stairs are on sight.@>
+We can take a shortcut climbing down the stairs and then leaving for the courtyard.\c
+{BGMPLAY:05}
+\e
+
+{BLOCK:20}
+*WOOOOOOM!*@>
+"!"@>
+The space warps.@>
+At that moment, the third dimensionaling appears.#
+
+{BLOCK:21}
+{CHARA:L63}
+- Chapter 3 -@>
+- <Dark ambition> -@>
+- Enter ORIBASS, the super-lazy music programmer -#
+
+{BLOCK:22}
+The title card is up.#
+
+{BLOCK:23}
+"Fuck!@ They predicted we'd take this shortcut?!"@>
+{REFCHAR:r22}
+"Data analysis... complete!"@>
+*Slide*@>
+I trip.@>
+"That was WAY too quick..."@>
+"I'm used to it.@ Also, its data is short."@>
+"I see.@ Alright, let that report come!"@>
+{CHARA:r2C}
+"Yes!"\c
+{REFCHAR:L63}
+\e
+
+{BLOCK:24}
+"Codename: ORIBASS."@>
+Hypotensive night owl.@>
+My bass is just a bluff.@>
+--That's it."#
+
+{BLOCK:25}
+"True, it was very short...@ Well, whatever, hurry up and discover its weakness!"@>
+{REFCHAR:r2C}
+"Yes!"\c
+{REFCHAR:L63}
+\e
+
+{BLOCK:26}
+At that moment, ORIBASS attacks us swinging its bass guitar.#
+
+{BLOCK:27}
+"Heeeeeeeeey!"#
+
+{BLOCK:28}
+ORIBASS screams in a monstruous, spine-chilling dimensionalese.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+\e
+
+{BLOCK:29}
+Its first target is Mizzy.@>
+{REFCHAR:r27}
+"Oh!"\c
+{REFCHAR:L63}
+\e
+
+{BLOCK:30}
+"Today's sooo coooold..."#
+
+{BLOCK:31}
+ORIBASS attacks Mizzy with its bass.@>
+"Mizzyyyyyyyy!!!!"@>
+"Eeeeeeek!"#
+
+{BLOCK:32}
+*Gsssh!*@>
+{allchar:L63r1Dc99}
+By a hair's breadth, Saorin comes to the rescue and stops the bass with her hands.#
+"Well done, Saorin!!"#
+
+{BLOCK:33}
+However, she's being steadily pressured down.@>
+Saorin is the most powerful of them three, but ORIBASS is even more powerful.@>
+"H-Hurry up and find its weak point..."@, Saorin says out of breath.#
+
+{BLOCK:34}
+"Today's sooo coooold..."#
+
+{BLOCK:35}
+ORIBASS power increases even more.@>
+"I-I can't take it anymore...@ I've hit my limit..."@>
+And then, Mizzy screams:@>
+{REFCHAR:c29}
+"Weak point detected!"@>
+"What is it?!"@>
+{CHARA:c2C}
+"According to this... he's short on cash!"@>
+"Perfect!"\c
+{REFCHAR:L63}
+\e
+
+{BLOCK:36}
+I take out the last 10k yen bill from my wallet and approach ORIBASS.@>
+Then I...\n
+\e
+
+{BLOCK:37}
+{XPOS:6}
+{SPEED:0}
+1. Give it the bill.\n
+\e
+
+{BLOCK:38}
+{XPOS:6}
+{SPEED:0}
+2. Throw the bill at it.\n
+\e
