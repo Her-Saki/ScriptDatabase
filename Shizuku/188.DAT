@@ -1,0 +1,29 @@
+{HEADER:AQADAAAAAAAAAAAAAAAAABgAAAAA/P/1//T/6P8A5///q/+r/qsA/av8+z3+/wAA}
+{BLOCKLEN:4}
+
+{BLOCK:0}
+"No!@ We should avoid any risks! Let's attack with the same techs as before!"@>
+{allchar:l01r2Bc14}
+"R-Roger..."@>
+Reluctantly, the three accept my proposal in unison.@>
+"Alright, let's fight!"\c
+{BGMFOUT}
+{BGMWAIT}
+{REFCHAR:c99}
+\e
+
+{BLOCK:1}
+We try all sort of attacks.@>
+Saori's martial arts...@>
+Mizzy's mental attacks...@>
+Ruriruri's long-range lasers...@>
+However, they are all powerless before the killer instinct waves.\c
+{REFCHAR:L66}
+\e
+
+{BLOCK:2}
+"Nuuuuuuunh!@ You shall not pass...!!"#
+
+{BLOCK:3}
+I now realize the choice I made was a mistake.#
+What awaits us beyond this is...#
