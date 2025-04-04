@@ -1,0 +1,296 @@
+{HEADER:AQAJAAAAAAAAAAAAAAAAAGUAAAAA/P/1//T/m/8Amv//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsq+ur6qsA6avoq+er5qsA5avkq+Or4qsA4avgq9+r3qsA3avc+Prb/doA/9n71/tC/tcH+0H+/wAAAAAAAAAAAAAA}
+{BLOCKLEN:39}
+
+{BLOCK:0}
+"Alright!@ Let's try that Infinity Combination!"@>
+{allchar:r22l03c12}
+"Roger!"@, the three of them say in unison.@>
+"Leeeeet's cooooombine!"\c
+{FLASH}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:20}
+{REFCHAR:l99}
+\e
+
+{BLOCK:1}
+The BGM changed.@>
+After that, despite it's not shown on-screen, the level of the art has improved too.@>
+This is like a recycled scene used in every episode.@>
+And because of that, enemies are not allowed to butt in.#
+
+{BLOCK:2}
+First the girls release yellow electromagnetic beams, and then they form in V shape with Saori in the center.@>
+{CHARA:c1D}
+"Infinity Combination...@ Engage!"@, Saorin shouts.@>
+{allchar:c99r2Al00}
+"Roger!"@>, Mizzy and Ruriruri answer at the same time.\c
+{REFCHAR:c00}
+\e
+
+{BLOCK:3}
+{FLASH}
+*Bzzzzzzt!*@>
+A sphere of light scattering electricity sparks appears in Ruriruri's hand.@>
+She formed it by compressing ultra-energy.@>
+"Mizzy, let's go."@>
+{QUAKE}
+*Blam!*@>
+Ruriruri does a professional volleyball serve and passes the ball to Mizzy.@>
+It looks like a technique you would find in P*wer Rangers.\c
+{REFCHAR:c22}
+\e
+
+{BLOCK:4}
+"Nice serve!"@>
+{CHARA:c2C}
+Several electronic numbers shine brightly on Mizzy's glasses as she looks upwards.@>
+*Beep-Beep-Beep-Beep-Beep-Beep*@>
+"Traveling speed: 40, rotation speed: 3.5, temperature: 52, air temperature: 14, distance to the enemy: 12, relative velocity: 18, tomorrow's sporadical cloudiness on a bright day..."#
+
+{BLOCK:5}
+*Beeem!*@>
+I'm not sure what's the need to calculate things that far, but Mizzy's ultra-high performance (?) bio-computer gives out an answer.@>
+{CHARA:c26}
+"Victory depends on the tides of fortune!"@>
+{CHARA:c22}
+"Saorin, throw me a pass!"@>
+{QUAKE}
+*Plam!*@>
+Mizzy passes the ball.\c
+{CHARA:c1D}
+\e
+
+{BLOCK:6}
+{PCMLOAD:12}
+"Alright!@ Let's goooo!"@>
+Raising a cloud of sand dust (from where?!), Saorin soars high in the sky (what about the ceiling?!) and makes an arch jump.@>
+{FLASH}
+*Flash!*@>
+Something flashes radiantly behind Saorin.\c
+{VISUAL:081010}
+\e
+
+{BLOCK:7}
+"Iiiiiiiinfinityyyyyyy Spaaaaaaaark!!"\c
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+\e
+
+{BLOCK:8}
+*Wham!*@>
+As the recycled CG so familiar to us appears on screen, Saorin gathers all the power of her body and smashes the ball with all her might.@>
+{FLASH}
+{QUAKE}
+*Thomp!!*#
+
+{BLOCK:9}
+*FOOOOOOOOOM!!*\c
+{CHABG:L66121010}
+\e
+
+{BLOCK:10}
+Creating up a vigorous tornado with a lightning tail, the ball flies in a straight line towards the dimensionaling.#
+
+{BLOCK:11}
+{FLASH}
+*Flash!!*#
+
+{BLOCK:12}
+The energy ball impacts directly on Rodimas' chest and winds up a big explosion.#
+
+{BLOCK:13}
+{FLASH}
+{QUAKE}
+{QUAKE}
+{QUAKE}
+*Booooooooooooooom!*\c
+{REFCHAR:L99}
+\e
+
+{BLOCK:14}
+Its destructive power was overwhelming.@>
+All the area around--@ No, the entire school was shaken up with its terrific mayhem.@>
+"Amazing.@ So this is the power of Infinity Combination, huh?@ It was beyond anything I had imagined..."@>
+*Smoke...*@ *Smoke...*@>
+The smoke still hasn't cleared up.@>
+"With such a mighty attack he shouldn't last a second..."\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:15}
+*Hazy*@ *Hazy*@>
+{REFCHAR:L66}
+However, when the smoke dissipates, surprise!@ Rodimas' shadow appears.@>
+It's still alive!@>
+While it's all beaten up, it's standing firmly on its legs.#
+
+{BLOCK:16}
+"W-What a tough customer.@ Saorin, Mizzy, Ruriruri!@ Put him down!"@>
+When I order them that, Rodimasu who's barely standing on its feet begins to talk.\c
+{BGMPLAY:12}
+\e
+
+{BLOCK:17}
+"You really grew up.@ As your father, I feel nothing but proud."#
+
+{BLOCK:18}
+W-What the hell is wrong with this guy?!@>
+"Hey, you!@ What the hell is that "father" horseshit about?!@ First off...!"@>
+{REFCHAR:r26}
+"Daddy!"@>
+However, someone suddenly shouts that behind my back.@>
+Turns out to be Mizzy.#
+
+{BLOCK:19}
+"Huh?!@ H-Hold up..."@>
+{CHARA:l1A}
+"Daddy!@ Don't dieee!"@>
+{allchar:r26l1Ac01}
+"Don't die on us, dad."@>
+Even Saori and Ruriruri are calling him like that now.@>
+The three of them run over to the dimensional crying.@>
+"H-Hey, girls..."\c
+{REFCHAR:L66}
+\e
+
+{BLOCK:20}
+"Please understand that I did all this in order to awaken your powers.@ I made you go through several harsh things in the actual game...@ Forgive your father..."\c
+{allchar:r26l1Ac01}
+\e
+
+{BLOCK:21}
+"Father!"@>
+"Daddy!"
+"Dad!"\c
+{REFCHAR:L66}
+\e
+
+{BLOCK:22}
+{FLASH}
+{FLASH}
+{REFCHAR:L99}
+Rodimasu's body shines brightly before disappearing.@>
+Why is this guy dying solemnly while the others dimensionalings kicked the bucket in such a gruesome way?!@>
+That's the privilege of the script writer.@>
+I feel like I'm hearing the resentful groans of the other dimensionalings.#
+
+{BLOCK:23}
+{ALLCHAR:r23l1Ac01}
+The three of them slowly stand up and look up to the sky as they wipe their tears.@>
+Despite they look upwards, the ceiling is above them.@>
+The three of them whisper: "I'll give it my best, so please watch me from afar".@>
+"Hey!@ Didn't Tsukishima build them in this script?!"@>
+{allchar:r20l10c00}
+The three of them don't answer anything.\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:24}
+Well, it doesn't matter.@>
+If we worry over such little details, this script will never be finished.@>
+Let's go on to the next scene!\c
+{BG:540303}
+\e
+
+{BLOCK:25}
+And so we finally stand before the never-opening door.\c
+{BGMPLAY:11}
+\e
+
+{BLOCK:26}
+"When we open this door, it'll be finally time for the..."@>
+{CHARA:r20}
+"Super spacetime domain."@>
+"Yeah, exactly!@ Probably the enemy attacks will be more powerful than ever before, so get your weapons ready!"@>
+{allchar:r22l13c00}
+"Roger!"@>
+The three of them say in unison.#
+
+{BLOCK:27}
+"That's fine and all, but where did Tsuki--@ I mean, Dr. Tsukishima go?@ He appeared just a moment ago, but he went elsewhere again."@, I was saying, when...\c
+{REFCHAR:c42}
+\e
+
+{BLOCK:28}
+"Wahahahahahaha!@ I'm right here, gentlemen!"@>
+Just when I thought I was hearing his voice, Tsukishima appears before my eyes.#
+
+{BLOCK:29}
+"Oh, Tsukishima.@ Were you always there?@ By the way, what's so funny?"@>
+{CHARA:c41}
+"What, you ask?@ Huhuhuhu...@ Your stupidity, of course."@>
+"...?"@>
+"It seems you still can't see where you're standing.@ Well, it doesn't matter.@ You'll perish here anyway!"@>
+Tsukishima...@ I mean, this guy says a line extremely typical of a villian.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+\e
+
+{BLOCK:30}
+"W-What are you saying, Dr. Tsukishima?!"@>
+"Tsukishima?@ Huhuhu.@ That's the name of the human I ate beforeeeeeee!"@>
+{CHARA:c43}
+"Who the hell are you?!"@>
+For the time being, I'll counter with a run-of-the-mill reply.@>
+"Thank you for asking.@ I am..."@>
+His body transforms more and more.@>
+He looks just like...!\c
+{REFCHAR:L67}
+\e
+
+{BLOCK:31}
+- Chapter #7 -@>
+- <Towards a hard battle!> -@>
+- Enter Deathzard, the Gulp-Gulp dimensional -#
+
+{BLOCK:32}
+"I am the heaven-sent child of destruction, Deathzard!"#
+
+{BLOCK:33}
+Uah, it's finally here!@>
+A combined dimensionaling!@>
+The Yap*ols from Ult*aman A also combined in the end to launch a last offensive.@>
+It's textbook scripwriting at its finest.@>
+Well, if they're all combined in a single enemy to attack, that saves us time.@ Good for us.#
+
+{BLOCK:34}
+But anyway, this enemy looks lame as hell...@>
+{allchar:L67r22C99}
+"Analysis complete!"@>
+Naturally, the development of the second part is fast.\c
+{allchar:L67r99c99}
+\e
+
+{BLOCK:35}
+"Codename: <Deathzard>@
+Eats anything in high quantities.
+--That's all."#
+
+{BLOCK:36}
+"He eats anything?!@ Including Tsukishima, it seems..."@>
+{ALLCHAR:L1Dr29c01}
+"You'll pay!" (By Saorin)@>
+"This is for Tsukishima!" (By Mizzy)@>
+"......" (By Ruriruri)@>
+We prepare to attack.@>
+"Alright, I command you to attack!@ Use..."\n
+\e
+
+{BLOCK:37}
+{XPOS:6}
+{SPEED:0}
+1. A sudden final move!\n
+\e
+
+{BLOCK:38}
+{XPOS:6}
+{SPEED:0}
+2. First we test the waters attacking individually!\n
+\e
