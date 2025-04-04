@@ -1,0 +1,52 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAACAAAAAA/P/1//T/4P8A3///q/+r/qsA/av8q/ur+qsA+av4+z3+/wAAAAAAAAAAAA==}
+{BLOCKLEN:8}
+
+{BLOCK:0}
+{CHARA:c1D}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:20}
+{PCMLOAD:12}
+"Roger!"@>
+I don't know where she was hiding it, but she takes out a white ball with red sutures on it and starts focusing energy while holding it.@>
+"HAAAAAAAAAAA..."@>
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+Saorin's ki rises by the second.@>
+The value on the scouter indicates her fighting power is over 180000.#
+
+{BLOCK:1}
+"UORAAAAAAAAAAAAAAAH!"\c
+{REFCHAR:L61}
+\e
+
+{BLOCK:2}
+A tremendous whirlwind rises around her and she shoots a Great Rotation High Jump Back Bridge Clone Demonic Ball.#
+
+{BLOCK:3}
+*WHOOOOOOOOOOOOOOOOOSH!*#
+
+{BLOCK:4}
+HOWEVER!@ Jiro receives them all doing a flamingo pose.@>
+How will this duel turn out?!#
+
+{BLOCK:5}
+{FLASH}
+*HIIIIIIIIIIIIIIIIIIT!*#
+
+{BLOCK:6}
+"!"@>
+"WHAT THE...?!"@>
+"He batted it!"@>
+And to everyone's surprise, it was a stadium-crossing home run.\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:7}
+Saorin lost?!@>
+That means we're all defeated.@>
+Don't tell me we're going to...#
