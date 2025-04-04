@@ -1,0 +1,44 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAABoAAAAA/P/1//T/5v8A5f//q/+r/qsA/av8q/v7Pf4//wAAAAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:5}
+
+{BLOCK:0}
+{PCMLOAD:13}
+"Hey, I'm here!"@>
+I choose the mix of Super Solmack and Hyper Cabagge Juice, grab it, and throw it with all my might to Bururun.@>
+{PCMPLAY:0100}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+*Shooom...* *Splash!*@>
+{REFCHAR:L64}
+{FLASH}
+The bottle hits Bururun right in the face and breaks, making the liquid scatter everywhere.@>
+Bururun absorbs it without leaving a single drop.@>
+"How'd you like that?!"#
+
+{BLOCK:1}
+"Now we can fight for several pages more!"#
+
+{BLOCK:2}
+WHAT?!@>
+The attack completely backfired!@>
+Now Bururun's face became glossy and its graviton attack got stronger.#
+
+{BLOCK:3}
+*Beeeeeeeeeeeeeeem!@>
+{QUAKE}
+{QUAKE}
+{QUAKE}
+"Eeeeeeeeeeeeeeeeeeek!"@>
+{FLASH}
+*Smash!*@>
+Unable to resist the graviton attack, Saori was crushed flat.@>
+"Saoriiiiin!"\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:4}
+Saorin lost?!@>
+That means we are all defeated.@>
+Don't tell me we're going to...#
