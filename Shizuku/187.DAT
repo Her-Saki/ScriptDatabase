@@ -1,0 +1,46 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAAB4AAAAA/P/1//T/4v8A4f//q/+r/qsA/av8q/ur+qsD+fs9/v8AAAAAAAAAAAAAAA==}
+{BLOCKLEN:7}
+
+{BLOCK:0}
+I choose Saorin.@>
+"Saorin!@ Defeat that enemy crushing it with your power!"@>
+{REFCHAR:l13}
+"OK!@ I'm gonna attack full-on!"@>
+{CHARA:l1D}
+Saorin's face becomes dead serious and then she charges against the enemy.\c
+{REFCHAR:L65}
+\e
+
+{BLOCK:1}
+"Just what I was waitin' fo'!@ GET..."@>
+Captain J focus a massive lump of energy in his left, gold-covered hand.@>
+"LAAAAAAAAAAAAASEEEEEEEEEEEER!"#
+
+{BLOCK:2}
+{FLASH}
+*SHOOOOOOOOOOOOOOOOOOM!!*#
+
+{BLOCK:3}
+Explanation corner!@>
+A "Get Laser" is a technique that consists of collecting manga magazines like the Jump, Young Magazine and Sunday thrown in trash cans near train stations with a gold-covered left hand, using swift and beatiful motions!#
+Then the magazines are converted into a laser which can be used for an attack.#
+
+{BLOCK:4}
+{FLASH}
+{FLASH}
+{FLASH}
+*SHOOM-SHOOM-SHOOM-SHOOM-SHOOM-SHOOM-SHOOM-SHOOM!*#
+
+{BLOCK:5}
+"Eeeeeeeeeeeeeeeeeek!"@>
+*Pshhh!* *Pshhh!*@>
+The Get Laser burned Saorin to a crisp.@>
+"Saoriiiiin!"\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:6}
+Saorin lost?!@>
+That means we're all defeated.@>
+Don't tell me we're going to...#
