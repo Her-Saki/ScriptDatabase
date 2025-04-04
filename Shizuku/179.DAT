@@ -1,0 +1,343 @@
+{HEADER:AQAKAAAAAAAAAAAAAAAAAHgAAAAA/P/1//T/iP8Ah///q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq+/+++4Aq+6r7avsq+sAq+qr6avoq+cAq+ar5avkq+MAq+Kr4avgq98Aq96r3avcq9sAq9qr2avYq9cAq9ar1avU+PoA0/3S/9H71/sARf7X+0v+/wAAAAAAAA==}
+{BLOCKLEN:47}
+
+{BLOCK:0}
+I throw a 10k yen bill towards ORIBASS' feet.#
+
+{BLOCK:1}
+"Heeeeeeeeey!"#
+
+{BLOCK:2}
+{PCMLOAD:12}
+ORIBASS tosses its bass guitar and jumps towards the bill at its feet.@>
+"Now, Saorin!"@>
+{REFCHAR:l1D}
+"Okay!!@ Haaaaaaaaaaaaaaa!"\c
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:20}
+\e
+
+{BLOCK:3}
+{FLASH}
+*Brrrrrrrrrm*@>
+Saorin's combat power suddenly increases.@>
+Her combat level is 20000... 22000... 24000... 26000...@>
+{QUAKE}
+*Boom*!@>
+I don't know when she equipped it, but Mizzy's scouter breaks in pieces.\c
+{REFCHAR:r21}
+\e
+
+{BLOCK:4}
+"Saorin!@ You'll use THAT technique, right?!"@>
+"You knew it, Gekko?!@ I mean, Mizzy!"@>
+"Yes!@ That's your final move..."\c
+{REFCHAR:l1D}
+\e
+
+{BLOCK:5}
+"Fi-re-ba-ll..."@>
+Saorin focuses her energy in a single point as if she said "Ka-me-ha-me..."@>
+{FLASH}
+A pure white volleyball made of ki appears in her hands.\c
+{VISUAL:081010}
+\e
+
+{BLOCK:6}
+"SPIIIIIIIIIIIIIIIIKE!!!"\c
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+\e
+
+{BLOCK:7}
+Saorin hits the ball with all her might.#
+
+{BLOCK:8}
+*Slam!*#
+
+{BLOCK:9}
+Just when I thought they'd use that recycled CG, the volleyball flies towards ORIBASS with great force.\c
+{CHABG:L63221011}
+\e
+
+{BLOCK:10}
+{FLASH}
+{QUAKE}
+*Blam!!!*#
+
+{BLOCK:11}
+"Haugh...@ I'm just a small fry for you, aren't I...?".#
+
+{BLOCK:12}
+{FLASH}
+{QUAKE}
+{QUAKE}
+BOOOOOM!!!!!#
+
+{BLOCK:13}
+"If you press ORI while selecting the music mode in the title menu, you'll open the music test...!!"#
+
+{BLOCK:14}
+The fireball spike hits ORIBASS in the stomach, causing a great explosion and tearing him up in pieces.\c
+{REFCHAR:L99}
+\e
+
+{BLOCK:15}
+"Alright, there it goes the third one."@>
+We sit on the floor exhausted.@>
+However, the dimensionalings keep attacking insistenly and won't give us a rest.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:05}
+{CHARA:r26}
+\e
+
+{BLOCK:16}
+"We're not done yet!@ ORIBASS demise has reinforced the spacetime distortion!"@>
+"There's another one?!"@, Saorin says out of breath.@>
+"Space distortion detected!@ 4th dimensionaling incoming!"@>
+"God fucking dammit!"\c
+{CHARA:r99}
+\e
+
+{BLOCK:17}
+The 4th dimensionaling appears along with the space distortion.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+{CHARA:L64}
+\e
+
+{BLOCK:18}
+- Chapter 4 -@>
+- <Champon is not my cup of tea> -@>
+- Enter Bururun, the Akadama Punch / Ketsunegi Fire dimensionaling-\c
+{allchar:L64r1Ac99}
+\e
+
+{BLOCK:19}
+"Ugh!@ It reeks of booze!"@>
+The 4th dimensionaling oozes an incredibly strong alcohol stench.@>
+{allchar:L64r27c99}
+"I'm detecting more than 90% of alcohol inside the body of the enemy!"\c
+{REFCHAR:L64}
+\e
+
+{BLOCK:20}
+"I use only carefully picked oolong tea.@ That holds back the tartness and creates an elegant aroma which is what I aim for."#
+
+{BLOCK:21}
+The dimensionaling emits strange sounds.@>
+I can't comprehend dimensionalese.@>
+{REFCHAR:l1D}
+"Is this guy drunk or what?!"@>
+Saorin gives a step back as she covers her mouth.@>
+{CHARA:r2C}
+"Analysis complete!"@>
+"Wow, this one was even faster than the last one...@ Alright, report it!"\c
+{REFCHAR:L64}
+\e
+
+{BLOCK:22}
+"Codename: Akadama Punch Bururun.@>
+Woooh!@ I want to driiink...!
+--That's it."\c
+{REFCHAR:r2A}
+\e
+
+{BLOCK:23}
+"What?@ That's it?!"@>
+"Affirmative!"@>
+{CHARA:l1D}
+"How come 90% of its body is alcohol and it's still not satisfied?!@ Talk about a drunkard!"@>
+{CHARA:r24}
+"Since he comes from a dimension with a lot of alcohol, he just misses his homeland."@>
+"How do you know that, Mizzy?"@>
+"It's like I'm hearing the voice of its heart..."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:10}
+\e
+
+{BLOCK:24}
+"The voice of its heart?"@>
+{CHARA:r23}
+"Yes.@ A sad, painful voice..."@>
+"Sad...?"@>
+{CHARA:l15}
+"Painful...?"@>
+{CHARA:r21}
+"I-It's sounding even now...@ Listen!!"
+Saorin and I listen closely.\c
+{BGMSTOP}
+{REFCHAR:L64}
+\e
+
+{BLOCK:25}
+"Ketsunegi Formation!"#
+
+{BLOCK:26}
+"Wuzzat?!"@>
+Saorin and I exclaim in unison.\c
+{BGMPLAY:04}
+\e
+
+{BLOCK:27}
+"Mah fever never goes down!"#
+
+{BLOCK:28}
+"Anyway, let's beat him up, Saorin!"@>
+{REFCHAR:l14}
+"B-But...@ I haven't recovered yet."@>
+{CHARA:r22}
+"Saorin, take this!"@>
+Mizzy throws away a small seed.#
+
+{BLOCK:29}
+Saorin receives it.@>
+It's a tiny bean.@>
+{CHARA:l12}
+"W-What is this?!"@>
+"It's a Senzu bean!@ If you eat this you won't be hungry for a week, and..."@>
+I feel like the story is going towards THAT ONE direction...@>
+"*Munch*@ *Munch*@ *Alright!"@>
+{REFCHAR:c1D}
+{FLASH}
+{REFCHAR:r2B}
+"Please listen my explanations to the end!"\c
+{REFCHAR:c1D}
+\e
+
+{BLOCK:30}
+Saorin's ki replenishes and her combat power increases.@>
+"Okay, let's go!@ Haaa!"@>
+Saorin releases all of her ki at once.@>
+{FLASH}
+*Brrrrrrrrrrrrm*@>
+My scouter broke so I can't measure it exactly, but I think her ki has enlarged quite a bit.@>
+It's an overwhelming turbulence of ki.@>
+"Looks totally like a typhoon..."\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:19}
+{REFCHAR:L64}
+\e
+
+{BLOCK:31}
+However, Bururun isn't so naive to let that opportunity pass.@>
+Along with a high-pitched sound, he focuses energy around him.@>
+"This is bad!@ A big attack is incoming!"#
+
+{BLOCK:32}
+"Cheers!@ Akadama Graviton!"#
+
+{BLOCK:33}
+*Beeeeeeem...*@ *Boom!*@>
+{QUAKE}
+"Guagh!"@>
+"Eeek!"@>
+"Yuusuke!@ Mizzy!@ Watch out!"#
+
+{BLOCK:34}
+{QUAKE}
+*Blam!*@>
+Saorin pushes Mizzy and me away.@>
+Then, the space gets crushed under a massive pressure.@>
+The air around us compresses and a crater forms on the concrete floor.@>
+It was a super-gravity attack...@>
+and Saorin was in the middle of it.#
+
+{BLOCK:35}
+"Saorin!"@>
+{QUAKE}
+{QUAKE}
+The area of the crater expands.@>
+Crawling on the floor, Saorin resists the pressure in the middle.@>
+{QUAKE}
+{QUAKE}
+"Kgh...@ Kgggh!"@>
+Bururun's gravity attack becomes more powerful.\c
+{REFCHAR:c2C}
+\e
+
+{BLOCK:36}
+"80G...@ 90G...@ 100G!@ It's a 100x gravity attack!"@>
+"H-Hundredfold?!"@>
+"Yes!@ Saorin weighs 51 kg right now, so she has 5100 kg...@ More than 5 tons of weight on her!"@>
+"Huh?!@ 51 kg?!@ You're pretty heavy, Saorin..."@>
+{CHARA:c1A}
+"M-Mizzy...@ M-Mind your own business..."@, Saorin says with great difficulty.\c
+{CHARA:c2B}
+\e
+
+{BLOCK:37}
+"S-Saorin sacrificed herself for us..."@>
+"Mizzy!@ You attack him instead!"@>
+"Huh?!@ I-I can't!@ I-I'm not suited for fighting!@ I think you'd better of a match than me."@>
+"I-I'm just a civilian too."@>
+{CHARA:c1A}
+"H-Hurry up and do something!!"@>
+Saorin seems to be at her limit.#
+
+{BLOCK:38}
+But then...!@>
+{REFCHAR:r40}
+"Guys!"@>
+Tsukishima appears.@>
+He carries an attache case in his offscreen hand.\c
+{CHARA:l22}
+\e
+
+{BLOCK:39}
+"Professor!"@, Mizzy shouts.@>
+"Huh?!@ Tsukishima is a professor?!"@>
+"He gave birth to us.@ He's a genius inventor that would even surprise Dr. Nak*matsu."@>
+"I think that character design needs some serious work..."#
+
+{BLOCK:40}
+"Among his inventions we can list jumping shoes that consume half a calorie a step, soy sauce that enlarges fountain pen fillers, and..."@>
+{REFCHAR:c1A}
+"Y-You can save that for later..."@>
+Despite being in a life or death situation, Saorin never forgets to add the pun.\c
+{REFCHAR:r40}
+\e
+
+{BLOCK:41}
+"Looks like I made it on time."@>
+Tsukishima opens his attache case and takes out two mysterious glass bottles from it.@>
+"We have to throw one of these to the enemy."@>
+"Only one of them?"#
+
+{BLOCK:42}
+"One of them is a drink that combines Super Solmac and Hyper Cabbage Juice, very effective with hangovers.@ The other one combines beer, brandy, bourbon, japanese sake, vodka, shochu, wine, unrefined sake and other drinks into one alcoholic beverage.@ One of them must be its weakness.@ You decide which one will be more efficient!"@>
+"But both are completely different"#
+
+{BLOCK:43}
+"One of them will have a positive result, and the other one a negative result.@ It's a 50/50 gamble."@>
+"That's so irresponsible..."@>
+"Well, if you're worried, you can save the game.@ If you fail you can go back one choice, so don't sweat it.@ Wahahaha..."@>
+"Geez..."#
+
+{BLOCK:44}
+I grab one of the two bottles.@>
+The bottle I choose is...\n
+\e
+
+{BLOCK:45}
+{XPOS:6}
+{SPEED:0}
+1. The Super Solmac + Hyper Cabbage Juice drink.\n
+\e
+
+{BLOCK:46}
+{XPOS:6}
+{SPEED:0}
+2. The mix of several alcoholic drinks.\n
+\e
