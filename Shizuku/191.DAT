@@ -1,0 +1,305 @@
+{HEADER:AQALAAAAAAAAAAAAAAAAAIoAAAAA/P/1//T/dv8Adf//q/+r/qsA/av8q/ur+qsA+av4q/er9qsA9av0q/Or8qsA8avwq++r7qsA7avsnJ769Z0An/zhm6vrq+oAnPzhn/XX150A+pur6avoq+cAq+ar5avkq+MAq+Kr4avgq98Aq96r3avcq9sAq9qr2avYgfQAg4Lrwf/+/PsEPP7B//2/+f3BI//8v/n8/wAAAAA=}
+{BLOCKLEN:40}
+
+{BLOCK:0}
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:22}
+"Of course, we can only rely on the power of love!"@>
+{allchar:l00r20c14}
+"T-The power of love?!"@, Saorin says blushing.@>
+"Yeah, love!@ Love always triumph!"@>
+"That sounds kinda hypocritical!"#
+
+{BLOCK:1}
+"It's not!@ You shouldn't think of love as mere kindness to others!@ Love means monopolozation and sexual desire, and it's an unsightly emotion brought about by the human instinct of not being able to live alone!"@>
+{allchar:l00c14r20}
+"An unsightly instinct...?"@>
+"Exactly!@ Love is nothing but just another instinct.@ If you measure it with a rational gauge, love is only an euphemism for obscene desires.@ Love is nothing but a form of ambition!"\c
+{allchar:l00c14r2B}
+\e
+
+{BLOCK:2}
+"But, can we defeat the dimensional emperor just by unifying that ugly emotion?!"@>
+"Yes, we can!@ Ambition is the most powerful weapon we humans have!"@>
+{allchar:l00r20c10}
+"But, aren't there other desires like apettite and sleep?"@>
+"Do you think great power can come from synchronizing apettite and sleep?"@>
+{allchar:l00r20c1B}
+"Well, no, but..."@>
+Saorin blushes.#
+
+{BLOCK:3}
+"Besides, that desire we call "love" possess a special side not present in other desires!"@>
+{allchar:l00r20c10}
+"And that is...?"@>
+"Hunger and sleepiness are purely individualistic desires, but loves holds the power to influence other people!"@>
+"Other people...?"#
+
+{BLOCK:4}
+"Exactly!@ And also, humans can carry that love to a positive direction!@ More concretely speaking..."@>
+"Yes...?"\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:12}
+\e
+
+{BLOCK:5}
+"Mizzy."@>
+{REFCHAR:c21}
+"Y-Yes!"@>
+"I love you."@>
+"Huh?!"@>
+"I love your kind side!@ I want you only for me!@ I want you to share your gentleness only with me!"@>
+{CHARA:c28}
+"Yuusuke..."@>
+Mizzy's cheeks redden.#
+
+{BLOCK:6}
+"Saorin."@>
+{CHARA:c14}
+"Wah!@ W-What?!"@>
+"I love you."@>
+"H-Hey, what's with that all of a sudden?"@>
+"I can't count how many times your cheerfulness has saved me in the actual game.@ When I'm with you, I feel really fulfilled!@ I want you by my side forever!"@>
+{CHARA:c1B}
+"Y-Yuusuke!"@>
+Saori's face flushes red.#
+
+{BLOCK:7}
+"Ruriruri."@>
+{CHARA:c00}
+"Yes?"@>
+"I love you."@>
+"......"@>
+"I want to hug you so bad!@ I want to be with you forever; I want to be the only guy in your mind!@ I want you to look only at me!@ To love only me!"@>
+{CHARA:c03}
+"The feeling is mutual."@>
+Ruriruri smiles happily.\c
+{BGMFOUT}
+{REFCHAR:L68}
+\e
+
+{BLOCK:8}
+{FLASH}
+"Wooooooooooooooooh!"@>
+What is this gigantic power?!@ Is this the power we humans are able to bring forth?!#
+
+{BLOCK:9}
+Emperoleaf, the leader of dimensionalings, is evidently scared.@>
+Our love power combined is being magnified towards a positive direction!\c
+{BGMPLAY:20}
+\e
+
+{BLOCK:10}
+"C'mon, girls!@ Send those warm feelings in your heart to me!@ I want your zealous, burning love!"@>
+{ALLCHAR:R21c1Dl01}
+"Yuusuke!"@>
+"Yuusuke!"@>
+"Naga!"#
+
+{BLOCK:11}
+{FLASH}
+The girls' burning feelings gather near me.@>
+{FLASH}
+My body feels hot!@>
+{FLASH}
+Smoking hot!@>
+{FLASH}
+But it's a comfortable heat!@>
+My body starts to radiate faint light.@>
+Eventually, that light shines so brightly that I can't even open my eyelids!#
+
+{BLOCK:12}
+{FLASH}
+{FLASH}
+"Wooooooooooooooooooooooooh!!!"\c
+{REFCHAR:L68}
+\e
+
+{BLOCK:13}
+{FLASH}
+{FLASH}
+"What the hell...?!@ Is this the power of love...?!@ Decultureeeee!"\c
+{REFCHAR:l99}
+\e
+
+{BLOCK:14}
+I hold hands with the three of them.@>
+"Mizzy!"@>
+"Yes!"@>
+{FLASH}
+"Saorin!"@>
+"Yes!"@>
+{FLASH}
+"Ruriruri!"@>
+"*Nods*"\c
+{FLASH}
+\e
+
+{BLOCK:15}
+*FLAAAAAASSSHHH*!@>
+{FLASH}
+At that instant, the light shines even brighter.\c
+{REFCHAR:L68}
+\e
+
+{BLOCK:16}
+{PCMLOAD:12}
+"Let's fuckin' gooooooooo!@ Loveeeeeey-doveeeeey...@ x10000 powered...@ GENKIDAMAAAAAAA!"#
+
+{BLOCK:17}
+{FLASH}
+{FLASH}
+{FLASH}
+*BEEEEEEEEEEEEEEEEEEEM!*\c
+{PCMPLAY:0100}
+{FLASH}
+{PCMWAIT}
+{PCMSTOP}
+{PCMFOUT}
+\e
+
+{BLOCK:18}
+The pure-white soul of love leaves behind a bright trail and flies towards the dimensionaling emperor.#
+
+{BLOCK:19}
+{FLASH}
+{FLASH}
+{QUAKE}
+{QUAKE}
+{FLASH}
+{QUAKE}
+"I-Is this...@ t-the power...@ of... loveee...?"#
+
+{BLOCK:20}
+*Fsshhh*@ *Fsshhh*@ *Fsshhh*@ *Fsshhh*@>
+The Dimensionaling Emperor gets defragmented at the cellular level.@>
+The moment it crumbles down, Emperoleaf divides back into each one of the dimensionalings.@>
+Strangely, all of them look extremely happy.\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:21}
+"Thank you."#
+
+{BLOCK:22}
+I hear their voices for the last time.@>
+"Huh?!"@>
+Perhaps it was an auditory hallucination.@>
+However, I'm pretty sure I heard their voice.#
+
+{BLOCK:23}
+Perhaps they weren't bad guys, after all.@>
+Maybe they just went wild just before the mastering.@>
+Were they wishing for this from the very start?@>
+I can't help but think about that possibility.\c
+{BG:000011}
+\e
+
+{BLOCK:24}
+....................\c
+{BGMPLAY:22}
+{CHABG:r22491100}
+\e
+
+{BLOCK:25}
+"Super spacetime domain sealed."@, Mizzy says after we finish the job.\c
+{REFCHAR:r99}
+\e
+
+{BLOCK:26}
+"It's over.@ It's really over..."@>
+The long (REALLY long) battle with the dimensionalings ends at last.@>
+Now that we've closed the contact point with them, peace reigns once aganin in the school campus.\c
+{CHARA:r22}
+\e
+
+{BLOCK:27}
+"Now peace has returned to school."@, says Mizzy.@>
+{REFCHAR:l10}
+"I feel kinda down now that we've to go back to that tedious routine"@, says Saorin.@>
+{REFCHAR:c00}
+Ruriruri just stands there smiling.\c
+{allchar:r22l10c00}
+\e
+
+{BLOCK:28}
+Now that the battle with the dimensionalings is over, it's time for us to separate.@>
+As I think about that, I feel that it'd be nice to fight against one more dimensionaling.\c
+{BGMFOUT}
+{BGMWAIT}
+{allchar:l10c00r20}
+\e
+
+{BLOCK:29}
+"By the way, Yuusuke."@>
+Then, Mizzy calls my name.@>
+When I turn around, I see the three of them staring intently at me.@>
+"What is it?"\c
+{allchar:c00r20l1B}
+\e
+
+{BLOCK:30}
+"Um, I'm happy that you love us three, but..."@, Saorin says blushing.@>
+{allchar:c00l1Br28}
+"Who do you love the most of us three?"@, Mizzy asks fidgeting with her fingers.@>
+{allchar:l1Br28c01}
+"Be clear."@, Ruriruri says with her usual expression.\c
+{BGMFOUT}
+{BGMWAIT}
+{BGMPLAY:04}
+\e
+
+{BLOCK:31}
+"*Shocked!*"@>
+I twist my hips and take an unnatural pose.@>
+"Be clear!"@>
+The three of them approach me talking at the same time.#
+
+{BLOCK:32}
+"T-That'd be..."@>
+"That'd be...?" (Mizzy, Saorin, Ruriruri)@>
+"Um..."@>
+"Um...?" (Mizzy, Saorin, Ruriruri)\c
+{REFCHAR:l99}
+\e
+
+{BLOCK:33}
+I dash out and escape,@>
+but at that instant, the camera stops.@>
+I come to a standstill with an awkward face.@>
+And then, my voice sounds.#
+
+{BLOCK:34}
+"Gimme a fuckin' breaaaaaaaaaaaak!"\c
+{BG:000111}
+\e
+
+{BLOCK:35}
+The black frame doesn't close up.@>
+After a pause, only the space around my face spins around.\c
+{BG:491101}
+\e
+
+{BLOCK:36}
+"What kind of textbook end is this?@ How can you end such a long story THIS way...?!"\c
+{BG:000111}
+\e
+
+{BLOCK:37}
+The ring closes,@>
+and then it opens again.@>
+{CHABG:c13491101}
+This time Saorin peeks out her face.\c
+{BGMSTOP}
+\e
+
+{BLOCK:38}
+"That's all, folks!"\c
+{BG:000111}
+\e
+
+{BLOCK:39}
+Shizuku - Dimensionalings Arc - F@I@N#
