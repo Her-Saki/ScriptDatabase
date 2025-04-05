@@ -1,0 +1,45 @@
+{HEADER:AQAEAAAAAAAAAAAAAAAAABwAAAAA/P/1//T/5P8A4///q/+r/qsA/av8q/ur+vsPPf7/AAAAAAAAAAAAAAAAAA==}
+{BLOCKLEN:6}
+
+{BLOCK:0}
+"Assess the situation first!@ Take some distance and destroy them one by one!"@>
+"Roger!"@>
+The three say in unison.\c
+{REFCHAR:L67}
+\e
+
+{BLOCK:1}
+{QUAKE}
+{QUAKE}
+*Zumm!*@ *Bang!*@ *Crack!*@ *Gshhh!*@>
+{FLASH}
+*Bee-Beem!*@>
+{FLASH}
+{QUAKE}
+*Beem!*@ *Beem!*@>
+All sort of attacks are fired willy-nilly.@>
+However...!#
+
+{BLOCK:2}
+"Hahahahahaha...@ Those puny attacks will never work on me, Lord Deathzard!@ I shall decimate you all together!@ HAAAAAAAAA!"#
+
+{BLOCK:3}
+Deathard adopts an attack stance.@>
+{QUAKE}
+{QUAKE}
+{QUAKE}
+The Earth quakes.@>
+{FLASH}
+He's focusing a massive amount of energy.@>
+Apparently, attacking him with half-assed blows made him REAL angry.#
+
+{BLOCK:4}
+"FIREEEEEEEEE!\c
+{BGMFOUT}
+{BGMWAIT}
+\e
+
+{BLOCK:5}
+{FLASH}
+Then, I realize the choice I made was wrong.@>
+What awaits us beyond this is...#
