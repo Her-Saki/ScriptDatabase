@@ -1,0 +1,126 @@
+//GAME NAME:		Kizuato (PC-98)
+
+//BLOCK #000 NAME:		SCENE_000
+//Block Range: $B8 - $A9C
+
+<BGMPLAY><$0C>
+A dream.#
+<DIRDISP><$00><$00>
+<NAZO61>
+<BGONLY><$29>
+<DIRDISP><$00><$00>
+<UNEUNE><$01><$00>\
+
+In this dream I'm having, I brace myself as I shiver inside a dark room.#
+<UNEUNE><$00><$00>\
+
+Confined to this gloomy, lightless room, I hold my knees while cowering on the cold wooden floor.@ Pearl-shaped sweatdrops pop up on my skin as I desperately try to hold back that THING threatening to crawl out of me.@«
+It's that kind of dream.#
+<UNEUNE><$00><$00>\
+
+Oof, oof...@«
+My breath is rough like that of a carnivorous beast.@«
+My whole body shakes as sweat trickles down my skin.@«
+I'm suffocating.@«
+My head hurts so much I feel like it's about to be split apart.@«
+Somebody...@ Somebody help me...@«
+My lips form the shape of the words, but no sound comes out from them.@«
+Please, anybody...#
+<UNEUNE><$00><$00>\
+
+--Huhuhu.@«
+--How long will you keep resisting?#
+<UNEUNE><$00><$00>\
+
+A stifled laughter echoes through my head.#
+<UNEUNE><$00><$00>\
+
+--It's useless.@«
+--Futile.@«
+--Vain.@«
+--You'll never be able to suppress me.#
+<UNEUNE><$00><$00>\
+
+"Shut up!"@, I scream.@«
+If I lose focus even for a second, HE will break out of that jail we call "rationality" and leap out to the real world immediately.@«
+I dig my fingernails into my knees as I brace them.@«
+I can't afford to lose.#
+<UNEUNE><$00><$00>\
+
+--Huhuhu, alright.@ You won tonight.@«
+--But, what will happen tomorrow?@«
+--And the day after tomorrow?@«
+--How long would you last without eating, drinking water, or sleeping?@«
+--Because THAT's what you're doing.@«
+--All the more when...#
+<UNEUNE><$00><$00>\
+
+SHUT THE FUCK UP!#
+<UNEUNE><$00><$00>\
+
+--Huhuhu.@ Be honest; you already noticed it, didn't you?@«
+--You're fully aware that you've reached your limit.@«
+--You're fully aware that you can't endure it anymore.@«
+--C'mon, release me.@«
+--Set me free.@«
+--You're only delaying the inevitable.@«
+--All you're doing is leaving for tomorrow what you should do today.@«
+--It's a waste to suffer in vain,@«
+--don't you think?#
+<UNEUNE><$00><$00>\
+
+No.@«
+No, no, no!@«
+I can't let this monster run loose!@«
+The only way I have to resist is trapping HIM into rationality's cage....#
+<UNEUNE><$00><$00>\
+
+--You mean this creaking, fragile cage that's just about to fall apart...?#
+<UNEUNE><$00><$00>\
+
+Shut up!@«
+Shut up, shut up, shut up!#
+<UNEUNE><$00><$00>\
+
+--Huhuhu.@«
+--Hahahahahaha!@«
+--HAAAAAHAHAHAHAHAHAHAHA!!#
+<UNEUNE><$00><$00>\
+
+Dawn!@«
+Isn't it dawn yet?!@«
+If dawn comes, I'll win.@«
+HE will fall asleep since HE only wakes up at night.@«
+Once the morning sunlight start leaking through the gap between the curtains, HE'll go back to sleep once more.#
+<UNEUNE><$00><$00>\
+
+--However, after the sun sets...@ I'll wake up yet again.#
+<UNEUNE><$00><$00>\
+
+Dawn!@«
+How long until dawn comes?!#
+<UNEUNE><$00><$00>\
+
+--Let's drill our nails into a nice-smelling woman's flesh as if it were soft fruit, sip the warm crimson blood pumping through her veins, rape her, knock her up, and revive our bloodline once again...#
+<UNEUNE><$00><$00>\
+
+Once dawn arrives, this MONSTER will...!#
+<UNEUNE><$00><$00>\
+
+--Hey, stop calling me "monster" or "thing".#
+<UNEUNE><$00><$01>\
+
+` I need dawn to come!@«
+` Only dawn can save me!@«
+` Dawn!@«
+` Dawn!@ Dawn!@«
+` Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ Dawn!@ DAWN!!#\
+
+--I'm you, after all.#\
+
+ISN'T IT DAWN YET...?!#\
+
+ISN'T IT DAWN YET...?!«\
+
+<XPOS><$06><YPOS><$00>1. Keep dreaming...«\
+<XPOS><$06><YPOS><$00>2. Wake up.«\

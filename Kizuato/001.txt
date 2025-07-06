@@ -1,0 +1,98 @@
+//GAME NAME:		Kizuato (PC-98)
+
+//BLOCK #000 NAME:		SCENE_001
+//Block Range: $88 - $1027
+
+<BGMSTOP>
+*Fwip!*@«
+I leap up from the futon vigorously.#\
+
+"Eeek!"@«
+<BGCHAR><$02><$0F><$2D><$0B><$00><BGMPLAY><$04>
+When I open my eyes, the very first thing popping up in my field of vision is a woman stiffened up out of surprise.@«
+Her long, black hair flutters as it slowly drops back to her shoulders.#\
+
+I'm resting in an unfamiliar room.@« 
+--Am I still dreaming?@«
+No, that's not it.@ This place is...@«
+My mind becomes gradually clearer until I finally feel myself snapping back to reality.@«
+Yeah...@ This is my old man's house.@«
+I've been having these nightmares for the past three days.#\
+
+The bright sunlight leaking from the opening of the sliding door makes me squint my eyes.@«
+It's morning.@«
+The morning I wished so bad in my dream has come.@«
+What's even better, a refreshing blue sky spreads outside.@
+I hear the distant chirps of little birds garnishing this peaceful day.#
+<BGCHAR><$01><$B2><$0B><$0A><$0A>\
+
+"P-Please don't scare me like that, Koichi."@«
+The woman before me sighs deeply as she places a hand on her chest.@«
+"My heart is still pounding.",@ she says smiling awkwardly.@«
+In an attempt to hide how embarrassed I am showing myself half-asleep before her, I muster a bashful smile.@«
+"G-Good morning."@«
+<CHGCHAR><$01><$08>
+"Good morning.@ Today is a fine day, just like yesterday."#\
+
+Her name is Chizuru Kashiwagi.@«
+She's my 23-year-old cousin, three years older than me.@«
+Last year's spring she graduated from a private university in a certain country, and despite her young age, she's the leader of the prestigious Kashiwagi family.@«
+I guess she came here to wake me up and startled when, half-asleep, I suddenly jumped up out of the futon.#\
+
+Her shiny, long black hair reflecting the morning sunlight looks like it's sparkling.@«
+As always, she's so beautiful that makes you open your eyes in amazement when you see her.@«
+Women with gorgeous faces like hers tend to give an impression of "coldness", but strangely, Chizuru doesn't give that feeling at all.@«
+Both her behavior and personality are adorable; she's a very gentle woman.#
+<CHGCHAR><$01><$0F>\
+
+"Is something wrong?@ You sprang out of bed very alarmed..."@«
+Chizuru tilts her head and gives a hearthy chuckle.@«
+"N-Not really...",@ I answer shyly looking down and rubbing my sleepy eyes.#
+<CHGCHAR><$01><$08>\
+
+"Did you have a nightmare?"@«
+Her warm voice gives me the impression of a mother; someone you'd want to be spoiled by.@«
+The gentleness of her voice fits her image perfectly.@«
+"Y-Yeah, I guess."@«
+I lift my face as I hold down my bed hair.@«
+"These weird dreams have been pestering me since two or three days ago."#\
+
+Yeah, this is actually the third time I had this dream, including yesterday and two days ago.@«
+Also, this is the first time in my life I dream the same thing three days in a row.@«
+No, it's not EXACTLY the same dream.@«
+The dream becomes more serious and darker every day,@«
+and the presence of that "guy" inside my mind grows stronger and sharper as well.#\
+
+He'll probably seize my consciousness in the next dream.@«
+And if that occurs...@ After my consciousness gets absorbed by him in that virtual reality we call "dreams", what will happen with me?#\
+
+--Just kidding.@«
+It's just a simple dream, after all.@«
+I don't think anything serious will happen.@«
+Dreams are just that; dreams.@ They're not real.@«
+However, I've heard a lot that dreams are like the mirror of a person's soul that reflects their subconscious self.@«
+That means "he" is the materialization of my true nature, which in turn implies that, deep inside my mind, "I" crave that kind of pleasure...#\
+
+"Koichi."@«
+"Whoa!"@«
+I quickly lift my face and meet Chizuru's large eyes in front of me.@«
+After seeing how surprised I am, she cracks a giggle.@«
+"Can you describe me those "weird dreams"?"@, she asks me, perhaps worried about me since I was lost in thought.@«
+"Huh?@ Describe them?"#
+<CHGCHAR><$01><$0F>\
+
+"Yes.@ I may not look like I did, but I've actually studied psychology a bit.@ Would you like me to analyze this strange dream you had, Koichi?"@«
+Chizuru smiles mischievously.@«
+This innocent, childish side of hers is one of the reasons why she appears to be so lovely...@ or at least that's what I think.#\
+
+So she's curious about the contents of my dream, huh?@«
+That eerie mental picture reappears in the back of my mind.@«
+It was so sinister I don't think she'll interpret it in a positive way at all.@«
+She'll probably conclude that I have unsatisfied desires, wishes I want to fulfill and whatnot.@«
+That said, when I hear her soft-hearted voice I can't help but feel compelled to tell her everything in detail.#\
+
+Giving up, I'll...«\
+
+<XPOS><$06><YPOS><$00>1. Tell her everything about the dream.«\
+<XPOS><$06><YPOS><$00>2. Joke that she appeared in the dream.«\
+<XPOS><$06><YPOS><$00>3. Laugh it off.«\

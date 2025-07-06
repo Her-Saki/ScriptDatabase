@@ -1,0 +1,58 @@
+//GAME NAME:		Kizuato (PC-98)
+
+//BLOCK #000 NAME:		SCENE_003
+//Block Range: $54 - $953
+
+"Actually, you appeared in my dream..."@, I mutter, still staring down to the futon.@«
+<CHGCHAR><$01><$08>
+"--What?@ Me?"@«
+She makes a puzzled face.@«
+"Yeah, it was really scary."@«
+After a brief pause, Chizuru finally understands what I want to say.#
+<CHGCHAR><$01><$05>\
+
+"--Koichi!@ Was that dream about me so scary that you jumped out of bed?!"@«
+She glares at me.@«
+"I-I was just kidding."@«
+<CHGCHAR><$01><$0E>
+"S-Sheeesh, you're so mean!"@«
+Chizuru pouts and turns the other way.@«
+Ugh, b-but...!@«
+Even her gestures of anger are adorable!@ She's so sneaky!#\
+
+"Sometimes you can be really rude with words, Koichi!"@«
+"C'mon, Chizuru!@ It was only a joke!"@«
+She crosses her arms and lets out an exasperated sigh.@«
+"I'm so sorry...!@ I was just pulling your leg, I swear!"@«
+"No, you made yourself very clear!@ I scare you so much that I even appear in your dreams, isn't that right?!"@
+"Of course not!@ First off, any dream you appear in could just NEVER be a nightmare!"#
+<CHGCHAR><$01><$08>\
+
+Then, Chizuru chuckles and turns around to me.@«
+"What... do you mean by that?"@«
+She moves her face close to mine.@«
+"N-No, it's just..."@«
+Seeing me babble in confusion, she cracks a giggle.#\
+
+"Geez.@ If you're going to apologize later just don't say it in the first place."@«
+She pokes my forehead with her index finger.@«
+At that instant my heart skips a beat, and after a slight delay my cheeks grow hotter.#\
+
+"Huhu.@ You're really just like a grown-up kid, Koichi.@ Oh, you have some bed-hair here."@«
+Using her slender fingers, Chizuru holds down a lock of my hair standing out.@«
+I feel like a child when an adult strokes their hair, and become even more embarrassed.@«
+She surely talks a lot for someone as immature as her...@«
+I chew my own words.#\
+
+I first met this older cousin of mine when I was 11 years old, during my summer holidays of 5th grade.@«
+She was 14 years old back then, and attended 2nd year of middle school.@«
+I was going through puberty back then, so she was totally like a big sister to me.#\
+
+Since she was as kind as she is now, she called me "Koi" with affection as if I were her real little brother.@«
+Of course, she was so charming and gentle that I became very fond of her too.@«
+I think the reason why she treats me like a kid is because the impression she had of me back then solidified forever inside her.#\
+
+Without even realizing it, I surpassed her in height and she started calling me by my name, "Koichi".@
+However, my relationship with her hasn't really changed since those days of old.@
+For Chizuru, I'm still the same 5th grader she met on those summer holidays.#
+<CHGCHAR><$01><$0F>\

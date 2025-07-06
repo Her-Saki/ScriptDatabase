@@ -1,0 +1,71 @@
+//GAME NAME:		Kizuato (PC-98)
+
+//BLOCK #000 NAME:		SCENE_004
+//Block Range: $56 - $CE5
+
+"N-No, um...@ Hah, hahaha..."@«
+I laugh to evade her question.@«
+I can't for the life of me tell her about that dream.@
+I wouldn't mind having her analyze it if it was more abstract, but this one was particularly literal, with no room for interpretation.@«
+I don't want to affix a cone of shame to myself.@«
+It'd be like declaring THOSE are my true colors.#\
+
+"Don't worry about it.@ It's just a meaningless dream, and I almost forgot most of it."@«
+I lie while rubbing my still sleepy eyes with the back of my hand.@«
+For some reason, even if it's only a trifle, lying to her feels painful.@«
+<CHGCHAR><$01><$B2>
+"--I see."@«
+Chizuru's face becomes slightly relaxed.#
+<CHGCHAR><$01><$08>\
+
+"Someone once said dreams are the path towards the realm of the subconscious".@«
+"I heard that quote before too.@ I think it was from a psychology college lecturer...@ Freud?@ Or perhaps Jung?"@«
+"Bingo.@ It's a quote of Sigmund Freud"@«
+Under the morning sunlight coming from the window, Chizuru giggles cheerfully.#\
+
+"Human brain divides its functions across several lobes, and while we sleep, its activities turn off in a scattered manner.@ For example..."@«
+She presses her index finger against the right side of my head.@«
+<CHGCHAR><$01><$0F>
+"When only the memory lobe is active, you dream about the past..."@«
+Now her finger slides a bit upwards.@«
+It feels just a tiny bit nice.@«
+"And when only the lobe that controls the sight is on, you imagine isolated, contextless scenes in your mind."#\
+
+While normally Chizuru tends to daydream, now her eyes give off a sort of intellectual aura.@«
+Perhaps the gap between our academic backgrounds is the cause, but despite she's only three years older than me, she looks totally like a superior student to me.@«
+<CHGCHAR><$01><$08>
+"When the lobe that controls social behavior is asleep and the lobe that manages emotions and desires is up, our true instincts that are normally ignored at a subconscious level thanks to the reason appear in the form of dreams.@ They are indeed the path towards subconscious."#\
+
+"Does that mean dangerous dreams are the true nature of humans when the shackles of reason are loose?"@«
+"They symbolize such instincts, yes."@«
+Oof, that was close.@«
+Thank goodness I didn't tell her about my dream.@
+If I heard directly from Chizuru that those weird inclinations are my real self, I'd never recover emotionally from it.#\
+
+"In that case, isn't it kind of embarrasing to speak with other people about your dreams?"@«
+<CHGCHAR><$01><$B2>
+"Well, it's just like telling others about your real self in a roundabout way.@ That said, when you talk with others about your dreams all you're exposing is usually just a harmless dramatization."@«
+"But the embarrasing details are still there..."@«
+"Depending on the person, some people will be able to tell."#\
+
+I have just realized something...@«
+"Huh?@ Then, when you were asking me about my dream..."@«
+<CHGCHAR><$01><$B3>
+"Oops, my bad."@«
+Chizuru sticks out her tongue.@«
+It's a quirk of hers that doesn't match her beauty.@«
+That said, that childish habit that could be even considered vulgar looks extremely cute in her.#\
+
+"What's your problem, Chizuru?!@ You were tricking me with leading questions!"@«
+<CHGCHAR><$01><$0C>
+"N-No, umm...@ I just thought I'd hear your troubles, you know, as any good older cousin would do..."@«
+Chizuru musters a clumsy smile.@«
+"Mind your own business!@ If you want to hear about mine, tell me about YOUR dreams first."#\
+
+"U-Ummm...@ I've been sleeping like a log lately, so I don't usually remember them..."@«
+"That's unfair.@ Okay, forget it.@ I got it already.@ I know now what kind of person you are."@«
+"I'm telling you the truth!"@«
+<CHGCHAR><$01><$B2>
+Of course, I'm not really angry.@«
+I'm just having fun bullying her like this.#
+<CHGCHAR><$01><$0F>\

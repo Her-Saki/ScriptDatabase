@@ -1,0 +1,62 @@
+//GAME NAME:		Kizuato (PC-98)
+
+//BLOCK #000 NAME:		SCENE_002
+//Block Range: $42 - $B3B
+
+"Now that I think about it, I started having these dreams since I came here..."@«
+I don't have any reason to hide it, so I speak honestly about my dream with her.@«
+"I was cowering inside a dim room.@ It was too dark to tell anything, and I was sweating and quivering.@ That's how I felt at the beginning."@«
+<CHGCHAR><$01><$08>
+"Were you distressed by something?"@«
+It seems Chizuru has already started her diagnosis.#\
+
+"Yeah, in the dream I had another consciousness living inside me, and it wanted to come out to the outside world.@ We were fighting over who'd take control of my mind.@ Anyway, that other guy is a bit weird..."@«
+"Weird?"@«
+"He has certain, uh, abnormal interests."@«
+"Abnormal... interests?"#\
+
+"Yeah.@ He extorts me to do cruel, disgusting things.@ It's just like a villian from a horror B movie..."@«
+<CHGCHAR><$01><$B2>
+"Cruel things?@ What things, exactly?"@«
+"Like "cut their flesh" or "sip their blood"...@ I guess he means humans.@ Also, find a nice-smelling woman and...@ Uh, n-nevermind.@ *Cough*"@«
+"Find a nice-smelling woman, rape her and knock her up"...@ That was the full line, but there's no way I could say that in front of Chizuru so I cover it up coughing.#\
+
+<CHGCHAR><$01><$06>
+"Well, those creepy scenes play repeatedly inside my mind, and..."@«
+H-Huh?@«
+Now that I observe her, Chizuru's expression has changed.@ She was playful just a moment ago, but now she's hanging her head in discomfort.@«
+What's wrong?@«
+Uh, perhaps hearing about flesh and blood from early morning is just too much for her?@«
+It seems like I genuinely disgusted her.#\
+
+"O-Of course, I tried my best to hold him back, but his power is growing day by day..."@«
+"R-Really?!"@«
+Upon hearing me, Chizuru suddenly lifts her face.@ Her expression is seriousness incarnate.@«
+W-What is it?@«
+She's overreacting more than I expected.@«
+"We're only talking about a dream, though.", I say with an awkward smile.#\
+
+"Also, this is the first time I dream the same thing three days in a row.@ It feels like I'm gradually losing the battle...@ As if I was being cornered.@ That's why I wake up in such an awful way..."@«
+"......"@«
+Without making any comment, Chizuru is staring fixedly at me as she ponders deeply about something.@«
+"Um, Chizuru?"@«
+"Huh"@«
+<CHGCHAR><$01><$0F>
+Chizuru comes to her senses and opens wide her eyes.#\
+
+"What is your diagnosis?"@«
+<CHGCHAR><$01><$08>
+"What?@ Oh, right.@ Umm..."@«
+She holds her lower jaw and strikes a thinking pose.@«
+"According to Freud's theories, humans' latent desires become symbolic dreams when they pass through the filter of the ego, and then they appear on the surface level of the consciousness.@ If we apply that to your dream..."@«
+Chizuru pokes my forehead with her index finger.@«
+"It means your rationality and potential desires have turned into symbols and now they're clashing with each other."@«
+Yep, she answered exactly what I predicted.#\
+
+"Do you mean that dangerous guy and his bizarre tendencies are actually my true nature?"@«
+"Exactly."@«
+"......"@«
+Well, she put it so directly that I can't quite reply...@«
+"Dreams are the mirror that reflect a person's subconscious self.@ It's only a matter of time before you show your true colors.@ I got to be careful."@«
+Chizuru chuckles wickedly.#
+<CHGCHAR><$01><$0F>\
